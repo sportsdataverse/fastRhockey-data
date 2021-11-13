@@ -8,7 +8,7 @@ library(glue)
 
 
 # Play-by-Play Data Pull --------------------------------------------------
-season_vector = 2011:2020
+season_vector = 2016
 
 version = packageVersion("powerplay")
 
