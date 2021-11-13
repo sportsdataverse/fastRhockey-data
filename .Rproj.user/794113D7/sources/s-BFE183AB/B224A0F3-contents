@@ -1,0 +1,25 @@
+library(powerplay)
+library(dplyr)
+library(tidyr)
+library(readr)
+library(purrr)
+library(arrow)
+library(glue)
+
+
+# Play-by-Play Data Pull --------------------------------------------------
+season_vector = 2021
+
+version = packageVersion("powerplay")
+
+### scrape season schedule
+
+season_schedules <- purrr::map_dfr(season_vector, function(x){
+  df <- powerplay::nhl_schedule(season=x)
+  return(df)
+})
+
+purrr::map(season_schedules$game_id, function(x){
+  game <- powerplay::nhl_game_feed(game_id = x)
+  jsonlite::write_json(game, path = glue::glue("nhl/json/{x}.json"))
+})
