@@ -8,7 +8,7 @@ library(glue)
 
 
 # Play-by-Play Data Pull --------------------------------------------------
-season_vector = 2021
+season_vector = 2017:2019
 
 version = packageVersion("powerplay")
 
@@ -18,7 +18,8 @@ season_schedules <- purrr::map_dfr(season_vector, function(x){
   df <- powerplay::nhl_schedule(season=x)
   return(df)
 })
-
+season_schedules <- season_schedules %>% 
+  dplyr::filter(.data$date <= Sys.Date())
 purrr::map(season_schedules$game_id, function(x){
   game <- powerplay::nhl_game_feed(game_id = x)
   jsonlite::write_json(game, path = glue::glue("nhl/json/{x}.json"))
