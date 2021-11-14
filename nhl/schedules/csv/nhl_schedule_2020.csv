@@ -1,0 +1,1214 @@
+game_id,season_full,date,home_name,away_name,home_final_score,away_final_score,game_type
+2019020001,20192020,2019-10-02,Toronto Maple Leafs,Ottawa Senators,5,3,REG
+2019020002,20192020,2019-10-02,St. Louis Blues,Washington Capitals,2,3,REG
+2019020003,20192020,2019-10-02,Edmonton Oilers,Vancouver Canucks,3,2,REG
+2019020004,20192020,2019-10-02,Vegas Golden Knights,San Jose Sharks,4,1,REG
+2019020005,20192020,2019-10-03,Tampa Bay Lightning,Florida Panthers,5,2,REG
+2019020006,20192020,2019-10-03,New York Rangers,Winnipeg Jets,6,4,REG
+2019020007,20192020,2019-10-03,Pittsburgh Penguins,Buffalo Sabres,1,3,REG
+2019020008,20192020,2019-10-03,Carolina Hurricanes,Montréal Canadiens,4,3,REG
+2019020009,20192020,2019-10-03,Nashville Predators,Minnesota Wild,5,2,REG
+2019020010,20192020,2019-10-03,Dallas Stars,Boston Bruins,1,2,REG
+2019020011,20192020,2019-10-03,Colorado Avalanche,Calgary Flames,5,3,REG
+2019020012,20192020,2019-10-03,Anaheim Ducks,Arizona Coyotes,2,1,REG
+2019020016,20192020,2019-10-04,Philadelphia Flyers,Chicago Blackhawks,4,3,REG
+2019020013,20192020,2019-10-04,New Jersey Devils,Winnipeg Jets,4,5,REG
+2019020014,20192020,2019-10-04,New York Islanders,Washington Capitals,1,2,REG
+2019020015,20192020,2019-10-04,Columbus Blue Jackets,Toronto Maple Leafs,1,4,REG
+2019020017,20192020,2019-10-04,San Jose Sharks,Vegas Golden Knights,1,5,REG
+2019020018,20192020,2019-10-05,Buffalo Sabres,New Jersey Devils,7,2,REG
+2019020019,20192020,2019-10-05,Toronto Maple Leafs,Montréal Canadiens,5,6,REG
+2019020020,20192020,2019-10-05,Ottawa Senators,New York Rangers,1,4,REG
+2019020021,20192020,2019-10-05,Florida Panthers,Tampa Bay Lightning,4,3,REG
+2019020022,20192020,2019-10-05,Pittsburgh Penguins,Columbus Blue Jackets,7,2,REG
+2019020023,20192020,2019-10-05,Washington Capitals,Carolina Hurricanes,2,3,REG
+2019020024,20192020,2019-10-05,St. Louis Blues,Dallas Stars,3,2,REG
+2019020025,20192020,2019-10-05,Nashville Predators,Detroit Red Wings,3,5,REG
+2019020027,20192020,2019-10-05,Arizona Coyotes,Boston Bruins,0,1,REG
+2019020026,20192020,2019-10-05,Colorado Avalanche,Minnesota Wild,4,2,REG
+2019020030,20192020,2019-10-05,Anaheim Ducks,San Jose Sharks,3,1,REG
+2019020028,20192020,2019-10-05,Calgary Flames,Vancouver Canucks,3,0,REG
+2019020029,20192020,2019-10-05,Edmonton Oilers,Los Angeles Kings,6,5,REG
+2019020031,20192020,2019-10-06,Carolina Hurricanes,Tampa Bay Lightning,4,3,REG
+2019020032,20192020,2019-10-06,Detroit Red Wings,Dallas Stars,4,3,REG
+2019020033,20192020,2019-10-06,New York Islanders,Winnipeg Jets,4,1,REG
+2019020034,20192020,2019-10-07,Toronto Maple Leafs,St. Louis Blues,2,3,REG
+2019020035,20192020,2019-10-07,Columbus Blue Jackets,Buffalo Sabres,4,3,REG
+2019020036,20192020,2019-10-08,Florida Panthers,Carolina Hurricanes,3,6,REG
+2019020037,20192020,2019-10-08,New York Islanders,Edmonton Oilers,2,5,REG
+2019020038,20192020,2019-10-08,Pittsburgh Penguins,Winnipeg Jets,1,4,REG
+2019020039,20192020,2019-10-08,Washington Capitals,Dallas Stars,3,4,REG
+2019020040,20192020,2019-10-08,Detroit Red Wings,Anaheim Ducks,1,3,REG
+2019020041,20192020,2019-10-08,Nashville Predators,San Jose Sharks,5,2,REG
+2019020042,20192020,2019-10-08,Calgary Flames,Los Angeles Kings,3,4,REG
+2019020043,20192020,2019-10-08,Vegas Golden Knights,Boston Bruins,3,4,REG
+2019020044,20192020,2019-10-09,Buffalo Sabres,Montréal Canadiens,5,4,REG
+2019020045,20192020,2019-10-09,Philadelphia Flyers,New Jersey Devils,4,0,REG
+2019020046,20192020,2019-10-09,Vancouver Canucks,Los Angeles Kings,8,2,REG
+2019020047,20192020,2019-10-10,Toronto Maple Leafs,Tampa Bay Lightning,3,7,REG
+2019020048,20192020,2019-10-10,Montréal Canadiens,Detroit Red Wings,2,4,REG
+2019020049,20192020,2019-10-10,New Jersey Devils,Edmonton Oilers,3,4,REG
+2019020050,20192020,2019-10-10,Pittsburgh Penguins,Anaheim Ducks,2,1,REG
+2019020051,20192020,2019-10-10,Ottawa Senators,St. Louis Blues,4,6,REG
+2019020052,20192020,2019-10-10,Nashville Predators,Washington Capitals,6,5,REG
+2019020053,20192020,2019-10-10,Winnipeg Jets,Minnesota Wild,5,2,REG
+2019020054,20192020,2019-10-10,Chicago Blackhawks,San Jose Sharks,4,5,REG
+2019020055,20192020,2019-10-10,Dallas Stars,Calgary Flames,2,3,REG
+2019020056,20192020,2019-10-10,Colorado Avalanche,Boston Bruins,4,2,REG
+2019020057,20192020,2019-10-10,Arizona Coyotes,Vegas Golden Knights,4,1,REG
+2019020058,20192020,2019-10-11,Buffalo Sabres,Florida Panthers,3,2,REG
+2019020059,20192020,2019-10-11,Columbus Blue Jackets,Anaheim Ducks,1,2,REG
+2019020060,20192020,2019-10-11,Carolina Hurricanes,New York Islanders,5,2,REG
+2019020061,20192020,2019-10-12,New York Rangers,Edmonton Oilers,1,4,REG
+2019020062,20192020,2019-10-12,Ottawa Senators,Tampa Bay Lightning,4,2,REG
+2019020063,20192020,2019-10-12,Los Angeles Kings,Nashville Predators,7,4,REG
+2019020069,20192020,2019-10-12,Chicago Blackhawks,Winnipeg Jets,2,3,REG
+2019020064,20192020,2019-10-12,Boston Bruins,New Jersey Devils,3,0,REG
+2019020065,20192020,2019-10-12,Montréal Canadiens,St. Louis Blues,6,3,REG
+2019020066,20192020,2019-10-12,Detroit Red Wings,Toronto Maple Leafs,2,5,REG
+2019020067,20192020,2019-10-12,New York Islanders,Florida Panthers,3,2,REG
+2019020068,20192020,2019-10-12,Carolina Hurricanes,Columbus Blue Jackets,2,3,REG
+2019020070,20192020,2019-10-12,Dallas Stars,Washington Capitals,1,4,REG
+2019020071,20192020,2019-10-12,Minnesota Wild,Pittsburgh Penguins,4,7,REG
+2019020072,20192020,2019-10-12,Colorado Avalanche,Arizona Coyotes,3,2,REG
+2019020073,20192020,2019-10-12,Vancouver Canucks,Philadelphia Flyers,3,2,REG
+2019020074,20192020,2019-10-12,Vegas Golden Knights,Calgary Flames,6,2,REG
+2019020075,20192020,2019-10-13,Winnipeg Jets,Pittsburgh Penguins,2,7,REG
+2019020076,20192020,2019-10-13,Los Angeles Kings,Vegas Golden Knights,2,5,REG
+2019020077,20192020,2019-10-13,San Jose Sharks,Calgary Flames,3,1,REG
+2019020078,20192020,2019-10-14,Boston Bruins,Anaheim Ducks,4,2,REG
+2019020079,20192020,2019-10-14,Ottawa Senators,Minnesota Wild,0,2,REG
+2019020080,20192020,2019-10-14,New Jersey Devils,Florida Panthers,4,6,REG
+2019020081,20192020,2019-10-14,New York Islanders,St. Louis Blues,3,2,REG
+2019020082,20192020,2019-10-14,Buffalo Sabres,Dallas Stars,4,0,REG
+2019020083,20192020,2019-10-14,Washington Capitals,Colorado Avalanche,3,6,REG
+2019020084,20192020,2019-10-14,Chicago Blackhawks,Edmonton Oilers,3,1,REG
+2019020085,20192020,2019-10-15,Toronto Maple Leafs,Minnesota Wild,4,2,REG
+2019020086,20192020,2019-10-15,Montréal Canadiens,Tampa Bay Lightning,1,3,REG
+2019020087,20192020,2019-10-15,Winnipeg Jets,Arizona Coyotes,2,4,REG
+2019020088,20192020,2019-10-15,Calgary Flames,Philadelphia Flyers,3,1,REG
+2019020089,20192020,2019-10-15,Vancouver Canucks,Detroit Red Wings,5,1,REG
+2019020090,20192020,2019-10-15,Vegas Golden Knights,Nashville Predators,2,5,REG
+2019020091,20192020,2019-10-15,Los Angeles Kings,Carolina Hurricanes,0,2,REG
+2019020092,20192020,2019-10-16,Pittsburgh Penguins,Colorado Avalanche,3,2,REG
+2019020093,20192020,2019-10-16,Washington Capitals,Toronto Maple Leafs,4,3,REG
+2019020094,20192020,2019-10-16,Columbus Blue Jackets,Dallas Stars,3,2,REG
+2019020095,20192020,2019-10-16,Edmonton Oilers,Philadelphia Flyers,6,3,REG
+2019020096,20192020,2019-10-16,Anaheim Ducks,Buffalo Sabres,5,2,REG
+2019020097,20192020,2019-10-16,San Jose Sharks,Carolina Hurricanes,5,2,REG
+2019020098,20192020,2019-10-17,Boston Bruins,Tampa Bay Lightning,3,4,REG
+2019020099,20192020,2019-10-17,Montréal Canadiens,Minnesota Wild,4,0,REG
+2019020100,20192020,2019-10-17,New Jersey Devils,New York Rangers,5,2,REG
+2019020101,20192020,2019-10-17,St. Louis Blues,Vancouver Canucks,3,4,REG
+2019020102,20192020,2019-10-17,Winnipeg Jets,New York Islanders,1,3,REG
+2019020103,20192020,2019-10-17,Calgary Flames,Detroit Red Wings,5,1,REG
+2019020104,20192020,2019-10-17,Arizona Coyotes,Nashville Predators,5,2,REG
+2019020105,20192020,2019-10-17,Vegas Golden Knights,Ottawa Senators,3,2,REG
+2019020106,20192020,2019-10-17,Los Angeles Kings,Buffalo Sabres,0,3,REG
+2019020107,20192020,2019-10-18,Florida Panthers,Colorado Avalanche,4,5,REG
+2019020108,20192020,2019-10-18,Pittsburgh Penguins,Dallas Stars,4,2,REG
+2019020109,20192020,2019-10-18,Washington Capitals,New York Rangers,5,2,REG
+2019020110,20192020,2019-10-18,Chicago Blackhawks,Columbus Blue Jackets,3,2,REG
+2019020111,20192020,2019-10-18,Edmonton Oilers,Detroit Red Wings,2,1,REG
+2019020112,20192020,2019-10-18,Anaheim Ducks,Carolina Hurricanes,4,2,REG
+2019020113,20192020,2019-10-19,New Jersey Devils,Vancouver Canucks,1,0,REG
+2019020114,20192020,2019-10-19,St. Louis Blues,Montréal Canadiens,2,5,REG
+2019020120,20192020,2019-10-19,Arizona Coyotes,Ottawa Senators,5,2,REG
+2019020115,20192020,2019-10-19,Toronto Maple Leafs,Boston Bruins,4,3,REG
+2019020116,20192020,2019-10-19,Tampa Bay Lightning,Colorado Avalanche,2,6,REG
+2019020117,20192020,2019-10-19,Philadelphia Flyers,Dallas Stars,1,4,REG
+2019020118,20192020,2019-10-19,Pittsburgh Penguins,Vegas Golden Knights,0,3,REG
+2019020119,20192020,2019-10-19,Columbus Blue Jackets,New York Islanders,2,3,REG
+2019020121,20192020,2019-10-19,Nashville Predators,Florida Panthers,2,3,REG
+2019020122,20192020,2019-10-19,Los Angeles Kings,Calgary Flames,4,1,REG
+2019020123,20192020,2019-10-19,San Jose Sharks,Buffalo Sabres,3,4,REG
+2019020124,20192020,2019-10-20,New York Rangers,Vancouver Canucks,2,3,REG
+2019020125,20192020,2019-10-20,Minnesota Wild,Montréal Canadiens,4,3,REG
+2019020126,20192020,2019-10-20,Chicago Blackhawks,Washington Capitals,3,5,REG
+2019020127,20192020,2019-10-20,Winnipeg Jets,Edmonton Oilers,1,0,REG
+2019020128,20192020,2019-10-20,Anaheim Ducks,Calgary Flames,1,2,REG
+2019020129,20192020,2019-10-21,Toronto Maple Leafs,Columbus Blue Jackets,3,4,REG
+2019020130,20192020,2019-10-21,Philadelphia Flyers,Vegas Golden Knights,6,2,REG
+2019020131,20192020,2019-10-21,St. Louis Blues,Colorado Avalanche,3,1,REG
+2019020132,20192020,2019-10-21,Dallas Stars,Ottawa Senators,2,1,REG
+2019020133,20192020,2019-10-22,Boston Bruins,Toronto Maple Leafs,4,2,REG
+2019020134,20192020,2019-10-22,Buffalo Sabres,San Jose Sharks,4,3,REG
+2019020135,20192020,2019-10-22,Florida Panthers,Pittsburgh Penguins,4,2,REG
+2019020136,20192020,2019-10-22,New York Rangers,Arizona Coyotes,2,3,REG
+2019020137,20192020,2019-10-22,Detroit Red Wings,Vancouver Canucks,2,5,REG
+2019020138,20192020,2019-10-22,Nashville Predators,Anaheim Ducks,6,1,REG
+2019020139,20192020,2019-10-22,Minnesota Wild,Edmonton Oilers,3,0,REG
+2019020140,20192020,2019-10-22,Winnipeg Jets,Los Angeles Kings,2,3,REG
+2019020141,20192020,2019-10-22,Chicago Blackhawks,Vegas Golden Knights,1,2,REG
+2019020142,20192020,2019-10-22,Calgary Flames,Washington Capitals,3,5,REG
+2019020143,20192020,2019-10-23,Ottawa Senators,Detroit Red Wings,5,2,REG
+2019020144,20192020,2019-10-23,Tampa Bay Lightning,Pittsburgh Penguins,3,2,REG
+2019020145,20192020,2019-10-24,Montréal Canadiens,San Jose Sharks,2,4,REG
+2019020146,20192020,2019-10-24,New York Islanders,Arizona Coyotes,4,2,REG
+2019020147,20192020,2019-10-24,New York Rangers,Buffalo Sabres,6,2,REG
+2019020148,20192020,2019-10-24,Columbus Blue Jackets,Carolina Hurricanes,4,3,REG
+2019020149,20192020,2019-10-24,St. Louis Blues,Los Angeles Kings,5,2,REG
+2019020150,20192020,2019-10-24,Nashville Predators,Minnesota Wild,4,0,REG
+2019020151,20192020,2019-10-24,Chicago Blackhawks,Philadelphia Flyers,1,4,REG
+2019020152,20192020,2019-10-24,Dallas Stars,Anaheim Ducks,2,1,REG
+2019020153,20192020,2019-10-24,Calgary Flames,Florida Panthers,6,5,REG
+2019020154,20192020,2019-10-24,Edmonton Oilers,Washington Capitals,4,3,REG
+2019020155,20192020,2019-10-25,Vegas Golden Knights,Colorado Avalanche,1,6,REG
+2019020156,20192020,2019-10-25,Toronto Maple Leafs,San Jose Sharks,4,1,REG
+2019020157,20192020,2019-10-25,New Jersey Devils,Arizona Coyotes,3,5,REG
+2019020158,20192020,2019-10-25,Ottawa Senators,New York Islanders,2,4,REG
+2019020159,20192020,2019-10-25,Detroit Red Wings,Buffalo Sabres,0,2,REG
+2019020160,20192020,2019-10-25,Vancouver Canucks,Washington Capitals,5,6,REG
+2019020161,20192020,2019-10-26,Carolina Hurricanes,Chicago Blackhawks,4,0,REG
+2019020162,20192020,2019-10-26,Boston Bruins,St. Louis Blues,3,0,REG
+2019020163,20192020,2019-10-26,Montréal Canadiens,Toronto Maple Leafs,5,2,REG
+2019020164,20192020,2019-10-26,Tampa Bay Lightning,Nashville Predators,2,3,REG
+2019020165,20192020,2019-10-26,Philadelphia Flyers,Columbus Blue Jackets,7,4,REG
+2019020166,20192020,2019-10-26,Dallas Stars,Pittsburgh Penguins,0,3,REG
+2019020167,20192020,2019-10-26,Minnesota Wild,Los Angeles Kings,5,1,REG
+2019020169,20192020,2019-10-26,Colorado Avalanche,Anaheim Ducks,2,5,REG
+2019020168,20192020,2019-10-26,Winnipeg Jets,Calgary Flames,2,1,REG
+2019020170,20192020,2019-10-27,Edmonton Oilers,Florida Panthers,2,6,REG
+2019020171,20192020,2019-10-27,Detroit Red Wings,St. Louis Blues,4,5,REG
+2019020175,20192020,2019-10-27,Chicago Blackhawks,Los Angeles Kings,5,1,REG
+2019020172,20192020,2019-10-27,Ottawa Senators,San Jose Sharks,5,2,REG
+2019020173,20192020,2019-10-27,New York Islanders,Philadelphia Flyers,5,3,REG
+2019020174,20192020,2019-10-27,New York Rangers,Boston Bruins,4,7,REG
+2019020176,20192020,2019-10-27,Vegas Golden Knights,Anaheim Ducks,5,2,REG
+2019020177,20192020,2019-10-28,Buffalo Sabres,Arizona Coyotes,2,3,REG
+2019020178,20192020,2019-10-28,Vancouver Canucks,Florida Panthers,7,2,REG
+2019020179,20192020,2019-10-29,Boston Bruins,San Jose Sharks,5,1,REG
+2019020180,20192020,2019-10-29,Toronto Maple Leafs,Washington Capitals,3,4,REG
+2019020182,20192020,2019-10-29,Pittsburgh Penguins,Philadelphia Flyers,7,1,REG
+2019020183,20192020,2019-10-29,Carolina Hurricanes,Calgary Flames,2,1,REG
+2019020181,20192020,2019-10-29,New York Rangers,Tampa Bay Lightning,4,1,REG
+2019020184,20192020,2019-10-29,Detroit Red Wings,Edmonton Oilers,3,1,REG
+2019020185,20192020,2019-10-29,Nashville Predators,Chicago Blackhawks,3,0,REG
+2019020186,20192020,2019-10-29,Dallas Stars,Minnesota Wild,6,3,REG
+2019020187,20192020,2019-10-29,Anaheim Ducks,Winnipeg Jets,7,4,REG
+2019020188,20192020,2019-10-30,New Jersey Devils,Tampa Bay Lightning,6,7,REG
+2019020189,20192020,2019-10-30,Columbus Blue Jackets,Edmonton Oilers,1,4,REG
+2019020190,20192020,2019-10-30,St. Louis Blues,Minnesota Wild,2,1,REG
+2019020192,20192020,2019-10-30,Arizona Coyotes,Montréal Canadiens,1,4,REG
+2019020191,20192020,2019-10-30,Colorado Avalanche,Florida Panthers,3,4,REG
+2019020193,20192020,2019-10-30,Los Angeles Kings,Vancouver Canucks,3,5,REG
+2019020194,20192020,2019-10-31,Nashville Predators,Calgary Flames,5,6,REG
+2019020195,20192020,2019-10-31,Vegas Golden Knights,Montréal Canadiens,4,5,REG
+2019020196,20192020,2019-11-01,New Jersey Devils,Philadelphia Flyers,3,4,REG
+2019020197,20192020,2019-11-01,New York Islanders,Tampa Bay Lightning,5,2,REG
+2019020198,20192020,2019-11-01,Washington Capitals,Buffalo Sabres,6,1,REG
+2019020199,20192020,2019-11-01,Carolina Hurricanes,Detroit Red Wings,7,3,REG
+2019020200,20192020,2019-11-01,St. Louis Blues,Columbus Blue Jackets,4,3,REG
+2019020201,20192020,2019-11-01,Colorado Avalanche,Dallas Stars,1,2,REG
+2019020202,20192020,2019-11-01,Anaheim Ducks,Vancouver Canucks,2,1,REG
+2019020203,20192020,2019-11-01,San Jose Sharks,Winnipeg Jets,2,3,REG
+2019020204,20192020,2019-11-02,Pittsburgh Penguins,Edmonton Oilers,1,2,REG
+2019020205,20192020,2019-11-02,Nashville Predators,New York Rangers,1,2,REG
+2019020212,20192020,2019-11-02,Dallas Stars,Montréal Canadiens,4,1,REG
+2019020206,20192020,2019-11-02,Boston Bruins,Ottawa Senators,5,2,REG
+2019020207,20192020,2019-11-02,Buffalo Sabres,New York Islanders,0,1,REG
+2019020208,20192020,2019-11-02,Florida Panthers,Detroit Red Wings,4,0,REG
+2019020209,20192020,2019-11-02,Philadelphia Flyers,Toronto Maple Leafs,3,4,REG
+2019020210,20192020,2019-11-02,Carolina Hurricanes,New Jersey Devils,3,5,REG
+2019020211,20192020,2019-11-02,Columbus Blue Jackets,Calgary Flames,0,3,REG
+2019020213,20192020,2019-11-02,Minnesota Wild,St. Louis Blues,3,4,REG
+2019020214,20192020,2019-11-02,Arizona Coyotes,Colorado Avalanche,3,0,REG
+2019020215,20192020,2019-11-02,Vegas Golden Knights,Winnipeg Jets,3,4,REG
+2019020216,20192020,2019-11-02,San Jose Sharks,Vancouver Canucks,2,5,REG
+2019020217,20192020,2019-11-02,Los Angeles Kings,Chicago Blackhawks,4,3,REG
+2019020218,20192020,2019-11-03,Washington Capitals,Calgary Flames,4,2,REG
+2019020219,20192020,2019-11-03,Anaheim Ducks,Chicago Blackhawks,2,3,REG
+2019020220,20192020,2019-11-04,Boston Bruins,Pittsburgh Penguins,6,4,REG
+2019020221,20192020,2019-11-04,New York Rangers,Ottawa Senators,2,6,REG
+2019020222,20192020,2019-11-04,Detroit Red Wings,Nashville Predators,1,6,REG
+2019020223,20192020,2019-11-04,Edmonton Oilers,Arizona Coyotes,2,3,REG
+2019020225,20192020,2019-11-05,New York Islanders,Ottawa Senators,4,1,REG
+2019020226,20192020,2019-11-05,Philadelphia Flyers,Carolina Hurricanes,4,1,REG
+2019020227,20192020,2019-11-05,Columbus Blue Jackets,Vegas Golden Knights,1,2,REG
+2019020224,20192020,2019-11-05,Montréal Canadiens,Boston Bruins,5,4,REG
+2019020228,20192020,2019-11-05,Toronto Maple Leafs,Los Angeles Kings,3,1,REG
+2019020229,20192020,2019-11-05,Winnipeg Jets,New Jersey Devils,1,2,REG
+2019020230,20192020,2019-11-05,Dallas Stars,Colorado Avalanche,4,1,REG
+2019020231,20192020,2019-11-05,Calgary Flames,Arizona Coyotes,4,3,REG
+2019020232,20192020,2019-11-05,Vancouver Canucks,St. Louis Blues,1,2,REG
+2019020233,20192020,2019-11-05,Anaheim Ducks,Minnesota Wild,2,4,REG
+2019020234,20192020,2019-11-05,San Jose Sharks,Chicago Blackhawks,4,2,REG
+2019020235,20192020,2019-11-06,New York Rangers,Detroit Red Wings,5,1,REG
+2019020236,20192020,2019-11-06,Edmonton Oilers,St. Louis Blues,2,5,REG
+2019020237,20192020,2019-11-07,Toronto Maple Leafs,Vegas Golden Knights,2,1,REG
+2019020238,20192020,2019-11-07,Florida Panthers,Washington Capitals,4,5,REG
+2019020239,20192020,2019-11-07,New York Islanders,Pittsburgh Penguins,3,4,REG
+2019020240,20192020,2019-11-07,Philadelphia Flyers,Montréal Canadiens,3,2,REG
+2019020241,20192020,2019-11-07,Carolina Hurricanes,New York Rangers,2,4,REG
+2019020242,20192020,2019-11-07,Ottawa Senators,Los Angeles Kings,3,2,REG
+2019020243,20192020,2019-11-07,Chicago Blackhawks,Vancouver Canucks,5,2,REG
+2019020244,20192020,2019-11-07,Colorado Avalanche,Nashville Predators,9,4,REG
+2019020245,20192020,2019-11-07,Calgary Flames,New Jersey Devils,5,2,REG
+2019020246,20192020,2019-11-07,Arizona Coyotes,Columbus Blue Jackets,2,3,REG
+2019020247,20192020,2019-11-07,San Jose Sharks,Minnesota Wild,6,5,REG
+2019020249,20192020,2019-11-08,Buffalo Sabres,Tampa Bay Lightning,2,3,REG
+2019020248,20192020,2019-11-08,Detroit Red Wings,Boston Bruins,4,2,REG
+2019020250,20192020,2019-11-08,Winnipeg Jets,Vancouver Canucks,4,1,REG
+2019020251,20192020,2019-11-08,Edmonton Oilers,New Jersey Devils,4,0,REG
+2019020252,20192020,2019-11-09,New York Islanders,Florida Panthers,2,1,REG
+2019020256,20192020,2019-11-09,Tampa Bay Lightning,Buffalo Sabres,5,3,REG
+2019020253,20192020,2019-11-09,Toronto Maple Leafs,Philadelphia Flyers,2,3,REG
+2019020254,20192020,2019-11-09,Montréal Canadiens,Los Angeles Kings,3,2,REG
+2019020255,20192020,2019-11-09,Ottawa Senators,Carolina Hurricanes,4,1,REG
+2019020257,20192020,2019-11-09,Pittsburgh Penguins,Chicago Blackhawks,3,2,REG
+2019020258,20192020,2019-11-09,Washington Capitals,Vegas Golden Knights,5,2,REG
+2019020259,20192020,2019-11-09,Arizona Coyotes,Minnesota Wild,3,4,REG
+2019020260,20192020,2019-11-09,Colorado Avalanche,Columbus Blue Jackets,4,2,REG
+2019020261,20192020,2019-11-09,Calgary Flames,St. Louis Blues,2,3,REG
+2019020262,20192020,2019-11-09,San Jose Sharks,Nashville Predators,2,1,REG
+2019020263,20192020,2019-11-10,New York Rangers,Florida Panthers,5,6,REG
+2019020264,20192020,2019-11-10,Winnipeg Jets,Dallas Stars,3,2,REG
+2019020265,20192020,2019-11-10,Vancouver Canucks,New Jersey Devils,1,2,REG
+2019020266,20192020,2019-11-10,Detroit Red Wings,Vegas Golden Knights,3,2,REG
+2019020268,20192020,2019-11-10,Chicago Blackhawks,Toronto Maple Leafs,5,4,REG
+2019020267,20192020,2019-11-10,Boston Bruins,Philadelphia Flyers,2,3,REG
+2019020269,20192020,2019-11-10,Anaheim Ducks,Edmonton Oilers,2,6,REG
+2019020270,20192020,2019-11-11,Washington Capitals,Arizona Coyotes,3,4,REG
+2019020271,20192020,2019-11-11,Carolina Hurricanes,Ottawa Senators,8,2,REG
+2019020272,20192020,2019-11-12,Boston Bruins,Florida Panthers,4,5,REG
+2019020273,20192020,2019-11-12,Montréal Canadiens,Columbus Blue Jackets,3,2,REG
+2019020274,20192020,2019-11-12,New York Rangers,Pittsburgh Penguins,3,2,REG
+2019020275,20192020,2019-11-12,St. Louis Blues,Arizona Coyotes,2,3,REG
+2019020276,20192020,2019-11-12,Winnipeg Jets,Colorado Avalanche,0,4,REG
+2019020277,20192020,2019-11-12,Vancouver Canucks,Nashville Predators,5,3,REG
+2019020278,20192020,2019-11-12,Anaheim Ducks,Detroit Red Wings,3,4,REG
+2019020279,20192020,2019-11-12,Los Angeles Kings,Minnesota Wild,3,1,REG
+2019020280,20192020,2019-11-12,San Jose Sharks,Edmonton Oilers,6,3,REG
+2019020281,20192020,2019-11-13,New Jersey Devils,Ottawa Senators,2,4,REG
+2019020282,20192020,2019-11-13,New York Islanders,Toronto Maple Leafs,5,4,REG
+2019020283,20192020,2019-11-13,Philadelphia Flyers,Washington Capitals,1,2,REG
+2019020284,20192020,2019-11-13,Calgary Flames,Dallas Stars,1,3,REG
+2019020285,20192020,2019-11-13,Vegas Golden Knights,Chicago Blackhawks,3,5,REG
+2019020286,20192020,2019-11-14,Buffalo Sabres,Carolina Hurricanes,4,5,REG
+2019020287,20192020,2019-11-14,Tampa Bay Lightning,New York Rangers,9,3,REG
+2019020288,20192020,2019-11-14,Florida Panthers,Winnipeg Jets,3,4,REG
+2019020289,20192020,2019-11-14,Minnesota Wild,Arizona Coyotes,3,2,REG
+2019020290,20192020,2019-11-14,Edmonton Oilers,Colorado Avalanche,6,2,REG
+2019020291,20192020,2019-11-14,Vancouver Canucks,Dallas Stars,2,4,REG
+2019020292,20192020,2019-11-14,Anaheim Ducks,San Jose Sharks,3,5,REG
+2019020293,20192020,2019-11-14,Los Angeles Kings,Detroit Red Wings,3,2,REG
+2019020294,20192020,2019-11-15,Toronto Maple Leafs,Boston Bruins,2,4,REG
+2019020295,20192020,2019-11-15,New Jersey Devils,Pittsburgh Penguins,2,1,REG
+2019020296,20192020,2019-11-15,Washington Capitals,Montréal Canadiens,2,5,REG
+2019020297,20192020,2019-11-15,Columbus Blue Jackets,St. Louis Blues,3,2,REG
+2019020298,20192020,2019-11-15,Ottawa Senators,Philadelphia Flyers,2,1,REG
+2019020299,20192020,2019-11-16,Minnesota Wild,Carolina Hurricanes,3,4,REG
+2019020312,20192020,2019-11-16,Los Angeles Kings,Vegas Golden Knights,4,3,REG
+2019020301,20192020,2019-11-16,Edmonton Oilers,Dallas Stars,4,5,REG
+2019020302,20192020,2019-11-16,Arizona Coyotes,Calgary Flames,3,0,REG
+2019020300,20192020,2019-11-16,Tampa Bay Lightning,Winnipeg Jets,3,4,REG
+2019020303,20192020,2019-11-16,Boston Bruins,Washington Capitals,2,3,REG
+2019020304,20192020,2019-11-16,Buffalo Sabres,Ottawa Senators,4,2,REG
+2019020305,20192020,2019-11-16,Montréal Canadiens,New Jersey Devils,3,4,REG
+2019020306,20192020,2019-11-16,Florida Panthers,New York Rangers,4,3,REG
+2019020307,20192020,2019-11-16,Philadelphia Flyers,New York Islanders,3,4,REG
+2019020308,20192020,2019-11-16,Pittsburgh Penguins,Toronto Maple Leafs,6,1,REG
+2019020309,20192020,2019-11-16,St. Louis Blues,Anaheim Ducks,1,4,REG
+2019020310,20192020,2019-11-16,Nashville Predators,Chicago Blackhawks,2,7,REG
+2019020311,20192020,2019-11-16,Vancouver Canucks,Colorado Avalanche,4,5,REG
+2019020313,20192020,2019-11-16,San Jose Sharks,Detroit Red Wings,4,3,REG
+2019020315,20192020,2019-11-17,Vegas Golden Knights,Calgary Flames,6,0,REG
+2019020314,20192020,2019-11-17,Chicago Blackhawks,Buffalo Sabres,4,1,REG
+2019020316,20192020,2019-11-18,Washington Capitals,Anaheim Ducks,5,2,REG
+2019020317,20192020,2019-11-18,Arizona Coyotes,Los Angeles Kings,3,0,REG
+2019020318,20192020,2019-11-19,Buffalo Sabres,Minnesota Wild,1,4,REG
+2019020319,20192020,2019-11-19,Florida Panthers,Philadelphia Flyers,5,2,REG
+2019020320,20192020,2019-11-19,New Jersey Devils,Boston Bruins,1,5,REG
+2019020321,20192020,2019-11-19,Pittsburgh Penguins,New York Islanders,4,5,REG
+2019020322,20192020,2019-11-19,Columbus Blue Jackets,Montréal Canadiens,5,2,REG
+2019020323,20192020,2019-11-19,Detroit Red Wings,Ottawa Senators,3,4,REG
+2019020324,20192020,2019-11-19,St. Louis Blues,Tampa Bay Lightning,3,1,REG
+2019020325,20192020,2019-11-19,Nashville Predators,Winnipeg Jets,1,2,REG
+2019020326,20192020,2019-11-19,Chicago Blackhawks,Carolina Hurricanes,2,4,REG
+2019020327,20192020,2019-11-19,Dallas Stars,Vancouver Canucks,6,1,REG
+2019020328,20192020,2019-11-19,Calgary Flames,Colorado Avalanche,2,3,REG
+2019020329,20192020,2019-11-19,Vegas Golden Knights,Toronto Maple Leafs,4,2,REG
+2019020330,20192020,2019-11-19,San Jose Sharks,Edmonton Oilers,2,5,REG
+2019020331,20192020,2019-11-20,Montréal Canadiens,Ottawa Senators,1,2,REG
+2019020332,20192020,2019-11-20,New York Rangers,Washington Capitals,4,1,REG
+2019020333,20192020,2019-11-21,Boston Bruins,Buffalo Sabres,3,2,REG
+2019020334,20192020,2019-11-21,Florida Panthers,Anaheim Ducks,5,4,REG
+2019020335,20192020,2019-11-21,New York Islanders,Pittsburgh Penguins,4,3,REG
+2019020336,20192020,2019-11-21,Carolina Hurricanes,Philadelphia Flyers,3,5,REG
+2019020337,20192020,2019-11-21,Columbus Blue Jackets,Detroit Red Wings,5,4,REG
+2019020338,20192020,2019-11-21,St. Louis Blues,Calgary Flames,5,0,REG
+2019020339,20192020,2019-11-21,Nashville Predators,Vancouver Canucks,3,6,REG
+2019020340,20192020,2019-11-21,Minnesota Wild,Colorado Avalanche,3,2,REG
+2019020341,20192020,2019-11-21,Chicago Blackhawks,Tampa Bay Lightning,2,4,REG
+2019020342,20192020,2019-11-21,Dallas Stars,Winnipeg Jets,5,3,REG
+2019020343,20192020,2019-11-21,Arizona Coyotes,Toronto Maple Leafs,1,3,REG
+2019020344,20192020,2019-11-21,Vegas Golden Knights,San Jose Sharks,1,2,REG
+2019020345,20192020,2019-11-21,Los Angeles Kings,Edmonton Oilers,5,1,REG
+2019020346,20192020,2019-11-22,Pittsburgh Penguins,New Jersey Devils,4,1,REG
+2019020347,20192020,2019-11-22,Ottawa Senators,New York Rangers,4,1,REG
+2019020348,20192020,2019-11-23,Washington Capitals,Vancouver Canucks,1,2,REG
+2019020349,20192020,2019-11-23,Philadelphia Flyers,Calgary Flames,2,3,REG
+2019020350,20192020,2019-11-23,Los Angeles Kings,Arizona Coyotes,2,3,REG
+2019020357,20192020,2019-11-23,Colorado Avalanche,Toronto Maple Leafs,3,5,REG
+2019020356,20192020,2019-11-23,Winnipeg Jets,Columbus Blue Jackets,4,3,REG
+2019020351,20192020,2019-11-23,Boston Bruins,Minnesota Wild,5,4,REG
+2019020352,20192020,2019-11-23,Montréal Canadiens,New York Rangers,5,6,REG
+2019020353,20192020,2019-11-23,Tampa Bay Lightning,Anaheim Ducks,6,2,REG
+2019020354,20192020,2019-11-23,New Jersey Devils,Detroit Red Wings,5,1,REG
+2019020355,20192020,2019-11-23,Carolina Hurricanes,Florida Panthers,4,2,REG
+2019020358,20192020,2019-11-23,St. Louis Blues,Nashville Predators,2,4,REG
+2019020359,20192020,2019-11-23,Dallas Stars,Chicago Blackhawks,2,1,REG
+2019020360,20192020,2019-11-23,Vegas Golden Knights,Edmonton Oilers,2,4,REG
+2019020361,20192020,2019-11-23,San Jose Sharks,New York Islanders,2,1,REG
+2019020362,20192020,2019-11-24,Florida Panthers,Buffalo Sabres,2,5,REG
+2019020363,20192020,2019-11-24,Detroit Red Wings,Carolina Hurricanes,0,2,REG
+2019020364,20192020,2019-11-24,Arizona Coyotes,Edmonton Oilers,3,4,REG
+2019020365,20192020,2019-11-25,Tampa Bay Lightning,Buffalo Sabres,5,2,REG
+2019020366,20192020,2019-11-25,New York Rangers,Minnesota Wild,3,2,REG
+2019020367,20192020,2019-11-25,Philadelphia Flyers,Vancouver Canucks,2,1,REG
+2019020368,20192020,2019-11-25,Pittsburgh Penguins,Calgary Flames,3,2,REG
+2019020369,20192020,2019-11-25,Columbus Blue Jackets,Ottawa Senators,1,0,REG
+2019020370,20192020,2019-11-25,Nashville Predators,St. Louis Blues,3,2,REG
+2019020371,20192020,2019-11-25,Dallas Stars,Vegas Golden Knights,4,2,REG
+2019020372,20192020,2019-11-25,Anaheim Ducks,New York Islanders,3,0,REG
+2019020373,20192020,2019-11-25,Los Angeles Kings,San Jose Sharks,3,4,REG
+2019020374,20192020,2019-11-26,Montréal Canadiens,Boston Bruins,1,8,REG
+2019020375,20192020,2019-11-26,New Jersey Devils,Minnesota Wild,2,3,REG
+2019020376,20192020,2019-11-26,Chicago Blackhawks,Dallas Stars,3,0,REG
+2019020377,20192020,2019-11-27,Buffalo Sabres,Calgary Flames,2,3,REG
+2019020378,20192020,2019-11-27,Ottawa Senators,Boston Bruins,1,2,REG
+2019020379,20192020,2019-11-27,Detroit Red Wings,Toronto Maple Leafs,0,6,REG
+2019020380,20192020,2019-11-27,Tampa Bay Lightning,St. Louis Blues,3,4,REG
+2019020381,20192020,2019-11-27,New York Rangers,Carolina Hurricanes,3,2,REG
+2019020382,20192020,2019-11-27,Pittsburgh Penguins,Vancouver Canucks,8,6,REG
+2019020383,20192020,2019-11-27,Washington Capitals,Florida Panthers,4,3,REG
+2019020384,20192020,2019-11-27,Columbus Blue Jackets,Philadelphia Flyers,2,3,REG
+2019020385,20192020,2019-11-27,Nashville Predators,Vegas Golden Knights,3,4,REG
+2019020386,20192020,2019-11-27,Arizona Coyotes,Anaheim Ducks,4,3,REG
+2019020387,20192020,2019-11-27,Colorado Avalanche,Edmonton Oilers,4,1,REG
+2019020388,20192020,2019-11-27,Los Angeles Kings,New York Islanders,4,1,REG
+2019020389,20192020,2019-11-27,San Jose Sharks,Winnipeg Jets,1,5,REG
+2019020390,20192020,2019-11-28,Montréal Canadiens,New Jersey Devils,4,6,REG
+2019020391,20192020,2019-11-29,Boston Bruins,New York Rangers,3,2,REG
+2019020396,20192020,2019-11-29,Anaheim Ducks,Winnipeg Jets,0,3,REG
+2019020397,20192020,2019-11-29,San Jose Sharks,Los Angeles Kings,4,1,REG
+2019020394,20192020,2019-11-29,Chicago Blackhawks,Colorado Avalanche,2,5,REG
+2019020395,20192020,2019-11-29,Minnesota Wild,Ottawa Senators,7,2,REG
+2019020392,20192020,2019-11-29,Buffalo Sabres,Toronto Maple Leafs,6,4,REG
+2019020393,20192020,2019-11-29,Philadelphia Flyers,Detroit Red Wings,6,1,REG
+2019020398,20192020,2019-11-29,Washington Capitals,Tampa Bay Lightning,4,3,REG
+2019020399,20192020,2019-11-29,Vegas Golden Knights,Arizona Coyotes,2,1,REG
+2019020400,20192020,2019-11-29,Columbus Blue Jackets,Pittsburgh Penguins,5,2,REG
+2019020401,20192020,2019-11-29,Carolina Hurricanes,Nashville Predators,0,3,REG
+2019020402,20192020,2019-11-29,Dallas Stars,St. Louis Blues,1,3,REG
+2019020403,20192020,2019-11-30,New Jersey Devils,New York Rangers,0,4,REG
+2019020404,20192020,2019-11-30,Montréal Canadiens,Philadelphia Flyers,3,4,REG
+2019020410,20192020,2019-11-30,Calgary Flames,Ottawa Senators,3,1,REG
+2019020405,20192020,2019-11-30,Toronto Maple Leafs,Buffalo Sabres,2,1,REG
+2019020406,20192020,2019-11-30,Detroit Red Wings,Washington Capitals,2,5,REG
+2019020407,20192020,2019-11-30,Tampa Bay Lightning,Carolina Hurricanes,2,3,REG
+2019020408,20192020,2019-11-30,Florida Panthers,Nashville Predators,3,0,REG
+2019020409,20192020,2019-11-30,New York Islanders,Columbus Blue Jackets,2,0,REG
+2019020412,20192020,2019-11-30,Arizona Coyotes,San Jose Sharks,2,4,REG
+2019020411,20192020,2019-11-30,St. Louis Blues,Pittsburgh Penguins,5,2,REG
+2019020413,20192020,2019-11-30,Colorado Avalanche,Chicago Blackhawks,7,3,REG
+2019020415,20192020,2019-11-30,Los Angeles Kings,Winnipeg Jets,2,1,REG
+2019020414,20192020,2019-11-30,Edmonton Oilers,Vancouver Canucks,2,5,REG
+2019020416,20192020,2019-12-01,Minnesota Wild,Dallas Stars,3,2,REG
+2019020417,20192020,2019-12-01,Boston Bruins,Montréal Canadiens,3,1,REG
+2019020418,20192020,2019-12-01,Vancouver Canucks,Edmonton Oilers,2,3,REG
+2019020419,20192020,2019-12-02,Buffalo Sabres,New Jersey Devils,7,1,REG
+2019020420,20192020,2019-12-02,New York Rangers,Vegas Golden Knights,1,4,REG
+2019020421,20192020,2019-12-02,Detroit Red Wings,New York Islanders,1,4,REG
+2019020422,20192020,2019-12-02,Chicago Blackhawks,St. Louis Blues,0,4,REG
+2019020423,20192020,2019-12-02,Anaheim Ducks,Los Angeles Kings,4,2,REG
+2019020424,20192020,2019-12-03,Boston Bruins,Carolina Hurricanes,2,0,REG
+2019020425,20192020,2019-12-03,Montréal Canadiens,New York Islanders,4,2,REG
+2019020426,20192020,2019-12-03,Florida Panthers,Minnesota Wild,2,4,REG
+2019020427,20192020,2019-12-03,New Jersey Devils,Vegas Golden Knights,3,4,REG
+2019020428,20192020,2019-12-03,Philadelphia Flyers,Toronto Maple Leafs,6,1,REG
+2019020429,20192020,2019-12-03,Columbus Blue Jackets,Arizona Coyotes,2,4,REG
+2019020430,20192020,2019-12-03,Nashville Predators,Tampa Bay Lightning,2,3,REG
+2019020431,20192020,2019-12-03,Winnipeg Jets,Dallas Stars,5,1,REG
+2019020432,20192020,2019-12-03,Vancouver Canucks,Ottawa Senators,5,2,REG
+2019020433,20192020,2019-12-03,San Jose Sharks,Washington Capitals,2,5,REG
+2019020434,20192020,2019-12-04,Toronto Maple Leafs,Colorado Avalanche,1,3,REG
+2019020435,20192020,2019-12-04,Pittsburgh Penguins,St. Louis Blues,3,0,REG
+2019020436,20192020,2019-12-04,Edmonton Oilers,Ottawa Senators,2,5,REG
+2019020437,20192020,2019-12-04,Los Angeles Kings,Washington Capitals,1,3,REG
+2019020438,20192020,2019-12-05,Boston Bruins,Chicago Blackhawks,3,4,REG
+2019020439,20192020,2019-12-05,Montréal Canadiens,Colorado Avalanche,2,3,REG
+2019020440,20192020,2019-12-05,Tampa Bay Lightning,Minnesota Wild,4,5,REG
+2019020441,20192020,2019-12-05,New York Islanders,Vegas Golden Knights,3,2,REG
+2019020442,20192020,2019-12-05,Philadelphia Flyers,Arizona Coyotes,1,3,REG
+2019020443,20192020,2019-12-05,Carolina Hurricanes,San Jose Sharks,3,2,REG
+2019020444,20192020,2019-12-05,Columbus Blue Jackets,New York Rangers,2,3,REG
+2019020445,20192020,2019-12-05,Dallas Stars,Winnipeg Jets,3,2,REG
+2019020446,20192020,2019-12-05,Calgary Flames,Buffalo Sabres,4,3,REG
+2019020447,20192020,2019-12-06,New Jersey Devils,Chicago Blackhawks,1,2,REG
+2019020448,20192020,2019-12-06,New York Rangers,Montréal Canadiens,1,2,REG
+2019020449,20192020,2019-12-06,Pittsburgh Penguins,Arizona Coyotes,2,0,REG
+2019020450,20192020,2019-12-06,Edmonton Oilers,Los Angeles Kings,2,1,REG
+2019020451,20192020,2019-12-06,Anaheim Ducks,Washington Capitals,2,3,REG
+2019020452,20192020,2019-12-07,Philadelphia Flyers,Ottawa Senators,4,3,REG
+2019020453,20192020,2019-12-07,Vancouver Canucks,Buffalo Sabres,6,5,REG
+2019020459,20192020,2019-12-07,St. Louis Blues,Toronto Maple Leafs,2,5,REG
+2019020454,20192020,2019-12-07,Boston Bruins,Colorado Avalanche,1,4,REG
+2019020455,20192020,2019-12-07,Detroit Red Wings,Pittsburgh Penguins,3,5,REG
+2019020456,20192020,2019-12-07,Tampa Bay Lightning,San Jose Sharks,7,1,REG
+2019020457,20192020,2019-12-07,Florida Panthers,Columbus Blue Jackets,4,1,REG
+2019020458,20192020,2019-12-07,Carolina Hurricanes,Minnesota Wild,6,2,REG
+2019020460,20192020,2019-12-07,Nashville Predators,New Jersey Devils,6,4,REG
+2019020461,20192020,2019-12-07,Dallas Stars,New York Islanders,3,1,REG
+2019020462,20192020,2019-12-07,Calgary Flames,Los Angeles Kings,4,3,REG
+2019020463,20192020,2019-12-08,Winnipeg Jets,Anaheim Ducks,3,2,REG
+2019020464,20192020,2019-12-08,Florida Panthers,San Jose Sharks,5,1,REG
+2019020466,20192020,2019-12-08,Vegas Golden Knights,New York Rangers,0,5,REG
+2019020465,20192020,2019-12-08,Chicago Blackhawks,Arizona Coyotes,3,4,REG
+2019020467,20192020,2019-12-08,Edmonton Oilers,Buffalo Sabres,2,3,REG
+2019020468,20192020,2019-12-09,Tampa Bay Lightning,New York Islanders,1,5,REG
+2019020469,20192020,2019-12-09,Washington Capitals,Columbus Blue Jackets,2,5,REG
+2019020470,20192020,2019-12-09,Ottawa Senators,Boston Bruins,5,2,REG
+2019020471,20192020,2019-12-09,Colorado Avalanche,Calgary Flames,4,5,REG
+2019020473,20192020,2019-12-10,Florida Panthers,Tampa Bay Lightning,1,2,REG
+2019020474,20192020,2019-12-10,Pittsburgh Penguins,Montréal Canadiens,1,4,REG
+2019020472,20192020,2019-12-10,Buffalo Sabres,St. Louis Blues,5,2,REG
+2019020475,20192020,2019-12-10,Nashville Predators,San Jose Sharks,3,1,REG
+2019020476,20192020,2019-12-10,Minnesota Wild,Anaheim Ducks,2,3,REG
+2019020477,20192020,2019-12-10,Winnipeg Jets,Detroit Red Wings,5,1,REG
+2019020478,20192020,2019-12-10,Dallas Stars,New Jersey Devils,2,0,REG
+2019020479,20192020,2019-12-10,Edmonton Oilers,Carolina Hurricanes,3,6,REG
+2019020480,20192020,2019-12-10,Arizona Coyotes,Calgary Flames,2,5,REG
+2019020481,20192020,2019-12-10,Vancouver Canucks,Toronto Maple Leafs,1,4,REG
+2019020482,20192020,2019-12-10,Vegas Golden Knights,Chicago Blackhawks,5,1,REG
+2019020483,20192020,2019-12-10,Los Angeles Kings,New York Rangers,3,1,REG
+2019020484,20192020,2019-12-11,Washington Capitals,Boston Bruins,3,2,REG
+2019020485,20192020,2019-12-11,Montréal Canadiens,Ottawa Senators,3,2,REG
+2019020486,20192020,2019-12-11,Colorado Avalanche,Philadelphia Flyers,3,1,REG
+2019020487,20192020,2019-12-12,Buffalo Sabres,Nashville Predators,4,3,REG
+2019020488,20192020,2019-12-12,Tampa Bay Lightning,Boston Bruins,3,2,REG
+2019020489,20192020,2019-12-12,Florida Panthers,New York Islanders,1,3,REG
+2019020490,20192020,2019-12-12,Pittsburgh Penguins,Columbus Blue Jackets,1,0,REG
+2019020491,20192020,2019-12-12,Detroit Red Wings,Winnipeg Jets,5,2,REG
+2019020492,20192020,2019-12-12,St. Louis Blues,Vegas Golden Knights,4,2,REG
+2019020493,20192020,2019-12-12,Minnesota Wild,Edmonton Oilers,6,5,REG
+2019020494,20192020,2019-12-12,Calgary Flames,Toronto Maple Leafs,4,2,REG
+2019020495,20192020,2019-12-12,Arizona Coyotes,Chicago Blackhawks,5,2,REG
+2019020496,20192020,2019-12-12,Vancouver Canucks,Carolina Hurricanes,1,0,REG
+2019020497,20192020,2019-12-12,Anaheim Ducks,Los Angeles Kings,1,2,REG
+2019020498,20192020,2019-12-12,San Jose Sharks,New York Rangers,3,6,REG
+2019020499,20192020,2019-12-13,Dallas Stars,Vegas Golden Knights,2,3,REG
+2019020500,20192020,2019-12-13,Colorado Avalanche,New Jersey Devils,3,1,REG
+2019020501,20192020,2019-12-14,Ottawa Senators,Columbus Blue Jackets,4,3,REG
+2019020502,20192020,2019-12-14,New York Islanders,Buffalo Sabres,3,2,REG
+2019020504,20192020,2019-12-14,Anaheim Ducks,New York Rangers,4,3,REG
+2019020503,20192020,2019-12-14,Calgary Flames,Carolina Hurricanes,0,4,REG
+2019020505,20192020,2019-12-14,Nashville Predators,Dallas Stars,1,4,REG
+2019020511,20192020,2019-12-14,Edmonton Oilers,Toronto Maple Leafs,1,4,REG
+2019020510,20192020,2019-12-14,Minnesota Wild,Philadelphia Flyers,4,1,REG
+2019020506,20192020,2019-12-14,Montréal Canadiens,Detroit Red Wings,1,2,REG
+2019020507,20192020,2019-12-14,Tampa Bay Lightning,Washington Capitals,2,5,REG
+2019020508,20192020,2019-12-14,Florida Panthers,Boston Bruins,2,4,REG
+2019020509,20192020,2019-12-14,Pittsburgh Penguins,Los Angeles Kings,5,4,REG
+2019020513,20192020,2019-12-14,Arizona Coyotes,New Jersey Devils,1,2,REG
+2019020512,20192020,2019-12-14,St. Louis Blues,Chicago Blackhawks,4,3,REG
+2019020514,20192020,2019-12-14,San Jose Sharks,Vancouver Canucks,4,2,REG
+2019020515,20192020,2019-12-15,Winnipeg Jets,Philadelphia Flyers,7,3,REG
+2019020517,20192020,2019-12-15,Chicago Blackhawks,Minnesota Wild,5,3,REG
+2019020516,20192020,2019-12-15,Detroit Red Wings,Los Angeles Kings,2,4,REG
+2019020518,20192020,2019-12-15,Vegas Golden Knights,Vancouver Canucks,6,3,REG
+2019020519,20192020,2019-12-16,Florida Panthers,Ottawa Senators,6,1,REG
+2019020520,20192020,2019-12-16,New York Rangers,Nashville Predators,2,5,REG
+2019020521,20192020,2019-12-16,Columbus Blue Jackets,Washington Capitals,3,0,REG
+2019020522,20192020,2019-12-16,St. Louis Blues,Colorado Avalanche,5,2,REG
+2019020523,20192020,2019-12-16,Dallas Stars,Edmonton Oilers,1,2,REG
+2019020524,20192020,2019-12-17,Boston Bruins,Los Angeles Kings,3,4,REG
+2019020525,20192020,2019-12-17,Toronto Maple Leafs,Buffalo Sabres,5,3,REG
+2019020526,20192020,2019-12-17,Tampa Bay Lightning,Ottawa Senators,4,3,REG
+2019020527,20192020,2019-12-17,New York Islanders,Nashville Predators,3,8,REG
+2019020528,20192020,2019-12-17,Philadelphia Flyers,Anaheim Ducks,4,1,REG
+2019020529,20192020,2019-12-17,Detroit Red Wings,Columbus Blue Jackets,3,5,REG
+2019020530,20192020,2019-12-17,Winnipeg Jets,Carolina Hurricanes,3,6,REG
+2019020531,20192020,2019-12-17,Calgary Flames,Pittsburgh Penguins,1,4,REG
+2019020532,20192020,2019-12-17,Vancouver Canucks,Montréal Canadiens,1,3,REG
+2019020533,20192020,2019-12-17,Vegas Golden Knights,Minnesota Wild,3,2,REG
+2019020534,20192020,2019-12-17,San Jose Sharks,Arizona Coyotes,2,3,REG
+2019020535,20192020,2019-12-18,New Jersey Devils,Anaheim Ducks,3,1,REG
+2019020536,20192020,2019-12-18,Chicago Blackhawks,Colorado Avalanche,1,4,REG
+2019020537,20192020,2019-12-18,St. Louis Blues,Edmonton Oilers,2,1,REG
+2019020538,20192020,2019-12-19,Boston Bruins,New York Islanders,2,3,REG
+2019020539,20192020,2019-12-19,Tampa Bay Lightning,Dallas Stars,3,4,REG
+2019020540,20192020,2019-12-19,Philadelphia Flyers,Buffalo Sabres,6,1,REG
+2019020541,20192020,2019-12-19,Columbus Blue Jackets,Los Angeles Kings,3,2,REG
+2019020542,20192020,2019-12-19,Ottawa Senators,Nashville Predators,5,4,REG
+2019020543,20192020,2019-12-19,Winnipeg Jets,Chicago Blackhawks,1,4,REG
+2019020544,20192020,2019-12-19,Colorado Avalanche,Carolina Hurricanes,1,3,REG
+2019020545,20192020,2019-12-19,Calgary Flames,Montréal Canadiens,3,4,REG
+2019020546,20192020,2019-12-19,Arizona Coyotes,Minnesota Wild,5,8,REG
+2019020547,20192020,2019-12-19,Vancouver Canucks,Vegas Golden Knights,5,4,REG
+2019020548,20192020,2019-12-20,Florida Panthers,Dallas Stars,7,4,REG
+2019020549,20192020,2019-12-20,New Jersey Devils,Washington Capitals,3,6,REG
+2019020550,20192020,2019-12-20,New York Rangers,Toronto Maple Leafs,3,6,REG
+2019020551,20192020,2019-12-20,Edmonton Oilers,Pittsburgh Penguins,2,5,REG
+2019020552,20192020,2019-12-21,Buffalo Sabres,Los Angeles Kings,3,2,REG
+2019020553,20192020,2019-12-21,New York Islanders,Anaheim Ducks,5,6,REG
+2019020554,20192020,2019-12-21,Minnesota Wild,Winnipeg Jets,0,6,REG
+2019020561,20192020,2019-12-21,Edmonton Oilers,Montréal Canadiens,4,3,REG
+2019020555,20192020,2019-12-21,Boston Bruins,Nashville Predators,3,4,REG
+2019020556,20192020,2019-12-21,Toronto Maple Leafs,Detroit Red Wings,4,1,REG
+2019020557,20192020,2019-12-21,Ottawa Senators,Philadelphia Flyers,4,5,REG
+2019020558,20192020,2019-12-21,Washington Capitals,Tampa Bay Lightning,3,1,REG
+2019020559,20192020,2019-12-21,Carolina Hurricanes,Florida Panthers,2,4,REG
+2019020560,20192020,2019-12-21,Columbus Blue Jackets,New Jersey Devils,5,1,REG
+2019020562,20192020,2019-12-21,Colorado Avalanche,Chicago Blackhawks,3,5,REG
+2019020563,20192020,2019-12-21,Vancouver Canucks,Pittsburgh Penguins,4,1,REG
+2019020564,20192020,2019-12-21,San Jose Sharks,St. Louis Blues,2,5,REG
+2019020565,20192020,2019-12-22,New York Rangers,Anaheim Ducks,5,1,REG
+2019020567,20192020,2019-12-22,Dallas Stars,Calgary Flames,1,5,REG
+2019020566,20192020,2019-12-22,Detroit Red Wings,Arizona Coyotes,2,5,REG
+2019020568,20192020,2019-12-22,San Jose Sharks,Vegas Golden Knights,1,3,REG
+2019020569,20192020,2019-12-23,Toronto Maple Leafs,Carolina Hurricanes,8,6,REG
+2019020570,20192020,2019-12-23,Minnesota Wild,Calgary Flames,3,0,REG
+2019020571,20192020,2019-12-23,Boston Bruins,Washington Capitals,7,3,REG
+2019020572,20192020,2019-12-23,Tampa Bay Lightning,Florida Panthers,6,1,REG
+2019020573,20192020,2019-12-23,New York Islanders,Columbus Blue Jackets,2,3,REG
+2019020574,20192020,2019-12-23,Philadelphia Flyers,New York Rangers,5,1,REG
+2019020575,20192020,2019-12-23,Ottawa Senators,Buffalo Sabres,3,1,REG
+2019020576,20192020,2019-12-23,Nashville Predators,Arizona Coyotes,3,2,REG
+2019020577,20192020,2019-12-23,Winnipeg Jets,Montréal Canadiens,2,6,REG
+2019020578,20192020,2019-12-23,Chicago Blackhawks,New Jersey Devils,1,7,REG
+2019020579,20192020,2019-12-23,Vancouver Canucks,Edmonton Oilers,4,2,REG
+2019020580,20192020,2019-12-23,Vegas Golden Knights,Colorado Avalanche,3,7,REG
+2019020581,20192020,2019-12-23,Los Angeles Kings,St. Louis Blues,1,4,REG
+2019020582,20192020,2019-12-27,Buffalo Sabres,Boston Bruins,0,3,REG
+2019020583,20192020,2019-12-27,New Jersey Devils,Toronto Maple Leafs,4,5,REG
+2019020584,20192020,2019-12-27,New York Rangers,Carolina Hurricanes,5,3,REG
+2019020585,20192020,2019-12-27,Washington Capitals,Columbus Blue Jackets,2,1,REG
+2019020588,20192020,2019-12-27,Colorado Avalanche,Minnesota Wild,4,6,REG
+2019020586,20192020,2019-12-27,Nashville Predators,Pittsburgh Penguins,2,5,REG
+2019020587,20192020,2019-12-27,Winnipeg Jets,St. Louis Blues,4,5,REG
+2019020589,20192020,2019-12-27,Chicago Blackhawks,New York Islanders,5,2,REG
+2019020590,20192020,2019-12-27,Edmonton Oilers,Calgary Flames,1,5,REG
+2019020591,20192020,2019-12-27,Anaheim Ducks,Vegas Golden Knights,4,3,REG
+2019020592,20192020,2019-12-27,San Jose Sharks,Los Angeles Kings,2,3,REG
+2019020598,20192020,2019-12-28,Dallas Stars,Colorado Avalanche,3,2,REG
+2019020593,20192020,2019-12-28,Toronto Maple Leafs,New York Rangers,4,5,REG
+2019020594,20192020,2019-12-28,Tampa Bay Lightning,Montréal Canadiens,5,4,REG
+2019020595,20192020,2019-12-28,Florida Panthers,Detroit Red Wings,5,4,REG
+2019020596,20192020,2019-12-28,Pittsburgh Penguins,Nashville Predators,6,4,REG
+2019020597,20192020,2019-12-28,Carolina Hurricanes,Washington Capitals,6,4,REG
+2019020599,20192020,2019-12-28,Vancouver Canucks,Los Angeles Kings,3,2,REG
+2019020600,20192020,2019-12-28,Vegas Golden Knights,Arizona Coyotes,4,1,REG
+2019020601,20192020,2019-12-28,San Jose Sharks,Philadelphia Flyers,6,1,REG
+2019020602,20192020,2019-12-29,St. Louis Blues,Winnipeg Jets,4,1,REG
+2019020603,20192020,2019-12-29,Ottawa Senators,New Jersey Devils,3,4,REG
+2019020604,20192020,2019-12-29,Columbus Blue Jackets,Chicago Blackhawks,2,3,REG
+2019020605,20192020,2019-12-29,Minnesota Wild,New York Islanders,1,3,REG
+2019020606,20192020,2019-12-29,Boston Bruins,Buffalo Sabres,3,2,REG
+2019020607,20192020,2019-12-29,Tampa Bay Lightning,Detroit Red Wings,2,1,REG
+2019020608,20192020,2019-12-29,Florida Panthers,Montréal Canadiens,6,5,REG
+2019020609,20192020,2019-12-29,Arizona Coyotes,Dallas Stars,2,4,REG
+2019020610,20192020,2019-12-29,Anaheim Ducks,Philadelphia Flyers,1,2,REG
+2019020611,20192020,2019-12-29,Calgary Flames,Vancouver Canucks,2,5,REG
+2019020612,20192020,2019-12-30,Pittsburgh Penguins,Ottawa Senators,5,2,REG
+2019020613,20192020,2019-12-31,New Jersey Devils,Boston Bruins,3,2,REG
+2019020614,20192020,2019-12-31,Washington Capitals,New York Islanders,3,4,REG
+2019020615,20192020,2019-12-31,Vegas Golden Knights,Anaheim Ducks,5,2,REG
+2019020616,20192020,2019-12-31,Minnesota Wild,Toronto Maple Leafs,1,4,REG
+2019020617,20192020,2019-12-31,Buffalo Sabres,Tampa Bay Lightning,4,6,REG
+2019020618,20192020,2019-12-31,Carolina Hurricanes,Montréal Canadiens,3,1,REG
+2019020619,20192020,2019-12-31,Columbus Blue Jackets,Florida Panthers,4,1,REG
+2019020620,20192020,2019-12-31,Detroit Red Wings,San Jose Sharks,2,0,REG
+2019020621,20192020,2019-12-31,Colorado Avalanche,Winnipeg Jets,4,7,REG
+2019020625,20192020,2019-12-31,Los Angeles Kings,Philadelphia Flyers,5,3,REG
+2019020622,20192020,2019-12-31,Calgary Flames,Chicago Blackhawks,3,5,REG
+2019020623,20192020,2019-12-31,Edmonton Oilers,New York Rangers,7,5,REG
+2019020624,20192020,2019-12-31,Arizona Coyotes,St. Louis Blues,3,1,REG
+2019020626,20192020,2020-01-01,Dallas Stars,Nashville Predators,4,2,REG
+2019020627,20192020,2020-01-02,Boston Bruins,Columbus Blue Jackets,1,2,REG
+2019020628,20192020,2020-01-02,Buffalo Sabres,Edmonton Oilers,3,2,REG
+2019020629,20192020,2020-01-02,Montréal Canadiens,Tampa Bay Lightning,1,2,REG
+2019020630,20192020,2020-01-02,New York Islanders,New Jersey Devils,1,2,REG
+2019020631,20192020,2020-01-02,Pittsburgh Penguins,San Jose Sharks,2,3,REG
+2019020632,20192020,2020-01-02,Ottawa Senators,Florida Panthers,3,6,REG
+2019020633,20192020,2020-01-02,Winnipeg Jets,Toronto Maple Leafs,3,6,REG
+2019020635,20192020,2020-01-02,Calgary Flames,New York Rangers,4,3,REG
+2019020636,20192020,2020-01-02,Arizona Coyotes,Anaheim Ducks,4,2,REG
+2019020634,20192020,2020-01-02,Colorado Avalanche,St. Louis Blues,7,3,REG
+2019020637,20192020,2020-01-02,Vancouver Canucks,Chicago Blackhawks,7,5,REG
+2019020638,20192020,2020-01-02,Vegas Golden Knights,Philadelphia Flyers,5,4,REG
+2019020639,20192020,2020-01-03,Carolina Hurricanes,Washington Capitals,3,4,REG
+2019020640,20192020,2020-01-03,Dallas Stars,Detroit Red Wings,4,1,REG
+2019020641,20192020,2020-01-04,Boston Bruins,Edmonton Oilers,1,4,REG
+2019020642,20192020,2020-01-04,Columbus Blue Jackets,San Jose Sharks,2,3,REG
+2019020645,20192020,2020-01-04,Buffalo Sabres,Florida Panthers,3,2,REG
+2019020643,20192020,2020-01-04,Minnesota Wild,Winnipeg Jets,3,2,REG
+2019020644,20192020,2020-01-04,Vegas Golden Knights,St. Louis Blues,5,4,REG
+2019020646,20192020,2020-01-04,Toronto Maple Leafs,New York Islanders,3,0,REG
+2019020647,20192020,2020-01-04,Montréal Canadiens,Pittsburgh Penguins,2,3,REG
+2019020648,20192020,2020-01-04,Ottawa Senators,Tampa Bay Lightning,3,5,REG
+2019020649,20192020,2020-01-04,New Jersey Devils,Colorado Avalanche,2,5,REG
+2019020650,20192020,2020-01-04,Arizona Coyotes,Philadelphia Flyers,6,2,REG
+2019020651,20192020,2020-01-04,Vancouver Canucks,New York Rangers,2,1,REG
+2019020652,20192020,2020-01-04,Los Angeles Kings,Nashville Predators,1,4,REG
+2019020653,20192020,2020-01-05,Washington Capitals,San Jose Sharks,5,4,REG
+2019020654,20192020,2020-01-05,Pittsburgh Penguins,Florida Panthers,1,4,REG
+2019020655,20192020,2020-01-05,Carolina Hurricanes,Tampa Bay Lightning,1,3,REG
+2019020656,20192020,2020-01-05,Minnesota Wild,Calgary Flames,4,5,REG
+2019020657,20192020,2020-01-05,Chicago Blackhawks,Detroit Red Wings,4,2,REG
+2019020658,20192020,2020-01-05,Anaheim Ducks,Nashville Predators,5,4,REG
+2019020659,20192020,2020-01-06,Toronto Maple Leafs,Edmonton Oilers,4,6,REG
+2019020660,20192020,2020-01-06,Montréal Canadiens,Winnipeg Jets,2,3,REG
+2019020661,20192020,2020-01-06,New York Islanders,Colorado Avalanche,1,0,REG
+2019020662,20192020,2020-01-06,Los Angeles Kings,Columbus Blue Jackets,2,4,REG
+2019020663,20192020,2020-01-07,Tampa Bay Lightning,Vancouver Canucks,9,2,REG
+2019020664,20192020,2020-01-07,Florida Panthers,Arizona Coyotes,2,5,REG
+2019020665,20192020,2020-01-07,New Jersey Devils,New York Islanders,3,4,REG
+2019020667,20192020,2020-01-07,Washington Capitals,Ottawa Senators,6,1,REG
+2019020668,20192020,2020-01-07,Carolina Hurricanes,Philadelphia Flyers,5,4,REG
+2019020666,20192020,2020-01-07,New York Rangers,Colorado Avalanche,5,3,REG
+2019020669,20192020,2020-01-07,Detroit Red Wings,Montréal Canadiens,4,3,REG
+2019020670,20192020,2020-01-07,St. Louis Blues,San Jose Sharks,3,2,REG
+2019020671,20192020,2020-01-07,Nashville Predators,Boston Bruins,2,6,REG
+2019020672,20192020,2020-01-07,Chicago Blackhawks,Calgary Flames,1,2,REG
+2019020673,20192020,2020-01-07,Vegas Golden Knights,Pittsburgh Penguins,3,4,REG
+2019020674,20192020,2020-01-07,Anaheim Ducks,Columbus Blue Jackets,3,4,REG
+2019020675,20192020,2020-01-08,Toronto Maple Leafs,Winnipeg Jets,3,4,REG
+2019020676,20192020,2020-01-08,Philadelphia Flyers,Washington Capitals,3,2,REG
+2019020677,20192020,2020-01-08,Los Angeles Kings,Dallas Stars,1,2,REG
+2019020678,20192020,2020-01-09,Boston Bruins,Winnipeg Jets,5,4,REG
+2019020679,20192020,2020-01-09,Montréal Canadiens,Edmonton Oilers,2,4,REG
+2019020680,20192020,2020-01-09,Tampa Bay Lightning,Arizona Coyotes,4,0,REG
+2019020681,20192020,2020-01-09,Florida Panthers,Vancouver Canucks,5,2,REG
+2019020682,20192020,2020-01-09,New York Rangers,New Jersey Devils,6,3,REG
+2019020683,20192020,2020-01-09,St. Louis Blues,Buffalo Sabres,5,1,REG
+2019020684,20192020,2020-01-09,Chicago Blackhawks,Nashville Predators,2,5,REG
+2019020685,20192020,2020-01-09,Calgary Flames,Minnesota Wild,2,1,REG
+2019020686,20192020,2020-01-09,Vegas Golden Knights,Los Angeles Kings,2,5,REG
+2019020687,20192020,2020-01-09,Anaheim Ducks,Dallas Stars,0,3,REG
+2019020688,20192020,2020-01-09,San Jose Sharks,Columbus Blue Jackets,3,1,REG
+2019020689,20192020,2020-01-10,Detroit Red Wings,Ottawa Senators,3,2,REG
+2019020690,20192020,2020-01-10,Carolina Hurricanes,Arizona Coyotes,3,0,REG
+2019020691,20192020,2020-01-10,Colorado Avalanche,Pittsburgh Penguins,3,4,REG
+2019020692,20192020,2020-01-11,Buffalo Sabres,Vancouver Canucks,3,6,REG
+2019020693,20192020,2020-01-11,Ottawa Senators,Montréal Canadiens,1,2,REG
+2019020694,20192020,2020-01-11,New York Islanders,Boston Bruins,2,3,REG
+2019020695,20192020,2020-01-11,Philadelphia Flyers,Tampa Bay Lightning,0,1,REG
+2019020696,20192020,2020-01-11,Washington Capitals,New Jersey Devils,1,5,REG
+2019020697,20192020,2020-01-11,Carolina Hurricanes,Los Angeles Kings,2,0,REG
+2019020698,20192020,2020-01-11,St. Louis Blues,New York Rangers,5,2,REG
+2019020699,20192020,2020-01-11,Chicago Blackhawks,Anaheim Ducks,4,2,REG
+2019020701,20192020,2020-01-11,Vegas Golden Knights,Columbus Blue Jackets,0,3,REG
+2019020700,20192020,2020-01-11,Calgary Flames,Edmonton Oilers,4,3,REG
+2019020702,20192020,2020-01-11,San Jose Sharks,Dallas Stars,2,1,REG
+2019020703,20192020,2020-01-12,Winnipeg Jets,Nashville Predators,0,1,REG
+2019020704,20192020,2020-01-12,Minnesota Wild,Vancouver Canucks,1,4,REG
+2019020705,20192020,2020-01-12,Detroit Red Wings,Buffalo Sabres,1,5,REG
+2019020706,20192020,2020-01-12,Arizona Coyotes,Pittsburgh Penguins,3,4,REG
+2019020707,20192020,2020-01-12,Florida Panthers,Toronto Maple Leafs,8,4,REG
+2019020708,20192020,2020-01-12,New Jersey Devils,Tampa Bay Lightning,3,1,REG
+2019020709,20192020,2020-01-13,Montréal Canadiens,Calgary Flames,2,0,REG
+2019020710,20192020,2020-01-13,New York Rangers,New York Islanders,6,2,REG
+2019020711,20192020,2020-01-13,Philadelphia Flyers,Boston Bruins,6,5,REG
+2019020712,20192020,2020-01-13,Washington Capitals,Carolina Hurricanes,2,0,REG
+2019020713,20192020,2020-01-13,St. Louis Blues,Anaheim Ducks,4,1,REG
+2019020714,20192020,2020-01-14,Buffalo Sabres,Vegas Golden Knights,4,2,REG
+2019020715,20192020,2020-01-14,Toronto Maple Leafs,New Jersey Devils,7,4,REG
+2019020716,20192020,2020-01-14,Tampa Bay Lightning,Los Angeles Kings,4,3,REG
+2019020717,20192020,2020-01-14,New York Islanders,Detroit Red Wings,8,2,REG
+2019020718,20192020,2020-01-14,Pittsburgh Penguins,Minnesota Wild,7,3,REG
+2019020719,20192020,2020-01-14,Columbus Blue Jackets,Boston Bruins,3,0,REG
+2019020720,20192020,2020-01-14,Ottawa Senators,Chicago Blackhawks,2,3,REG
+2019020721,20192020,2020-01-14,Winnipeg Jets,Vancouver Canucks,4,0,REG
+2019020722,20192020,2020-01-14,Colorado Avalanche,Dallas Stars,2,3,REG
+2019020723,20192020,2020-01-14,Edmonton Oilers,Nashville Predators,4,2,REG
+2019020724,20192020,2020-01-14,Arizona Coyotes,San Jose Sharks,6,3,REG
+2019020725,20192020,2020-01-15,Montréal Canadiens,Chicago Blackhawks,1,4,REG
+2019020726,20192020,2020-01-15,St. Louis Blues,Philadelphia Flyers,3,4,REG
+2019020727,20192020,2020-01-16,Boston Bruins,Pittsburgh Penguins,4,1,REG
+2019020728,20192020,2020-01-16,Toronto Maple Leafs,Calgary Flames,1,2,REG
+2019020729,20192020,2020-01-16,Florida Panthers,Los Angeles Kings,4,3,REG
+2019020730,20192020,2020-01-16,New York Islanders,New York Rangers,2,3,REG
+2019020731,20192020,2020-01-16,Philadelphia Flyers,Montréal Canadiens,1,4,REG
+2019020732,20192020,2020-01-16,Washington Capitals,New Jersey Devils,5,2,REG
+2019020733,20192020,2020-01-16,Columbus Blue Jackets,Carolina Hurricanes,3,2,REG
+2019020734,20192020,2020-01-16,Ottawa Senators,Vegas Golden Knights,2,4,REG
+2019020735,20192020,2020-01-16,Nashville Predators,Anaheim Ducks,2,4,REG
+2019020736,20192020,2020-01-16,Minnesota Wild,Tampa Bay Lightning,3,2,REG
+2019020737,20192020,2020-01-16,Dallas Stars,Buffalo Sabres,1,4,REG
+2019020738,20192020,2020-01-16,Colorado Avalanche,San Jose Sharks,4,0,REG
+2019020739,20192020,2020-01-16,Vancouver Canucks,Arizona Coyotes,3,1,REG
+2019020740,20192020,2020-01-17,Detroit Red Wings,Pittsburgh Penguins,1,2,REG
+2019020741,20192020,2020-01-17,Carolina Hurricanes,Anaheim Ducks,1,2,REG
+2019020742,20192020,2020-01-17,Winnipeg Jets,Tampa Bay Lightning,1,7,REG
+2019020743,20192020,2020-01-18,New York Islanders,Washington Capitals,4,6,REG
+2019020744,20192020,2020-01-18,Colorado Avalanche,St. Louis Blues,5,3,REG
+2019020745,20192020,2020-01-18,Edmonton Oilers,Arizona Coyotes,7,3,REG
+2019020746,20192020,2020-01-18,Ottawa Senators,Calgary Flames,5,2,REG
+2019020747,20192020,2020-01-18,Toronto Maple Leafs,Chicago Blackhawks,2,6,REG
+2019020748,20192020,2020-01-18,Montréal Canadiens,Vegas Golden Knights,5,4,REG
+2019020749,20192020,2020-01-18,Detroit Red Wings,Florida Panthers,1,4,REG
+2019020750,20192020,2020-01-18,Philadelphia Flyers,Los Angeles Kings,4,1,REG
+2019020751,20192020,2020-01-18,Columbus Blue Jackets,New Jersey Devils,5,0,REG
+2019020752,20192020,2020-01-18,Nashville Predators,Buffalo Sabres,2,1,REG
+2019020753,20192020,2020-01-18,Minnesota Wild,Dallas Stars,7,0,REG
+2019020754,20192020,2020-01-18,Vancouver Canucks,San Jose Sharks,4,1,REG
+2019020755,20192020,2020-01-19,Pittsburgh Penguins,Boston Bruins,4,3,REG
+2019020756,20192020,2020-01-19,Carolina Hurricanes,New York Islanders,2,1,REG
+2019020758,20192020,2020-01-19,Chicago Blackhawks,Winnipeg Jets,5,2,REG
+2019020757,20192020,2020-01-19,New York Rangers,Columbus Blue Jackets,1,2,REG
+2019020759,20192020,2020-01-20,Colorado Avalanche,Detroit Red Wings,6,3,REG
+2019020760,20192020,2020-01-20,Minnesota Wild,Florida Panthers,4,5,REG
+2019020761,20192020,2020-01-21,Boston Bruins,Vegas Golden Knights,3,2,REG
+2019020762,20192020,2020-01-21,New York Rangers,New York Islanders,2,4,REG
+2019020764,20192020,2020-01-21,Carolina Hurricanes,Winnipeg Jets,4,1,REG
+2019020763,20192020,2020-01-21,Philadelphia Flyers,Pittsburgh Penguins,3,0,REG
+2019020765,20192020,2020-01-21,Chicago Blackhawks,Florida Panthers,3,4,REG
+2019020766,20192020,2020-01-22,Columbus Blue Jackets,Winnipeg Jets,4,3,REG
+2019020767,20192020,2020-01-22,Minnesota Wild,Detroit Red Wings,4,2,REG
+2019120001,20192020,2020-01-24,American All-Stars,Canadian All-Stars,1,2,REG
+2019020768,20192020,2020-01-27,Montréal Canadiens,Washington Capitals,2,4,REG
+2019020769,20192020,2020-01-27,Ottawa Senators,New Jersey Devils,3,4,REG
+2019020770,20192020,2020-01-27,Nashville Predators,Toronto Maple Leafs,2,5,REG
+2019020771,20192020,2020-01-27,Dallas Stars,Tampa Bay Lightning,3,2,REG
+2019020772,20192020,2020-01-27,Vancouver Canucks,St. Louis Blues,3,1,REG
+2019020773,20192020,2020-01-27,San Jose Sharks,Anaheim Ducks,4,2,REG
+2019020774,20192020,2020-01-28,Buffalo Sabres,Ottawa Senators,2,5,REG
+2019020775,20192020,2020-01-28,Calgary Flames,St. Louis Blues,4,5,REG
+2019020777,20192020,2020-01-29,Dallas Stars,Toronto Maple Leafs,3,5,REG
+2019020776,20192020,2020-01-29,Washington Capitals,Nashville Predators,4,5,REG
+2019020779,20192020,2020-01-29,Anaheim Ducks,Arizona Coyotes,4,2,REG
+2019020780,20192020,2020-01-29,Los Angeles Kings,Tampa Bay Lightning,2,4,REG
+2019020778,20192020,2020-01-29,Edmonton Oilers,Calgary Flames,3,4,REG
+2019020781,20192020,2020-01-29,San Jose Sharks,Vancouver Canucks,2,5,REG
+2019020782,20192020,2020-01-30,Buffalo Sabres,Montréal Canadiens,1,3,REG
+2019020783,20192020,2020-01-30,New Jersey Devils,Nashville Predators,5,6,REG
+2019020784,20192020,2020-01-30,Arizona Coyotes,Los Angeles Kings,2,3,REG
+2019020785,20192020,2020-01-31,New York Rangers,Detroit Red Wings,4,2,REG
+2019020786,20192020,2020-01-31,Pittsburgh Penguins,Philadelphia Flyers,4,3,REG
+2019020787,20192020,2020-01-31,Ottawa Senators,Washington Capitals,3,5,REG
+2019020788,20192020,2020-01-31,Carolina Hurricanes,Vegas Golden Knights,3,4,REG
+2019020789,20192020,2020-01-31,Winnipeg Jets,Boston Bruins,1,2,REG
+2019020790,20192020,2020-01-31,Edmonton Oilers,St. Louis Blues,4,2,REG
+2019020791,20192020,2020-01-31,Anaheim Ducks,Tampa Bay Lightning,3,4,REG
+2019020792,20192020,2020-02-01,Buffalo Sabres,Columbus Blue Jackets,2,1,REG
+2019020793,20192020,2020-02-01,New York Islanders,Vancouver Canucks,3,4,REG
+2019020794,20192020,2020-02-01,Montréal Canadiens,Florida Panthers,4,0,REG
+2019020799,20192020,2020-02-01,Winnipeg Jets,St. Louis Blues,5,2,REG
+2019020795,20192020,2020-02-01,Toronto Maple Leafs,Ottawa Senators,2,1,REG
+2019020796,20192020,2020-02-01,Detroit Red Wings,New York Rangers,0,1,REG
+2019020797,20192020,2020-02-01,New Jersey Devils,Dallas Stars,2,3,REG
+2019020798,20192020,2020-02-01,Philadelphia Flyers,Colorado Avalanche,6,3,REG
+2019020802,20192020,2020-02-01,Arizona Coyotes,Chicago Blackhawks,2,3,REG
+2019020800,20192020,2020-02-01,Nashville Predators,Vegas Golden Knights,0,3,REG
+2019020801,20192020,2020-02-01,Minnesota Wild,Boston Bruins,1,6,REG
+2019020803,20192020,2020-02-01,Calgary Flames,Edmonton Oilers,3,8,REG
+2019020804,20192020,2020-02-01,Los Angeles Kings,Anaheim Ducks,1,3,REG
+2019020805,20192020,2020-02-01,San Jose Sharks,Tampa Bay Lightning,0,3,REG
+2019020806,20192020,2020-02-02,Washington Capitals,Pittsburgh Penguins,3,4,REG
+2019020807,20192020,2020-02-02,Montréal Canadiens,Columbus Blue Jackets,3,4,REG
+2019020808,20192020,2020-02-02,Carolina Hurricanes,Vancouver Canucks,4,3,REG
+2019020809,20192020,2020-02-03,Toronto Maple Leafs,Florida Panthers,3,5,REG
+2019020810,20192020,2020-02-03,New York Rangers,Dallas Stars,3,5,REG
+2019020811,20192020,2020-02-03,Detroit Red Wings,Philadelphia Flyers,0,3,REG
+2019020812,20192020,2020-02-04,Boston Bruins,Vancouver Canucks,4,0,REG
+2019020813,20192020,2020-02-04,Buffalo Sabres,Colorado Avalanche,1,6,REG
+2019020814,20192020,2020-02-04,Tampa Bay Lightning,Vegas Golden Knights,4,2,REG
+2019020815,20192020,2020-02-04,New Jersey Devils,Montréal Canadiens,4,5,REG
+2019020816,20192020,2020-02-04,New York Islanders,Dallas Stars,4,3,REG
+2019020817,20192020,2020-02-04,Washington Capitals,Los Angeles Kings,4,2,REG
+2019020818,20192020,2020-02-04,Columbus Blue Jackets,Florida Panthers,1,0,REG
+2019020819,20192020,2020-02-04,Ottawa Senators,Anaheim Ducks,2,3,REG
+2019020820,20192020,2020-02-04,St. Louis Blues,Carolina Hurricanes,6,3,REG
+2019020821,20192020,2020-02-04,Minnesota Wild,Chicago Blackhawks,3,2,REG
+2019020822,20192020,2020-02-04,Winnipeg Jets,Nashville Predators,1,2,REG
+2019020823,20192020,2020-02-04,Calgary Flames,San Jose Sharks,1,3,REG
+2019020824,20192020,2020-02-04,Arizona Coyotes,Edmonton Oilers,3,0,REG
+2019020825,20192020,2020-02-05,New York Rangers,Toronto Maple Leafs,5,3,REG
+2019020826,20192020,2020-02-05,Chicago Blackhawks,Boston Bruins,1,2,REG
+2019020827,20192020,2020-02-06,Buffalo Sabres,Detroit Red Wings,3,4,REG
+2019020828,20192020,2020-02-06,Montréal Canadiens,Anaheim Ducks,3,2,REG
+2019020829,20192020,2020-02-06,Tampa Bay Lightning,Pittsburgh Penguins,4,2,REG
+2019020830,20192020,2020-02-06,Florida Panthers,Vegas Golden Knights,2,7,REG
+2019020831,20192020,2020-02-06,New York Islanders,Los Angeles Kings,5,3,REG
+2019020832,20192020,2020-02-06,Philadelphia Flyers,New Jersey Devils,0,5,REG
+2019020833,20192020,2020-02-06,Ottawa Senators,Colorado Avalanche,1,4,REG
+2019020834,20192020,2020-02-06,St. Louis Blues,Winnipeg Jets,2,4,REG
+2019020835,20192020,2020-02-06,Minnesota Wild,Vancouver Canucks,4,2,REG
+2019020836,20192020,2020-02-06,Calgary Flames,Nashville Predators,2,3,REG
+2019020838,20192020,2020-02-06,Arizona Coyotes,Carolina Hurricanes,3,5,REG
+2019020837,20192020,2020-02-06,Edmonton Oilers,San Jose Sharks,3,6,REG
+2019020839,20192020,2020-02-07,Toronto Maple Leafs,Anaheim Ducks,5,4,REG
+2019020840,20192020,2020-02-07,New York Rangers,Buffalo Sabres,2,3,REG
+2019020841,20192020,2020-02-07,Columbus Blue Jackets,Detroit Red Wings,2,0,REG
+2019020842,20192020,2020-02-07,Dallas Stars,Minnesota Wild,2,3,REG
+2019020843,20192020,2020-02-08,Winnipeg Jets,Ottawa Senators,5,2,REG
+2019020844,20192020,2020-02-08,Boston Bruins,Arizona Coyotes,4,2,REG
+2019020851,20192020,2020-02-08,Edmonton Oilers,Nashville Predators,3,2,REG
+2019020845,20192020,2020-02-08,Montréal Canadiens,Toronto Maple Leafs,2,1,REG
+2019020846,20192020,2020-02-08,Tampa Bay Lightning,New York Islanders,3,1,REG
+2019020847,20192020,2020-02-08,Florida Panthers,Pittsburgh Penguins,2,3,REG
+2019020848,20192020,2020-02-08,New Jersey Devils,Los Angeles Kings,3,0,REG
+2019020849,20192020,2020-02-08,Washington Capitals,Philadelphia Flyers,2,7,REG
+2019020850,20192020,2020-02-08,Columbus Blue Jackets,Colorado Avalanche,1,2,REG
+2019020852,20192020,2020-02-08,St. Louis Blues,Dallas Stars,2,3,REG
+2019020853,20192020,2020-02-08,Vancouver Canucks,Calgary Flames,2,6,REG
+2019020854,20192020,2020-02-08,Vegas Golden Knights,Carolina Hurricanes,5,6,REG
+2019020855,20192020,2020-02-09,Detroit Red Wings,Boston Bruins,3,1,REG
+2019020856,20192020,2020-02-09,Buffalo Sabres,Anaheim Ducks,2,3,REG
+2019020857,20192020,2020-02-09,New York Rangers,Los Angeles Kings,4,1,REG
+2019020858,20192020,2020-02-09,Winnipeg Jets,Chicago Blackhawks,5,2,REG
+2019020859,20192020,2020-02-09,Minnesota Wild,Colorado Avalanche,2,3,REG
+2019020860,20192020,2020-02-10,Montréal Canadiens,Arizona Coyotes,2,3,REG
+2019020861,20192020,2020-02-10,Philadelphia Flyers,Florida Panthers,4,1,REG
+2019020862,20192020,2020-02-10,Washington Capitals,New York Islanders,3,5,REG
+2019020863,20192020,2020-02-10,Columbus Blue Jackets,Tampa Bay Lightning,1,2,REG
+2019020864,20192020,2020-02-10,Vancouver Canucks,Nashville Predators,6,2,REG
+2019020865,20192020,2020-02-10,San Jose Sharks,Calgary Flames,2,6,REG
+2019020866,20192020,2020-02-11,Buffalo Sabres,Detroit Red Wings,3,2,REG
+2019020867,20192020,2020-02-11,Toronto Maple Leafs,Arizona Coyotes,3,2,REG
+2019020868,20192020,2020-02-11,New Jersey Devils,Florida Panthers,3,5,REG
+2019020869,20192020,2020-02-11,New York Islanders,Philadelphia Flyers,5,3,REG
+2019020870,20192020,2020-02-11,Pittsburgh Penguins,Tampa Bay Lightning,1,2,REG
+2019020871,20192020,2020-02-11,Minnesota Wild,Vegas Golden Knights,4,0,REG
+2019020872,20192020,2020-02-11,Winnipeg Jets,New York Rangers,1,4,REG
+2019020873,20192020,2020-02-11,Dallas Stars,Carolina Hurricanes,4,1,REG
+2019020874,20192020,2020-02-11,Colorado Avalanche,Ottawa Senators,3,0,REG
+2019020875,20192020,2020-02-11,Edmonton Oilers,Chicago Blackhawks,5,3,REG
+2019020877,20192020,2020-02-12,Boston Bruins,Montréal Canadiens,4,1,REG
+2019020878,20192020,2020-02-12,Los Angeles Kings,Calgary Flames,5,3,REG
+2019020879,20192020,2020-02-12,Vancouver Canucks,Chicago Blackhawks,3,0,REG
+2019020880,20192020,2020-02-13,Buffalo Sabres,Columbus Blue Jackets,4,3,REG
+2019020881,20192020,2020-02-13,Toronto Maple Leafs,Dallas Stars,2,3,REG
+2019020882,20192020,2020-02-13,Tampa Bay Lightning,Edmonton Oilers,3,1,REG
+2019020883,20192020,2020-02-13,Florida Panthers,Philadelphia Flyers,2,6,REG
+2019020884,20192020,2020-02-13,New Jersey Devils,Detroit Red Wings,4,1,REG
+2019020885,20192020,2020-02-13,Ottawa Senators,Arizona Coyotes,3,2,REG
+2019020886,20192020,2020-02-13,Nashville Predators,New York Islanders,5,0,REG
+2019020887,20192020,2020-02-13,Minnesota Wild,New York Rangers,3,4,REG
+2019020888,20192020,2020-02-13,Colorado Avalanche,Washington Capitals,2,3,REG
+2019020889,20192020,2020-02-13,Vegas Golden Knights,St. Louis Blues,6,5,REG
+2019020890,20192020,2020-02-13,Anaheim Ducks,Calgary Flames,0,6,REG
+2019020893,20192020,2020-02-14,Winnipeg Jets,San Jose Sharks,2,3,REG
+2019020891,20192020,2020-02-14,Pittsburgh Penguins,Montréal Canadiens,4,1,REG
+2019020892,20192020,2020-02-14,Columbus Blue Jackets,New York Rangers,1,3,REG
+2019020894,20192020,2020-02-14,Carolina Hurricanes,New Jersey Devils,5,2,REG
+2019020895,20192020,2020-02-15,Boston Bruins,Detroit Red Wings,4,1,REG
+2019020896,20192020,2020-02-15,St. Louis Blues,Nashville Predators,3,4,REG
+2019020897,20192020,2020-02-15,Tampa Bay Lightning,Philadelphia Flyers,5,3,REG
+2019020898,20192020,2020-02-15,Florida Panthers,Edmonton Oilers,1,4,REG
+2019020899,20192020,2020-02-15,Minnesota Wild,San Jose Sharks,0,2,REG
+2019020900,20192020,2020-02-15,Montréal Canadiens,Dallas Stars,3,4,REG
+2019020901,20192020,2020-02-15,Ottawa Senators,Toronto Maple Leafs,2,4,REG
+2019020902,20192020,2020-02-15,Colorado Avalanche,Los Angeles Kings,1,3,REG
+2019020903,20192020,2020-02-15,Calgary Flames,Chicago Blackhawks,4,8,REG
+2019020904,20192020,2020-02-15,Arizona Coyotes,Washington Capitals,3,1,REG
+2019020905,20192020,2020-02-15,Vegas Golden Knights,New York Islanders,1,0,REG
+2019020906,20192020,2020-02-16,Pittsburgh Penguins,Detroit Red Wings,5,1,REG
+2019020907,20192020,2020-02-16,New York Rangers,Boston Bruins,1,3,REG
+2019020908,20192020,2020-02-16,Carolina Hurricanes,Edmonton Oilers,3,4,REG
+2019020909,20192020,2020-02-16,Vancouver Canucks,Anaheim Ducks,1,5,REG
+2019020912,20192020,2020-02-16,Nashville Predators,St. Louis Blues,2,1,REG
+2019020910,20192020,2020-02-16,Ottawa Senators,Dallas Stars,4,3,REG
+2019020911,20192020,2020-02-16,New Jersey Devils,Columbus Blue Jackets,4,3,REG
+2019020913,20192020,2020-02-16,Buffalo Sabres,Toronto Maple Leafs,5,2,REG
+2019020914,20192020,2020-02-16,Winnipeg Jets,Chicago Blackhawks,3,2,REG
+2019020917,20192020,2020-02-17,San Jose Sharks,Florida Panthers,3,5,REG
+2019020915,20192020,2020-02-17,Calgary Flames,Anaheim Ducks,6,4,REG
+2019020916,20192020,2020-02-17,Arizona Coyotes,New York Islanders,2,1,REG
+2019020918,20192020,2020-02-17,Vegas Golden Knights,Washington Capitals,3,2,REG
+2019020919,20192020,2020-02-17,Colorado Avalanche,Tampa Bay Lightning,3,4,REG
+2019020920,20192020,2020-02-18,Philadelphia Flyers,Columbus Blue Jackets,5,1,REG
+2019020921,20192020,2020-02-18,Pittsburgh Penguins,Toronto Maple Leafs,5,2,REG
+2019020922,20192020,2020-02-18,Ottawa Senators,Buffalo Sabres,7,4,REG
+2019020923,20192020,2020-02-18,Detroit Red Wings,Montréal Canadiens,4,3,REG
+2019020924,20192020,2020-02-18,St. Louis Blues,New Jersey Devils,3,0,REG
+2019020925,20192020,2020-02-18,Nashville Predators,Carolina Hurricanes,1,4,REG
+2019020926,20192020,2020-02-18,Winnipeg Jets,Los Angeles Kings,6,3,REG
+2019020927,20192020,2020-02-19,Chicago Blackhawks,New York Rangers,3,6,REG
+2019020929,20192020,2020-02-19,Edmonton Oilers,Boston Bruins,1,2,REG
+2019020928,20192020,2020-02-19,Dallas Stars,Arizona Coyotes,3,2,REG
+2019020931,20192020,2020-02-19,Anaheim Ducks,Florida Panthers,1,4,REG
+2019020930,20192020,2020-02-19,Colorado Avalanche,New York Islanders,3,1,REG
+2019020932,20192020,2020-02-19,Vancouver Canucks,Minnesota Wild,3,4,REG
+2019020933,20192020,2020-02-20,Toronto Maple Leafs,Pittsburgh Penguins,4,0,REG
+2019020934,20192020,2020-02-20,New Jersey Devils,San Jose Sharks,2,1,REG
+2019020935,20192020,2020-02-20,Washington Capitals,Montréal Canadiens,3,4,REG
+2019020936,20192020,2020-02-20,Columbus Blue Jackets,Philadelphia Flyers,3,4,REG
+2019020937,20192020,2020-02-20,Ottawa Senators,Winnipeg Jets,1,5,REG
+2019020938,20192020,2020-02-20,St. Louis Blues,Arizona Coyotes,1,0,REG
+2019020939,20192020,2020-02-20,Vegas Golden Knights,Tampa Bay Lightning,5,3,REG
+2019020940,20192020,2020-02-20,Los Angeles Kings,Florida Panthers,5,4,REG
+2019020942,20192020,2020-02-21,Carolina Hurricanes,New York Rangers,2,5,REG
+2019020941,20192020,2020-02-21,New York Islanders,Detroit Red Wings,4,1,REG
+2019020943,20192020,2020-02-21,Chicago Blackhawks,Nashville Predators,2,1,REG
+2019020944,20192020,2020-02-21,Dallas Stars,St. Louis Blues,1,5,REG
+2019020945,20192020,2020-02-21,Calgary Flames,Boston Bruins,3,4,REG
+2019020946,20192020,2020-02-21,Edmonton Oilers,Minnesota Wild,3,5,REG
+2019020947,20192020,2020-02-21,Anaheim Ducks,Colorado Avalanche,0,1,REG
+2019020948,20192020,2020-02-22,New Jersey Devils,Washington Capitals,3,2,REG
+2019020949,20192020,2020-02-22,Philadelphia Flyers,Winnipeg Jets,4,2,REG
+2019020950,20192020,2020-02-22,Pittsburgh Penguins,Buffalo Sabres,2,5,REG
+2019020951,20192020,2020-02-22,Toronto Maple Leafs,Carolina Hurricanes,3,6,REG
+2019020952,20192020,2020-02-22,Ottawa Senators,Montréal Canadiens,0,3,REG
+2019020953,20192020,2020-02-22,New York Rangers,San Jose Sharks,3,2,REG
+2019020955,20192020,2020-02-22,Arizona Coyotes,Tampa Bay Lightning,7,3,REG
+2019020954,20192020,2020-02-22,Nashville Predators,Columbus Blue Jackets,4,3,REG
+2019020956,20192020,2020-02-22,Vancouver Canucks,Boston Bruins,9,3,REG
+2019020957,20192020,2020-02-22,Vegas Golden Knights,Florida Panthers,5,3,REG
+2019020958,20192020,2020-02-22,Los Angeles Kings,Colorado Avalanche,1,2,REG
+2019020959,20192020,2020-02-23,Washington Capitals,Pittsburgh Penguins,5,3,REG
+2019020961,20192020,2020-02-23,Dallas Stars,Chicago Blackhawks,2,1,REG
+2019020960,20192020,2020-02-23,Buffalo Sabres,Winnipeg Jets,2,1,REG
+2019020962,20192020,2020-02-23,New York Islanders,San Jose Sharks,4,1,REG
+2019020963,20192020,2020-02-23,Detroit Red Wings,Calgary Flames,2,4,REG
+2019020964,20192020,2020-02-23,Minnesota Wild,St. Louis Blues,1,4,REG
+2019020965,20192020,2020-02-23,Anaheim Ducks,Vegas Golden Knights,5,6,REG
+2019020966,20192020,2020-02-23,Los Angeles Kings,Edmonton Oilers,2,4,REG
+2019020967,20192020,2020-02-24,Columbus Blue Jackets,Ottawa Senators,4,3,REG
+2019020968,20192020,2020-02-25,Boston Bruins,Calgary Flames,2,5,REG
+2019020969,20192020,2020-02-25,Montréal Canadiens,Vancouver Canucks,3,4,REG
+2019020970,20192020,2020-02-25,Tampa Bay Lightning,Toronto Maple Leafs,3,4,REG
+2019020971,20192020,2020-02-25,New York Islanders,New York Rangers,3,4,REG
+2019020972,20192020,2020-02-25,Philadelphia Flyers,San Jose Sharks,4,2,REG
+2019020973,20192020,2020-02-25,Washington Capitals,Winnipeg Jets,4,3,REG
+2019020974,20192020,2020-02-25,Carolina Hurricanes,Dallas Stars,1,4,REG
+2019020975,20192020,2020-02-25,Detroit Red Wings,New Jersey Devils,1,4,REG
+2019020976,20192020,2020-02-25,St. Louis Blues,Chicago Blackhawks,6,5,REG
+2019020977,20192020,2020-02-25,Nashville Predators,Ottawa Senators,3,2,REG
+2019020978,20192020,2020-02-25,Minnesota Wild,Columbus Blue Jackets,5,4,REG
+2019020979,20192020,2020-02-25,Arizona Coyotes,Florida Panthers,1,2,REG
+2019020980,20192020,2020-02-25,Anaheim Ducks,Edmonton Oilers,4,3,REG
+2019020981,20192020,2020-02-26,Colorado Avalanche,Buffalo Sabres,3,2,REG
+2019020982,20192020,2020-02-26,Vegas Golden Knights,Edmonton Oilers,3,0,REG
+2019020983,20192020,2020-02-26,Los Angeles Kings,Pittsburgh Penguins,2,1,REG
+2019020985,20192020,2020-02-27,Montréal Canadiens,New York Rangers,2,5,REG
+2019020986,20192020,2020-02-27,Tampa Bay Lightning,Chicago Blackhawks,2,5,REG
+2019020987,20192020,2020-02-27,Florida Panthers,Toronto Maple Leafs,3,5,REG
+2019020984,20192020,2020-02-27,Boston Bruins,Dallas Stars,4,3,REG
+2019020988,20192020,2020-02-27,Ottawa Senators,Vancouver Canucks,5,2,REG
+2019020989,20192020,2020-02-27,Detroit Red Wings,Minnesota Wild,1,7,REG
+2019020990,20192020,2020-02-27,St. Louis Blues,New York Islanders,3,2,REG
+2019020991,20192020,2020-02-27,Nashville Predators,Calgary Flames,4,3,REG
+2019020992,20192020,2020-02-27,Winnipeg Jets,Washington Capitals,3,0,REG
+2019020993,20192020,2020-02-27,San Jose Sharks,New Jersey Devils,3,2,REG
+2019020994,20192020,2020-02-28,Philadelphia Flyers,New York Rangers,5,2,REG
+2019020995,20192020,2020-02-28,Columbus Blue Jackets,Minnesota Wild,0,5,REG
+2019020996,20192020,2020-02-28,Carolina Hurricanes,Colorado Avalanche,2,3,REG
+2019020997,20192020,2020-02-28,Vegas Golden Knights,Buffalo Sabres,4,2,REG
+2019020998,20192020,2020-02-28,Anaheim Ducks,Pittsburgh Penguins,3,2,REG
+2019020999,20192020,2020-02-29,New York Islanders,Boston Bruins,0,4,REG
+2019021001,20192020,2020-02-29,Los Angeles Kings,New Jersey Devils,2,1,REG
+2019021000,20192020,2020-02-29,Tampa Bay Lightning,Calgary Flames,4,3,REG
+2019021002,20192020,2020-02-29,Florida Panthers,Chicago Blackhawks,2,3,REG
+2019021007,20192020,2020-02-29,Nashville Predators,Colorado Avalanche,2,3,REG
+2019021003,20192020,2020-02-29,Toronto Maple Leafs,Vancouver Canucks,4,2,REG
+2019021004,20192020,2020-02-29,Montréal Canadiens,Carolina Hurricanes,4,3,REG
+2019021005,20192020,2020-02-29,Ottawa Senators,Detroit Red Wings,4,3,REG
+2019021008,20192020,2020-02-29,Arizona Coyotes,Buffalo Sabres,5,2,REG
+2019021006,20192020,2020-02-29,St. Louis Blues,Dallas Stars,4,3,REG
+2019021009,20192020,2020-02-29,Edmonton Oilers,Winnipeg Jets,3,2,REG
+2019021010,20192020,2020-02-29,San Jose Sharks,Pittsburgh Penguins,5,0,REG
+2019021011,20192020,2020-03-01,New York Rangers,Philadelphia Flyers,3,5,REG
+2019021012,20192020,2020-03-01,Florida Panthers,Calgary Flames,0,3,REG
+2019021013,20192020,2020-03-01,Columbus Blue Jackets,Vancouver Canucks,5,3,REG
+2019021015,20192020,2020-03-01,Anaheim Ducks,New Jersey Devils,0,3,REG
+2019021014,20192020,2020-03-01,Minnesota Wild,Washington Capitals,3,4,REG
+2019021016,20192020,2020-03-01,Vegas Golden Knights,Los Angeles Kings,1,4,REG
+2019021017,20192020,2020-03-02,Detroit Red Wings,Colorado Avalanche,1,2,REG
+2019021018,20192020,2020-03-02,Nashville Predators,Edmonton Oilers,3,8,REG
+2019021020,20192020,2020-03-03,New York Islanders,Montréal Canadiens,2,6,REG
+2019021021,20192020,2020-03-03,New York Rangers,St. Louis Blues,1,3,REG
+2019021022,20192020,2020-03-03,Pittsburgh Penguins,Ottawa Senators,7,3,REG
+2019021019,20192020,2020-03-03,Tampa Bay Lightning,Boston Bruins,1,2,REG
+2019021023,20192020,2020-03-03,Minnesota Wild,Nashville Predators,3,1,REG
+2019021024,20192020,2020-03-03,Winnipeg Jets,Buffalo Sabres,3,1,REG
+2019021025,20192020,2020-03-03,Chicago Blackhawks,Anaheim Ducks,6,2,REG
+2019021026,20192020,2020-03-03,Dallas Stars,Edmonton Oilers,1,2,REG
+2019021027,20192020,2020-03-03,Vegas Golden Knights,New Jersey Devils,3,0,REG
+2019021028,20192020,2020-03-03,San Jose Sharks,Toronto Maple Leafs,5,2,REG
+2019021029,20192020,2020-03-04,Washington Capitals,Philadelphia Flyers,2,5,REG
+2019021030,20192020,2020-03-04,Calgary Flames,Columbus Blue Jackets,3,2,REG
+2019021031,20192020,2020-03-04,Colorado Avalanche,Anaheim Ducks,3,4,REG
+2019021032,20192020,2020-03-04,Vancouver Canucks,Arizona Coyotes,2,4,REG
+2019021033,20192020,2020-03-05,Buffalo Sabres,Pittsburgh Penguins,2,4,REG
+2019021034,20192020,2020-03-05,Tampa Bay Lightning,Montréal Canadiens,4,0,REG
+2019021035,20192020,2020-03-05,Florida Panthers,Boston Bruins,1,2,REG
+2019021036,20192020,2020-03-05,New York Rangers,Washington Capitals,6,5,REG
+2019021037,20192020,2020-03-05,Philadelphia Flyers,Carolina Hurricanes,4,1,REG
+2019021038,20192020,2020-03-05,Ottawa Senators,New York Islanders,4,3,REG
+2019021039,20192020,2020-03-05,Nashville Predators,Dallas Stars,2,0,REG
+2019021040,20192020,2020-03-05,Chicago Blackhawks,Edmonton Oilers,4,3,REG
+2019021041,20192020,2020-03-05,Los Angeles Kings,Toronto Maple Leafs,1,0,REG
+2019021042,20192020,2020-03-05,San Jose Sharks,Minnesota Wild,2,3,REG
+2019021043,20192020,2020-03-06,New Jersey Devils,St. Louis Blues,4,2,REG
+2019021044,20192020,2020-03-06,Detroit Red Wings,Chicago Blackhawks,2,1,REG
+2019021045,20192020,2020-03-06,Winnipeg Jets,Vegas Golden Knights,4,0,REG
+2019021046,20192020,2020-03-06,Calgary Flames,Arizona Coyotes,3,2,REG
+2019021047,20192020,2020-03-06,Vancouver Canucks,Colorado Avalanche,6,3,REG
+2019021048,20192020,2020-03-06,Anaheim Ducks,Toronto Maple Leafs,2,1,REG
+2019021049,20192020,2020-03-07,New York Islanders,Carolina Hurricanes,2,3,REG
+2019021050,20192020,2020-03-07,Pittsburgh Penguins,Washington Capitals,2,5,REG
+2019021051,20192020,2020-03-07,Dallas Stars,Nashville Predators,0,1,REG
+2019021052,20192020,2020-03-07,Los Angeles Kings,Minnesota Wild,7,3,REG
+2019021057,20192020,2020-03-07,San Jose Sharks,Ottawa Senators,1,2,REG
+2019021053,20192020,2020-03-07,Boston Bruins,Tampa Bay Lightning,3,5,REG
+2019021054,20192020,2020-03-07,Florida Panthers,Montréal Canadiens,4,1,REG
+2019021055,20192020,2020-03-07,New York Rangers,New Jersey Devils,4,6,REG
+2019021056,20192020,2020-03-07,Philadelphia Flyers,Buffalo Sabres,3,1,REG
+2019021058,20192020,2020-03-07,Edmonton Oilers,Columbus Blue Jackets,4,1,REG
+2019021059,20192020,2020-03-08,Pittsburgh Penguins,Carolina Hurricanes,2,6,REG
+2019021060,20192020,2020-03-08,Detroit Red Wings,Tampa Bay Lightning,5,4,REG
+2019021062,20192020,2020-03-08,Calgary Flames,Vegas Golden Knights,3,5,REG
+2019021061,20192020,2020-03-08,Chicago Blackhawks,St. Louis Blues,0,2,REG
+2019021063,20192020,2020-03-08,Anaheim Ducks,Minnesota Wild,4,5,REG
+2019021064,20192020,2020-03-08,Vancouver Canucks,Columbus Blue Jackets,1,2,REG
+2019021065,20192020,2020-03-08,San Jose Sharks,Colorado Avalanche,3,4,REG
+2019021066,20192020,2020-03-09,Buffalo Sabres,Washington Capitals,3,2,REG
+2019021067,20192020,2020-03-09,Winnipeg Jets,Arizona Coyotes,4,2,REG
+2019021075,20192020,2020-03-09,St. Louis Blues,Florida Panthers,1,2,REG
+2019021068,20192020,2020-03-09,Edmonton Oilers,Vegas Golden Knights,2,3,REG
+2019021069,20192020,2020-03-09,Los Angeles Kings,Colorado Avalanche,3,1,REG
+2019021070,20192020,2020-03-10,Toronto Maple Leafs,Tampa Bay Lightning,2,1,REG
+2019021071,20192020,2020-03-10,Montréal Canadiens,Nashville Predators,2,4,REG
+2019021072,20192020,2020-03-10,New Jersey Devils,Pittsburgh Penguins,2,5,REG
+2019021073,20192020,2020-03-10,Philadelphia Flyers,Boston Bruins,0,2,REG
+2019021074,20192020,2020-03-10,Detroit Red Wings,Carolina Hurricanes,2,5,REG
+2019021076,20192020,2020-03-10,Dallas Stars,New York Rangers,2,4,REG
+2019021077,20192020,2020-03-10,Vancouver Canucks,New York Islanders,5,4,REG
+2019021078,20192020,2020-03-10,Anaheim Ducks,Ottawa Senators,5,2,REG
+2019021079,20192020,2020-03-11,Chicago Blackhawks,San Jose Sharks,6,2,REG
+2019021080,20192020,2020-03-11,Edmonton Oilers,Winnipeg Jets,2,4,REG
+2019020876,20192020,2020-03-11,Anaheim Ducks,St. Louis Blues,2,4,REG
+2019021081,20192020,2020-03-11,Colorado Avalanche,New York Rangers,3,2,REG
+2019021082,20192020,2020-03-11,Los Angeles Kings,Ottawa Senators,3,2,REG
+2019030031,20192020,2020-08-01,Carolina Hurricanes,New York Rangers,3,2,POST
+2019030061,20192020,2020-08-01,Edmonton Oilers,Chicago Blackhawks,4,6,POST
+2019030041,20192020,2020-08-01,New York Islanders,Florida Panthers,2,1,POST
+2019030021,20192020,2020-08-01,Pittsburgh Penguins,Montréal Canadiens,2,3,POST
+2019030091,20192020,2020-08-01,Calgary Flames,Winnipeg Jets,4,1,POST
+2019030071,20192020,2020-08-02,Nashville Predators,Arizona Coyotes,3,4,POST
+2019030001,20192020,2020-08-02,Boston Bruins,Philadelphia Flyers,1,4,POST
+2019030011,20192020,2020-08-02,Colorado Avalanche,St. Louis Blues,2,1,POST
+2019030051,20192020,2020-08-02,Toronto Maple Leafs,Columbus Blue Jackets,0,2,POST
+2019030081,20192020,2020-08-02,Vancouver Canucks,Minnesota Wild,0,3,POST
+2019030032,20192020,2020-08-03,Carolina Hurricanes,New York Rangers,4,1,POST
+2019030092,20192020,2020-08-03,Calgary Flames,Winnipeg Jets,2,3,POST
+2019030002,20192020,2020-08-03,Tampa Bay Lightning,Washington Capitals,3,2,POST
+2019030012,20192020,2020-08-03,Vegas Golden Knights,Dallas Stars,5,3,POST
+2019030022,20192020,2020-08-03,Pittsburgh Penguins,Montréal Canadiens,3,1,POST
+2019030062,20192020,2020-08-03,Edmonton Oilers,Chicago Blackhawks,6,3,POST
+2019030042,20192020,2020-08-04,New York Islanders,Florida Panthers,4,2,POST
+2019030072,20192020,2020-08-04,Nashville Predators,Arizona Coyotes,4,2,POST
+2019030052,20192020,2020-08-04,Toronto Maple Leafs,Columbus Blue Jackets,3,0,POST
+2019030093,20192020,2020-08-04,Winnipeg Jets,Calgary Flames,2,6,POST
+2019030033,20192020,2020-08-04,New York Rangers,Carolina Hurricanes,1,4,POST
+2019030082,20192020,2020-08-04,Vancouver Canucks,Minnesota Wild,4,3,POST
+2019030043,20192020,2020-08-05,Florida Panthers,New York Islanders,3,2,POST
+2019030073,20192020,2020-08-05,Arizona Coyotes,Nashville Predators,4,1,POST
+2019030003,20192020,2020-08-05,Boston Bruins,Tampa Bay Lightning,2,3,POST
+2019030013,20192020,2020-08-05,Dallas Stars,Colorado Avalanche,0,4,POST
+2019030023,20192020,2020-08-05,Montréal Canadiens,Pittsburgh Penguins,4,3,POST
+2019030063,20192020,2020-08-05,Chicago Blackhawks,Edmonton Oilers,4,3,POST
+2019030083,20192020,2020-08-06,Minnesota Wild,Vancouver Canucks,0,3,POST
+2019030004,20192020,2020-08-06,Philadelphia Flyers,Washington Capitals,3,1,POST
+2019030014,20192020,2020-08-06,St. Louis Blues,Vegas Golden Knights,4,6,POST
+2019030053,20192020,2020-08-06,Columbus Blue Jackets,Toronto Maple Leafs,4,3,POST
+2019030094,20192020,2020-08-06,Winnipeg Jets,Calgary Flames,0,4,POST
+2019030044,20192020,2020-08-07,Florida Panthers,New York Islanders,1,5,POST
+2019030074,20192020,2020-08-07,Arizona Coyotes,Nashville Predators,4,3,POST
+2019030024,20192020,2020-08-07,Montréal Canadiens,Pittsburgh Penguins,2,0,POST
+2019030064,20192020,2020-08-07,Chicago Blackhawks,Edmonton Oilers,3,2,POST
+2019030054,20192020,2020-08-07,Columbus Blue Jackets,Toronto Maple Leafs,3,4,POST
+2019030084,20192020,2020-08-07,Minnesota Wild,Vancouver Canucks,4,5,POST
+2019030015,20192020,2020-08-08,Colorado Avalanche,Vegas Golden Knights,3,4,POST
+2019030006,20192020,2020-08-08,Tampa Bay Lightning,Philadelphia Flyers,1,4,POST
+2019030005,20192020,2020-08-09,Washington Capitals,Boston Bruins,2,1,POST
+2019030016,20192020,2020-08-09,St. Louis Blues,Dallas Stars,1,2,POST
+2019030055,20192020,2020-08-09,Toronto Maple Leafs,Columbus Blue Jackets,0,3,POST
+2019030121,20192020,2020-08-11,Tampa Bay Lightning,Columbus Blue Jackets,3,2,POST
+2019030171,20192020,2020-08-11,Dallas Stars,Calgary Flames,2,3,POST
+2019030151,20192020,2020-08-11,Vegas Golden Knights,Chicago Blackhawks,4,1,POST
+2019030141,20192020,2020-08-12,Boston Bruins,Carolina Hurricanes,4,3,POST
+2019030131,20192020,2020-08-12,Washington Capitals,New York Islanders,2,4,POST
+2019030161,20192020,2020-08-12,Colorado Avalanche,Arizona Coyotes,3,0,POST
+2019030111,20192020,2020-08-12,Philadelphia Flyers,Montréal Canadiens,2,1,POST
+2019030181,20192020,2020-08-12,St. Louis Blues,Vancouver Canucks,2,5,POST
+2019030122,20192020,2020-08-13,Tampa Bay Lightning,Columbus Blue Jackets,1,3,POST
+2019030152,20192020,2020-08-13,Vegas Golden Knights,Chicago Blackhawks,4,3,POST
+2019030142,20192020,2020-08-13,Boston Bruins,Carolina Hurricanes,2,3,POST
+2019030172,20192020,2020-08-13,Dallas Stars,Calgary Flames,5,4,POST
+2019030162,20192020,2020-08-14,Colorado Avalanche,Arizona Coyotes,3,2,POST
+2019030112,20192020,2020-08-14,Philadelphia Flyers,Montréal Canadiens,0,5,POST
+2019030182,20192020,2020-08-14,St. Louis Blues,Vancouver Canucks,3,4,POST
+2019030132,20192020,2020-08-14,Washington Capitals,New York Islanders,2,5,POST
+2019030173,20192020,2020-08-14,Calgary Flames,Dallas Stars,2,0,POST
+2019030143,20192020,2020-08-15,Carolina Hurricanes,Boston Bruins,1,3,POST
+2019030163,20192020,2020-08-15,Arizona Coyotes,Colorado Avalanche,4,2,POST
+2019030123,20192020,2020-08-15,Columbus Blue Jackets,Tampa Bay Lightning,2,3,POST
+2019030153,20192020,2020-08-15,Chicago Blackhawks,Vegas Golden Knights,1,2,POST
+2019030133,20192020,2020-08-16,New York Islanders,Washington Capitals,2,1,POST
+2019030174,20192020,2020-08-16,Calgary Flames,Dallas Stars,4,5,POST
+2019030154,20192020,2020-08-16,Chicago Blackhawks,Vegas Golden Knights,3,1,POST
+2019030113,20192020,2020-08-16,Montréal Canadiens,Philadelphia Flyers,0,1,POST
+2019030183,20192020,2020-08-16,Vancouver Canucks,St. Louis Blues,2,3,POST
+2019030124,20192020,2020-08-17,Columbus Blue Jackets,Tampa Bay Lightning,1,2,POST
+2019030164,20192020,2020-08-17,Arizona Coyotes,Colorado Avalanche,1,7,POST
+2019030144,20192020,2020-08-17,Carolina Hurricanes,Boston Bruins,3,4,POST
+2019030184,20192020,2020-08-17,Vancouver Canucks,St. Louis Blues,1,3,POST
+2019030114,20192020,2020-08-18,Montréal Canadiens,Philadelphia Flyers,0,2,POST
+2019030175,20192020,2020-08-18,Dallas Stars,Calgary Flames,2,1,POST
+2019030134,20192020,2020-08-18,New York Islanders,Washington Capitals,2,3,POST
+2019030155,20192020,2020-08-18,Vegas Golden Knights,Chicago Blackhawks,4,3,POST
+2019030125,20192020,2020-08-19,Tampa Bay Lightning,Columbus Blue Jackets,5,4,POST
+2019030145,20192020,2020-08-19,Boston Bruins,Carolina Hurricanes,2,1,POST
+2019030165,20192020,2020-08-19,Colorado Avalanche,Arizona Coyotes,7,1,POST
+2019030115,20192020,2020-08-19,Philadelphia Flyers,Montréal Canadiens,3,5,POST
+2019030185,20192020,2020-08-19,St. Louis Blues,Vancouver Canucks,3,4,POST
+2019030135,20192020,2020-08-20,Washington Capitals,New York Islanders,0,4,POST
+2019030176,20192020,2020-08-20,Calgary Flames,Dallas Stars,3,7,POST
+2019030116,20192020,2020-08-21,Montréal Canadiens,Philadelphia Flyers,2,3,POST
+2019030186,20192020,2020-08-21,Vancouver Canucks,St. Louis Blues,6,2,POST
+2019030241,20192020,2020-08-22,Colorado Avalanche,Dallas Stars,3,5,POST
+2019030221,20192020,2020-08-23,Tampa Bay Lightning,Boston Bruins,2,3,POST
+2019030231,20192020,2020-08-23,Vegas Golden Knights,Vancouver Canucks,5,0,POST
+2019030211,20192020,2020-08-24,Philadelphia Flyers,New York Islanders,0,4,POST
+2019030242,20192020,2020-08-24,Colorado Avalanche,Dallas Stars,2,5,POST
+2019030222,20192020,2020-08-25,Tampa Bay Lightning,Boston Bruins,4,3,POST
+2019030232,20192020,2020-08-25,Vegas Golden Knights,Vancouver Canucks,2,5,POST
+2019030212,20192020,2020-08-26,Philadelphia Flyers,New York Islanders,4,3,POST
+2019030223,20192020,2020-08-26,Boston Bruins,Tampa Bay Lightning,1,7,POST
+2019030243,20192020,2020-08-26,Dallas Stars,Colorado Avalanche,4,6,POST
+2019030224,20192020,2020-08-29,Boston Bruins,Tampa Bay Lightning,1,3,POST
+2019030213,20192020,2020-08-29,New York Islanders,Philadelphia Flyers,3,1,POST
+2019030233,20192020,2020-08-29,Vancouver Canucks,Vegas Golden Knights,0,3,POST
+2019030244,20192020,2020-08-30,Dallas Stars,Colorado Avalanche,5,4,POST
+2019030214,20192020,2020-08-30,New York Islanders,Philadelphia Flyers,3,2,POST
+2019030234,20192020,2020-08-30,Vancouver Canucks,Vegas Golden Knights,3,5,POST
+2019030225,20192020,2020-08-31,Tampa Bay Lightning,Boston Bruins,3,2,POST
+2019030245,20192020,2020-08-31,Colorado Avalanche,Dallas Stars,6,3,POST
+2019030215,20192020,2020-09-01,Philadelphia Flyers,New York Islanders,4,3,POST
+2019030235,20192020,2020-09-01,Vegas Golden Knights,Vancouver Canucks,1,2,POST
+2019030246,20192020,2020-09-02,Dallas Stars,Colorado Avalanche,1,4,POST
+2019030216,20192020,2020-09-03,New York Islanders,Philadelphia Flyers,4,5,POST
+2019030236,20192020,2020-09-03,Vancouver Canucks,Vegas Golden Knights,4,0,POST
+2019030247,20192020,2020-09-04,Colorado Avalanche,Dallas Stars,4,5,POST
+2019030237,20192020,2020-09-04,Vegas Golden Knights,Vancouver Canucks,3,0,POST
+2019030217,20192020,2020-09-05,Philadelphia Flyers,New York Islanders,0,4,POST
+2019030321,20192020,2020-09-06,Vegas Golden Knights,Dallas Stars,0,1,POST
+2019030311,20192020,2020-09-07,Tampa Bay Lightning,New York Islanders,8,2,POST
+2019030322,20192020,2020-09-08,Vegas Golden Knights,Dallas Stars,3,0,POST
+2019030312,20192020,2020-09-09,Tampa Bay Lightning,New York Islanders,2,1,POST
+2019030323,20192020,2020-09-10,Dallas Stars,Vegas Golden Knights,3,2,POST
+2019030313,20192020,2020-09-11,New York Islanders,Tampa Bay Lightning,5,3,POST
+2019030324,20192020,2020-09-12,Dallas Stars,Vegas Golden Knights,2,1,POST
+2019030314,20192020,2020-09-13,New York Islanders,Tampa Bay Lightning,1,4,POST
+2019030325,20192020,2020-09-14,Vegas Golden Knights,Dallas Stars,2,3,POST
+2019030315,20192020,2020-09-15,Tampa Bay Lightning,New York Islanders,1,2,POST
+2019030316,20192020,2020-09-17,New York Islanders,Tampa Bay Lightning,1,2,POST
+2019030411,20192020,2020-09-19,Tampa Bay Lightning,Dallas Stars,1,4,POST
+2019030412,20192020,2020-09-21,Tampa Bay Lightning,Dallas Stars,3,2,POST
+2019030413,20192020,2020-09-23,Dallas Stars,Tampa Bay Lightning,2,5,POST
+2019030414,20192020,2020-09-25,Dallas Stars,Tampa Bay Lightning,4,5,POST
+2019030415,20192020,2020-09-26,Tampa Bay Lightning,Dallas Stars,2,3,POST
+2019030416,20192020,2020-09-28,Dallas Stars,Tampa Bay Lightning,0,2,POST

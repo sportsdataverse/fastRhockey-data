@@ -1,0 +1,1320 @@
+game_id,season_full,date,home_name,away_name,home_final_score,away_final_score,game_type
+2009020001,20092010,2009-10-01,Boston Bruins,Washington Capitals,1,4,REG
+2009020002,20092010,2009-10-01,Toronto Maple Leafs,Montréal Canadiens,3,4,REG
+2009020003,20092010,2009-10-01,Colorado Avalanche,San Jose Sharks,5,2,REG
+2009020004,20092010,2009-10-01,Calgary Flames,Vancouver Canucks,5,3,REG
+2009020007,20092010,2009-10-02,Chicago Blackhawks,Florida Panthers,3,4,REG
+2009020008,20092010,2009-10-02,Detroit Red Wings,St. Louis Blues,3,4,REG
+2009020005,20092010,2009-10-02,Carolina Hurricanes,Philadelphia Flyers,0,2,REG
+2009020006,20092010,2009-10-02,Pittsburgh Penguins,New York Rangers,3,2,REG
+2009020017,20092010,2009-10-03,Florida Panthers,Chicago Blackhawks,0,4,REG
+2009020009,20092010,2009-10-03,Colorado Avalanche,Vancouver Canucks,3,0,REG
+2009020020,20092010,2009-10-03,St. Louis Blues,Detroit Red Wings,5,3,REG
+2009020010,20092010,2009-10-03,Boston Bruins,Carolina Hurricanes,7,2,REG
+2009020011,20092010,2009-10-03,Buffalo Sabres,Montréal Canadiens,1,2,REG
+2009020012,20092010,2009-10-03,New Jersey Devils,Philadelphia Flyers,2,5,REG
+2009020013,20092010,2009-10-03,New York Islanders,Pittsburgh Penguins,3,4,REG
+2009020014,20092010,2009-10-03,New York Rangers,Ottawa Senators,5,2,REG
+2009020015,20092010,2009-10-03,Washington Capitals,Toronto Maple Leafs,6,4,REG
+2009020016,20092010,2009-10-03,Atlanta Thrashers,Tampa Bay Lightning,6,3,REG
+2009020018,20092010,2009-10-03,Columbus Blue Jackets,Minnesota Wild,2,1,REG
+2009020019,20092010,2009-10-03,Dallas Stars,Nashville Predators,2,3,REG
+2009020022,20092010,2009-10-03,Anaheim Ducks,San Jose Sharks,1,4,REG
+2009020021,20092010,2009-10-03,Edmonton Oilers,Calgary Flames,3,4,REG
+2009020023,20092010,2009-10-03,Los Angeles Kings,Phoenix Coyotes,3,6,REG
+2009020024,20092010,2009-10-05,New Jersey Devils,New York Rangers,2,3,REG
+2009020025,20092010,2009-10-05,Vancouver Canucks,Columbus Blue Jackets,3,5,REG
+2009020026,20092010,2009-10-06,Toronto Maple Leafs,Ottawa Senators,1,2,REG
+2009020027,20092010,2009-10-06,Philadelphia Flyers,Washington Capitals,6,5,REG
+2009020028,20092010,2009-10-06,Carolina Hurricanes,Tampa Bay Lightning,2,1,REG
+2009020030,20092010,2009-10-06,Calgary Flames,Montréal Canadiens,4,3,REG
+2009020029,20092010,2009-10-06,Minnesota Wild,Anaheim Ducks,4,3,REG
+2009020031,20092010,2009-10-06,Edmonton Oilers,Dallas Stars,5,4,REG
+2009020032,20092010,2009-10-06,Los Angeles Kings,San Jose Sharks,6,4,REG
+2009020033,20092010,2009-10-07,Pittsburgh Penguins,Phoenix Coyotes,0,3,REG
+2009020034,20092010,2009-10-07,Vancouver Canucks,Montréal Canadiens,7,1,REG
+2009020035,20092010,2009-10-08,Boston Bruins,Anaheim Ducks,1,6,REG
+2009020036,20092010,2009-10-08,Buffalo Sabres,Phoenix Coyotes,2,1,REG
+2009020037,20092010,2009-10-08,Ottawa Senators,New York Islanders,3,2,REG
+2009020038,20092010,2009-10-08,Philadelphia Flyers,Pittsburgh Penguins,4,5,REG
+2009020039,20092010,2009-10-08,Washington Capitals,New York Rangers,3,4,REG
+2009020040,20092010,2009-10-08,Tampa Bay Lightning,New Jersey Devils,3,4,REG
+2009020041,20092010,2009-10-08,Detroit Red Wings,Chicago Blackhawks,3,2,REG
+2009020042,20092010,2009-10-08,St. Louis Blues,Atlanta Thrashers,2,4,REG
+2009020043,20092010,2009-10-08,Nashville Predators,Colorado Avalanche,3,2,REG
+2009020044,20092010,2009-10-08,Edmonton Oilers,Calgary Flames,3,4,REG
+2009020045,20092010,2009-10-08,Los Angeles Kings,Minnesota Wild,6,3,REG
+2009020046,20092010,2009-10-08,San Jose Sharks,Columbus Blue Jackets,6,3,REG
+2009020047,20092010,2009-10-09,Carolina Hurricanes,Florida Panthers,7,2,REG
+2009020048,20092010,2009-10-09,Calgary Flames,Dallas Stars,2,5,REG
+2009020049,20092010,2009-10-10,Boston Bruins,New York Islanders,4,3,REG
+2009020050,20092010,2009-10-10,Toronto Maple Leafs,Pittsburgh Penguins,2,5,REG
+2009020051,20092010,2009-10-10,Ottawa Senators,Atlanta Thrashers,4,2,REG
+2009020052,20092010,2009-10-10,Philadelphia Flyers,Anaheim Ducks,2,3,REG
+2009020053,20092010,2009-10-10,Florida Panthers,New Jersey Devils,2,3,REG
+2009020054,20092010,2009-10-10,Detroit Red Wings,Washington Capitals,3,2,REG
+2009020055,20092010,2009-10-10,Tampa Bay Lightning,Carolina Hurricanes,5,2,REG
+2009020056,20092010,2009-10-10,St. Louis Blues,Los Angeles Kings,1,2,REG
+2009020057,20092010,2009-10-10,Nashville Predators,Buffalo Sabres,0,1,REG
+2009020058,20092010,2009-10-10,Chicago Blackhawks,Colorado Avalanche,4,3,REG
+2009020059,20092010,2009-10-10,Phoenix Coyotes,Columbus Blue Jackets,0,2,REG
+2009020060,20092010,2009-10-10,Edmonton Oilers,Montréal Canadiens,3,2,REG
+2009020061,20092010,2009-10-10,San Jose Sharks,Minnesota Wild,4,2,REG
+2009020062,20092010,2009-10-11,New York Rangers,Anaheim Ducks,3,0,REG
+2009020063,20092010,2009-10-11,Vancouver Canucks,Dallas Stars,4,3,REG
+2009020064,20092010,2009-10-12,Boston Bruins,Colorado Avalanche,3,4,REG
+2009020065,20092010,2009-10-12,New York Islanders,Los Angeles Kings,1,2,REG
+2009020066,20092010,2009-10-12,New York Rangers,Toronto Maple Leafs,7,2,REG
+2009020067,20092010,2009-10-12,Washington Capitals,New Jersey Devils,2,3,REG
+2009020068,20092010,2009-10-12,Ottawa Senators,Pittsburgh Penguins,1,4,REG
+2009020069,20092010,2009-10-12,Tampa Bay Lightning,Florida Panthers,3,2,REG
+2009020070,20092010,2009-10-12,Nashville Predators,Edmonton Oilers,1,6,REG
+2009020071,20092010,2009-10-12,Chicago Blackhawks,Calgary Flames,6,5,REG
+2009020072,20092010,2009-10-12,San Jose Sharks,Phoenix Coyotes,0,1,REG
+2009020073,20092010,2009-10-13,Buffalo Sabres,Detroit Red Wings,6,2,REG
+2009020074,20092010,2009-10-13,Columbus Blue Jackets,Calgary Flames,2,1,REG
+2009020075,20092010,2009-10-13,Toronto Maple Leafs,Colorado Avalanche,1,4,REG
+2009020076,20092010,2009-10-14,New York Rangers,Los Angeles Kings,4,2,REG
+2009020081,20092010,2009-10-14,Carolina Hurricanes,Pittsburgh Penguins,2,3,REG
+2009020077,20092010,2009-10-14,Chicago Blackhawks,Edmonton Oilers,4,3,REG
+2009020078,20092010,2009-10-14,Dallas Stars,Nashville Predators,6,0,REG
+2009020079,20092010,2009-10-14,Anaheim Ducks,Minnesota Wild,3,2,REG
+2009020080,20092010,2009-10-15,Washington Capitals,San Jose Sharks,4,1,REG
+2009020082,20092010,2009-10-15,Montréal Canadiens,Colorado Avalanche,2,3,REG
+2009020083,20092010,2009-10-15,Ottawa Senators,Tampa Bay Lightning,7,1,REG
+2009020084,20092010,2009-10-15,Detroit Red Wings,Los Angeles Kings,5,2,REG
+2009020085,20092010,2009-10-15,Nashville Predators,Chicago Blackhawks,1,3,REG
+2009020086,20092010,2009-10-15,Phoenix Coyotes,St. Louis Blues,3,2,REG
+2009020087,20092010,2009-10-16,New Jersey Devils,Atlanta Thrashers,2,4,REG
+2009020088,20092010,2009-10-16,Buffalo Sabres,New York Islanders,6,3,REG
+2009020089,20092010,2009-10-16,Florida Panthers,Philadelphia Flyers,4,2,REG
+2009020090,20092010,2009-10-16,Dallas Stars,Boston Bruins,0,3,REG
+2009020091,20092010,2009-10-16,Calgary Flames,Vancouver Canucks,5,3,REG
+2009020092,20092010,2009-10-16,Edmonton Oilers,Minnesota Wild,5,2,REG
+2009020093,20092010,2009-10-17,Buffalo Sabres,Atlanta Thrashers,2,4,REG
+2009020094,20092010,2009-10-17,Toronto Maple Leafs,New York Rangers,1,4,REG
+2009020095,20092010,2009-10-17,Montréal Canadiens,Ottawa Senators,1,3,REG
+2009020096,20092010,2009-10-17,New Jersey Devils,Carolina Hurricanes,2,0,REG
+2009020097,20092010,2009-10-17,New York Islanders,San Jose Sharks,1,4,REG
+2009020098,20092010,2009-10-17,Washington Capitals,Nashville Predators,3,2,REG
+2009020099,20092010,2009-10-17,Detroit Red Wings,Colorado Avalanche,3,4,REG
+2009020100,20092010,2009-10-17,Columbus Blue Jackets,Los Angeles Kings,4,1,REG
+2009020101,20092010,2009-10-17,Pittsburgh Penguins,Tampa Bay Lightning,4,1,REG
+2009020102,20092010,2009-10-17,Chicago Blackhawks,Dallas Stars,3,4,REG
+2009020103,20092010,2009-10-17,Phoenix Coyotes,Boston Bruins,4,1,REG
+2009020104,20092010,2009-10-17,Vancouver Canucks,Minnesota Wild,2,1,REG
+2009020105,20092010,2009-10-17,Anaheim Ducks,St. Louis Blues,0,5,REG
+2009020106,20092010,2009-10-19,New York Rangers,San Jose Sharks,3,7,REG
+2009020107,20092010,2009-10-19,Dallas Stars,Los Angeles Kings,1,4,REG
+2009020108,20092010,2009-10-19,Edmonton Oilers,Vancouver Canucks,2,1,REG
+2009020109,20092010,2009-10-20,Pittsburgh Penguins,St. Louis Blues,5,1,REG
+2009020110,20092010,2009-10-20,Montréal Canadiens,Atlanta Thrashers,2,1,REG
+2009020111,20092010,2009-10-20,Calgary Flames,Columbus Blue Jackets,6,3,REG
+2009020112,20092010,2009-10-21,Boston Bruins,Nashville Predators,3,2,REG
+2009020113,20092010,2009-10-21,New York Islanders,Carolina Hurricanes,4,3,REG
+2009020114,20092010,2009-10-21,Florida Panthers,Buffalo Sabres,2,5,REG
+2009020115,20092010,2009-10-21,Minnesota Wild,Colorado Avalanche,3,2,REG
+2009020116,20092010,2009-10-21,Chicago Blackhawks,Vancouver Canucks,2,3,REG
+2009020117,20092010,2009-10-21,Anaheim Ducks,Dallas Stars,2,4,REG
+2009020118,20092010,2009-10-22,Montréal Canadiens,New York Islanders,5,1,REG
+2009020119,20092010,2009-10-22,New York Rangers,New Jersey Devils,2,4,REG
+2009020120,20092010,2009-10-22,Philadelphia Flyers,Boston Bruins,4,3,REG
+2009020121,20092010,2009-10-22,Atlanta Thrashers,Washington Capitals,4,5,REG
+2009020122,20092010,2009-10-22,Ottawa Senators,Nashville Predators,5,6,REG
+2009020123,20092010,2009-10-22,Tampa Bay Lightning,San Jose Sharks,5,2,REG
+2009020124,20092010,2009-10-22,Edmonton Oilers,Columbus Blue Jackets,6,4,REG
+2009020125,20092010,2009-10-22,Phoenix Coyotes,Detroit Red Wings,3,2,REG
+2009020126,20092010,2009-10-22,Los Angeles Kings,Dallas Stars,5,4,REG
+2009020127,20092010,2009-10-23,Pittsburgh Penguins,Florida Panthers,3,2,REG
+2009020128,20092010,2009-10-23,St. Louis Blues,Minnesota Wild,3,1,REG
+2009020129,20092010,2009-10-23,Colorado Avalanche,Carolina Hurricanes,5,4,REG
+2009020135,20092010,2009-10-24,Vancouver Canucks,Toronto Maple Leafs,3,1,REG
+2009020130,20092010,2009-10-24,Montréal Canadiens,New York Rangers,5,4,REG
+2009020131,20092010,2009-10-24,Ottawa Senators,Boston Bruins,3,4,REG
+2009020132,20092010,2009-10-24,New York Islanders,Washington Capitals,2,3,REG
+2009020133,20092010,2009-10-24,Philadelphia Flyers,Florida Panthers,5,1,REG
+2009020134,20092010,2009-10-24,Atlanta Thrashers,San Jose Sharks,3,4,REG
+2009020136,20092010,2009-10-24,Pittsburgh Penguins,New Jersey Devils,1,4,REG
+2009020137,20092010,2009-10-24,Tampa Bay Lightning,Buffalo Sabres,2,3,REG
+2009020138,20092010,2009-10-24,St. Louis Blues,Dallas Stars,1,4,REG
+2009020139,20092010,2009-10-24,Minnesota Wild,Carolina Hurricanes,3,2,REG
+2009020140,20092010,2009-10-24,Chicago Blackhawks,Nashville Predators,2,0,REG
+2009020142,20092010,2009-10-24,Phoenix Coyotes,Los Angeles Kings,3,5,REG
+2009020141,20092010,2009-10-24,Colorado Avalanche,Detroit Red Wings,3,1,REG
+2009020144,20092010,2009-10-24,Anaheim Ducks,Columbus Blue Jackets,4,6,REG
+2009020143,20092010,2009-10-24,Calgary Flames,Edmonton Oilers,5,2,REG
+2009020145,20092010,2009-10-25,Philadelphia Flyers,San Jose Sharks,1,4,REG
+2009020146,20092010,2009-10-25,Los Angeles Kings,Columbus Blue Jackets,6,2,REG
+2009020147,20092010,2009-10-25,Vancouver Canucks,Edmonton Oilers,2,0,REG
+2009020148,20092010,2009-10-26,New York Rangers,Phoenix Coyotes,5,2,REG
+2009020149,20092010,2009-10-26,Montréal Canadiens,New York Islanders,3,2,REG
+2009020150,20092010,2009-10-26,Chicago Blackhawks,Minnesota Wild,3,1,REG
+2009020151,20092010,2009-10-26,Anaheim Ducks,Toronto Maple Leafs,3,6,REG
+2009020152,20092010,2009-10-27,Washington Capitals,Philadelphia Flyers,4,2,REG
+2009020153,20092010,2009-10-27,Edmonton Oilers,Colorado Avalanche,0,3,REG
+2009020154,20092010,2009-10-27,Vancouver Canucks,Detroit Red Wings,4,5,REG
+2009020155,20092010,2009-10-28,New Jersey Devils,Buffalo Sabres,1,4,REG
+2009020156,20092010,2009-10-28,New York Islanders,New York Rangers,3,1,REG
+2009020157,20092010,2009-10-28,Carolina Hurricanes,St. Louis Blues,2,5,REG
+2009020158,20092010,2009-10-28,Columbus Blue Jackets,Phoenix Coyotes,1,4,REG
+2009020159,20092010,2009-10-28,Pittsburgh Penguins,Montréal Canadiens,6,1,REG
+2009020160,20092010,2009-10-28,Florida Panthers,Ottawa Senators,3,4,REG
+2009020161,20092010,2009-10-28,Minnesota Wild,Nashville Predators,3,4,REG
+2009020162,20092010,2009-10-28,Dallas Stars,Toronto Maple Leafs,4,3,REG
+2009020163,20092010,2009-10-28,Calgary Flames,Colorado Avalanche,2,3,REG
+2009020164,20092010,2009-10-28,San Jose Sharks,Los Angeles Kings,2,1,REG
+2009020165,20092010,2009-10-29,Boston Bruins,New Jersey Devils,1,2,REG
+2009020166,20092010,2009-10-29,Atlanta Thrashers,Washington Capitals,3,4,REG
+2009020167,20092010,2009-10-29,Tampa Bay Lightning,Ottawa Senators,5,2,REG
+2009020168,20092010,2009-10-29,St. Louis Blues,Phoenix Coyotes,0,2,REG
+2009020169,20092010,2009-10-29,Nashville Predators,Chicago Blackhawks,2,0,REG
+2009020170,20092010,2009-10-29,Edmonton Oilers,Detroit Red Wings,6,5,REG
+2009020171,20092010,2009-10-29,Los Angeles Kings,Vancouver Canucks,1,2,REG
+2009020172,20092010,2009-10-30,Washington Capitals,New York Islanders,3,4,REG
+2009020173,20092010,2009-10-30,Columbus Blue Jackets,Pittsburgh Penguins,3,4,REG
+2009020174,20092010,2009-10-30,Buffalo Sabres,Toronto Maple Leafs,3,2,REG
+2009020175,20092010,2009-10-30,Minnesota Wild,New York Rangers,3,2,REG
+2009020176,20092010,2009-10-30,Chicago Blackhawks,Montréal Canadiens,3,2,REG
+2009020177,20092010,2009-10-30,Dallas Stars,Florida Panthers,5,6,REG
+2009020178,20092010,2009-10-30,Anaheim Ducks,Vancouver Canucks,7,2,REG
+2009020179,20092010,2009-10-30,San Jose Sharks,Colorado Avalanche,3,1,REG
+2009020180,20092010,2009-10-31,Boston Bruins,Edmonton Oilers,2,0,REG
+2009020181,20092010,2009-10-31,Philadelphia Flyers,Carolina Hurricanes,6,1,REG
+2009020182,20092010,2009-10-31,Ottawa Senators,Atlanta Thrashers,1,3,REG
+2009020183,20092010,2009-10-31,Tampa Bay Lightning,New Jersey Devils,1,2,REG
+2009020184,20092010,2009-10-31,Montréal Canadiens,Toronto Maple Leafs,5,4,REG
+2009020185,20092010,2009-10-31,New York Islanders,Buffalo Sabres,5,0,REG
+2009020186,20092010,2009-10-31,Pittsburgh Penguins,Minnesota Wild,1,2,REG
+2009020187,20092010,2009-10-31,St. Louis Blues,Florida Panthers,0,4,REG
+2009020188,20092010,2009-10-31,Nashville Predators,Dallas Stars,4,2,REG
+2009020189,20092010,2009-10-31,Phoenix Coyotes,Anaheim Ducks,3,2,REG
+2009020190,20092010,2009-10-31,Calgary Flames,Detroit Red Wings,1,3,REG
+2009020191,20092010,2009-11-01,New York Rangers,Boston Bruins,1,0,REG
+2009020192,20092010,2009-11-01,Carolina Hurricanes,San Jose Sharks,1,5,REG
+2009020193,20092010,2009-11-01,Washington Capitals,Columbus Blue Jackets,4,5,REG
+2009020194,20092010,2009-11-01,Vancouver Canucks,Colorado Avalanche,3,0,REG
+2009020196,20092010,2009-11-02,Philadelphia Flyers,Tampa Bay Lightning,6,2,REG
+2009020195,20092010,2009-11-02,New York Islanders,Edmonton Oilers,3,1,REG
+2009020197,20092010,2009-11-02,Phoenix Coyotes,Los Angeles Kings,3,5,REG
+2009020198,20092010,2009-11-03,Detroit Red Wings,Boston Bruins,2,0,REG
+2009020199,20092010,2009-11-03,Toronto Maple Leafs,Tampa Bay Lightning,1,2,REG
+2009020200,20092010,2009-11-03,Montréal Canadiens,Atlanta Thrashers,4,5,REG
+2009020201,20092010,2009-11-03,Vancouver Canucks,New York Rangers,4,1,REG
+2009020202,20092010,2009-11-03,Anaheim Ducks,Pittsburgh Penguins,3,4,REG
+2009020203,20092010,2009-11-04,Buffalo Sabres,New York Islanders,3,0,REG
+2009020204,20092010,2009-11-04,New Jersey Devils,Washington Capitals,3,2,REG
+2009020205,20092010,2009-11-04,Columbus Blue Jackets,San Jose Sharks,2,3,REG
+2009020206,20092010,2009-11-04,Florida Panthers,Carolina Hurricanes,3,0,REG
+2009020207,20092010,2009-11-04,Dallas Stars,Calgary Flames,2,3,REG
+2009020208,20092010,2009-11-04,Colorado Avalanche,Phoenix Coyotes,4,1,REG
+2009020209,20092010,2009-11-05,Boston Bruins,Montréal Canadiens,1,2,REG
+2009020210,20092010,2009-11-05,Atlanta Thrashers,Columbus Blue Jackets,3,4,REG
+2009020211,20092010,2009-11-05,Ottawa Senators,Tampa Bay Lightning,3,2,REG
+2009020212,20092010,2009-11-05,Detroit Red Wings,San Jose Sharks,2,1,REG
+2009020214,20092010,2009-11-05,Minnesota Wild,Vancouver Canucks,2,5,REG
+2009020213,20092010,2009-11-05,St. Louis Blues,Calgary Flames,1,2,REG
+2009020215,20092010,2009-11-05,Phoenix Coyotes,Chicago Blackhawks,3,1,REG
+2009020216,20092010,2009-11-05,Edmonton Oilers,New York Rangers,2,4,REG
+2009020217,20092010,2009-11-05,Anaheim Ducks,Nashville Predators,4,0,REG
+2009020218,20092010,2009-11-05,Los Angeles Kings,Pittsburgh Penguins,5,2,REG
+2009020219,20092010,2009-11-06,New Jersey Devils,New York Islanders,2,1,REG
+2009020220,20092010,2009-11-06,Carolina Hurricanes,Toronto Maple Leafs,2,3,REG
+2009020221,20092010,2009-11-06,Buffalo Sabres,Philadelphia Flyers,2,5,REG
+2009020222,20092010,2009-11-06,Florida Panthers,Washington Capitals,1,4,REG
+2009020223,20092010,2009-11-06,Dallas Stars,Vancouver Canucks,2,1,REG
+2009020224,20092010,2009-11-06,Colorado Avalanche,Chicago Blackhawks,4,3,REG
+2009020225,20092010,2009-11-07,Los Angeles Kings,Nashville Predators,1,3,REG
+2009020226,20092010,2009-11-07,Boston Bruins,Buffalo Sabres,4,2,REG
+2009020227,20092010,2009-11-07,Toronto Maple Leafs,Detroit Red Wings,5,1,REG
+2009020228,20092010,2009-11-07,Montréal Canadiens,Tampa Bay Lightning,1,3,REG
+2009020229,20092010,2009-11-07,Ottawa Senators,New Jersey Devils,2,3,REG
+2009020230,20092010,2009-11-07,New York Islanders,Atlanta Thrashers,6,3,REG
+2009020231,20092010,2009-11-07,Philadelphia Flyers,St. Louis Blues,2,1,REG
+2009020232,20092010,2009-11-07,Washington Capitals,Florida Panthers,7,4,REG
+2009020233,20092010,2009-11-07,Columbus Blue Jackets,Carolina Hurricanes,3,2,REG
+2009020234,20092010,2009-11-07,Minnesota Wild,Dallas Stars,3,2,REG
+2009020236,20092010,2009-11-07,Anaheim Ducks,Phoenix Coyotes,4,3,REG
+2009020235,20092010,2009-11-07,Calgary Flames,New York Rangers,3,1,REG
+2009020237,20092010,2009-11-07,San Jose Sharks,Pittsburgh Penguins,5,0,REG
+2009020238,20092010,2009-11-08,Atlanta Thrashers,St. Louis Blues,3,2,REG
+2009020239,20092010,2009-11-08,Colorado Avalanche,Edmonton Oilers,3,5,REG
+2009020240,20092010,2009-11-09,Chicago Blackhawks,Los Angeles Kings,4,1,REG
+2009020241,20092010,2009-11-10,Boston Bruins,Pittsburgh Penguins,3,0,REG
+2009020242,20092010,2009-11-10,Toronto Maple Leafs,Minnesota Wild,2,5,REG
+2009020243,20092010,2009-11-10,Montréal Canadiens,Calgary Flames,0,1,REG
+2009020244,20092010,2009-11-10,Ottawa Senators,Edmonton Oilers,4,3,REG
+2009020245,20092010,2009-11-10,St. Louis Blues,Vancouver Canucks,6,1,REG
+2009020246,20092010,2009-11-10,San Jose Sharks,Nashville Predators,4,3,REG
+2009020247,20092010,2009-11-11,Buffalo Sabres,Edmonton Oilers,3,1,REG
+2009020248,20092010,2009-11-11,New Jersey Devils,Anaheim Ducks,3,1,REG
+2009020249,20092010,2009-11-11,Washington Capitals,New York Islanders,5,4,REG
+2009020250,20092010,2009-11-11,Carolina Hurricanes,Los Angeles Kings,2,5,REG
+2009020251,20092010,2009-11-11,Columbus Blue Jackets,Detroit Red Wings,1,9,REG
+2009020252,20092010,2009-11-11,Chicago Blackhawks,Colorado Avalanche,3,2,REG
+2009020253,20092010,2009-11-12,Boston Bruins,Florida Panthers,0,1,REG
+2009020254,20092010,2009-11-12,New York Rangers,Atlanta Thrashers,3,5,REG
+2009020255,20092010,2009-11-12,Philadelphia Flyers,Ottawa Senators,5,1,REG
+2009020256,20092010,2009-11-12,Pittsburgh Penguins,New Jersey Devils,1,4,REG
+2009020257,20092010,2009-11-12,Tampa Bay Lightning,Minnesota Wild,4,3,REG
+2009020258,20092010,2009-11-12,Detroit Red Wings,Vancouver Canucks,3,1,REG
+2009020259,20092010,2009-11-12,St. Louis Blues,Nashville Predators,1,3,REG
+2009020260,20092010,2009-11-12,Phoenix Coyotes,Montréal Canadiens,2,4,REG
+2009020261,20092010,2009-11-12,San Jose Sharks,Dallas Stars,2,3,REG
+2009020262,20092010,2009-11-13,Washington Capitals,Minnesota Wild,3,1,REG
+2009020263,20092010,2009-11-13,Carolina Hurricanes,New York Islanders,3,4,REG
+2009020264,20092010,2009-11-13,Columbus Blue Jackets,Anaheim Ducks,3,2,REG
+2009020265,20092010,2009-11-13,Buffalo Sabres,Calgary Flames,2,1,REG
+2009020266,20092010,2009-11-13,Atlanta Thrashers,Los Angeles Kings,7,0,REG
+2009020267,20092010,2009-11-13,Chicago Blackhawks,Toronto Maple Leafs,3,2,REG
+2009020269,20092010,2009-11-14,Ottawa Senators,New York Rangers,1,2,REG
+2009020268,20092010,2009-11-14,Toronto Maple Leafs,Calgary Flames,2,5,REG
+2009020270,20092010,2009-11-14,New Jersey Devils,Washington Capitals,5,2,REG
+2009020271,20092010,2009-11-14,Philadelphia Flyers,Buffalo Sabres,2,3,REG
+2009020272,20092010,2009-11-14,Florida Panthers,New York Islanders,5,4,REG
+2009020273,20092010,2009-11-14,Detroit Red Wings,Anaheim Ducks,7,4,REG
+2009020274,20092010,2009-11-14,Pittsburgh Penguins,Boston Bruins,6,5,REG
+2009020275,20092010,2009-11-14,Tampa Bay Lightning,Los Angeles Kings,1,2,REG
+2009020278,20092010,2009-11-14,Phoenix Coyotes,Dallas Stars,3,2,REG
+2009020276,20092010,2009-11-14,St. Louis Blues,San Jose Sharks,1,3,REG
+2009020277,20092010,2009-11-14,Nashville Predators,Montréal Canadiens,2,0,REG
+2009020279,20092010,2009-11-14,Colorado Avalanche,Vancouver Canucks,2,8,REG
+2009020280,20092010,2009-11-15,Carolina Hurricanes,Minnesota Wild,5,4,REG
+2009020281,20092010,2009-11-15,Atlanta Thrashers,Edmonton Oilers,3,2,REG
+2009020282,20092010,2009-11-15,Chicago Blackhawks,San Jose Sharks,4,3,REG
+2009020283,20092010,2009-11-16,Boston Bruins,New York Islanders,1,4,REG
+2009020284,20092010,2009-11-16,Philadelphia Flyers,New Jersey Devils,3,2,REG
+2009020285,20092010,2009-11-16,Columbus Blue Jackets,Edmonton Oilers,3,2,REG
+2009020286,20092010,2009-11-16,Pittsburgh Penguins,Anaheim Ducks,5,2,REG
+2009020287,20092010,2009-11-16,Florida Panthers,Los Angeles Kings,3,4,REG
+2009020288,20092010,2009-11-16,Phoenix Coyotes,Tampa Bay Lightning,1,4,REG
+2009020289,20092010,2009-11-17,New York Rangers,Washington Capitals,2,4,REG
+2009020290,20092010,2009-11-17,Montréal Canadiens,Carolina Hurricanes,3,2,REG
+2009020291,20092010,2009-11-17,Ottawa Senators,Toronto Maple Leafs,3,2,REG
+2009020292,20092010,2009-11-17,Nashville Predators,San Jose Sharks,4,3,REG
+2009020293,20092010,2009-11-17,Calgary Flames,Colorado Avalanche,2,3,REG
+2009020294,20092010,2009-11-18,Buffalo Sabres,Florida Panthers,2,6,REG
+2009020295,20092010,2009-11-18,Detroit Red Wings,Dallas Stars,1,3,REG
+2009020296,20092010,2009-11-18,Minnesota Wild,Phoenix Coyotes,2,3,REG
+2009020297,20092010,2009-11-18,Edmonton Oilers,Colorado Avalanche,6,4,REG
+2009020298,20092010,2009-11-18,Los Angeles Kings,Philadelphia Flyers,2,3,REG
+2009020299,20092010,2009-11-19,Carolina Hurricanes,Toronto Maple Leafs,6,5,REG
+2009020300,20092010,2009-11-19,Atlanta Thrashers,Boston Bruins,3,4,REG
+2009020301,20092010,2009-11-19,Ottawa Senators,Pittsburgh Penguins,6,2,REG
+2009020302,20092010,2009-11-19,St. Louis Blues,Phoenix Coyotes,3,2,REG
+2009020303,20092010,2009-11-19,Nashville Predators,New Jersey Devils,3,2,REG
+2009020304,20092010,2009-11-19,Dallas Stars,Columbus Blue Jackets,1,4,REG
+2009020305,20092010,2009-11-19,Calgary Flames,Chicago Blackhawks,1,7,REG
+2009020306,20092010,2009-11-19,Anaheim Ducks,Tampa Bay Lightning,4,3,REG
+2009020307,20092010,2009-11-20,Washington Capitals,Montréal Canadiens,2,3,REG
+2009020308,20092010,2009-11-20,Buffalo Sabres,Boston Bruins,1,2,REG
+2009020309,20092010,2009-11-20,Detroit Red Wings,Florida Panthers,1,2,REG
+2009020310,20092010,2009-11-20,Minnesota Wild,New York Islanders,3,2,REG
+2009020311,20092010,2009-11-20,Vancouver Canucks,Colorado Avalanche,5,2,REG
+2009020312,20092010,2009-11-20,San Jose Sharks,Philadelphia Flyers,6,3,REG
+2009020313,20092010,2009-11-21,Los Angeles Kings,Calgary Flames,2,5,REG
+2009020314,20092010,2009-11-21,Toronto Maple Leafs,Washington Capitals,2,1,REG
+2009020315,20092010,2009-11-21,Montréal Canadiens,Detroit Red Wings,2,3,REG
+2009020316,20092010,2009-11-21,Ottawa Senators,Buffalo Sabres,5,3,REG
+2009020317,20092010,2009-11-21,New York Rangers,Florida Panthers,2,3,REG
+2009020318,20092010,2009-11-21,Carolina Hurricanes,Tampa Bay Lightning,3,1,REG
+2009020319,20092010,2009-11-21,Atlanta Thrashers,Pittsburgh Penguins,2,3,REG
+2009020323,20092010,2009-11-21,Phoenix Coyotes,Philadelphia Flyers,3,1,REG
+2009020320,20092010,2009-11-21,St. Louis Blues,New York Islanders,4,1,REG
+2009020321,20092010,2009-11-21,Nashville Predators,Columbus Blue Jackets,4,3,REG
+2009020322,20092010,2009-11-21,Dallas Stars,New Jersey Devils,5,3,REG
+2009020325,20092010,2009-11-21,Anaheim Ducks,San Jose Sharks,2,3,REG
+2009020324,20092010,2009-11-21,Edmonton Oilers,Chicago Blackhawks,2,5,REG
+2009020326,20092010,2009-11-22,Atlanta Thrashers,Tampa Bay Lightning,3,4,REG
+2009020327,20092010,2009-11-22,Vancouver Canucks,Chicago Blackhawks,0,1,REG
+2009020328,20092010,2009-11-23,Nashville Predators,Detroit Red Wings,3,1,REG
+2009020329,20092010,2009-11-23,Toronto Maple Leafs,New York Islanders,3,4,REG
+2009020330,20092010,2009-11-23,New York Rangers,Columbus Blue Jackets,7,4,REG
+2009020331,20092010,2009-11-23,Ottawa Senators,Washington Capitals,4,3,REG
+2009020332,20092010,2009-11-23,Florida Panthers,Pittsburgh Penguins,2,3,REG
+2009020333,20092010,2009-11-23,St. Louis Blues,Boston Bruins,2,4,REG
+2009020334,20092010,2009-11-23,Dallas Stars,Carolina Hurricanes,2,0,REG
+2009020335,20092010,2009-11-23,Colorado Avalanche,Philadelphia Flyers,5,4,REG
+2009020336,20092010,2009-11-23,Edmonton Oilers,Phoenix Coyotes,4,0,REG
+2009020337,20092010,2009-11-23,Anaheim Ducks,Calgary Flames,3,2,REG
+2009020338,20092010,2009-11-24,Montréal Canadiens,Columbus Blue Jackets,5,3,REG
+2009020339,20092010,2009-11-25,New Jersey Devils,Ottawa Senators,3,1,REG
+2009020340,20092010,2009-11-25,New York Islanders,Philadelphia Flyers,1,2,REG
+2009020341,20092010,2009-11-25,Washington Capitals,Buffalo Sabres,2,0,REG
+2009020342,20092010,2009-11-25,Tampa Bay Lightning,Toronto Maple Leafs,3,4,REG
+2009020343,20092010,2009-11-25,Pittsburgh Penguins,Montréal Canadiens,3,1,REG
+2009020344,20092010,2009-11-25,Florida Panthers,New York Rangers,1,2,REG
+2009020345,20092010,2009-11-25,Detroit Red Wings,Atlanta Thrashers,0,2,REG
+2009020346,20092010,2009-11-25,Minnesota Wild,Boston Bruins,1,2,REG
+2009020347,20092010,2009-11-25,Dallas Stars,St. Louis Blues,3,4,REG
+2009020348,20092010,2009-11-25,Colorado Avalanche,Nashville Predators,3,4,REG
+2009020349,20092010,2009-11-25,Calgary Flames,Phoenix Coyotes,2,1,REG
+2009020350,20092010,2009-11-25,Edmonton Oilers,Los Angeles Kings,1,3,REG
+2009020351,20092010,2009-11-25,Anaheim Ducks,Carolina Hurricanes,3,2,REG
+2009020352,20092010,2009-11-25,San Jose Sharks,Chicago Blackhawks,2,7,REG
+2009020353,20092010,2009-11-26,Ottawa Senators,Columbus Blue Jackets,2,1,REG
+2009020354,20092010,2009-11-26,Vancouver Canucks,Los Angeles Kings,4,1,REG
+2009020355,20092010,2009-11-27,Boston Bruins,New Jersey Devils,1,2,REG
+2009020356,20092010,2009-11-27,Philadelphia Flyers,Buffalo Sabres,2,4,REG
+2009020358,20092010,2009-11-27,Minnesota Wild,Colorado Avalanche,5,3,REG
+2009020357,20092010,2009-11-27,New York Islanders,Pittsburgh Penguins,3,2,REG
+2009020359,20092010,2009-11-27,Anaheim Ducks,Chicago Blackhawks,3,0,REG
+2009020360,20092010,2009-11-27,Carolina Hurricanes,Atlanta Thrashers,4,6,REG
+2009020363,20092010,2009-11-27,Detroit Red Wings,Calgary Flames,0,3,REG
+2009020361,20092010,2009-11-27,Tampa Bay Lightning,New York Rangers,5,1,REG
+2009020362,20092010,2009-11-27,Florida Panthers,Toronto Maple Leafs,4,6,REG
+2009020364,20092010,2009-11-27,Nashville Predators,St. Louis Blues,1,3,REG
+2009020366,20092010,2009-11-27,Phoenix Coyotes,Dallas Stars,5,2,REG
+2009020365,20092010,2009-11-27,Edmonton Oilers,San Jose Sharks,4,5,REG
+2009020367,20092010,2009-11-28,New Jersey Devils,New York Islanders,6,1,REG
+2009020368,20092010,2009-11-28,Boston Bruins,Ottawa Senators,4,3,REG
+2009020369,20092010,2009-11-28,Buffalo Sabres,Carolina Hurricanes,5,1,REG
+2009020370,20092010,2009-11-28,Montréal Canadiens,Washington Capitals,3,4,REG
+2009020371,20092010,2009-11-28,Atlanta Thrashers,Philadelphia Flyers,1,0,REG
+2009020372,20092010,2009-11-28,Columbus Blue Jackets,Calgary Flames,3,4,REG
+2009020373,20092010,2009-11-28,Pittsburgh Penguins,New York Rangers,8,3,REG
+2009020374,20092010,2009-11-28,St. Louis Blues,Detroit Red Wings,3,4,REG
+2009020375,20092010,2009-11-28,Nashville Predators,Florida Panthers,4,1,REG
+2009020376,20092010,2009-11-28,Dallas Stars,Tampa Bay Lightning,4,3,REG
+2009020377,20092010,2009-11-28,Colorado Avalanche,Minnesota Wild,2,3,REG
+2009020378,20092010,2009-11-28,Vancouver Canucks,Edmonton Oilers,7,3,REG
+2009020379,20092010,2009-11-28,Los Angeles Kings,Chicago Blackhawks,2,1,REG
+2009020380,20092010,2009-11-29,Anaheim Ducks,Phoenix Coyotes,2,3,REG
+2009020381,20092010,2009-11-29,Vancouver Canucks,San Jose Sharks,2,4,REG
+2009020382,20092010,2009-11-30,Toronto Maple Leafs,Buffalo Sabres,0,3,REG
+2009020383,20092010,2009-11-30,New York Rangers,Pittsburgh Penguins,2,5,REG
+2009020384,20092010,2009-11-30,Carolina Hurricanes,Washington Capitals,2,3,REG
+2009020385,20092010,2009-11-30,Atlanta Thrashers,Florida Panthers,4,3,REG
+2009020386,20092010,2009-11-30,Columbus Blue Jackets,St. Louis Blues,5,2,REG
+2009020387,20092010,2009-11-30,Tampa Bay Lightning,Colorado Avalanche,0,3,REG
+2009020388,20092010,2009-11-30,Detroit Red Wings,Dallas Stars,4,1,REG
+2009020389,20092010,2009-11-30,Nashville Predators,Calgary Flames,0,5,REG
+2009020390,20092010,2009-12-01,Montréal Canadiens,Toronto Maple Leafs,0,3,REG
+2009020391,20092010,2009-12-01,Chicago Blackhawks,Columbus Blue Jackets,4,3,REG
+2009020392,20092010,2009-12-01,Anaheim Ducks,Los Angeles Kings,3,4,REG
+2009020393,20092010,2009-12-01,San Jose Sharks,Ottawa Senators,5,2,REG
+2009020394,20092010,2009-12-02,Boston Bruins,Tampa Bay Lightning,4,1,REG
+2009020395,20092010,2009-12-02,New Jersey Devils,Vancouver Canucks,2,5,REG
+2009020396,20092010,2009-12-02,Florida Panthers,Colorado Avalanche,6,5,REG
+2009020397,20092010,2009-12-02,Minnesota Wild,Nashville Predators,5,4,REG
+2009020398,20092010,2009-12-03,Buffalo Sabres,Montréal Canadiens,6,2,REG
+2009020399,20092010,2009-12-03,Philadelphia Flyers,Vancouver Canucks,0,3,REG
+2009020400,20092010,2009-12-03,Washington Capitals,Florida Panthers,6,2,REG
+2009020401,20092010,2009-12-03,Atlanta Thrashers,New York Islanders,1,4,REG
+2009020402,20092010,2009-12-03,Columbus Blue Jackets,Toronto Maple Leafs,3,6,REG
+2009020404,20092010,2009-12-03,Detroit Red Wings,Edmonton Oilers,1,4,REG
+2009020403,20092010,2009-12-03,Pittsburgh Penguins,Colorado Avalanche,4,1,REG
+2009020405,20092010,2009-12-03,Dallas Stars,Anaheim Ducks,3,1,REG
+2009020406,20092010,2009-12-03,Phoenix Coyotes,Calgary Flames,2,1,REG
+2009020407,20092010,2009-12-03,Los Angeles Kings,Ottawa Senators,6,3,REG
+2009020408,20092010,2009-12-03,San Jose Sharks,St. Louis Blues,2,3,REG
+2009020409,20092010,2009-12-04,New Jersey Devils,Tampa Bay Lightning,3,2,REG
+2009020411,20092010,2009-12-04,Minnesota Wild,Anaheim Ducks,5,4,REG
+2009020410,20092010,2009-12-04,Montréal Canadiens,Boston Bruins,5,1,REG
+2009020412,20092010,2009-12-04,Chicago Blackhawks,Nashville Predators,1,4,REG
+2009020413,20092010,2009-12-05,Carolina Hurricanes,Vancouver Canucks,5,3,REG
+2009020414,20092010,2009-12-05,Dallas Stars,Edmonton Oilers,2,3,REG
+2009020415,20092010,2009-12-05,Los Angeles Kings,St. Louis Blues,4,5,REG
+2009020416,20092010,2009-12-05,Boston Bruins,Toronto Maple Leafs,7,2,REG
+2009020417,20092010,2009-12-05,Buffalo Sabres,New York Rangers,1,2,REG
+2009020418,20092010,2009-12-05,New Jersey Devils,Detroit Red Wings,4,3,REG
+2009020419,20092010,2009-12-05,Philadelphia Flyers,Washington Capitals,2,8,REG
+2009020420,20092010,2009-12-05,Florida Panthers,Atlanta Thrashers,1,2,REG
+2009020421,20092010,2009-12-05,Columbus Blue Jackets,Colorado Avalanche,2,3,REG
+2009020422,20092010,2009-12-05,Pittsburgh Penguins,Chicago Blackhawks,1,2,REG
+2009020423,20092010,2009-12-05,Tampa Bay Lightning,New York Islanders,4,0,REG
+2009020424,20092010,2009-12-05,Nashville Predators,Minnesota Wild,3,5,REG
+2009020426,20092010,2009-12-05,San Jose Sharks,Calgary Flames,1,2,REG
+2009020425,20092010,2009-12-05,Phoenix Coyotes,Ottawa Senators,3,2,REG
+2009020427,20092010,2009-12-06,New York Rangers,Detroit Red Wings,1,3,REG
+2009020428,20092010,2009-12-06,Anaheim Ducks,Ottawa Senators,3,4,REG
+2009020429,20092010,2009-12-07,Buffalo Sabres,New Jersey Devils,0,3,REG
+2009020430,20092010,2009-12-07,Toronto Maple Leafs,Atlanta Thrashers,5,2,REG
+2009020431,20092010,2009-12-07,Montréal Canadiens,Philadelphia Flyers,3,1,REG
+2009020432,20092010,2009-12-07,Pittsburgh Penguins,Carolina Hurricanes,2,3,REG
+2009020433,20092010,2009-12-07,Tampa Bay Lightning,Washington Capitals,0,3,REG
+2009020434,20092010,2009-12-07,Florida Panthers,Edmonton Oilers,2,3,REG
+2009020435,20092010,2009-12-07,St. Louis Blues,Colorado Avalanche,0,4,REG
+2009020436,20092010,2009-12-07,Phoenix Coyotes,Minnesota Wild,2,0,REG
+2009020437,20092010,2009-12-07,Los Angeles Kings,Calgary Flames,2,1,REG
+2009020438,20092010,2009-12-08,Philadelphia Flyers,New York Islanders,6,2,REG
+2009020439,20092010,2009-12-08,Ottawa Senators,Montréal Canadiens,1,4,REG
+2009020440,20092010,2009-12-08,Nashville Predators,Vancouver Canucks,4,2,REG
+2009020441,20092010,2009-12-08,Anaheim Ducks,Dallas Stars,4,3,REG
+2009020442,20092010,2009-12-09,Buffalo Sabres,Washington Capitals,3,0,REG
+2009020443,20092010,2009-12-09,Toronto Maple Leafs,New York Islanders,3,2,REG
+2009020444,20092010,2009-12-09,New Jersey Devils,Carolina Hurricanes,4,2,REG
+2009020445,20092010,2009-12-09,Columbus Blue Jackets,Florida Panthers,3,0,REG
+2009020446,20092010,2009-12-09,Tampa Bay Lightning,Edmonton Oilers,2,3,REG
+2009020447,20092010,2009-12-09,Detroit Red Wings,St. Louis Blues,0,1,REG
+2009020448,20092010,2009-12-09,Chicago Blackhawks,New York Rangers,2,1,REG
+2009020449,20092010,2009-12-09,Colorado Avalanche,Minnesota Wild,0,1,REG
+2009020450,20092010,2009-12-09,Calgary Flames,Atlanta Thrashers,3,1,REG
+2009020451,20092010,2009-12-09,San Jose Sharks,Los Angeles Kings,4,5,REG
+2009020452,20092010,2009-12-10,Boston Bruins,Toronto Maple Leafs,5,2,REG
+2009020453,20092010,2009-12-10,Philadelphia Flyers,Ottawa Senators,0,2,REG
+2009020454,20092010,2009-12-10,Montréal Canadiens,Pittsburgh Penguins,2,3,REG
+2009020455,20092010,2009-12-10,Nashville Predators,Columbus Blue Jackets,4,3,REG
+2009020456,20092010,2009-12-10,Vancouver Canucks,Atlanta Thrashers,4,2,REG
+2009020457,20092010,2009-12-10,Los Angeles Kings,Phoenix Coyotes,3,2,REG
+2009020458,20092010,2009-12-11,New Jersey Devils,Florida Panthers,2,4,REG
+2009020459,20092010,2009-12-11,Washington Capitals,Carolina Hurricanes,4,3,REG
+2009020460,20092010,2009-12-11,Buffalo Sabres,Chicago Blackhawks,2,1,REG
+2009020461,20092010,2009-12-11,Detroit Red Wings,Anaheim Ducks,3,2,REG
+2009020462,20092010,2009-12-11,St. Louis Blues,Edmonton Oilers,3,5,REG
+2009020463,20092010,2009-12-11,Colorado Avalanche,Tampa Bay Lightning,2,1,REG
+2009020464,20092010,2009-12-11,Calgary Flames,Minnesota Wild,1,2,REG
+2009020465,20092010,2009-12-11,San Jose Sharks,Dallas Stars,2,3,REG
+2009020466,20092010,2009-12-12,Toronto Maple Leafs,Washington Capitals,6,3,REG
+2009020467,20092010,2009-12-12,Ottawa Senators,Carolina Hurricanes,4,2,REG
+2009020468,20092010,2009-12-12,New Jersey Devils,Philadelphia Flyers,4,1,REG
+2009020469,20092010,2009-12-12,New York Islanders,Boston Bruins,3,2,REG
+2009020470,20092010,2009-12-12,New York Rangers,Buffalo Sabres,2,3,REG
+2009020471,20092010,2009-12-12,Atlanta Thrashers,Montréal Canadiens,4,3,REG
+2009020472,20092010,2009-12-12,Columbus Blue Jackets,Anaheim Ducks,1,3,REG
+2009020473,20092010,2009-12-12,Pittsburgh Penguins,Florida Panthers,3,2,REG
+2009020475,20092010,2009-12-12,Phoenix Coyotes,San Jose Sharks,2,1,REG
+2009020474,20092010,2009-12-12,Nashville Predators,Detroit Red Wings,2,3,REG
+2009020476,20092010,2009-12-12,Vancouver Canucks,Minnesota Wild,4,3,REG
+2009020477,20092010,2009-12-12,Los Angeles Kings,Dallas Stars,3,2,REG
+2009020478,20092010,2009-12-13,Chicago Blackhawks,Tampa Bay Lightning,4,0,REG
+2009020479,20092010,2009-12-13,Colorado Avalanche,Calgary Flames,3,2,REG
+2009020480,20092010,2009-12-14,Boston Bruins,Philadelphia Flyers,1,3,REG
+2009020481,20092010,2009-12-14,Toronto Maple Leafs,Ottawa Senators,3,2,REG
+2009020482,20092010,2009-12-14,New York Islanders,Florida Panthers,1,7,REG
+2009020483,20092010,2009-12-14,New York Rangers,Atlanta Thrashers,2,3,REG
+2009020484,20092010,2009-12-14,Columbus Blue Jackets,Nashville Predators,3,5,REG
+2009020485,20092010,2009-12-14,Montréal Canadiens,Buffalo Sabres,3,4,REG
+2009020486,20092010,2009-12-14,Detroit Red Wings,Phoenix Coyotes,3,2,REG
+2009020487,20092010,2009-12-14,Vancouver Canucks,Los Angeles Kings,3,1,REG
+2009020488,20092010,2009-12-15,Pittsburgh Penguins,Philadelphia Flyers,6,1,REG
+2009020489,20092010,2009-12-15,St. Louis Blues,Calgary Flames,4,3,REG
+2009020490,20092010,2009-12-15,Nashville Predators,Tampa Bay Lightning,7,4,REG
+2009020491,20092010,2009-12-15,Minnesota Wild,Columbus Blue Jackets,2,1,REG
+2009020492,20092010,2009-12-15,Colorado Avalanche,Washington Capitals,1,6,REG
+2009020493,20092010,2009-12-15,Edmonton Oilers,Los Angeles Kings,2,3,REG
+2009020494,20092010,2009-12-16,New Jersey Devils,Montréal Canadiens,2,1,REG
+2009020495,20092010,2009-12-16,New York Rangers,New York Islanders,1,2,REG
+2009020496,20092010,2009-12-16,Carolina Hurricanes,Dallas Stars,5,3,REG
+2009020497,20092010,2009-12-16,Toronto Maple Leafs,Phoenix Coyotes,3,6,REG
+2009020498,20092010,2009-12-16,Ottawa Senators,Buffalo Sabres,2,0,REG
+2009020499,20092010,2009-12-16,Florida Panthers,Atlanta Thrashers,4,3,REG
+2009020500,20092010,2009-12-16,Chicago Blackhawks,St. Louis Blues,3,0,REG
+2009020501,20092010,2009-12-16,Vancouver Canucks,Anaheim Ducks,2,3,REG
+2009020502,20092010,2009-12-17,Montréal Canadiens,Minnesota Wild,1,3,REG
+2009020503,20092010,2009-12-17,New York Islanders,New York Rangers,2,5,REG
+2009020504,20092010,2009-12-17,Philadelphia Flyers,Pittsburgh Penguins,2,3,REG
+2009020505,20092010,2009-12-17,Atlanta Thrashers,Dallas Stars,6,5,REG
+2009020506,20092010,2009-12-17,Columbus Blue Jackets,Phoenix Coyotes,1,2,REG
+2009020507,20092010,2009-12-17,Detroit Red Wings,Tampa Bay Lightning,3,0,REG
+2009020508,20092010,2009-12-17,Calgary Flames,Los Angeles Kings,2,1,REG
+2009020509,20092010,2009-12-17,Edmonton Oilers,Nashville Predators,3,6,REG
+2009020510,20092010,2009-12-17,San Jose Sharks,Anaheim Ducks,4,1,REG
+2009020511,20092010,2009-12-18,New Jersey Devils,Ottawa Senators,4,2,REG
+2009020512,20092010,2009-12-18,Buffalo Sabres,Toronto Maple Leafs,5,2,REG
+2009020513,20092010,2009-12-18,Florida Panthers,Carolina Hurricanes,6,3,REG
+2009020514,20092010,2009-12-18,St. Louis Blues,Tampa Bay Lightning,3,6,REG
+2009020515,20092010,2009-12-18,Chicago Blackhawks,Boston Bruins,5,4,REG
+2009020516,20092010,2009-12-18,Vancouver Canucks,Washington Capitals,3,2,REG
+2009020517,20092010,2009-12-19,Philadelphia Flyers,New York Rangers,1,2,REG
+2009020518,20092010,2009-12-19,Dallas Stars,Detroit Red Wings,4,3,REG
+2009020519,20092010,2009-12-19,Anaheim Ducks,Phoenix Coyotes,4,2,REG
+2009020526,20092010,2009-12-19,Calgary Flames,Nashville Predators,3,5,REG
+2009020520,20092010,2009-12-19,Buffalo Sabres,Pittsburgh Penguins,1,2,REG
+2009020521,20092010,2009-12-19,Toronto Maple Leafs,Boston Bruins,2,0,REG
+2009020522,20092010,2009-12-19,Ottawa Senators,Minnesota Wild,4,1,REG
+2009020523,20092010,2009-12-19,New York Islanders,Montréal Canadiens,0,3,REG
+2009020524,20092010,2009-12-19,Carolina Hurricanes,Florida Panthers,3,2,REG
+2009020525,20092010,2009-12-19,Atlanta Thrashers,New Jersey Devils,4,5,REG
+2009020527,20092010,2009-12-19,Colorado Avalanche,Columbus Blue Jackets,5,2,REG
+2009020528,20092010,2009-12-19,Edmonton Oilers,Washington Capitals,2,4,REG
+2009020529,20092010,2009-12-20,Chicago Blackhawks,Detroit Red Wings,3,0,REG
+2009020530,20092010,2009-12-20,Vancouver Canucks,St. Louis Blues,1,3,REG
+2009020531,20092010,2009-12-21,Toronto Maple Leafs,Buffalo Sabres,2,3,REG
+2009020532,20092010,2009-12-21,New York Islanders,Tampa Bay Lightning,2,4,REG
+2009020533,20092010,2009-12-21,Philadelphia Flyers,Florida Panthers,1,4,REG
+2009020534,20092010,2009-12-21,Carolina Hurricanes,New York Rangers,1,3,REG
+2009020535,20092010,2009-12-21,Atlanta Thrashers,Montréal Canadiens,3,4,REG
+2009020536,20092010,2009-12-21,Ottawa Senators,Boston Bruins,0,2,REG
+2009020537,20092010,2009-12-21,Pittsburgh Penguins,New Jersey Devils,0,4,REG
+2009020538,20092010,2009-12-21,Minnesota Wild,Colorado Avalanche,3,4,REG
+2009020539,20092010,2009-12-21,Dallas Stars,San Jose Sharks,2,4,REG
+2009020540,20092010,2009-12-21,Edmonton Oilers,St. Louis Blues,2,7,REG
+2009020541,20092010,2009-12-21,Phoenix Coyotes,Columbus Blue Jackets,5,2,REG
+2009020542,20092010,2009-12-22,Chicago Blackhawks,San Jose Sharks,2,3,REG
+2009020543,20092010,2009-12-22,Colorado Avalanche,Anaheim Ducks,2,4,REG
+2009020544,20092010,2009-12-22,Vancouver Canucks,Nashville Predators,4,1,REG
+2009020551,20092010,2009-12-23,Minnesota Wild,Edmonton Oilers,3,1,REG
+2009020545,20092010,2009-12-23,Boston Bruins,Atlanta Thrashers,6,4,REG
+2009020546,20092010,2009-12-23,New York Islanders,Toronto Maple Leafs,3,1,REG
+2009020547,20092010,2009-12-23,New York Rangers,Florida Panthers,4,1,REG
+2009020548,20092010,2009-12-23,Pittsburgh Penguins,Ottawa Senators,8,2,REG
+2009020549,20092010,2009-12-23,Washington Capitals,Buffalo Sabres,5,2,REG
+2009020550,20092010,2009-12-23,Carolina Hurricanes,Montréal Canadiens,1,5,REG
+2009020552,20092010,2009-12-23,Tampa Bay Lightning,Philadelphia Flyers,2,5,REG
+2009020553,20092010,2009-12-23,Detroit Red Wings,Chicago Blackhawks,0,3,REG
+2009020554,20092010,2009-12-23,Dallas Stars,Columbus Blue Jackets,3,1,REG
+2009020555,20092010,2009-12-23,Phoenix Coyotes,Anaheim Ducks,4,0,REG
+2009020556,20092010,2009-12-23,Calgary Flames,St. Louis Blues,1,2,REG
+2009020557,20092010,2009-12-26,Buffalo Sabres,Ottawa Senators,2,3,REG
+2009020558,20092010,2009-12-26,Toronto Maple Leafs,Montréal Canadiens,2,3,REG
+2009020559,20092010,2009-12-26,New York Rangers,New York Islanders,2,3,REG
+2009020560,20092010,2009-12-26,Washington Capitals,New Jersey Devils,4,1,REG
+2009020561,20092010,2009-12-26,Carolina Hurricanes,Philadelphia Flyers,3,4,REG
+2009020562,20092010,2009-12-26,Detroit Red Wings,Columbus Blue Jackets,2,1,REG
+2009020563,20092010,2009-12-26,Tampa Bay Lightning,Atlanta Thrashers,4,3,REG
+2009020564,20092010,2009-12-26,Nashville Predators,Chicago Blackhawks,1,4,REG
+2009020565,20092010,2009-12-26,Minnesota Wild,St. Louis Blues,4,3,REG
+2009020566,20092010,2009-12-26,Phoenix Coyotes,Los Angeles Kings,3,2,REG
+2009020567,20092010,2009-12-26,Colorado Avalanche,Dallas Stars,4,1,REG
+2009020568,20092010,2009-12-26,Vancouver Canucks,Edmonton Oilers,4,1,REG
+2009020569,20092010,2009-12-26,San Jose Sharks,Anaheim Ducks,5,2,REG
+2009020570,20092010,2009-12-27,New York Islanders,Philadelphia Flyers,1,2,REG
+2009020571,20092010,2009-12-27,Florida Panthers,Boston Bruins,1,2,REG
+2009020572,20092010,2009-12-27,St. Louis Blues,Buffalo Sabres,3,5,REG
+2009020574,20092010,2009-12-27,Chicago Blackhawks,Nashville Predators,5,4,REG
+2009020573,20092010,2009-12-27,Pittsburgh Penguins,Toronto Maple Leafs,3,4,REG
+2009020575,20092010,2009-12-27,Calgary Flames,Vancouver Canucks,1,5,REG
+2009020576,20092010,2009-12-28,New Jersey Devils,Atlanta Thrashers,3,2,REG
+2009020577,20092010,2009-12-28,Washington Capitals,Carolina Hurricanes,3,6,REG
+2009020578,20092010,2009-12-28,Columbus Blue Jackets,Detroit Red Wings,1,0,REG
+2009020579,20092010,2009-12-28,Ottawa Senators,Montréal Canadiens,4,2,REG
+2009020580,20092010,2009-12-28,Tampa Bay Lightning,Boston Bruins,2,1,REG
+2009020581,20092010,2009-12-28,Edmonton Oilers,Calgary Flames,1,4,REG
+2009020582,20092010,2009-12-28,Los Angeles Kings,Minnesota Wild,3,4,REG
+2009020583,20092010,2009-12-28,San Jose Sharks,Phoenix Coyotes,3,2,REG
+2009020584,20092010,2009-12-29,Buffalo Sabres,Pittsburgh Penguins,4,3,REG
+2009020585,20092010,2009-12-29,New York Islanders,Columbus Blue Jackets,2,1,REG
+2009020586,20092010,2009-12-29,St. Louis Blues,Nashville Predators,3,4,REG
+2009020587,20092010,2009-12-29,Dallas Stars,Chicago Blackhawks,5,4,REG
+2009020588,20092010,2009-12-29,Phoenix Coyotes,Vancouver Canucks,3,2,REG
+2009020589,20092010,2009-12-29,Anaheim Ducks,Minnesota Wild,4,2,REG
+2009020590,20092010,2009-12-30,Boston Bruins,Atlanta Thrashers,4,0,REG
+2009020591,20092010,2009-12-30,New Jersey Devils,Pittsburgh Penguins,2,0,REG
+2009020592,20092010,2009-12-30,New York Rangers,Philadelphia Flyers,0,6,REG
+2009020593,20092010,2009-12-30,Tampa Bay Lightning,Montréal Canadiens,1,2,REG
+2009020594,20092010,2009-12-30,Ottawa Senators,Colorado Avalanche,3,4,REG
+2009020595,20092010,2009-12-30,Calgary Flames,Los Angeles Kings,2,1,REG
+2009020596,20092010,2009-12-30,Edmonton Oilers,Toronto Maple Leafs,3,1,REG
+2009020597,20092010,2009-12-30,San Jose Sharks,Washington Capitals,5,2,REG
+2009020598,20092010,2009-12-31,Florida Panthers,Montréal Canadiens,4,5,REG
+2009020602,20092010,2009-12-31,Phoenix Coyotes,San Jose Sharks,2,3,REG
+2009020604,20092010,2009-12-31,St. Louis Blues,Vancouver Canucks,3,4,REG
+2009020599,20092010,2009-12-31,Ottawa Senators,New York Islanders,3,2,REG
+2009020600,20092010,2009-12-31,Detroit Red Wings,Colorado Avalanche,4,2,REG
+2009020601,20092010,2009-12-31,Columbus Blue Jackets,Nashville Predators,1,2,REG
+2009020605,20092010,2009-12-31,Minnesota Wild,Los Angeles Kings,2,5,REG
+2009020606,20092010,2009-12-31,Dallas Stars,Anaheim Ducks,5,3,REG
+2009020603,20092010,2009-12-31,Carolina Hurricanes,New York Rangers,1,2,REG
+2009020607,20092010,2009-12-31,Chicago Blackhawks,New Jersey Devils,5,1,REG
+2009020608,20092010,2009-12-31,Calgary Flames,Edmonton Oilers,2,1,REG
+2009020609,20092010,2010-01-01,Boston Bruins,Philadelphia Flyers,2,1,REG
+2009020610,20092010,2010-01-01,Buffalo Sabres,Atlanta Thrashers,4,3,REG
+2009020611,20092010,2010-01-02,New York Rangers,Carolina Hurricanes,1,2,REG
+2009020612,20092010,2010-01-02,Dallas Stars,Vancouver Canucks,1,3,REG
+2009020613,20092010,2010-01-02,Tampa Bay Lightning,Pittsburgh Penguins,3,1,REG
+2009020614,20092010,2010-01-02,Los Angeles Kings,Washington Capitals,2,1,REG
+2009020617,20092010,2010-01-02,Calgary Flames,Toronto Maple Leafs,3,1,REG
+2009020615,20092010,2010-01-02,New York Islanders,Atlanta Thrashers,6,5,REG
+2009020616,20092010,2010-01-02,Columbus Blue Jackets,Colorado Avalanche,2,3,REG
+2009020621,20092010,2010-01-02,Phoenix Coyotes,Detroit Red Wings,1,4,REG
+2009020618,20092010,2010-01-02,St. Louis Blues,Chicago Blackhawks,3,6,REG
+2009020619,20092010,2010-01-02,Nashville Predators,Anaheim Ducks,3,1,REG
+2009020620,20092010,2010-01-02,Minnesota Wild,New Jersey Devils,3,5,REG
+2009020622,20092010,2010-01-02,San Jose Sharks,Edmonton Oilers,4,1,REG
+2009020624,20092010,2010-01-03,Ottawa Senators,Philadelphia Flyers,7,4,REG
+2009020623,20092010,2010-01-03,Montréal Canadiens,Buffalo Sabres,0,1,REG
+2009020625,20092010,2010-01-03,Florida Panthers,Pittsburgh Penguins,6,2,REG
+2009020626,20092010,2010-01-03,Chicago Blackhawks,Anaheim Ducks,5,2,REG
+2009020627,20092010,2010-01-04,New York Rangers,Boston Bruins,3,2,REG
+2009020628,20092010,2010-01-04,San Jose Sharks,Los Angeles Kings,2,6,REG
+2009020629,20092010,2010-01-05,Toronto Maple Leafs,Florida Panthers,3,2,REG
+2009020630,20092010,2010-01-05,New Jersey Devils,Dallas Stars,4,0,REG
+2009020631,20092010,2010-01-05,Washington Capitals,Montréal Canadiens,4,2,REG
+2009020632,20092010,2010-01-05,Ottawa Senators,Boston Bruins,1,4,REG
+2009020633,20092010,2010-01-05,Pittsburgh Penguins,Atlanta Thrashers,5,2,REG
+2009020634,20092010,2010-01-05,Nashville Predators,Calgary Flames,1,3,REG
+2009020635,20092010,2010-01-05,Chicago Blackhawks,Minnesota Wild,4,1,REG
+2009020636,20092010,2010-01-05,Edmonton Oilers,Phoenix Coyotes,4,5,REG
+2009020637,20092010,2010-01-05,Vancouver Canucks,Columbus Blue Jackets,7,3,REG
+2009020638,20092010,2010-01-05,Anaheim Ducks,Detroit Red Wings,4,1,REG
+2009020639,20092010,2010-01-06,Buffalo Sabres,Tampa Bay Lightning,5,3,REG
+2009020640,20092010,2010-01-06,New York Rangers,Dallas Stars,5,2,REG
+2009020641,20092010,2010-01-06,Philadelphia Flyers,Toronto Maple Leafs,6,2,REG
+2009020642,20092010,2010-01-06,Minnesota Wild,Calgary Flames,4,1,REG
+2009020643,20092010,2010-01-06,Colorado Avalanche,New York Islanders,2,3,REG
+2009020644,20092010,2010-01-06,San Jose Sharks,St. Louis Blues,2,1,REG
+2009020645,20092010,2010-01-07,Boston Bruins,Chicago Blackhawks,2,5,REG
+2009020646,20092010,2010-01-07,Washington Capitals,Ottawa Senators,5,2,REG
+2009020647,20092010,2010-01-07,Atlanta Thrashers,New York Rangers,2,1,REG
+2009020648,20092010,2010-01-07,Montréal Canadiens,Florida Panthers,2,0,REG
+2009020649,20092010,2010-01-07,Pittsburgh Penguins,Philadelphia Flyers,4,7,REG
+2009020650,20092010,2010-01-07,Nashville Predators,Carolina Hurricanes,4,2,REG
+2009020651,20092010,2010-01-07,Edmonton Oilers,Columbus Blue Jackets,2,4,REG
+2009020652,20092010,2010-01-07,Vancouver Canucks,Phoenix Coyotes,4,0,REG
+2009020653,20092010,2010-01-07,Anaheim Ducks,St. Louis Blues,4,2,REG
+2009020654,20092010,2010-01-07,Los Angeles Kings,Detroit Red Wings,1,2,REG
+2009020655,20092010,2010-01-08,New Jersey Devils,Tampa Bay Lightning,2,4,REG
+2009020656,20092010,2010-01-08,Carolina Hurricanes,Colorado Avalanche,2,1,REG
+2009020657,20092010,2010-01-08,Buffalo Sabres,Toronto Maple Leafs,3,2,REG
+2009020658,20092010,2010-01-08,Dallas Stars,New York Islanders,4,3,REG
+2009020659,20092010,2010-01-08,Calgary Flames,Columbus Blue Jackets,2,3,REG
+2009020660,20092010,2010-01-09,Boston Bruins,New York Rangers,1,3,REG
+2009020661,20092010,2010-01-09,Buffalo Sabres,Colorado Avalanche,3,4,REG
+2009020662,20092010,2010-01-09,Toronto Maple Leafs,Pittsburgh Penguins,1,4,REG
+2009020663,20092010,2010-01-09,Montréal Canadiens,New Jersey Devils,1,2,REG
+2009020664,20092010,2010-01-09,Ottawa Senators,Florida Panthers,0,3,REG
+2009020665,20092010,2010-01-09,Philadelphia Flyers,Tampa Bay Lightning,4,1,REG
+2009020666,20092010,2010-01-09,Atlanta Thrashers,Washington Capitals,1,8,REG
+2009020669,20092010,2010-01-09,Phoenix Coyotes,New York Islanders,4,5,REG
+2009020667,20092010,2010-01-09,Nashville Predators,Anaheim Ducks,2,3,REG
+2009020668,20092010,2010-01-09,Minnesota Wild,Chicago Blackhawks,6,5,REG
+2009020670,20092010,2010-01-09,Vancouver Canucks,Calgary Flames,2,3,REG
+2009020671,20092010,2010-01-09,Los Angeles Kings,St. Louis Blues,3,4,REG
+2009020672,20092010,2010-01-09,San Jose Sharks,Detroit Red Wings,1,4,REG
+2009020673,20092010,2010-01-10,Carolina Hurricanes,Ottawa Senators,4,1,REG
+2009020675,20092010,2010-01-10,Chicago Blackhawks,Anaheim Ducks,1,3,REG
+2009020674,20092010,2010-01-10,Columbus Blue Jackets,Dallas Stars,2,0,REG
+2009020676,20092010,2010-01-11,Minnesota Wild,Pittsburgh Penguins,4,3,REG
+2009020677,20092010,2010-01-11,Calgary Flames,Colorado Avalanche,2,3,REG
+2009020678,20092010,2010-01-11,Vancouver Canucks,Nashville Predators,2,3,REG
+2009020679,20092010,2010-01-11,Los Angeles Kings,San Jose Sharks,1,2,REG
+2009020680,20092010,2010-01-12,Toronto Maple Leafs,Carolina Hurricanes,2,4,REG
+2009020681,20092010,2010-01-12,New York Islanders,Detroit Red Wings,6,0,REG
+2009020682,20092010,2010-01-12,New York Rangers,New Jersey Devils,0,1,REG
+2009020683,20092010,2010-01-12,Philadelphia Flyers,Dallas Stars,6,3,REG
+2009020684,20092010,2010-01-12,Atlanta Thrashers,Ottawa Senators,6,1,REG
+2009020685,20092010,2010-01-12,Tampa Bay Lightning,Washington Capitals,7,4,REG
+2009020686,20092010,2010-01-12,St. Louis Blues,Columbus Blue Jackets,4,1,REG
+2009020687,20092010,2010-01-12,Edmonton Oilers,Nashville Predators,3,5,REG
+2009020688,20092010,2010-01-12,Phoenix Coyotes,San Jose Sharks,1,3,REG
+2009020689,20092010,2010-01-13,Minnesota Wild,Vancouver Canucks,5,2,REG
+2009020690,20092010,2010-01-13,Florida Panthers,Washington Capitals,4,5,REG
+2009020691,20092010,2010-01-13,Calgary Flames,Pittsburgh Penguins,1,3,REG
+2009020692,20092010,2010-01-13,Anaheim Ducks,Boston Bruins,4,3,REG
+2009020693,20092010,2010-01-14,Toronto Maple Leafs,Philadelphia Flyers,4,0,REG
+2009020694,20092010,2010-01-14,New York Rangers,Ottawa Senators,0,2,REG
+2009020695,20092010,2010-01-14,Atlanta Thrashers,Buffalo Sabres,1,2,REG
+2009020696,20092010,2010-01-14,Montréal Canadiens,Dallas Stars,5,3,REG
+2009020697,20092010,2010-01-14,Tampa Bay Lightning,Florida Panthers,2,3,REG
+2009020698,20092010,2010-01-14,Detroit Red Wings,Carolina Hurricanes,3,1,REG
+2009020699,20092010,2010-01-14,St. Louis Blues,Minnesota Wild,1,0,REG
+2009020700,20092010,2010-01-14,Chicago Blackhawks,Columbus Blue Jackets,3,0,REG
+2009020701,20092010,2010-01-14,Phoenix Coyotes,New Jersey Devils,4,3,REG
+2009020702,20092010,2010-01-14,Edmonton Oilers,Pittsburgh Penguins,2,3,REG
+2009020703,20092010,2010-01-14,Los Angeles Kings,Anaheim Ducks,4,0,REG
+2009020704,20092010,2010-01-14,San Jose Sharks,Boston Bruins,1,2,REG
+2009020705,20092010,2010-01-15,Washington Capitals,Toronto Maple Leafs,6,1,REG
+2009020706,20092010,2010-01-15,Calgary Flames,Nashville Predators,0,1,REG
+2009020708,20092010,2010-01-16,Dallas Stars,Detroit Red Wings,3,2,REG
+2009020707,20092010,2010-01-16,Columbus Blue Jackets,Chicago Blackhawks,5,6,REG
+2009020709,20092010,2010-01-16,Colorado Avalanche,New Jersey Devils,3,1,REG
+2009020710,20092010,2010-01-16,Los Angeles Kings,Boston Bruins,4,3,REG
+2009020711,20092010,2010-01-16,San Jose Sharks,Edmonton Oilers,4,2,REG
+2009020712,20092010,2010-01-16,Montréal Canadiens,Ottawa Senators,2,4,REG
+2009020713,20092010,2010-01-16,New York Islanders,Buffalo Sabres,3,2,REG
+2009020714,20092010,2010-01-16,Florida Panthers,Tampa Bay Lightning,5,2,REG
+2009020717,20092010,2010-01-16,Phoenix Coyotes,Minnesota Wild,6,4,REG
+2009020716,20092010,2010-01-16,St. Louis Blues,New York Rangers,4,1,REG
+2009020715,20092010,2010-01-16,Carolina Hurricanes,Atlanta Thrashers,3,5,REG
+2009020718,20092010,2010-01-16,Vancouver Canucks,Pittsburgh Penguins,6,2,REG
+2009020720,20092010,2010-01-17,Detroit Red Wings,Chicago Blackhawks,3,4,REG
+2009020719,20092010,2010-01-17,Washington Capitals,Philadelphia Flyers,5,3,REG
+2009020721,20092010,2010-01-17,New York Rangers,Montréal Canadiens,6,2,REG
+2009020722,20092010,2010-01-17,Anaheim Ducks,Calgary Flames,5,4,REG
+2009020723,20092010,2010-01-18,Boston Bruins,Ottawa Senators,1,5,REG
+2009020724,20092010,2010-01-18,New York Islanders,New Jersey Devils,4,0,REG
+2009020727,20092010,2010-01-18,Phoenix Coyotes,Buffalo Sabres,2,7,REG
+2009020725,20092010,2010-01-18,Carolina Hurricanes,Tampa Bay Lightning,2,3,REG
+2009020726,20092010,2010-01-18,Columbus Blue Jackets,St. Louis Blues,4,2,REG
+2009020728,20092010,2010-01-18,Florida Panthers,Atlanta Thrashers,1,0,REG
+2009020729,20092010,2010-01-18,Nashville Predators,Toronto Maple Leafs,3,4,REG
+2009020730,20092010,2010-01-18,Dallas Stars,Minnesota Wild,4,3,REG
+2009020731,20092010,2010-01-18,Colorado Avalanche,Edmonton Oilers,6,0,REG
+2009020732,20092010,2010-01-18,San Jose Sharks,Calgary Flames,9,1,REG
+2009020733,20092010,2010-01-19,New York Rangers,Tampa Bay Lightning,8,2,REG
+2009020734,20092010,2010-01-19,Philadelphia Flyers,Columbus Blue Jackets,5,3,REG
+2009020735,20092010,2010-01-19,Washington Capitals,Detroit Red Wings,3,2,REG
+2009020736,20092010,2010-01-19,Atlanta Thrashers,Toronto Maple Leafs,4,3,REG
+2009020737,20092010,2010-01-19,Ottawa Senators,Chicago Blackhawks,4,1,REG
+2009020738,20092010,2010-01-19,Pittsburgh Penguins,New York Islanders,6,4,REG
+2009020739,20092010,2010-01-19,Anaheim Ducks,Buffalo Sabres,5,4,REG
+2009020740,20092010,2010-01-19,Los Angeles Kings,San Jose Sharks,1,5,REG
+2009020741,20092010,2010-01-20,New Jersey Devils,Florida Panthers,2,0,REG
+2009020742,20092010,2010-01-20,Montréal Canadiens,St. Louis Blues,3,4,REG
+2009020743,20092010,2010-01-20,Edmonton Oilers,Vancouver Canucks,2,3,REG
+2009020744,20092010,2010-01-21,Boston Bruins,Columbus Blue Jackets,2,3,REG
+2009020745,20092010,2010-01-21,Ottawa Senators,St. Louis Blues,3,2,REG
+2009020746,20092010,2010-01-21,New York Islanders,Florida Panthers,2,1,REG
+2009020747,20092010,2010-01-21,Philadelphia Flyers,New York Rangers,2,0,REG
+2009020748,20092010,2010-01-21,Atlanta Thrashers,Carolina Hurricanes,2,5,REG
+2009020749,20092010,2010-01-21,Tampa Bay Lightning,Toronto Maple Leafs,3,2,REG
+2009020750,20092010,2010-01-21,Pittsburgh Penguins,Washington Capitals,3,6,REG
+2009020751,20092010,2010-01-21,Minnesota Wild,Detroit Red Wings,3,4,REG
+2009020752,20092010,2010-01-21,Phoenix Coyotes,Nashville Predators,4,2,REG
+2009020753,20092010,2010-01-21,Calgary Flames,Chicago Blackhawks,1,3,REG
+2009020754,20092010,2010-01-21,Vancouver Canucks,Dallas Stars,4,3,REG
+2009020755,20092010,2010-01-21,Los Angeles Kings,Buffalo Sabres,4,3,REG
+2009020756,20092010,2010-01-21,San Jose Sharks,Anaheim Ducks,3,1,REG
+2009020757,20092010,2010-01-22,New Jersey Devils,Montréal Canadiens,1,3,REG
+2009020758,20092010,2010-01-22,Colorado Avalanche,Nashville Predators,2,1,REG
+2009020759,20092010,2010-01-22,Edmonton Oilers,Dallas Stars,3,4,REG
+2009020760,20092010,2010-01-23,Boston Bruins,Ottawa Senators,1,2,REG
+2009020761,20092010,2010-01-23,Philadelphia Flyers,Carolina Hurricanes,4,2,REG
+2009020762,20092010,2010-01-23,Montréal Canadiens,New York Rangers,6,0,REG
+2009020763,20092010,2010-01-23,New York Islanders,New Jersey Devils,2,4,REG
+2009020764,20092010,2010-01-23,Washington Capitals,Phoenix Coyotes,4,2,REG
+2009020765,20092010,2010-01-23,Florida Panthers,Toronto Maple Leafs,2,0,REG
+2009020766,20092010,2010-01-23,Detroit Red Wings,Los Angeles Kings,2,3,REG
+2009020767,20092010,2010-01-23,Tampa Bay Lightning,Atlanta Thrashers,2,1,REG
+2009020768,20092010,2010-01-23,St. Louis Blues,Anaheim Ducks,3,4,REG
+2009020769,20092010,2010-01-23,Minnesota Wild,Columbus Blue Jackets,4,2,REG
+2009020770,20092010,2010-01-23,Vancouver Canucks,Chicago Blackhawks,5,1,REG
+2009020771,20092010,2010-01-23,San Jose Sharks,Buffalo Sabres,5,2,REG
+2009020772,20092010,2010-01-24,Philadelphia Flyers,Pittsburgh Penguins,1,2,REG
+2009020773,20092010,2010-01-24,Carolina Hurricanes,Boston Bruins,5,1,REG
+2009020774,20092010,2010-01-24,Colorado Avalanche,Dallas Stars,4,0,REG
+2009020775,20092010,2010-01-25,New York Rangers,Pittsburgh Penguins,2,4,REG
+2009020776,20092010,2010-01-25,Calgary Flames,St. Louis Blues,0,2,REG
+2009020777,20092010,2010-01-25,Vancouver Canucks,Buffalo Sabres,3,2,REG
+2009020778,20092010,2010-01-26,Toronto Maple Leafs,Los Angeles Kings,3,5,REG
+2009020779,20092010,2010-01-26,New York Islanders,Washington Capitals,2,7,REG
+2009020780,20092010,2010-01-26,Atlanta Thrashers,Anaheim Ducks,2,1,REG
+2009020781,20092010,2010-01-26,Columbus Blue Jackets,Nashville Predators,3,2,REG
+2009020784,20092010,2010-01-26,Detroit Red Wings,Phoenix Coyotes,4,5,REG
+2009020782,20092010,2010-01-26,Ottawa Senators,New Jersey Devils,3,0,REG
+2009020783,20092010,2010-01-26,Florida Panthers,Montréal Canadiens,2,1,REG
+2009020785,20092010,2010-01-26,Edmonton Oilers,Chicago Blackhawks,2,4,REG
+2009020786,20092010,2010-01-27,Buffalo Sabres,New Jersey Devils,2,1,REG
+2009020787,20092010,2010-01-27,New York Rangers,Carolina Hurricanes,1,5,REG
+2009020788,20092010,2010-01-27,Washington Capitals,Anaheim Ducks,5,1,REG
+2009020789,20092010,2010-01-27,Tampa Bay Lightning,Montréal Canadiens,3,0,REG
+2009020790,20092010,2010-01-27,Minnesota Wild,Detroit Red Wings,5,2,REG
+2009020791,20092010,2010-01-27,Dallas Stars,Calgary Flames,4,3,REG
+2009020792,20092010,2010-01-27,Vancouver Canucks,St. Louis Blues,3,2,REG
+2009020793,20092010,2010-01-28,Philadelphia Flyers,Atlanta Thrashers,3,4,REG
+2009020794,20092010,2010-01-28,Pittsburgh Penguins,Ottawa Senators,1,4,REG
+2009020795,20092010,2010-01-28,Carolina Hurricanes,New York Islanders,4,1,REG
+2009020796,20092010,2010-01-28,Columbus Blue Jackets,Los Angeles Kings,1,4,REG
+2009020797,20092010,2010-01-28,Colorado Avalanche,Minnesota Wild,0,1,REG
+2009020798,20092010,2010-01-28,Phoenix Coyotes,Calgary Flames,3,2,REG
+2009020799,20092010,2010-01-28,Edmonton Oilers,St. Louis Blues,1,2,REG
+2009020800,20092010,2010-01-28,San Jose Sharks,Chicago Blackhawks,3,4,REG
+2009020801,20092010,2010-01-29,New Jersey Devils,Toronto Maple Leafs,5,4,REG
+2009020802,20092010,2010-01-29,Washington Capitals,Florida Panthers,4,1,REG
+2009020803,20092010,2010-01-29,Buffalo Sabres,Boston Bruins,2,1,REG
+2009020804,20092010,2010-01-29,Tampa Bay Lightning,Anaheim Ducks,1,2,REG
+2009020805,20092010,2010-01-29,Detroit Red Wings,Nashville Predators,4,2,REG
+2009020806,20092010,2010-01-29,Dallas Stars,Colorado Avalanche,3,2,REG
+2009020810,20092010,2010-01-30,Philadelphia Flyers,New York Islanders,2,1,REG
+2009020807,20092010,2010-01-30,Ottawa Senators,Montréal Canadiens,3,2,REG
+2009020808,20092010,2010-01-30,Boston Bruins,Los Angeles Kings,2,3,REG
+2009020809,20092010,2010-01-30,Toronto Maple Leafs,Vancouver Canucks,3,5,REG
+2009020811,20092010,2010-01-30,Carolina Hurricanes,Chicago Blackhawks,4,2,REG
+2009020814,20092010,2010-01-30,Phoenix Coyotes,New York Rangers,3,2,REG
+2009020812,20092010,2010-01-30,St. Louis Blues,Columbus Blue Jackets,2,3,REG
+2009020813,20092010,2010-01-30,Nashville Predators,Atlanta Thrashers,4,3,REG
+2009020815,20092010,2010-01-30,Calgary Flames,Edmonton Oilers,6,1,REG
+2009020816,20092010,2010-01-30,San Jose Sharks,Minnesota Wild,5,2,REG
+2009020817,20092010,2010-01-31,Pittsburgh Penguins,Detroit Red Wings,2,1,REG
+2009020818,20092010,2010-01-31,Washington Capitals,Tampa Bay Lightning,3,2,REG
+2009020820,20092010,2010-01-31,Florida Panthers,New York Islanders,2,0,REG
+2009020819,20092010,2010-01-31,New Jersey Devils,Los Angeles Kings,2,3,REG
+2009020821,20092010,2010-01-31,Dallas Stars,Phoenix Coyotes,2,4,REG
+2009020822,20092010,2010-01-31,Colorado Avalanche,New York Rangers,1,3,REG
+2009020823,20092010,2010-02-01,Pittsburgh Penguins,Buffalo Sabres,5,4,REG
+2009020824,20092010,2010-02-01,Florida Panthers,Anaheim Ducks,0,3,REG
+2009020825,20092010,2010-02-01,Calgary Flames,Philadelphia Flyers,0,3,REG
+2009020826,20092010,2010-02-01,Edmonton Oilers,Carolina Hurricanes,4,2,REG
+2009020827,20092010,2010-02-02,Boston Bruins,Washington Capitals,1,4,REG
+2009020828,20092010,2010-02-02,Toronto Maple Leafs,New Jersey Devils,3,0,REG
+2009020829,20092010,2010-02-02,Atlanta Thrashers,Tampa Bay Lightning,1,2,REG
+2009020830,20092010,2010-02-02,Montréal Canadiens,Vancouver Canucks,3,2,REG
+2009020831,20092010,2010-02-02,Nashville Predators,Phoenix Coyotes,0,1,REG
+2009020832,20092010,2010-02-02,Dallas Stars,Minnesota Wild,4,2,REG
+2009020833,20092010,2010-02-02,Colorado Avalanche,Columbus Blue Jackets,5,1,REG
+2009020834,20092010,2010-02-02,Los Angeles Kings,New York Rangers,2,1,REG
+2009020835,20092010,2010-02-02,San Jose Sharks,Detroit Red Wings,2,4,REG
+2009020836,20092010,2010-02-03,Buffalo Sabres,Ottawa Senators,2,4,REG
+2009020837,20092010,2010-02-03,Chicago Blackhawks,St. Louis Blues,2,3,REG
+2009020838,20092010,2010-02-03,Calgary Flames,Carolina Hurricanes,4,1,REG
+2009020839,20092010,2010-02-03,Edmonton Oilers,Philadelphia Flyers,1,0,REG
+2009020840,20092010,2010-02-03,Anaheim Ducks,Detroit Red Wings,3,1,REG
+2009020841,20092010,2010-02-04,Boston Bruins,Montréal Canadiens,2,3,REG
+2009020842,20092010,2010-02-04,New York Rangers,Washington Capitals,5,6,REG
+2009020843,20092010,2010-02-04,Columbus Blue Jackets,Dallas Stars,2,1,REG
+2009020844,20092010,2010-02-04,Ottawa Senators,Vancouver Canucks,3,1,REG
+2009020845,20092010,2010-02-04,Tampa Bay Lightning,New York Islanders,5,2,REG
+2009020846,20092010,2010-02-04,St. Louis Blues,San Jose Sharks,2,4,REG
+2009020847,20092010,2010-02-04,Nashville Predators,Colorado Avalanche,5,3,REG
+2009020848,20092010,2010-02-04,Minnesota Wild,Edmonton Oilers,4,2,REG
+2009020849,20092010,2010-02-04,Los Angeles Kings,Anaheim Ducks,6,4,REG
+2009020850,20092010,2010-02-05,New Jersey Devils,Toronto Maple Leafs,4,3,REG
+2009020851,20092010,2010-02-05,Washington Capitals,Atlanta Thrashers,5,2,REG
+2009020852,20092010,2010-02-05,Buffalo Sabres,Carolina Hurricanes,3,4,REG
+2009020853,20092010,2010-02-05,Florida Panthers,Calgary Flames,1,2,REG
+2009020854,20092010,2010-02-05,Chicago Blackhawks,Phoenix Coyotes,1,2,REG
+2009020855,20092010,2010-02-06,Boston Bruins,Vancouver Canucks,2,3,REG
+2009020856,20092010,2010-02-06,Montréal Canadiens,Pittsburgh Penguins,5,3,REG
+2009020857,20092010,2010-02-06,Los Angeles Kings,Detroit Red Wings,4,3,REG
+2009020858,20092010,2010-02-06,Dallas Stars,Phoenix Coyotes,4,0,REG
+2009020859,20092010,2010-02-06,Toronto Maple Leafs,Ottawa Senators,5,0,REG
+2009020860,20092010,2010-02-06,New York Islanders,Carolina Hurricanes,1,3,REG
+2009020861,20092010,2010-02-06,New York Rangers,New Jersey Devils,3,1,REG
+2009020862,20092010,2010-02-06,Atlanta Thrashers,Florida Panthers,4,2,REG
+2009020863,20092010,2010-02-06,Tampa Bay Lightning,Calgary Flames,2,1,REG
+2009020864,20092010,2010-02-06,Columbus Blue Jackets,Buffalo Sabres,4,0,REG
+2009020865,20092010,2010-02-06,St. Louis Blues,Chicago Blackhawks,1,2,REG
+2009020866,20092010,2010-02-06,Nashville Predators,San Jose Sharks,3,4,REG
+2009020867,20092010,2010-02-06,Minnesota Wild,Philadelphia Flyers,2,1,REG
+2009020868,20092010,2010-02-06,Colorado Avalanche,Edmonton Oilers,3,0,REG
+2009020870,20092010,2010-02-07,Washington Capitals,Pittsburgh Penguins,5,4,REG
+2009020869,20092010,2010-02-07,Montréal Canadiens,Boston Bruins,0,3,REG
+2009020871,20092010,2010-02-08,Toronto Maple Leafs,San Jose Sharks,2,3,REG
+2009020872,20092010,2010-02-08,Philadelphia Flyers,New Jersey Devils,3,2,REG
+2009020873,20092010,2010-02-08,Colorado Avalanche,St. Louis Blues,5,2,REG
+2009020874,20092010,2010-02-08,Phoenix Coyotes,Edmonton Oilers,6,1,REG
+2009020875,20092010,2010-02-08,Anaheim Ducks,Los Angeles Kings,4,2,REG
+2009020876,20092010,2010-02-09,Buffalo Sabres,Boston Bruins,2,3,REG
+2009020877,20092010,2010-02-09,New York Islanders,Nashville Predators,4,3,REG
+2009020878,20092010,2010-02-09,Carolina Hurricanes,Florida Panthers,4,1,REG
+2009020879,20092010,2010-02-09,Ottawa Senators,Calgary Flames,3,2,REG
+2009020880,20092010,2010-02-09,Tampa Bay Lightning,Vancouver Canucks,3,1,REG
+2009020881,20092010,2010-02-09,St. Louis Blues,Detroit Red Wings,4,3,REG
+2009020882,20092010,2010-02-09,Chicago Blackhawks,Dallas Stars,4,3,REG
+2009020883,20092010,2010-02-10,New Jersey Devils,Philadelphia Flyers,2,3,REG
+2009020884,20092010,2010-02-10,New York Rangers,Nashville Predators,1,2,REG
+2009020885,20092010,2010-02-10,Columbus Blue Jackets,San Jose Sharks,3,0,REG
+2009020886,20092010,2010-02-10,Montréal Canadiens,Washington Capitals,6,5,REG
+2009020887,20092010,2010-02-10,Pittsburgh Penguins,New York Islanders,3,1,REG
+2009020888,20092010,2010-02-10,Minnesota Wild,Phoenix Coyotes,2,3,REG
+2009020889,20092010,2010-02-10,Colorado Avalanche,Atlanta Thrashers,4,3,REG
+2009020890,20092010,2010-02-10,Anaheim Ducks,Edmonton Oilers,3,2,REG
+2009020891,20092010,2010-02-11,Ottawa Senators,Washington Capitals,6,5,REG
+2009020892,20092010,2010-02-11,Carolina Hurricanes,Buffalo Sabres,4,3,REG
+2009020893,20092010,2010-02-11,Tampa Bay Lightning,Boston Bruins,4,5,REG
+2009020894,20092010,2010-02-11,Florida Panthers,Vancouver Canucks,0,3,REG
+2009020895,20092010,2010-02-11,Detroit Red Wings,San Jose Sharks,2,3,REG
+2009020896,20092010,2010-02-11,Calgary Flames,Dallas Stars,1,3,REG
+2009020897,20092010,2010-02-11,Los Angeles Kings,Edmonton Oilers,2,3,REG
+2009020899,20092010,2010-02-12,Philadelphia Flyers,Montréal Canadiens,3,2,REG
+2009020898,20092010,2010-02-12,New Jersey Devils,Nashville Predators,5,2,REG
+2009020900,20092010,2010-02-12,Columbus Blue Jackets,Vancouver Canucks,3,4,REG
+2009020901,20092010,2010-02-12,Pittsburgh Penguins,New York Rangers,2,3,REG
+2009020902,20092010,2010-02-12,St. Louis Blues,Toronto Maple Leafs,4,0,REG
+2009020903,20092010,2010-02-12,Minnesota Wild,Atlanta Thrashers,2,3,REG
+2009020904,20092010,2010-02-12,Colorado Avalanche,Phoenix Coyotes,2,1,REG
+2009020905,20092010,2010-02-13,New York Islanders,Tampa Bay Lightning,5,4,REG
+2009020906,20092010,2010-02-13,Buffalo Sabres,San Jose Sharks,3,1,REG
+2009020907,20092010,2010-02-13,Montréal Canadiens,Philadelphia Flyers,2,6,REG
+2009020908,20092010,2010-02-13,Carolina Hurricanes,New Jersey Devils,5,2,REG
+2009020909,20092010,2010-02-13,Florida Panthers,Boston Bruins,2,3,REG
+2009020910,20092010,2010-02-13,Detroit Red Wings,Ottawa Senators,4,1,REG
+2009020912,20092010,2010-02-13,Phoenix Coyotes,Dallas Stars,0,3,REG
+2009020911,20092010,2010-02-13,St. Louis Blues,Washington Capitals,4,3,REG
+2009020913,20092010,2010-02-13,Chicago Blackhawks,Atlanta Thrashers,5,4,REG
+2009020914,20092010,2010-02-13,Calgary Flames,Anaheim Ducks,3,1,REG
+2009020915,20092010,2010-02-13,Los Angeles Kings,Colorado Avalanche,3,0,REG
+2009020916,20092010,2010-02-14,New York Rangers,Tampa Bay Lightning,5,2,REG
+2009020917,20092010,2010-02-14,Pittsburgh Penguins,Nashville Predators,3,4,REG
+2009020918,20092010,2010-02-14,Minnesota Wild,Vancouver Canucks,6,2,REG
+2009020919,20092010,2010-02-14,New York Islanders,Ottawa Senators,3,4,REG
+2009020920,20092010,2010-02-14,Columbus Blue Jackets,Chicago Blackhawks,4,5,REG
+2009020921,20092010,2010-02-14,Edmonton Oilers,Anaheim Ducks,3,7,REG
+2009020922,20092010,2010-03-01,Colorado Avalanche,Detroit Red Wings,2,3,REG
+2009020923,20092010,2010-03-02,Boston Bruins,Montréal Canadiens,1,4,REG
+2009020924,20092010,2010-03-02,Toronto Maple Leafs,Carolina Hurricanes,1,5,REG
+2009020925,20092010,2010-03-02,New York Islanders,Chicago Blackhawks,5,3,REG
+2009020926,20092010,2010-03-02,Atlanta Thrashers,Florida Panthers,4,2,REG
+2009020927,20092010,2010-03-02,Columbus Blue Jackets,Vancouver Canucks,3,4,REG
+2009020928,20092010,2010-03-02,Ottawa Senators,New York Rangers,1,4,REG
+2009020929,20092010,2010-03-02,Pittsburgh Penguins,Buffalo Sabres,3,2,REG
+2009020930,20092010,2010-03-02,Tampa Bay Lightning,Philadelphia Flyers,2,7,REG
+2009020931,20092010,2010-03-02,Nashville Predators,Edmonton Oilers,4,3,REG
+2009020932,20092010,2010-03-02,Dallas Stars,Los Angeles Kings,1,5,REG
+2009020933,20092010,2010-03-02,Phoenix Coyotes,St. Louis Blues,2,5,REG
+2009020934,20092010,2010-03-02,San Jose Sharks,New Jersey Devils,3,4,REG
+2009020935,20092010,2010-03-03,Buffalo Sabres,Washington Capitals,1,3,REG
+2009020936,20092010,2010-03-03,Florida Panthers,Philadelphia Flyers,7,4,REG
+2009020937,20092010,2010-03-03,Detroit Red Wings,Vancouver Canucks,3,6,REG
+2009020938,20092010,2010-03-03,Chicago Blackhawks,Edmonton Oilers,5,2,REG
+2009020940,20092010,2010-03-03,Anaheim Ducks,Colorado Avalanche,3,4,REG
+2009020939,20092010,2010-03-03,Calgary Flames,Minnesota Wild,0,4,REG
+2009020941,20092010,2010-03-04,Boston Bruins,Toronto Maple Leafs,3,2,REG
+2009020942,20092010,2010-03-04,New York Rangers,Pittsburgh Penguins,4,5,REG
+2009020943,20092010,2010-03-04,Washington Capitals,Tampa Bay Lightning,5,4,REG
+2009020944,20092010,2010-03-04,Carolina Hurricanes,Ottawa Senators,4,1,REG
+2009020945,20092010,2010-03-04,Atlanta Thrashers,New York Islanders,6,3,REG
+2009020946,20092010,2010-03-04,Nashville Predators,Los Angeles Kings,4,2,REG
+2009020947,20092010,2010-03-04,Dallas Stars,St. Louis Blues,1,6,REG
+2009020948,20092010,2010-03-04,Phoenix Coyotes,Colorado Avalanche,3,1,REG
+2009020949,20092010,2010-03-04,San Jose Sharks,Montréal Canadiens,3,2,REG
+2009020950,20092010,2010-03-05,Buffalo Sabres,Philadelphia Flyers,3,2,REG
+2009020951,20092010,2010-03-05,Detroit Red Wings,Nashville Predators,5,2,REG
+2009020952,20092010,2010-03-05,Chicago Blackhawks,Vancouver Canucks,6,3,REG
+2009020953,20092010,2010-03-05,Calgary Flames,New Jersey Devils,5,3,REG
+2009020954,20092010,2010-03-05,Edmonton Oilers,Minnesota Wild,2,1,REG
+2009020955,20092010,2010-03-06,Pittsburgh Penguins,Dallas Stars,6,3,REG
+2009020956,20092010,2010-03-06,New York Islanders,Boston Bruins,2,3,REG
+2009020957,20092010,2010-03-06,Ottawa Senators,Toronto Maple Leafs,1,2,REG
+2009020958,20092010,2010-03-06,Washington Capitals,New York Rangers,2,0,REG
+2009020959,20092010,2010-03-06,Florida Panthers,Carolina Hurricanes,4,1,REG
+2009020960,20092010,2010-03-06,Tampa Bay Lightning,Atlanta Thrashers,6,2,REG
+2009020961,20092010,2010-03-06,Phoenix Coyotes,Anaheim Ducks,4,0,REG
+2009020962,20092010,2010-03-06,Colorado Avalanche,St. Louis Blues,7,3,REG
+2009020963,20092010,2010-03-06,Los Angeles Kings,Montréal Canadiens,2,4,REG
+2009020964,20092010,2010-03-06,San Jose Sharks,Columbus Blue Jackets,2,1,REG
+2009020971,20092010,2010-03-07,Chicago Blackhawks,Detroit Red Wings,4,5,REG
+2009020966,20092010,2010-03-07,Nashville Predators,Vancouver Canucks,2,4,REG
+2009020967,20092010,2010-03-07,Minnesota Wild,Calgary Flames,2,5,REG
+2009020965,20092010,2010-03-07,Pittsburgh Penguins,Boston Bruins,2,1,REG
+2009020968,20092010,2010-03-07,Atlanta Thrashers,Carolina Hurricanes,0,4,REG
+2009020969,20092010,2010-03-07,New York Rangers,Buffalo Sabres,1,2,REG
+2009020970,20092010,2010-03-07,Philadelphia Flyers,Toronto Maple Leafs,3,1,REG
+2009020973,20092010,2010-03-07,Anaheim Ducks,Montréal Canadiens,3,4,REG
+2009020972,20092010,2010-03-07,Edmonton Oilers,New Jersey Devils,2,0,REG
+2009020974,20092010,2010-03-08,Washington Capitals,Dallas Stars,3,4,REG
+2009020975,20092010,2010-03-08,Los Angeles Kings,Columbus Blue Jackets,6,0,REG
+2009020976,20092010,2010-03-09,Toronto Maple Leafs,Boston Bruins,4,3,REG
+2009020978,20092010,2010-03-09,Atlanta Thrashers,Nashville Predators,1,2,REG
+2009020980,20092010,2010-03-09,Detroit Red Wings,Calgary Flames,2,4,REG
+2009020977,20092010,2010-03-09,Philadelphia Flyers,New York Islanders,3,2,REG
+2009020979,20092010,2010-03-09,Montréal Canadiens,Tampa Bay Lightning,5,3,REG
+2009020981,20092010,2010-03-09,Minnesota Wild,Florida Panthers,2,3,REG
+2009020982,20092010,2010-03-09,Colorado Avalanche,Vancouver Canucks,4,6,REG
+2009020983,20092010,2010-03-09,Edmonton Oilers,Ottawa Senators,1,4,REG
+2009020984,20092010,2010-03-09,Anaheim Ducks,Columbus Blue Jackets,2,5,REG
+2009020985,20092010,2010-03-10,Buffalo Sabres,Dallas Stars,5,3,REG
+2009020986,20092010,2010-03-10,New Jersey Devils,New York Rangers,6,3,REG
+2009020987,20092010,2010-03-10,Washington Capitals,Carolina Hurricanes,4,3,REG
+2009020988,20092010,2010-03-10,Chicago Blackhawks,Los Angeles Kings,3,2,REG
+2009020989,20092010,2010-03-10,Phoenix Coyotes,Vancouver Canucks,4,3,REG
+2009020990,20092010,2010-03-11,Toronto Maple Leafs,Tampa Bay Lightning,4,3,REG
+2009020991,20092010,2010-03-11,New York Islanders,St. Louis Blues,1,2,REG
+2009020992,20092010,2010-03-11,Philadelphia Flyers,Boston Bruins,1,5,REG
+2009020993,20092010,2010-03-11,Carolina Hurricanes,Pittsburgh Penguins,4,3,REG
+2009020994,20092010,2010-03-11,Columbus Blue Jackets,Atlanta Thrashers,2,1,REG
+2009020995,20092010,2010-03-11,Montréal Canadiens,Edmonton Oilers,5,4,REG
+2009020996,20092010,2010-03-11,Detroit Red Wings,Minnesota Wild,5,1,REG
+2009020997,20092010,2010-03-11,Colorado Avalanche,Florida Panthers,3,0,REG
+2009020998,20092010,2010-03-11,Calgary Flames,Ottawa Senators,2,0,REG
+2009020999,20092010,2010-03-11,San Jose Sharks,Nashville Predators,8,5,REG
+2009021000,20092010,2010-03-12,New Jersey Devils,Pittsburgh Penguins,3,1,REG
+2009021001,20092010,2010-03-12,Washington Capitals,Tampa Bay Lightning,2,3,REG
+2009021002,20092010,2010-03-12,Buffalo Sabres,Minnesota Wild,2,3,REG
+2009021003,20092010,2010-03-12,Atlanta Thrashers,New York Rangers,2,5,REG
+2009021004,20092010,2010-03-12,Dallas Stars,Los Angeles Kings,1,2,REG
+2009021005,20092010,2010-03-12,Anaheim Ducks,Nashville Predators,0,1,REG
+2009021006,20092010,2010-03-13,Philadelphia Flyers,Chicago Blackhawks,3,2,REG
+2009021014,20092010,2010-03-13,San Jose Sharks,Florida Panthers,2,3,REG
+2009021007,20092010,2010-03-13,Toronto Maple Leafs,Edmonton Oilers,6,4,REG
+2009021008,20092010,2010-03-13,Montréal Canadiens,Boston Bruins,3,2,REG
+2009021009,20092010,2010-03-13,New York Islanders,New Jersey Devils,4,2,REG
+2009021010,20092010,2010-03-13,Carolina Hurricanes,Phoenix Coyotes,0,4,REG
+2009021011,20092010,2010-03-13,Detroit Red Wings,Buffalo Sabres,3,2,REG
+2009021012,20092010,2010-03-13,Columbus Blue Jackets,St. Louis Blues,1,5,REG
+2009021013,20092010,2010-03-13,Vancouver Canucks,Ottawa Senators,5,1,REG
+2009021022,20092010,2010-03-14,Chicago Blackhawks,Washington Capitals,3,4,REG
+2009021017,20092010,2010-03-14,Los Angeles Kings,Nashville Predators,2,3,REG
+2009021016,20092010,2010-03-14,Dallas Stars,Colorado Avalanche,3,5,REG
+2009021015,20092010,2010-03-14,New York Rangers,Philadelphia Flyers,3,1,REG
+2009021018,20092010,2010-03-14,New York Islanders,Toronto Maple Leafs,4,1,REG
+2009021019,20092010,2010-03-14,Atlanta Thrashers,Phoenix Coyotes,2,3,REG
+2009021020,20092010,2010-03-14,Tampa Bay Lightning,Pittsburgh Penguins,1,2,REG
+2009021021,20092010,2010-03-14,Minnesota Wild,St. Louis Blues,4,2,REG
+2009021023,20092010,2010-03-14,Anaheim Ducks,San Jose Sharks,4,2,REG
+2009021024,20092010,2010-03-14,Vancouver Canucks,Calgary Flames,3,1,REG
+2009021025,20092010,2010-03-15,New Jersey Devils,Boston Bruins,3,2,REG
+2009021026,20092010,2010-03-15,Columbus Blue Jackets,Edmonton Oilers,5,3,REG
+2009021027,20092010,2010-03-15,Calgary Flames,Detroit Red Wings,1,2,REG
+2009021029,20092010,2010-03-16,Carolina Hurricanes,Boston Bruins,2,5,REG
+2009021030,20092010,2010-03-16,Atlanta Thrashers,Buffalo Sabres,4,3,REG
+2009021028,20092010,2010-03-16,New York Rangers,Montréal Canadiens,1,3,REG
+2009021031,20092010,2010-03-16,Ottawa Senators,Toronto Maple Leafs,1,4,REG
+2009021032,20092010,2010-03-16,Tampa Bay Lightning,Phoenix Coyotes,1,2,REG
+2009021033,20092010,2010-03-16,Florida Panthers,Washington Capitals,3,7,REG
+2009021034,20092010,2010-03-16,St. Louis Blues,Colorado Avalanche,3,5,REG
+2009021035,20092010,2010-03-16,Nashville Predators,Philadelphia Flyers,4,3,REG
+2009021036,20092010,2010-03-16,Minnesota Wild,Edmonton Oilers,4,2,REG
+2009021037,20092010,2010-03-16,Dallas Stars,San Jose Sharks,8,2,REG
+2009021038,20092010,2010-03-16,Vancouver Canucks,New York Islanders,2,5,REG
+2009021039,20092010,2010-03-17,New Jersey Devils,Pittsburgh Penguins,5,2,REG
+2009021040,20092010,2010-03-17,Colorado Avalanche,Calgary Flames,2,3,REG
+2009021041,20092010,2010-03-17,Anaheim Ducks,Chicago Blackhawks,4,2,REG
+2009021042,20092010,2010-03-18,Boston Bruins,Pittsburgh Penguins,0,3,REG
+2009021043,20092010,2010-03-18,New York Rangers,St. Louis Blues,3,4,REG
+2009021044,20092010,2010-03-18,Carolina Hurricanes,Washington Capitals,4,3,REG
+2009021045,20092010,2010-03-18,Atlanta Thrashers,Ottawa Senators,6,3,REG
+2009021046,20092010,2010-03-18,Toronto Maple Leafs,New Jersey Devils,2,1,REG
+2009021047,20092010,2010-03-18,Tampa Bay Lightning,Buffalo Sabres,2,6,REG
+2009021048,20092010,2010-03-18,Florida Panthers,Phoenix Coyotes,3,4,REG
+2009021049,20092010,2010-03-18,Nashville Predators,Minnesota Wild,5,0,REG
+2009021050,20092010,2010-03-18,Dallas Stars,Philadelphia Flyers,2,3,REG
+2009021051,20092010,2010-03-18,Vancouver Canucks,San Jose Sharks,3,2,REG
+2009021052,20092010,2010-03-18,Los Angeles Kings,Chicago Blackhawks,0,3,REG
+2009021053,20092010,2010-03-19,Columbus Blue Jackets,Minnesota Wild,4,2,REG
+2009021054,20092010,2010-03-19,Calgary Flames,San Jose Sharks,4,3,REG
+2009021055,20092010,2010-03-19,Edmonton Oilers,Detroit Red Wings,3,2,REG
+2009021056,20092010,2010-03-19,Anaheim Ducks,New York Islanders,5,4,REG
+2009021057,20092010,2010-03-20,Pittsburgh Penguins,Carolina Hurricanes,2,3,REG
+2009021058,20092010,2010-03-20,Dallas Stars,Ottawa Senators,5,4,REG
+2009021059,20092010,2010-03-20,Toronto Maple Leafs,Montréal Canadiens,3,2,REG
+2009021060,20092010,2010-03-20,New Jersey Devils,St. Louis Blues,0,1,REG
+2009021061,20092010,2010-03-20,Atlanta Thrashers,Philadelphia Flyers,5,2,REG
+2009021062,20092010,2010-03-20,Florida Panthers,Buffalo Sabres,1,3,REG
+2009021063,20092010,2010-03-20,Tampa Bay Lightning,Washington Capitals,1,3,REG
+2009021064,20092010,2010-03-20,Nashville Predators,Columbus Blue Jackets,1,0,REG
+2009021065,20092010,2010-03-20,Phoenix Coyotes,Chicago Blackhawks,5,4,REG
+2009021066,20092010,2010-03-20,Vancouver Canucks,Detroit Red Wings,3,4,REG
+2009021067,20092010,2010-03-20,Los Angeles Kings,New York Islanders,1,0,REG
+2009021068,20092010,2010-03-21,Boston Bruins,New York Rangers,2,1,REG
+2009021069,20092010,2010-03-21,Minnesota Wild,Calgary Flames,4,3,REG
+2009021070,20092010,2010-03-21,Carolina Hurricanes,Buffalo Sabres,3,5,REG
+2009021071,20092010,2010-03-21,Florida Panthers,Tampa Bay Lightning,5,2,REG
+2009021072,20092010,2010-03-21,St. Louis Blues,Nashville Predators,2,3,REG
+2009021074,20092010,2010-03-21,Dallas Stars,Phoenix Coyotes,2,3,REG
+2009021073,20092010,2010-03-21,Philadelphia Flyers,Atlanta Thrashers,1,3,REG
+2009021076,20092010,2010-03-21,Anaheim Ducks,Colorado Avalanche,5,2,REG
+2009021075,20092010,2010-03-21,Edmonton Oilers,San Jose Sharks,5,1,REG
+2009021077,20092010,2010-03-22,Detroit Red Wings,Pittsburgh Penguins,3,1,REG
+2009021078,20092010,2010-03-22,Montréal Canadiens,Ottawa Senators,0,2,REG
+2009021079,20092010,2010-03-22,Los Angeles Kings,Colorado Avalanche,4,3,REG
+2009021080,20092010,2010-03-23,Toronto Maple Leafs,Florida Panthers,1,4,REG
+2009021081,20092010,2010-03-23,New Jersey Devils,Columbus Blue Jackets,6,3,REG
+2009021082,20092010,2010-03-23,Atlanta Thrashers,Boston Bruins,0,4,REG
+2009021083,20092010,2010-03-23,Ottawa Senators,Philadelphia Flyers,2,0,REG
+2009021084,20092010,2010-03-23,Tampa Bay Lightning,Carolina Hurricanes,3,2,REG
+2009021085,20092010,2010-03-23,Nashville Predators,Dallas Stars,1,3,REG
+2009021086,20092010,2010-03-23,Minnesota Wild,San Jose Sharks,1,4,REG
+2009021087,20092010,2010-03-23,Chicago Blackhawks,Phoenix Coyotes,2,0,REG
+2009021088,20092010,2010-03-23,Calgary Flames,Anaheim Ducks,3,1,REG
+2009021089,20092010,2010-03-23,Edmonton Oilers,Vancouver Canucks,3,2,REG
+2009021090,20092010,2010-03-24,New York Rangers,New York Islanders,5,0,REG
+2009021091,20092010,2010-03-24,Washington Capitals,Pittsburgh Penguins,4,3,REG
+2009021092,20092010,2010-03-24,Buffalo Sabres,Montréal Canadiens,3,2,REG
+2009021093,20092010,2010-03-24,Detroit Red Wings,St. Louis Blues,4,2,REG
+2009021094,20092010,2010-03-24,Colorado Avalanche,Los Angeles Kings,4,3,REG
+2009021095,20092010,2010-03-24,Vancouver Canucks,Anaheim Ducks,4,1,REG
+2009021096,20092010,2010-03-25,Boston Bruins,Tampa Bay Lightning,3,5,REG
+2009021097,20092010,2010-03-25,New Jersey Devils,New York Rangers,3,4,REG
+2009021098,20092010,2010-03-25,New York Islanders,Calgary Flames,3,2,REG
+2009021099,20092010,2010-03-25,Philadelphia Flyers,Minnesota Wild,3,4,REG
+2009021100,20092010,2010-03-25,Carolina Hurricanes,Washington Capitals,3,2,REG
+2009021101,20092010,2010-03-25,Atlanta Thrashers,Toronto Maple Leafs,1,2,REG
+2009021102,20092010,2010-03-25,Columbus Blue Jackets,Chicago Blackhawks,8,3,REG
+2009021103,20092010,2010-03-25,Montréal Canadiens,Florida Panthers,4,1,REG
+2009021104,20092010,2010-03-25,St. Louis Blues,Los Angeles Kings,3,1,REG
+2009021105,20092010,2010-03-25,Nashville Predators,Phoenix Coyotes,4,3,REG
+2009021106,20092010,2010-03-25,San Jose Sharks,Dallas Stars,3,0,REG
+2009021107,20092010,2010-03-26,Buffalo Sabres,Ottawa Senators,2,4,REG
+2009021108,20092010,2010-03-26,Detroit Red Wings,Minnesota Wild,6,2,REG
+2009021109,20092010,2010-03-26,Edmonton Oilers,Anaheim Ducks,2,3,REG
+2009021110,20092010,2010-03-27,Boston Bruins,Calgary Flames,5,0,REG
+2009021111,20092010,2010-03-27,Pittsburgh Penguins,Philadelphia Flyers,4,1,REG
+2009021112,20092010,2010-03-27,Buffalo Sabres,Tampa Bay Lightning,7,1,REG
+2009021113,20092010,2010-03-27,Toronto Maple Leafs,New York Rangers,3,2,REG
+2009021114,20092010,2010-03-27,Montréal Canadiens,New Jersey Devils,2,4,REG
+2009021115,20092010,2010-03-27,Ottawa Senators,Florida Panthers,3,2,REG
+2009021116,20092010,2010-03-27,Carolina Hurricanes,Atlanta Thrashers,0,4,REG
+2009021117,20092010,2010-03-27,Columbus Blue Jackets,New York Islanders,3,4,REG
+2009021118,20092010,2010-03-27,Nashville Predators,Detroit Red Wings,0,1,REG
+2009021119,20092010,2010-03-27,Phoenix Coyotes,Colorado Avalanche,6,2,REG
+2009021120,20092010,2010-03-27,San Jose Sharks,Vancouver Canucks,4,2,REG
+2009021121,20092010,2010-03-27,Los Angeles Kings,Dallas Stars,1,4,REG
+2009021122,20092010,2010-03-28,Washington Capitals,Calgary Flames,3,5,REG
+2009021123,20092010,2010-03-28,Pittsburgh Penguins,Toronto Maple Leafs,5,4,REG
+2009021124,20092010,2010-03-28,St. Louis Blues,Edmonton Oilers,2,1,REG
+2009021126,20092010,2010-03-28,Chicago Blackhawks,Columbus Blue Jackets,2,4,REG
+2009021125,20092010,2010-03-28,Philadelphia Flyers,New Jersey Devils,5,1,REG
+2009021127,20092010,2010-03-28,San Jose Sharks,Colorado Avalanche,4,3,REG
+2009021128,20092010,2010-03-29,Boston Bruins,Buffalo Sabres,2,3,REG
+2009021129,20092010,2010-03-29,Atlanta Thrashers,Carolina Hurricanes,1,4,REG
+2009021130,20092010,2010-03-29,Florida Panthers,Nashville Predators,2,3,REG
+2009021131,20092010,2010-03-29,Minnesota Wild,Los Angeles Kings,3,2,REG
+2009021132,20092010,2010-03-29,Anaheim Ducks,Dallas Stars,3,1,REG
+2009021133,20092010,2010-03-30,Toronto Maple Leafs,Atlanta Thrashers,2,3,REG
+2009021134,20092010,2010-03-30,New Jersey Devils,Boston Bruins,0,1,REG
+2009021135,20092010,2010-03-30,New York Islanders,New York Rangers,3,4,REG
+2009021136,20092010,2010-03-30,Washington Capitals,Ottawa Senators,4,5,REG
+2009021137,20092010,2010-03-30,Columbus Blue Jackets,Tampa Bay Lightning,3,2,REG
+2009021138,20092010,2010-03-30,Detroit Red Wings,Edmonton Oilers,5,4,REG
+2009021139,20092010,2010-03-30,St. Louis Blues,Chicago Blackhawks,4,2,REG
+2009021140,20092010,2010-03-30,Nashville Predators,Los Angeles Kings,0,2,REG
+2009021141,20092010,2010-03-30,Vancouver Canucks,Phoenix Coyotes,4,1,REG
+2009021142,20092010,2010-03-31,Buffalo Sabres,Florida Panthers,6,2,REG
+2009021143,20092010,2010-03-31,Montréal Canadiens,Carolina Hurricanes,1,2,REG
+2009021144,20092010,2010-03-31,Pittsburgh Penguins,Tampa Bay Lightning,0,2,REG
+2009021145,20092010,2010-03-31,Minnesota Wild,Chicago Blackhawks,0,4,REG
+2009021146,20092010,2010-03-31,Dallas Stars,San Jose Sharks,5,1,REG
+2009021147,20092010,2010-03-31,Colorado Avalanche,Anaheim Ducks,2,5,REG
+2009021148,20092010,2010-03-31,Calgary Flames,Phoenix Coyotes,2,1,REG
+2009021149,20092010,2010-04-01,Boston Bruins,Florida Panthers,0,1,REG
+2009021150,20092010,2010-04-01,Toronto Maple Leafs,Buffalo Sabres,4,2,REG
+2009021151,20092010,2010-04-01,New York Islanders,Philadelphia Flyers,6,4,REG
+2009021152,20092010,2010-04-01,Washington Capitals,Atlanta Thrashers,2,1,REG
+2009021153,20092010,2010-04-01,Ottawa Senators,Carolina Hurricanes,4,3,REG
+2009021154,20092010,2010-04-01,Detroit Red Wings,Columbus Blue Jackets,3,2,REG
+2009021155,20092010,2010-04-01,Nashville Predators,St. Louis Blues,3,2,REG
+2009021156,20092010,2010-04-01,Los Angeles Kings,Vancouver Canucks,8,3,REG
+2009021157,20092010,2010-04-02,New Jersey Devils,Chicago Blackhawks,1,2,REG
+2009021158,20092010,2010-04-02,Philadelphia Flyers,Montréal Canadiens,0,1,REG
+2009021159,20092010,2010-04-02,Tampa Bay Lightning,New York Rangers,0,5,REG
+2009021160,20092010,2010-04-02,Minnesota Wild,San Jose Sharks,2,3,REG
+2009021161,20092010,2010-04-02,Dallas Stars,Edmonton Oilers,6,3,REG
+2009021162,20092010,2010-04-02,Colorado Avalanche,Calgary Flames,1,2,REG
+2009021163,20092010,2010-04-02,Anaheim Ducks,Vancouver Canucks,4,5,REG
+2009021164,20092010,2010-04-03,Pittsburgh Penguins,Atlanta Thrashers,4,3,REG
+2009021165,20092010,2010-04-03,New York Islanders,Ottawa Senators,4,1,REG
+2009021166,20092010,2010-04-03,Detroit Red Wings,Nashville Predators,3,4,REG
+2009021167,20092010,2010-04-03,Toronto Maple Leafs,Boston Bruins,1,2,REG
+2009021168,20092010,2010-04-03,Montréal Canadiens,Buffalo Sabres,3,0,REG
+2009021169,20092010,2010-04-03,Carolina Hurricanes,New Jersey Devils,0,4,REG
+2009021170,20092010,2010-04-03,Florida Panthers,New York Rangers,1,4,REG
+2009021171,20092010,2010-04-03,Columbus Blue Jackets,Washington Capitals,2,3,REG
+2009021172,20092010,2010-04-03,St. Louis Blues,Dallas Stars,2,1,REG
+2009021173,20092010,2010-04-03,Phoenix Coyotes,Edmonton Oilers,3,2,REG
+2009021174,20092010,2010-04-03,Los Angeles Kings,Anaheim Ducks,1,2,REG
+2009021175,20092010,2010-04-04,Philadelphia Flyers,Detroit Red Wings,4,3,REG
+2009021176,20092010,2010-04-04,Chicago Blackhawks,Calgary Flames,4,1,REG
+2009021177,20092010,2010-04-04,Colorado Avalanche,San Jose Sharks,5,4,REG
+2009021178,20092010,2010-04-04,Vancouver Canucks,Minnesota Wild,4,3,REG
+2009021179,20092010,2010-04-05,Washington Capitals,Boston Bruins,3,2,REG
+2009021180,20092010,2010-04-05,St. Louis Blues,Columbus Blue Jackets,2,1,REG
+2009021181,20092010,2010-04-05,Edmonton Oilers,Minnesota Wild,4,1,REG
+2009021182,20092010,2010-04-06,Buffalo Sabres,New York Rangers,5,2,REG
+2009021183,20092010,2010-04-06,Toronto Maple Leafs,Philadelphia Flyers,0,2,REG
+2009021184,20092010,2010-04-06,New York Islanders,Montréal Canadiens,4,3,REG
+2009021185,20092010,2010-04-06,Atlanta Thrashers,New Jersey Devils,0,3,REG
+2009021188,20092010,2010-04-06,Florida Panthers,Ottawa Senators,2,5,REG
+2009021186,20092010,2010-04-06,Pittsburgh Penguins,Washington Capitals,3,6,REG
+2009021187,20092010,2010-04-06,Tampa Bay Lightning,Carolina Hurricanes,5,8,REG
+2009021189,20092010,2010-04-06,Dallas Stars,Chicago Blackhawks,2,5,REG
+2009021190,20092010,2010-04-06,Calgary Flames,San Jose Sharks,1,2,REG
+2009021191,20092010,2010-04-06,Vancouver Canucks,Colorado Avalanche,3,4,REG
+2009021192,20092010,2010-04-06,Anaheim Ducks,Los Angeles Kings,4,5,REG
+2009021193,20092010,2010-04-07,New York Rangers,Toronto Maple Leafs,5,1,REG
+2009021194,20092010,2010-04-07,Detroit Red Wings,Columbus Blue Jackets,4,3,REG
+2009021195,20092010,2010-04-07,Chicago Blackhawks,St. Louis Blues,6,5,REG
+2009021196,20092010,2010-04-07,Edmonton Oilers,Colorado Avalanche,5,4,REG
+2009021197,20092010,2010-04-07,Phoenix Coyotes,Nashville Predators,5,2,REG
+2009021198,20092010,2010-04-08,Boston Bruins,Buffalo Sabres,3,1,REG
+2009021199,20092010,2010-04-08,Carolina Hurricanes,Montréal Canadiens,5,2,REG
+2009021200,20092010,2010-04-08,Pittsburgh Penguins,New York Islanders,7,3,REG
+2009021201,20092010,2010-04-08,Tampa Bay Lightning,Ottawa Senators,4,3,REG
+2009021202,20092010,2010-04-08,Florida Panthers,New Jersey Devils,3,2,REG
+2009021203,20092010,2010-04-08,Dallas Stars,Anaheim Ducks,3,2,REG
+2009021204,20092010,2010-04-08,Calgary Flames,Minnesota Wild,1,2,REG
+2009021205,20092010,2010-04-08,Los Angeles Kings,Phoenix Coyotes,2,3,REG
+2009021206,20092010,2010-04-08,San Jose Sharks,Vancouver Canucks,4,2,REG
+2009021207,20092010,2010-04-09,New York Rangers,Philadelphia Flyers,4,3,REG
+2009021208,20092010,2010-04-09,Washington Capitals,Atlanta Thrashers,5,2,REG
+2009021209,20092010,2010-04-09,Columbus Blue Jackets,Detroit Red Wings,0,1,REG
+2009021210,20092010,2010-04-09,St. Louis Blues,Anaheim Ducks,6,3,REG
+2009021211,20092010,2010-04-09,Colorado Avalanche,Chicago Blackhawks,2,5,REG
+2009021212,20092010,2010-04-10,Boston Bruins,Carolina Hurricanes,4,2,REG
+2009021213,20092010,2010-04-10,Los Angeles Kings,Edmonton Oilers,3,4,REG
+2009021214,20092010,2010-04-10,Montréal Canadiens,Toronto Maple Leafs,3,4,REG
+2009021215,20092010,2010-04-10,Ottawa Senators,Buffalo Sabres,2,5,REG
+2009021216,20092010,2010-04-10,New Jersey Devils,New York Islanders,7,1,REG
+2009021217,20092010,2010-04-10,Atlanta Thrashers,Pittsburgh Penguins,1,0,REG
+2009021218,20092010,2010-04-10,Tampa Bay Lightning,Florida Panthers,4,3,REG
+2009021219,20092010,2010-04-10,Nashville Predators,St. Louis Blues,2,1,REG
+2009021220,20092010,2010-04-10,Minnesota Wild,Dallas Stars,3,4,REG
+2009021221,20092010,2010-04-10,Vancouver Canucks,Calgary Flames,7,3,REG
+2009021222,20092010,2010-04-10,San Jose Sharks,Phoenix Coyotes,3,2,REG
+2009021224,20092010,2010-04-11,Washington Capitals,Boston Bruins,3,4,REG
+2009021226,20092010,2010-04-11,Colorado Avalanche,Los Angeles Kings,1,2,REG
+2009021225,20092010,2010-04-11,Chicago Blackhawks,Detroit Red Wings,2,3,REG
+2009021223,20092010,2010-04-11,Philadelphia Flyers,New York Rangers,2,1,REG
+2009021227,20092010,2010-04-11,New Jersey Devils,Buffalo Sabres,2,1,REG
+2009021228,20092010,2010-04-11,New York Islanders,Pittsburgh Penguins,5,6,REG
+2009021229,20092010,2010-04-11,Florida Panthers,Tampa Bay Lightning,1,3,REG
+2009021230,20092010,2010-04-11,Anaheim Ducks,Edmonton Oilers,7,2,REG
+2009030141,20092010,2010-04-14,Pittsburgh Penguins,Ottawa Senators,4,5,POST
+2009030121,20092010,2010-04-14,New Jersey Devils,Philadelphia Flyers,1,2,POST
+2009030181,20092010,2010-04-14,Phoenix Coyotes,Detroit Red Wings,3,2,POST
+2009030151,20092010,2010-04-14,San Jose Sharks,Colorado Avalanche,1,2,POST
+2009030111,20092010,2010-04-15,Washington Capitals,Montréal Canadiens,2,3,POST
+2009030131,20092010,2010-04-15,Buffalo Sabres,Boston Bruins,2,1,POST
+2009030171,20092010,2010-04-15,Vancouver Canucks,Los Angeles Kings,3,2,POST
+2009030142,20092010,2010-04-16,Pittsburgh Penguins,Ottawa Senators,2,1,POST
+2009030122,20092010,2010-04-16,New Jersey Devils,Philadelphia Flyers,5,3,POST
+2009030161,20092010,2010-04-16,Chicago Blackhawks,Nashville Predators,1,4,POST
+2009030182,20092010,2010-04-16,Phoenix Coyotes,Detroit Red Wings,4,7,POST
+2009030152,20092010,2010-04-16,San Jose Sharks,Colorado Avalanche,6,5,POST
+2009030132,20092010,2010-04-17,Buffalo Sabres,Boston Bruins,3,5,POST
+2009030112,20092010,2010-04-17,Washington Capitals,Montréal Canadiens,6,5,POST
+2009030172,20092010,2010-04-17,Vancouver Canucks,Los Angeles Kings,2,3,POST
+2009030183,20092010,2010-04-18,Detroit Red Wings,Phoenix Coyotes,2,4,POST
+2009030123,20092010,2010-04-18,Philadelphia Flyers,New Jersey Devils,3,2,POST
+2009030143,20092010,2010-04-18,Ottawa Senators,Pittsburgh Penguins,2,4,POST
+2009030162,20092010,2010-04-18,Chicago Blackhawks,Nashville Predators,2,0,POST
+2009030153,20092010,2010-04-18,Colorado Avalanche,San Jose Sharks,1,0,POST
+2009030113,20092010,2010-04-19,Montréal Canadiens,Washington Capitals,1,5,POST
+2009030133,20092010,2010-04-19,Boston Bruins,Buffalo Sabres,2,1,POST
+2009030173,20092010,2010-04-19,Los Angeles Kings,Vancouver Canucks,5,3,POST
+2009030184,20092010,2010-04-20,Detroit Red Wings,Phoenix Coyotes,3,0,POST
+2009030144,20092010,2010-04-20,Ottawa Senators,Pittsburgh Penguins,4,7,POST
+2009030124,20092010,2010-04-20,Philadelphia Flyers,New Jersey Devils,4,1,POST
+2009030163,20092010,2010-04-20,Nashville Predators,Chicago Blackhawks,4,1,POST
+2009030154,20092010,2010-04-20,Colorado Avalanche,San Jose Sharks,1,2,POST
+2009030114,20092010,2010-04-21,Montréal Canadiens,Washington Capitals,3,6,POST
+2009030134,20092010,2010-04-21,Boston Bruins,Buffalo Sabres,3,2,POST
+2009030174,20092010,2010-04-21,Los Angeles Kings,Vancouver Canucks,4,6,POST
+2009030125,20092010,2010-04-22,New Jersey Devils,Philadelphia Flyers,0,3,POST
+2009030145,20092010,2010-04-22,Pittsburgh Penguins,Ottawa Senators,3,4,POST
+2009030164,20092010,2010-04-22,Nashville Predators,Chicago Blackhawks,0,3,POST
+2009030155,20092010,2010-04-22,San Jose Sharks,Colorado Avalanche,5,0,POST
+2009030115,20092010,2010-04-23,Washington Capitals,Montréal Canadiens,1,2,POST
+2009030135,20092010,2010-04-23,Buffalo Sabres,Boston Bruins,4,1,POST
+2009030175,20092010,2010-04-23,Vancouver Canucks,Los Angeles Kings,7,2,POST
+2009030185,20092010,2010-04-23,Phoenix Coyotes,Detroit Red Wings,1,4,POST
+2009030165,20092010,2010-04-24,Chicago Blackhawks,Nashville Predators,5,4,POST
+2009030146,20092010,2010-04-24,Ottawa Senators,Pittsburgh Penguins,3,4,POST
+2009030156,20092010,2010-04-24,Colorado Avalanche,San Jose Sharks,2,5,POST
+2009030186,20092010,2010-04-25,Detroit Red Wings,Phoenix Coyotes,2,5,POST
+2009030176,20092010,2010-04-25,Los Angeles Kings,Vancouver Canucks,2,4,POST
+2009030116,20092010,2010-04-26,Montréal Canadiens,Washington Capitals,4,1,POST
+2009030136,20092010,2010-04-26,Boston Bruins,Buffalo Sabres,4,3,POST
+2009030166,20092010,2010-04-26,Nashville Predators,Chicago Blackhawks,3,5,POST
+2009030187,20092010,2010-04-27,Phoenix Coyotes,Detroit Red Wings,1,6,POST
+2009030117,20092010,2010-04-28,Washington Capitals,Montréal Canadiens,1,2,POST
+2009030231,20092010,2010-04-29,San Jose Sharks,Detroit Red Wings,4,3,POST
+2009030211,20092010,2010-04-30,Pittsburgh Penguins,Montréal Canadiens,6,3,POST
+2009030221,20092010,2010-05-01,Boston Bruins,Philadelphia Flyers,5,4,POST
+2009030241,20092010,2010-05-01,Chicago Blackhawks,Vancouver Canucks,1,5,POST
+2009030212,20092010,2010-05-02,Pittsburgh Penguins,Montréal Canadiens,1,3,POST
+2009030232,20092010,2010-05-02,San Jose Sharks,Detroit Red Wings,4,3,POST
+2009030222,20092010,2010-05-03,Boston Bruins,Philadelphia Flyers,3,2,POST
+2009030242,20092010,2010-05-03,Chicago Blackhawks,Vancouver Canucks,4,2,POST
+2009030213,20092010,2010-05-04,Montréal Canadiens,Pittsburgh Penguins,0,2,POST
+2009030233,20092010,2010-05-04,Detroit Red Wings,San Jose Sharks,3,4,POST
+2009030223,20092010,2010-05-05,Philadelphia Flyers,Boston Bruins,1,4,POST
+2009030243,20092010,2010-05-05,Vancouver Canucks,Chicago Blackhawks,2,5,POST
+2009030214,20092010,2010-05-06,Montréal Canadiens,Pittsburgh Penguins,3,2,POST
+2009030234,20092010,2010-05-06,Detroit Red Wings,San Jose Sharks,7,1,POST
+2009030224,20092010,2010-05-07,Philadelphia Flyers,Boston Bruins,5,4,POST
+2009030244,20092010,2010-05-07,Vancouver Canucks,Chicago Blackhawks,4,7,POST
+2009030215,20092010,2010-05-08,Pittsburgh Penguins,Montréal Canadiens,2,1,POST
+2009030235,20092010,2010-05-08,San Jose Sharks,Detroit Red Wings,2,1,POST
+2009030245,20092010,2010-05-09,Chicago Blackhawks,Vancouver Canucks,1,4,POST
+2009030216,20092010,2010-05-10,Montréal Canadiens,Pittsburgh Penguins,4,3,POST
+2009030225,20092010,2010-05-10,Boston Bruins,Philadelphia Flyers,0,4,POST
+2009030246,20092010,2010-05-11,Vancouver Canucks,Chicago Blackhawks,1,5,POST
+2009030217,20092010,2010-05-12,Pittsburgh Penguins,Montréal Canadiens,2,5,POST
+2009030226,20092010,2010-05-12,Philadelphia Flyers,Boston Bruins,2,1,POST
+2009030227,20092010,2010-05-14,Boston Bruins,Philadelphia Flyers,3,4,POST
+2009030321,20092010,2010-05-16,San Jose Sharks,Chicago Blackhawks,1,2,POST
+2009030311,20092010,2010-05-16,Philadelphia Flyers,Montréal Canadiens,6,0,POST
+2009030312,20092010,2010-05-18,Philadelphia Flyers,Montréal Canadiens,3,0,POST
+2009030322,20092010,2010-05-18,San Jose Sharks,Chicago Blackhawks,2,4,POST
+2009030313,20092010,2010-05-20,Montréal Canadiens,Philadelphia Flyers,5,1,POST
+2009030323,20092010,2010-05-21,Chicago Blackhawks,San Jose Sharks,3,2,POST
+2009030314,20092010,2010-05-22,Montréal Canadiens,Philadelphia Flyers,0,3,POST
+2009030324,20092010,2010-05-23,Chicago Blackhawks,San Jose Sharks,4,2,POST
+2009030315,20092010,2010-05-24,Philadelphia Flyers,Montréal Canadiens,4,2,POST
+2009030411,20092010,2010-05-29,Chicago Blackhawks,Philadelphia Flyers,6,5,POST
+2009030412,20092010,2010-05-31,Chicago Blackhawks,Philadelphia Flyers,2,1,POST
+2009030413,20092010,2010-06-02,Philadelphia Flyers,Chicago Blackhawks,4,3,POST
+2009030414,20092010,2010-06-04,Philadelphia Flyers,Chicago Blackhawks,5,3,POST
+2009030415,20092010,2010-06-06,Chicago Blackhawks,Philadelphia Flyers,7,4,POST
+2009030416,20092010,2010-06-09,Philadelphia Flyers,Chicago Blackhawks,3,4,POST

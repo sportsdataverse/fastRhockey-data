@@ -1,0 +1,807 @@
+game_id,season_full,date,home_name,away_name,home_final_score,away_final_score,game_type
+2012020003,20122013,2013-01-19,Los Angeles Kings,Chicago Blackhawks,2,5,REG
+2012020002,20122013,2013-01-19,Winnipeg Jets,Ottawa Senators,1,4,REG
+2012020001,20122013,2013-01-19,Philadelphia Flyers,Pittsburgh Penguins,1,3,REG
+2012020004,20122013,2013-01-19,Boston Bruins,New York Rangers,3,1,REG
+2012020005,20122013,2013-01-19,Montréal Canadiens,Toronto Maple Leafs,1,2,REG
+2012020006,20122013,2013-01-19,New York Islanders,New Jersey Devils,1,2,REG
+2012020007,20122013,2013-01-19,Tampa Bay Lightning,Washington Capitals,6,3,REG
+2012020008,20122013,2013-01-19,Florida Panthers,Carolina Hurricanes,5,1,REG
+2012020009,20122013,2013-01-19,St. Louis Blues,Detroit Red Wings,6,0,REG
+2012020010,20122013,2013-01-19,Nashville Predators,Columbus Blue Jackets,2,3,REG
+2012020011,20122013,2013-01-19,Dallas Stars,Phoenix Coyotes,4,3,REG
+2012020012,20122013,2013-01-19,Minnesota Wild,Colorado Avalanche,4,2,REG
+2012020013,20122013,2013-01-19,Vancouver Canucks,Anaheim Ducks,3,7,REG
+2012020014,20122013,2013-01-20,Buffalo Sabres,Philadelphia Flyers,5,2,REG
+2012020016,20122013,2013-01-20,Calgary Flames,San Jose Sharks,1,4,REG
+2012020015,20122013,2013-01-20,New York Rangers,Pittsburgh Penguins,3,6,REG
+2012020017,20122013,2013-01-20,Minnesota Wild,Dallas Stars,1,0,REG
+2012020018,20122013,2013-01-20,Vancouver Canucks,Edmonton Oilers,2,3,REG
+2012020019,20122013,2013-01-20,Phoenix Coyotes,Chicago Blackhawks,4,6,REG
+2012020020,20122013,2013-01-21,Boston Bruins,Winnipeg Jets,2,1,REG
+2012020021,20122013,2013-01-21,New York Islanders,Tampa Bay Lightning,4,3,REG
+2012020022,20122013,2013-01-21,Nashville Predators,St. Louis Blues,3,4,REG
+2012020023,20122013,2013-01-21,Toronto Maple Leafs,Buffalo Sabres,1,2,REG
+2012020024,20122013,2013-01-21,Ottawa Senators,Florida Panthers,4,0,REG
+2012020025,20122013,2013-01-21,Columbus Blue Jackets,Detroit Red Wings,3,4,REG
+2012020026,20122013,2013-01-21,Calgary Flames,Anaheim Ducks,4,5,REG
+2012020027,20122013,2013-01-22,Washington Capitals,Winnipeg Jets,2,4,REG
+2012020028,20122013,2013-01-22,Carolina Hurricanes,Tampa Bay Lightning,1,4,REG
+2012020029,20122013,2013-01-22,Montréal Canadiens,Florida Panthers,4,1,REG
+2012020030,20122013,2013-01-22,New Jersey Devils,Philadelphia Flyers,3,0,REG
+2012020031,20122013,2013-01-22,Detroit Red Wings,Dallas Stars,1,2,REG
+2012020032,20122013,2013-01-22,Minnesota Wild,Nashville Predators,1,3,REG
+2012020033,20122013,2013-01-22,Chicago Blackhawks,St. Louis Blues,3,2,REG
+2012020034,20122013,2013-01-22,Colorado Avalanche,Los Angeles Kings,3,1,REG
+2012020035,20122013,2013-01-22,Edmonton Oilers,San Jose Sharks,3,6,REG
+2012020036,20122013,2013-01-23,Pittsburgh Penguins,Toronto Maple Leafs,2,5,REG
+2012020037,20122013,2013-01-23,New York Rangers,Boston Bruins,4,3,REG
+2012020038,20122013,2013-01-23,Vancouver Canucks,Calgary Flames,3,2,REG
+2012020039,20122013,2013-01-23,Phoenix Coyotes,Columbus Blue Jackets,5,1,REG
+2012020040,20122013,2013-01-24,Toronto Maple Leafs,New York Islanders,4,7,REG
+2012020041,20122013,2013-01-24,Philadelphia Flyers,New York Rangers,2,1,REG
+2012020042,20122013,2013-01-24,Washington Capitals,Montréal Canadiens,1,4,REG
+2012020043,20122013,2013-01-24,Carolina Hurricanes,Buffalo Sabres,6,3,REG
+2012020044,20122013,2013-01-24,Florida Panthers,Ottawa Senators,1,3,REG
+2012020045,20122013,2013-01-24,St. Louis Blues,Nashville Predators,3,0,REG
+2012020046,20122013,2013-01-24,Dallas Stars,Chicago Blackhawks,2,3,REG
+2012020047,20122013,2013-01-24,Colorado Avalanche,Columbus Blue Jackets,4,0,REG
+2012020048,20122013,2013-01-24,Edmonton Oilers,Los Angeles Kings,2,1,REG
+2012020049,20122013,2013-01-24,San Jose Sharks,Phoenix Coyotes,5,3,REG
+2012020050,20122013,2013-01-25,Boston Bruins,New York Islanders,4,2,REG
+2012020051,20122013,2013-01-25,Buffalo Sabres,Carolina Hurricanes,1,3,REG
+2012020052,20122013,2013-01-25,New Jersey Devils,Washington Capitals,3,2,REG
+2012020053,20122013,2013-01-25,Tampa Bay Lightning,Ottawa Senators,6,4,REG
+2012020054,20122013,2013-01-25,Detroit Red Wings,Minnesota Wild,5,3,REG
+2012020055,20122013,2013-01-25,Winnipeg Jets,Pittsburgh Penguins,4,2,REG
+2012020056,20122013,2013-01-25,Anaheim Ducks,Vancouver Canucks,0,5,REG
+2012020057,20122013,2013-01-26,San Jose Sharks,Colorado Avalanche,4,0,REG
+2012020058,20122013,2013-01-26,New York Rangers,Toronto Maple Leafs,5,2,REG
+2012020059,20122013,2013-01-26,Columbus Blue Jackets,Chicago Blackhawks,2,3,REG
+2012020060,20122013,2013-01-26,Florida Panthers,Philadelphia Flyers,1,7,REG
+2012020062,20122013,2013-01-26,Phoenix Coyotes,Los Angeles Kings,2,4,REG
+2012020061,20122013,2013-01-26,Dallas Stars,St. Louis Blues,3,4,REG
+2012020063,20122013,2013-01-26,Calgary Flames,Edmonton Oilers,4,3,REG
+2012020064,20122013,2013-01-26,Anaheim Ducks,Nashville Predators,3,2,REG
+2012020065,20122013,2013-01-27,Washington Capitals,Buffalo Sabres,3,2,REG
+2012020066,20122013,2013-01-27,Ottawa Senators,Pittsburgh Penguins,1,2,REG
+2012020067,20122013,2013-01-27,Montréal Canadiens,New Jersey Devils,4,3,REG
+2012020068,20122013,2013-01-27,Tampa Bay Lightning,Philadelphia Flyers,5,1,REG
+2012020069,20122013,2013-01-27,Chicago Blackhawks,Detroit Red Wings,2,1,REG
+2012020072,20122013,2013-01-27,San Jose Sharks,Vancouver Canucks,4,1,REG
+2012020070,20122013,2013-01-27,Winnipeg Jets,New York Islanders,5,4,REG
+2012020071,20122013,2013-01-27,St. Louis Blues,Minnesota Wild,5,4,REG
+2012020073,20122013,2013-01-28,Carolina Hurricanes,Boston Bruins,3,5,REG
+2012020074,20122013,2013-01-28,Columbus Blue Jackets,Dallas Stars,2,1,REG
+2012020075,20122013,2013-01-28,Phoenix Coyotes,Nashville Predators,4,0,REG
+2012020076,20122013,2013-01-28,Edmonton Oilers,Colorado Avalanche,4,1,REG
+2012020077,20122013,2013-01-28,Los Angeles Kings,Vancouver Canucks,3,2,REG
+2012020078,20122013,2013-01-29,Boston Bruins,New Jersey Devils,2,1,REG
+2012020079,20122013,2013-01-29,Buffalo Sabres,Toronto Maple Leafs,3,4,REG
+2012020080,20122013,2013-01-29,New York Rangers,Philadelphia Flyers,2,1,REG
+2012020081,20122013,2013-01-29,Montréal Canadiens,Winnipeg Jets,4,3,REG
+2012020082,20122013,2013-01-29,Ottawa Senators,Washington Capitals,3,2,REG
+2012020083,20122013,2013-01-29,Pittsburgh Penguins,New York Islanders,1,4,REG
+2012020084,20122013,2013-01-29,Tampa Bay Lightning,Florida Panthers,5,2,REG
+2012020085,20122013,2013-01-29,Detroit Red Wings,Dallas Stars,4,1,REG
+2012020086,20122013,2013-01-29,Minnesota Wild,Columbus Blue Jackets,3,2,REG
+2012020087,20122013,2013-01-29,San Jose Sharks,Anaheim Ducks,3,2,REG
+2012020088,20122013,2013-01-30,Ottawa Senators,Montréal Canadiens,5,1,REG
+2012020089,20122013,2013-01-30,Minnesota Wild,Chicago Blackhawks,3,2,REG
+2012020090,20122013,2013-01-30,Phoenix Coyotes,Edmonton Oilers,1,2,REG
+2012020091,20122013,2013-01-30,Vancouver Canucks,Colorado Avalanche,3,0,REG
+2012020092,20122013,2013-01-31,Boston Bruins,Buffalo Sabres,4,7,REG
+2012020093,20122013,2013-01-31,Toronto Maple Leafs,Washington Capitals,3,2,REG
+2012020094,20122013,2013-01-31,New Jersey Devils,New York Islanders,4,5,REG
+2012020095,20122013,2013-01-31,New York Rangers,Pittsburgh Penguins,0,3,REG
+2012020096,20122013,2013-01-31,Columbus Blue Jackets,St. Louis Blues,1,4,REG
+2012020097,20122013,2013-01-31,Florida Panthers,Winnipeg Jets,6,3,REG
+2012020098,20122013,2013-01-31,Calgary Flames,Colorado Avalanche,3,6,REG
+2012020099,20122013,2013-01-31,Los Angeles Kings,Nashville Predators,1,2,REG
+2012020100,20122013,2013-01-31,San Jose Sharks,Edmonton Oilers,3,2,REG
+2012020101,20122013,2013-02-01,Washington Capitals,Philadelphia Flyers,3,2,REG
+2012020102,20122013,2013-02-01,Carolina Hurricanes,Ottawa Senators,1,0,REG
+2012020103,20122013,2013-02-01,Tampa Bay Lightning,Winnipeg Jets,8,3,REG
+2012020104,20122013,2013-02-01,Detroit Red Wings,St. Louis Blues,5,3,REG
+2012020105,20122013,2013-02-01,Dallas Stars,Phoenix Coyotes,4,3,REG
+2012020106,20122013,2013-02-01,Vancouver Canucks,Chicago Blackhawks,2,1,REG
+2012020107,20122013,2013-02-01,Anaheim Ducks,Minnesota Wild,3,1,REG
+2012020108,20122013,2013-02-02,Pittsburgh Penguins,New Jersey Devils,5,1,REG
+2012020109,20122013,2013-02-02,Montréal Canadiens,Buffalo Sabres,6,1,REG
+2012020110,20122013,2013-02-02,Colorado Avalanche,Edmonton Oilers,3,1,REG
+2012020111,20122013,2013-02-02,Toronto Maple Leafs,Boston Bruins,0,1,REG
+2012020112,20122013,2013-02-02,Philadelphia Flyers,Carolina Hurricanes,5,3,REG
+2012020113,20122013,2013-02-02,Tampa Bay Lightning,New York Rangers,2,3,REG
+2012020114,20122013,2013-02-02,Columbus Blue Jackets,Detroit Red Wings,4,2,REG
+2012020115,20122013,2013-02-02,Phoenix Coyotes,Dallas Stars,2,0,REG
+2012020117,20122013,2013-02-02,Anaheim Ducks,Los Angeles Kings,7,4,REG
+2012020116,20122013,2013-02-02,Calgary Flames,Chicago Blackhawks,2,3,REG
+2012020118,20122013,2013-02-02,San Jose Sharks,Nashville Predators,1,2,REG
+2012020119,20122013,2013-02-03,Washington Capitals,Pittsburgh Penguins,3,6,REG
+2012020120,20122013,2013-02-03,Montréal Canadiens,Ottawa Senators,2,1,REG
+2012020121,20122013,2013-02-03,Buffalo Sabres,Florida Panthers,3,4,REG
+2012020122,20122013,2013-02-03,New York Islanders,New Jersey Devils,0,3,REG
+2012020123,20122013,2013-02-04,Toronto Maple Leafs,Carolina Hurricanes,1,4,REG
+2012020124,20122013,2013-02-04,Colorado Avalanche,Dallas Stars,2,3,REG
+2012020125,20122013,2013-02-04,Phoenix Coyotes,Minnesota Wild,2,1,REG
+2012020126,20122013,2013-02-04,Edmonton Oilers,Vancouver Canucks,2,3,REG
+2012020127,20122013,2013-02-04,Anaheim Ducks,San Jose Sharks,2,1,REG
+2012020128,20122013,2013-02-05,New Jersey Devils,New York Rangers,3,1,REG
+2012020129,20122013,2013-02-05,New York Islanders,Pittsburgh Penguins,2,4,REG
+2012020130,20122013,2013-02-05,Washington Capitals,Toronto Maple Leafs,2,3,REG
+2012020131,20122013,2013-02-05,Columbus Blue Jackets,Los Angeles Kings,2,4,REG
+2012020132,20122013,2013-02-05,Ottawa Senators,Buffalo Sabres,4,3,REG
+2012020133,20122013,2013-02-05,Philadelphia Flyers,Tampa Bay Lightning,2,1,REG
+2012020134,20122013,2013-02-05,Detroit Red Wings,Calgary Flames,1,4,REG
+2012020135,20122013,2013-02-05,Winnipeg Jets,Florida Panthers,3,2,REG
+2012020136,20122013,2013-02-05,St. Louis Blues,Nashville Predators,1,6,REG
+2012020137,20122013,2013-02-05,San Jose Sharks,Chicago Blackhawks,3,5,REG
+2012020138,20122013,2013-02-06,Montréal Canadiens,Boston Bruins,1,2,REG
+2012020139,20122013,2013-02-06,Colorado Avalanche,Anaheim Ducks,0,3,REG
+2012020140,20122013,2013-02-06,Edmonton Oilers,Dallas Stars,2,3,REG
+2012020141,20122013,2013-02-07,Buffalo Sabres,Montréal Canadiens,5,4,REG
+2012020142,20122013,2013-02-07,New Jersey Devils,Tampa Bay Lightning,4,2,REG
+2012020143,20122013,2013-02-07,New York Rangers,New York Islanders,4,1,REG
+2012020144,20122013,2013-02-07,Philadelphia Flyers,Florida Panthers,2,3,REG
+2012020145,20122013,2013-02-07,Pittsburgh Penguins,Washington Capitals,5,2,REG
+2012020146,20122013,2013-02-07,Columbus Blue Jackets,Calgary Flames,3,4,REG
+2012020147,20122013,2013-02-07,Ottawa Senators,Carolina Hurricanes,2,3,REG
+2012020148,20122013,2013-02-07,Winnipeg Jets,Toronto Maple Leafs,2,3,REG
+2012020149,20122013,2013-02-07,St. Louis Blues,Detroit Red Wings,1,5,REG
+2012020150,20122013,2013-02-07,Nashville Predators,Los Angeles Kings,3,0,REG
+2012020151,20122013,2013-02-07,Minnesota Wild,Vancouver Canucks,1,4,REG
+2012020152,20122013,2013-02-07,Phoenix Coyotes,Chicago Blackhawks,2,6,REG
+2012020153,20122013,2013-02-08,Dallas Stars,Anaheim Ducks,3,1,REG
+2012020155,20122013,2013-02-09,New Jersey Devils,Pittsburgh Penguins,3,1,REG
+2012020156,20122013,2013-02-09,Philadelphia Flyers,Carolina Hurricanes,4,3,REG
+2012020157,20122013,2013-02-09,Ottawa Senators,Winnipeg Jets,0,1,REG
+2012020158,20122013,2013-02-09,Detroit Red Wings,Edmonton Oilers,2,1,REG
+2012020159,20122013,2013-02-09,San Jose Sharks,Phoenix Coyotes,0,1,REG
+2012020160,20122013,2013-02-09,Montréal Canadiens,Toronto Maple Leafs,0,6,REG
+2012020161,20122013,2013-02-09,New York Islanders,Buffalo Sabres,2,3,REG
+2012020162,20122013,2013-02-09,Washington Capitals,Florida Panthers,5,0,REG
+2012020163,20122013,2013-02-09,St. Louis Blues,Anaheim Ducks,5,6,REG
+2012020164,20122013,2013-02-09,Minnesota Wild,Nashville Predators,2,1,REG
+2012020165,20122013,2013-02-09,Vancouver Canucks,Calgary Flames,5,1,REG
+2012020166,20122013,2013-02-10,Detroit Red Wings,Los Angeles Kings,3,2,REG
+2012020167,20122013,2013-02-10,Columbus Blue Jackets,Edmonton Oilers,1,3,REG
+2012020168,20122013,2013-02-10,Buffalo Sabres,Boston Bruins,1,3,REG
+2012020169,20122013,2013-02-10,New York Rangers,Tampa Bay Lightning,5,1,REG
+2012020170,20122013,2013-02-10,Pittsburgh Penguins,New Jersey Devils,1,3,REG
+2012020171,20122013,2013-02-10,Nashville Predators,Chicago Blackhawks,0,3,REG
+2012020172,20122013,2013-02-11,Toronto Maple Leafs,Philadelphia Flyers,5,2,REG
+2012020173,20122013,2013-02-11,New York Islanders,Carolina Hurricanes,4,6,REG
+2012020174,20122013,2013-02-11,Columbus Blue Jackets,San Jose Sharks,6,2,REG
+2012020175,20122013,2013-02-11,St. Louis Blues,Los Angeles Kings,1,4,REG
+2012020176,20122013,2013-02-11,Colorado Avalanche,Phoenix Coyotes,2,3,REG
+2012020177,20122013,2013-02-11,Calgary Flames,Minnesota Wild,1,2,REG
+2012020178,20122013,2013-02-12,New Jersey Devils,Carolina Hurricanes,2,4,REG
+2012020179,20122013,2013-02-12,Boston Bruins,New York Rangers,3,4,REG
+2012020180,20122013,2013-02-12,Ottawa Senators,Buffalo Sabres,2,0,REG
+2012020181,20122013,2013-02-12,Tampa Bay Lightning,Montréal Canadiens,3,4,REG
+2012020182,20122013,2013-02-12,Florida Panthers,Washington Capitals,5,6,REG
+2012020183,20122013,2013-02-12,Winnipeg Jets,Philadelphia Flyers,2,3,REG
+2012020184,20122013,2013-02-12,Nashville Predators,San Jose Sharks,1,0,REG
+2012020185,20122013,2013-02-12,Chicago Blackhawks,Anaheim Ducks,2,3,REG
+2012020186,20122013,2013-02-12,Edmonton Oilers,Dallas Stars,1,4,REG
+2012020187,20122013,2013-02-12,Vancouver Canucks,Minnesota Wild,2,1,REG
+2012020188,20122013,2013-02-13,Pittsburgh Penguins,Ottawa Senators,4,2,REG
+2012020189,20122013,2013-02-13,Detroit Red Wings,St. Louis Blues,3,4,REG
+2012020190,20122013,2013-02-13,Calgary Flames,Dallas Stars,7,4,REG
+2012020191,20122013,2013-02-14,New York Rangers,New York Islanders,3,4,REG
+2012020192,20122013,2013-02-14,Carolina Hurricanes,Toronto Maple Leafs,3,1,REG
+2012020193,20122013,2013-02-14,Tampa Bay Lightning,Washington Capitals,3,4,REG
+2012020194,20122013,2013-02-14,Florida Panthers,Montréal Canadiens,0,1,REG
+2012020195,20122013,2013-02-14,Nashville Predators,Phoenix Coyotes,3,0,REG
+2012020196,20122013,2013-02-14,Minnesota Wild,Colorado Avalanche,3,4,REG
+2012020199,20122013,2013-02-15,Winnipeg Jets,Pittsburgh Penguins,1,3,REG
+2012020197,20122013,2013-02-15,Buffalo Sabres,Boston Bruins,4,2,REG
+2012020198,20122013,2013-02-15,New Jersey Devils,Philadelphia Flyers,5,3,REG
+2012020200,20122013,2013-02-15,Detroit Red Wings,Anaheim Ducks,2,5,REG
+2012020201,20122013,2013-02-15,Chicago Blackhawks,San Jose Sharks,4,1,REG
+2012020202,20122013,2013-02-15,Calgary Flames,St. Louis Blues,2,5,REG
+2012020203,20122013,2013-02-15,Vancouver Canucks,Dallas Stars,3,4,REG
+2012020204,20122013,2013-02-15,Los Angeles Kings,Columbus Blue Jackets,2,1,REG
+2012020208,20122013,2013-02-16,Florida Panthers,Tampa Bay Lightning,5,6,REG
+2012020205,20122013,2013-02-16,Toronto Maple Leafs,Ottawa Senators,3,0,REG
+2012020206,20122013,2013-02-16,Montréal Canadiens,Philadelphia Flyers,4,1,REG
+2012020207,20122013,2013-02-16,New York Islanders,New Jersey Devils,5,1,REG
+2012020210,20122013,2013-02-16,Phoenix Coyotes,Columbus Blue Jackets,5,3,REG
+2012020209,20122013,2013-02-16,Nashville Predators,Anaheim Ducks,2,3,REG
+2012020211,20122013,2013-02-16,Edmonton Oilers,Colorado Avalanche,6,4,REG
+2012020212,20122013,2013-02-17,Buffalo Sabres,Pittsburgh Penguins,3,4,REG
+2012020213,20122013,2013-02-17,Chicago Blackhawks,Los Angeles Kings,3,2,REG
+2012020214,20122013,2013-02-17,Winnipeg Jets,Boston Bruins,2,3,REG
+2012020215,20122013,2013-02-17,Dallas Stars,Calgary Flames,3,4,REG
+2012020216,20122013,2013-02-17,Minnesota Wild,Detroit Red Wings,3,2,REG
+2012020217,20122013,2013-02-17,New York Rangers,Washington Capitals,2,1,REG
+2012020218,20122013,2013-02-17,Vancouver Canucks,St. Louis Blues,3,4,REG
+2012020219,20122013,2013-02-18,New Jersey Devils,Ottawa Senators,1,2,REG
+2012020220,20122013,2013-02-18,New York Islanders,Philadelphia Flyers,0,7,REG
+2012020221,20122013,2013-02-18,Colorado Avalanche,Nashville Predators,6,5,REG
+2012020222,20122013,2013-02-18,Montréal Canadiens,Carolina Hurricanes,3,0,REG
+2012020223,20122013,2013-02-18,Florida Panthers,Toronto Maple Leafs,0,3,REG
+2012020224,20122013,2013-02-18,Phoenix Coyotes,Calgary Flames,4,0,REG
+2012020225,20122013,2013-02-18,Anaheim Ducks,Columbus Blue Jackets,3,2,REG
+2012020226,20122013,2013-02-19,Buffalo Sabres,Winnipeg Jets,1,2,REG
+2012020227,20122013,2013-02-19,New York Rangers,Montréal Canadiens,1,3,REG
+2012020228,20122013,2013-02-19,Ottawa Senators,New York Islanders,3,1,REG
+2012020229,20122013,2013-02-19,Tampa Bay Lightning,Toronto Maple Leafs,4,2,REG
+2012020230,20122013,2013-02-19,St. Louis Blues,San Jose Sharks,1,2,REG
+2012020231,20122013,2013-02-19,Nashville Predators,Detroit Red Wings,4,3,REG
+2012020232,20122013,2013-02-19,Chicago Blackhawks,Vancouver Canucks,4,3,REG
+2012020233,20122013,2013-02-19,Edmonton Oilers,Los Angeles Kings,1,3,REG
+2012020234,20122013,2013-02-20,Pittsburgh Penguins,Philadelphia Flyers,5,6,REG
+2012020235,20122013,2013-02-20,Colorado Avalanche,St. Louis Blues,1,0,REG
+2012020236,20122013,2013-02-20,Calgary Flames,Los Angeles Kings,1,3,REG
+2012020237,20122013,2013-02-21,Toronto Maple Leafs,Buffalo Sabres,3,1,REG
+2012020238,20122013,2013-02-21,Philadelphia Flyers,Florida Panthers,2,5,REG
+2012020239,20122013,2013-02-21,Washington Capitals,New Jersey Devils,2,3,REG
+2012020240,20122013,2013-02-21,Carolina Hurricanes,Winnipeg Jets,3,4,REG
+2012020241,20122013,2013-02-21,Montréal Canadiens,New York Islanders,3,4,REG
+2012020242,20122013,2013-02-21,Ottawa Senators,New York Rangers,3,2,REG
+2012020243,20122013,2013-02-21,Tampa Bay Lightning,Boston Bruins,2,4,REG
+2012020244,20122013,2013-02-21,Detroit Red Wings,Columbus Blue Jackets,2,3,REG
+2012020245,20122013,2013-02-21,Dallas Stars,Vancouver Canucks,3,4,REG
+2012020246,20122013,2013-02-21,Edmonton Oilers,Minnesota Wild,1,3,REG
+2012020247,20122013,2013-02-22,Pittsburgh Penguins,Florida Panthers,3,1,REG
+2012020248,20122013,2013-02-22,Nashville Predators,Vancouver Canucks,0,1,REG
+2012020249,20122013,2013-02-22,Chicago Blackhawks,San Jose Sharks,2,1,REG
+2012020250,20122013,2013-02-23,Washington Capitals,New Jersey Devils,5,1,REG
+2012020251,20122013,2013-02-23,Philadelphia Flyers,Winnipeg Jets,5,3,REG
+2012020252,20122013,2013-02-23,Edmonton Oilers,Phoenix Coyotes,3,2,REG
+2012020253,20122013,2013-02-23,Los Angeles Kings,Colorado Avalanche,4,1,REG
+2012020254,20122013,2013-02-23,Buffalo Sabres,New York Islanders,0,4,REG
+2012020255,20122013,2013-02-23,Montréal Canadiens,New York Rangers,3,0,REG
+2012020256,20122013,2013-02-23,Ottawa Senators,Toronto Maple Leafs,3,2,REG
+2012020257,20122013,2013-02-23,Carolina Hurricanes,Tampa Bay Lightning,2,5,REG
+2012020258,20122013,2013-02-23,Detroit Red Wings,Nashville Predators,4,0,REG
+2012020259,20122013,2013-02-23,St. Louis Blues,Columbus Blue Jackets,2,1,REG
+2012020260,20122013,2013-02-23,Dallas Stars,San Jose Sharks,3,1,REG
+2012020261,20122013,2013-02-23,Calgary Flames,Minnesota Wild,3,1,REG
+2012020262,20122013,2013-02-24,Florida Panthers,Boston Bruins,1,4,REG
+2012020263,20122013,2013-02-24,New Jersey Devils,Winnipeg Jets,2,4,REG
+2012020264,20122013,2013-02-24,Detroit Red Wings,Vancouver Canucks,8,3,REG
+2012020266,20122013,2013-02-24,Chicago Blackhawks,Columbus Blue Jackets,1,0,REG
+2012020265,20122013,2013-02-24,New York Islanders,Carolina Hurricanes,2,4,REG
+2012020267,20122013,2013-02-24,Pittsburgh Penguins,Tampa Bay Lightning,5,3,REG
+2012020269,20122013,2013-02-24,Anaheim Ducks,Colorado Avalanche,4,3,REG
+2012020268,20122013,2013-02-24,Calgary Flames,Phoenix Coyotes,5,4,REG
+2012020270,20122013,2013-02-25,Philadelphia Flyers,Toronto Maple Leafs,2,4,REG
+2012020271,20122013,2013-02-25,Ottawa Senators,Montréal Canadiens,2,1,REG
+2012020272,20122013,2013-02-25,Nashville Predators,Dallas Stars,5,4,REG
+2012020273,20122013,2013-02-25,Chicago Blackhawks,Edmonton Oilers,3,2,REG
+2012020274,20122013,2013-02-25,Los Angeles Kings,Anaheim Ducks,5,2,REG
+2012020275,20122013,2013-02-26,New York Rangers,Winnipeg Jets,3,4,REG
+2012020276,20122013,2013-02-26,Washington Capitals,Carolina Hurricanes,3,0,REG
+2012020277,20122013,2013-02-26,Columbus Blue Jackets,Dallas Stars,4,5,REG
+2012020278,20122013,2013-02-26,New York Islanders,Boston Bruins,1,4,REG
+2012020279,20122013,2013-02-26,Tampa Bay Lightning,Buffalo Sabres,1,2,REG
+2012020280,20122013,2013-02-26,Florida Panthers,Pittsburgh Penguins,6,4,REG
+2012020281,20122013,2013-02-26,Minnesota Wild,Calgary Flames,2,1,REG
+2012020282,20122013,2013-02-26,Vancouver Canucks,Phoenix Coyotes,2,4,REG
+2012020283,20122013,2013-02-26,San Jose Sharks,Colorado Avalanche,3,2,REG
+2012020284,20122013,2013-02-27,Toronto Maple Leafs,Montréal Canadiens,2,5,REG
+2012020285,20122013,2013-02-27,Philadelphia Flyers,Washington Capitals,4,1,REG
+2012020286,20122013,2013-02-27,Anaheim Ducks,Nashville Predators,5,1,REG
+2012020287,20122013,2013-02-27,Los Angeles Kings,Detroit Red Wings,2,1,REG
+2012020288,20122013,2013-02-28,Boston Bruins,Ottawa Senators,2,1,REG
+2012020289,20122013,2013-02-28,New York Islanders,Toronto Maple Leafs,4,5,REG
+2012020290,20122013,2013-02-28,New York Rangers,Tampa Bay Lightning,4,1,REG
+2012020291,20122013,2013-02-28,Carolina Hurricanes,Pittsburgh Penguins,4,1,REG
+2012020292,20122013,2013-02-28,Florida Panthers,Buffalo Sabres,3,4,REG
+2012020293,20122013,2013-02-28,Winnipeg Jets,New Jersey Devils,3,1,REG
+2012020294,20122013,2013-02-28,St. Louis Blues,Chicago Blackhawks,0,3,REG
+2012020295,20122013,2013-02-28,Dallas Stars,Edmonton Oilers,1,5,REG
+2012020296,20122013,2013-02-28,Colorado Avalanche,Calgary Flames,5,4,REG
+2012020297,20122013,2013-02-28,Phoenix Coyotes,Minnesota Wild,3,4,REG
+2012020298,20122013,2013-02-28,San Jose Sharks,Detroit Red Wings,1,2,REG
+2012020299,20122013,2013-03-01,St. Louis Blues,Edmonton Oilers,4,2,REG
+2012020300,20122013,2013-03-01,Chicago Blackhawks,Columbus Blue Jackets,4,3,REG
+2012020301,20122013,2013-03-01,Anaheim Ducks,Minnesota Wild,3,2,REG
+2012020302,20122013,2013-03-02,Philadelphia Flyers,Ottawa Senators,2,1,REG
+2012020303,20122013,2013-03-02,Boston Bruins,Tampa Bay Lightning,3,2,REG
+2012020305,20122013,2013-03-02,Winnipeg Jets,Washington Capitals,0,3,REG
+2012020304,20122013,2013-03-02,Buffalo Sabres,New Jersey Devils,4,3,REG
+2012020306,20122013,2013-03-02,Montréal Canadiens,Pittsburgh Penguins,6,7,REG
+2012020307,20122013,2013-03-02,Carolina Hurricanes,Florida Panthers,6,2,REG
+2012020308,20122013,2013-03-02,Phoenix Coyotes,Anaheim Ducks,5,4,REG
+2012020309,20122013,2013-03-02,Vancouver Canucks,Los Angeles Kings,5,2,REG
+2012020310,20122013,2013-03-02,San Jose Sharks,Nashville Predators,2,1,REG
+2012020311,20122013,2013-03-03,Detroit Red Wings,Chicago Blackhawks,1,2,REG
+2012020314,20122013,2013-03-03,Dallas Stars,St. Louis Blues,4,1,REG
+2012020312,20122013,2013-03-03,New York Islanders,Ottawa Senators,3,2,REG
+2012020313,20122013,2013-03-03,Columbus Blue Jackets,Colorado Avalanche,2,1,REG
+2012020315,20122013,2013-03-03,Florida Panthers,Carolina Hurricanes,2,3,REG
+2012020316,20122013,2013-03-03,Boston Bruins,Montréal Canadiens,3,4,REG
+2012020317,20122013,2013-03-03,New York Rangers,Buffalo Sabres,3,2,REG
+2012020319,20122013,2013-03-03,Calgary Flames,Vancouver Canucks,4,2,REG
+2012020318,20122013,2013-03-03,Minnesota Wild,Edmonton Oilers,4,2,REG
+2012020320,20122013,2013-03-04,Toronto Maple Leafs,New Jersey Devils,4,2,REG
+2012020321,20122013,2013-03-04,Pittsburgh Penguins,Tampa Bay Lightning,4,3,REG
+2012020322,20122013,2013-03-04,Phoenix Coyotes,Anaheim Ducks,5,4,REG
+2012020323,20122013,2013-03-04,Los Angeles Kings,Nashville Predators,5,1,REG
+2012020324,20122013,2013-03-05,New Jersey Devils,Tampa Bay Lightning,2,5,REG
+2012020325,20122013,2013-03-05,New York Islanders,Montréal Canadiens,6,3,REG
+2012020326,20122013,2013-03-05,Washington Capitals,Boston Bruins,4,3,REG
+2012020327,20122013,2013-03-05,Carolina Hurricanes,Buffalo Sabres,4,3,REG
+2012020328,20122013,2013-03-05,Columbus Blue Jackets,Edmonton Oilers,4,3,REG
+2012020329,20122013,2013-03-05,New York Rangers,Philadelphia Flyers,4,2,REG
+2012020330,20122013,2013-03-05,Florida Panthers,Winnipeg Jets,4,1,REG
+2012020331,20122013,2013-03-05,Detroit Red Wings,Colorado Avalanche,2,1,REG
+2012020332,20122013,2013-03-05,Chicago Blackhawks,Minnesota Wild,5,3,REG
+2012020333,20122013,2013-03-05,Vancouver Canucks,San Jose Sharks,2,3,REG
+2012020334,20122013,2013-03-05,Los Angeles Kings,St. Louis Blues,6,4,REG
+2012020335,20122013,2013-03-06,Toronto Maple Leafs,Ottawa Senators,5,4,REG
+2012020336,20122013,2013-03-06,Chicago Blackhawks,Colorado Avalanche,3,2,REG
+2012020337,20122013,2013-03-06,Calgary Flames,San Jose Sharks,4,1,REG
+2012020338,20122013,2013-03-06,Anaheim Ducks,Phoenix Coyotes,2,0,REG
+2012020339,20122013,2013-03-07,Boston Bruins,Toronto Maple Leafs,4,2,REG
+2012020340,20122013,2013-03-07,New Jersey Devils,Buffalo Sabres,3,2,REG
+2012020341,20122013,2013-03-07,New York Islanders,New York Rangers,1,2,REG
+2012020342,20122013,2013-03-07,Philadelphia Flyers,Pittsburgh Penguins,4,5,REG
+2012020343,20122013,2013-03-07,Washington Capitals,Florida Panthers,7,1,REG
+2012020344,20122013,2013-03-07,Carolina Hurricanes,Montréal Canadiens,2,4,REG
+2012020345,20122013,2013-03-07,Columbus Blue Jackets,Vancouver Canucks,2,1,REG
+2012020346,20122013,2013-03-07,Tampa Bay Lightning,Winnipeg Jets,1,2,REG
+2012020347,20122013,2013-03-07,Detroit Red Wings,Edmonton Oilers,3,0,REG
+2012020348,20122013,2013-03-07,Phoenix Coyotes,St. Louis Blues,3,6,REG
+2012020349,20122013,2013-03-07,Los Angeles Kings,Dallas Stars,2,5,REG
+2012020350,20122013,2013-03-08,New York Rangers,Ottawa Senators,2,3,REG
+2012020351,20122013,2013-03-08,Florida Panthers,Winnipeg Jets,2,3,REG
+2012020352,20122013,2013-03-08,Nashville Predators,Edmonton Oilers,6,0,REG
+2012020353,20122013,2013-03-08,Colorado Avalanche,Chicago Blackhawks,6,2,REG
+2012020354,20122013,2013-03-08,Anaheim Ducks,Calgary Flames,4,0,REG
+2012020355,20122013,2013-03-09,Boston Bruins,Philadelphia Flyers,3,0,REG
+2012020356,20122013,2013-03-09,New York Islanders,Washington Capitals,5,2,REG
+2012020357,20122013,2013-03-09,Columbus Blue Jackets,Detroit Red Wings,3,0,REG
+2012020358,20122013,2013-03-09,San Jose Sharks,St. Louis Blues,3,4,REG
+2012020359,20122013,2013-03-09,Toronto Maple Leafs,Pittsburgh Penguins,4,5,REG
+2012020360,20122013,2013-03-09,Carolina Hurricanes,New Jersey Devils,6,3,REG
+2012020361,20122013,2013-03-09,Tampa Bay Lightning,Montréal Canadiens,3,4,REG
+2012020363,20122013,2013-03-09,Phoenix Coyotes,Dallas Stars,2,1,REG
+2012020362,20122013,2013-03-09,Nashville Predators,Minnesota Wild,1,2,REG
+2012020364,20122013,2013-03-09,Los Angeles Kings,Calgary Flames,6,2,REG
+2012020365,20122013,2013-03-10,Washington Capitals,New York Rangers,1,4,REG
+2012020366,20122013,2013-03-10,Detroit Red Wings,Columbus Blue Jackets,2,3,REG
+2012020367,20122013,2013-03-10,Florida Panthers,Montréal Canadiens,2,5,REG
+2012020370,20122013,2013-03-10,Chicago Blackhawks,Edmonton Oilers,5,6,REG
+2012020368,20122013,2013-03-10,New Jersey Devils,Winnipeg Jets,3,2,REG
+2012020369,20122013,2013-03-10,Pittsburgh Penguins,New York Islanders,6,1,REG
+2012020371,20122013,2013-03-10,Philadelphia Flyers,Buffalo Sabres,3,2,REG
+2012020374,20122013,2013-03-10,Anaheim Ducks,St. Louis Blues,4,2,REG
+2012020373,20122013,2013-03-10,Colorado Avalanche,San Jose Sharks,3,2,REG
+2012020372,20122013,2013-03-10,Minnesota Wild,Vancouver Canucks,4,2,REG
+2012020375,20122013,2013-03-11,Ottawa Senators,Boston Bruins,2,3,REG
+2012020376,20122013,2013-03-11,Los Angeles Kings,Calgary Flames,3,1,REG
+2012020377,20122013,2013-03-12,Buffalo Sabres,New York Rangers,3,1,REG
+2012020378,20122013,2013-03-12,Washington Capitals,Carolina Hurricanes,0,4,REG
+2012020379,20122013,2013-03-12,Columbus Blue Jackets,Vancouver Canucks,1,2,REG
+2012020380,20122013,2013-03-12,Pittsburgh Penguins,Boston Bruins,3,2,REG
+2012020381,20122013,2013-03-12,Florida Panthers,Tampa Bay Lightning,2,3,REG
+2012020382,20122013,2013-03-12,Winnipeg Jets,Toronto Maple Leafs,5,2,REG
+2012020383,20122013,2013-03-12,St. Louis Blues,San Jose Sharks,4,2,REG
+2012020384,20122013,2013-03-12,Minnesota Wild,Anaheim Ducks,1,2,REG
+2012020385,20122013,2013-03-12,Dallas Stars,Nashville Predators,0,4,REG
+2012020386,20122013,2013-03-12,Colorado Avalanche,Edmonton Oilers,0,4,REG
+2012020387,20122013,2013-03-12,Phoenix Coyotes,Los Angeles Kings,5,2,REG
+2012020388,20122013,2013-03-13,Montréal Canadiens,Ottawa Senators,4,3,REG
+2012020389,20122013,2013-03-13,New Jersey Devils,Philadelphia Flyers,5,2,REG
+2012020390,20122013,2013-03-13,Calgary Flames,Detroit Red Wings,5,2,REG
+2012020391,20122013,2013-03-14,Boston Bruins,Florida Panthers,4,1,REG
+2012020392,20122013,2013-03-14,Toronto Maple Leafs,Pittsburgh Penguins,1,3,REG
+2012020393,20122013,2013-03-14,Carolina Hurricanes,Washington Capitals,2,3,REG
+2012020394,20122013,2013-03-14,Columbus Blue Jackets,Chicago Blackhawks,1,2,REG
+2012020395,20122013,2013-03-14,Tampa Bay Lightning,New York Islanders,0,2,REG
+2012020396,20122013,2013-03-14,Winnipeg Jets,New York Rangers,3,1,REG
+2012020397,20122013,2013-03-14,St. Louis Blues,Phoenix Coyotes,3,0,REG
+2012020398,20122013,2013-03-14,Minnesota Wild,Colorado Avalanche,5,3,REG
+2012020399,20122013,2013-03-14,Dallas Stars,Anaheim Ducks,1,2,REG
+2012020400,20122013,2013-03-14,Vancouver Canucks,Nashville Predators,7,4,REG
+2012020401,20122013,2013-03-14,San Jose Sharks,Los Angeles Kings,4,3,REG
+2012020402,20122013,2013-03-15,Philadelphia Flyers,New Jersey Devils,2,1,REG
+2012020403,20122013,2013-03-15,Calgary Flames,Nashville Predators,6,3,REG
+2012020404,20122013,2013-03-15,Edmonton Oilers,Detroit Red Wings,2,3,REG
+2012020405,20122013,2013-03-16,Boston Bruins,Washington Capitals,4,1,REG
+2012020406,20122013,2013-03-16,Pittsburgh Penguins,New York Rangers,3,0,REG
+2012020408,20122013,2013-03-16,Colorado Avalanche,Minnesota Wild,4,6,REG
+2012020407,20122013,2013-03-16,Buffalo Sabres,Ottawa Senators,3,4,REG
+2012020409,20122013,2013-03-16,Toronto Maple Leafs,Winnipeg Jets,4,5,REG
+2012020410,20122013,2013-03-16,New Jersey Devils,Montréal Canadiens,1,2,REG
+2012020411,20122013,2013-03-16,Tampa Bay Lightning,Carolina Hurricanes,4,1,REG
+2012020412,20122013,2013-03-16,Columbus Blue Jackets,Phoenix Coyotes,1,0,REG
+2012020413,20122013,2013-03-16,Florida Panthers,New York Islanders,3,4,REG
+2012020414,20122013,2013-03-16,St. Louis Blues,Anaheim Ducks,2,1,REG
+2012020415,20122013,2013-03-16,Dallas Stars,Chicago Blackhawks,1,8,REG
+2012020416,20122013,2013-03-16,Vancouver Canucks,Detroit Red Wings,2,5,REG
+2012020417,20122013,2013-03-16,Los Angeles Kings,San Jose Sharks,5,2,REG
+2012020418,20122013,2013-03-17,Pittsburgh Penguins,Boston Bruins,2,1,REG
+2012020419,20122013,2013-03-17,Ottawa Senators,Winnipeg Jets,4,1,REG
+2012020420,20122013,2013-03-17,Washington Capitals,Buffalo Sabres,5,3,REG
+2012020421,20122013,2013-03-17,Edmonton Oilers,Nashville Predators,3,2,REG
+2012020422,20122013,2013-03-18,New York Rangers,Carolina Hurricanes,2,1,REG
+2012020423,20122013,2013-03-18,Tampa Bay Lightning,Philadelphia Flyers,4,2,REG
+2012020424,20122013,2013-03-18,Dallas Stars,Calgary Flames,4,3,REG
+2012020425,20122013,2013-03-18,Colorado Avalanche,Chicago Blackhawks,2,5,REG
+2012020426,20122013,2013-03-18,Vancouver Canucks,Minnesota Wild,1,3,REG
+2012020427,20122013,2013-03-18,Anaheim Ducks,San Jose Sharks,5,3,REG
+2012020428,20122013,2013-03-18,Los Angeles Kings,Phoenix Coyotes,4,0,REG
+2012020429,20122013,2013-03-19,New Jersey Devils,New York Rangers,2,3,REG
+2012020430,20122013,2013-03-19,New York Islanders,Ottawa Senators,3,5,REG
+2012020431,20122013,2013-03-19,Carolina Hurricanes,Florida Panthers,1,4,REG
+2012020432,20122013,2013-03-19,Columbus Blue Jackets,Nashville Predators,4,3,REG
+2012020433,20122013,2013-03-19,Montréal Canadiens,Buffalo Sabres,2,3,REG
+2012020434,20122013,2013-03-19,Pittsburgh Penguins,Washington Capitals,2,1,REG
+2012020435,20122013,2013-03-19,Winnipeg Jets,Boston Bruins,3,1,REG
+2012020436,20122013,2013-03-19,Vancouver Canucks,St. Louis Blues,3,2,REG
+2012020437,20122013,2013-03-19,Los Angeles Kings,Phoenix Coyotes,3,2,REG
+2012020438,20122013,2013-03-20,Toronto Maple Leafs,Tampa Bay Lightning,4,2,REG
+2012020439,20122013,2013-03-20,Detroit Red Wings,Minnesota Wild,2,4,REG
+2012020440,20122013,2013-03-20,Colorado Avalanche,Dallas Stars,4,3,REG
+2012020441,20122013,2013-03-20,Edmonton Oilers,San Jose Sharks,3,4,REG
+2012020442,20122013,2013-03-20,Anaheim Ducks,Chicago Blackhawks,4,2,REG
+2012020443,20122013,2013-03-21,Buffalo Sabres,Toronto Maple Leafs,5,4,REG
+2012020444,20122013,2013-03-21,New York Islanders,Montréal Canadiens,2,5,REG
+2012020445,20122013,2013-03-21,New York Rangers,Florida Panthers,1,3,REG
+2012020446,20122013,2013-03-21,Carolina Hurricanes,New Jersey Devils,1,4,REG
+2012020447,20122013,2013-03-21,Ottawa Senators,Boston Bruins,1,2,REG
+2012020448,20122013,2013-03-21,Winnipeg Jets,Washington Capitals,0,4,REG
+2012020449,20122013,2013-03-21,Nashville Predators,Calgary Flames,5,3,REG
+2012020450,20122013,2013-03-21,Phoenix Coyotes,Vancouver Canucks,1,2,REG
+2012020451,20122013,2013-03-21,Los Angeles Kings,Dallas Stars,0,2,REG
+2012020454,20122013,2013-03-22,Winnipeg Jets,Washington Capitals,1,6,REG
+2012020452,20122013,2013-03-22,New York Islanders,Pittsburgh Penguins,2,4,REG
+2012020453,20122013,2013-03-22,Columbus Blue Jackets,Calgary Flames,5,1,REG
+2012020455,20122013,2013-03-22,Anaheim Ducks,Detroit Red Wings,1,5,REG
+2012020457,20122013,2013-03-23,Minnesota Wild,San Jose Sharks,2,0,REG
+2012020456,20122013,2013-03-23,Ottawa Senators,Tampa Bay Lightning,5,3,REG
+2012020458,20122013,2013-03-23,Los Angeles Kings,Vancouver Canucks,0,1,REG
+2012020459,20122013,2013-03-23,Toronto Maple Leafs,Boston Bruins,3,2,REG
+2012020460,20122013,2013-03-23,Montréal Canadiens,Buffalo Sabres,1,2,REG
+2012020461,20122013,2013-03-23,New Jersey Devils,Florida Panthers,2,1,REG
+2012020462,20122013,2013-03-23,Nashville Predators,Columbus Blue Jackets,5,2,REG
+2012020463,20122013,2013-03-23,Dallas Stars,Colorado Avalanche,5,2,REG
+2012020464,20122013,2013-03-23,Edmonton Oilers,St. Louis Blues,0,3,REG
+2012020465,20122013,2013-03-24,New York Islanders,Florida Panthers,3,0,REG
+2012020467,20122013,2013-03-24,New York Rangers,Washington Capitals,2,3,REG
+2012020466,20122013,2013-03-24,Pittsburgh Penguins,Philadelphia Flyers,2,1,REG
+2012020471,20122013,2013-03-24,Anaheim Ducks,Detroit Red Wings,1,2,REG
+2012020469,20122013,2013-03-24,Colorado Avalanche,Vancouver Canucks,2,3,REG
+2012020470,20122013,2013-03-24,Calgary Flames,St. Louis Blues,3,2,REG
+2012020468,20122013,2013-03-24,Winnipeg Jets,Tampa Bay Lightning,3,2,REG
+2012020472,20122013,2013-03-25,Boston Bruins,Toronto Maple Leafs,3,2,REG
+2012020473,20122013,2013-03-25,Ottawa Senators,New Jersey Devils,3,2,REG
+2012020474,20122013,2013-03-25,Chicago Blackhawks,Los Angeles Kings,4,5,REG
+2012020475,20122013,2013-03-25,Nashville Predators,Edmonton Oilers,3,2,REG
+2012020476,20122013,2013-03-25,Dallas Stars,Minnesota Wild,4,7,REG
+2012020477,20122013,2013-03-25,Phoenix Coyotes,Detroit Red Wings,2,3,REG
+2012020478,20122013,2013-03-25,Anaheim Ducks,San Jose Sharks,3,5,REG
+2012020479,20122013,2013-03-26,Toronto Maple Leafs,Florida Panthers,3,2,REG
+2012020480,20122013,2013-03-26,Pittsburgh Penguins,Montréal Canadiens,1,0,REG
+2012020481,20122013,2013-03-26,Washington Capitals,New York Islanders,2,3,REG
+2012020482,20122013,2013-03-26,Carolina Hurricanes,Winnipeg Jets,1,4,REG
+2012020483,20122013,2013-03-26,Philadelphia Flyers,New York Rangers,2,5,REG
+2012020484,20122013,2013-03-26,Tampa Bay Lightning,Buffalo Sabres,2,1,REG
+2012020485,20122013,2013-03-26,St. Louis Blues,Edmonton Oilers,0,3,REG
+2012020486,20122013,2013-03-26,Chicago Blackhawks,Calgary Flames,2,0,REG
+2012020487,20122013,2013-03-26,Vancouver Canucks,Columbus Blue Jackets,1,0,REG
+2012020488,20122013,2013-03-27,Boston Bruins,Montréal Canadiens,5,6,REG
+2012020489,20122013,2013-03-27,Minnesota Wild,Phoenix Coyotes,4,3,REG
+2012020491,20122013,2013-03-27,San Jose Sharks,Anaheim Ducks,4,0,REG
+2012020490,20122013,2013-03-27,Calgary Flames,Colorado Avalanche,4,3,REG
+2012020492,20122013,2013-03-28,Toronto Maple Leafs,Carolina Hurricanes,6,3,REG
+2012020493,20122013,2013-03-28,Philadelphia Flyers,New York Islanders,3,4,REG
+2012020494,20122013,2013-03-28,Pittsburgh Penguins,Winnipeg Jets,4,0,REG
+2012020495,20122013,2013-03-28,Ottawa Senators,New York Rangers,3,0,REG
+2012020496,20122013,2013-03-28,Florida Panthers,Buffalo Sabres,5,4,REG
+2012020497,20122013,2013-03-28,St. Louis Blues,Los Angeles Kings,2,4,REG
+2012020498,20122013,2013-03-28,Nashville Predators,Phoenix Coyotes,4,7,REG
+2012020499,20122013,2013-03-28,Edmonton Oilers,Columbus Blue Jackets,6,4,REG
+2012020500,20122013,2013-03-28,Vancouver Canucks,Colorado Avalanche,4,1,REG
+2012020501,20122013,2013-03-28,San Jose Sharks,Detroit Red Wings,2,0,REG
+2012020502,20122013,2013-03-29,Tampa Bay Lightning,New Jersey Devils,5,4,REG
+2012020503,20122013,2013-03-29,Chicago Blackhawks,Anaheim Ducks,1,2,REG
+2012020504,20122013,2013-03-29,Dallas Stars,Minnesota Wild,5,3,REG
+2012020505,20122013,2013-03-29,Calgary Flames,Columbus Blue Jackets,4,6,REG
+2012020506,20122013,2013-03-30,Philadelphia Flyers,Boston Bruins,3,1,REG
+2012020507,20122013,2013-03-30,Pittsburgh Penguins,New York Islanders,2,0,REG
+2012020509,20122013,2013-03-30,Colorado Avalanche,Nashville Predators,1,0,REG
+2012020508,20122013,2013-03-30,Winnipeg Jets,Carolina Hurricanes,1,3,REG
+2012020511,20122013,2013-03-30,Buffalo Sabres,Washington Capitals,3,4,REG
+2012020512,20122013,2013-03-30,Montréal Canadiens,New York Rangers,3,0,REG
+2012020513,20122013,2013-03-30,Ottawa Senators,Toronto Maple Leafs,0,4,REG
+2012020514,20122013,2013-03-30,Florida Panthers,New Jersey Devils,3,2,REG
+2012020510,20122013,2013-03-30,Minnesota Wild,Los Angeles Kings,4,3,REG
+2012020515,20122013,2013-03-30,Edmonton Oilers,Vancouver Canucks,4,0,REG
+2012020516,20122013,2013-03-30,San Jose Sharks,Phoenix Coyotes,3,2,REG
+2012020517,20122013,2013-03-31,Detroit Red Wings,Chicago Blackhawks,1,7,REG
+2012020520,20122013,2013-03-31,Dallas Stars,Los Angeles Kings,2,3,REG
+2012020518,20122013,2013-03-31,Columbus Blue Jackets,Anaheim Ducks,2,1,REG
+2012020521,20122013,2013-03-31,Philadelphia Flyers,Washington Capitals,5,4,REG
+2012020519,20122013,2013-03-31,Buffalo Sabres,Boston Bruins,0,2,REG
+2012020522,20122013,2013-04-01,New Jersey Devils,New York Islanders,1,3,REG
+2012020523,20122013,2013-04-01,New York Rangers,Winnipeg Jets,4,2,REG
+2012020524,20122013,2013-04-01,Montréal Canadiens,Carolina Hurricanes,4,1,REG
+2012020525,20122013,2013-04-01,Detroit Red Wings,Colorado Avalanche,3,2,REG
+2012020526,20122013,2013-04-01,Minnesota Wild,St. Louis Blues,1,4,REG
+2012020527,20122013,2013-04-01,Chicago Blackhawks,Nashville Predators,3,2,REG
+2012020528,20122013,2013-04-01,Dallas Stars,Anaheim Ducks,0,4,REG
+2012020529,20122013,2013-04-01,Edmonton Oilers,Calgary Flames,4,1,REG
+2012020530,20122013,2013-04-01,San Jose Sharks,Vancouver Canucks,3,2,REG
+2012020531,20122013,2013-04-02,Boston Bruins,Ottawa Senators,3,2,REG
+2012020532,20122013,2013-04-02,New York Islanders,Winnipeg Jets,5,2,REG
+2012020533,20122013,2013-04-02,Carolina Hurricanes,Washington Capitals,3,5,REG
+2012020534,20122013,2013-04-02,Pittsburgh Penguins,Buffalo Sabres,1,4,REG
+2012020535,20122013,2013-04-02,Tampa Bay Lightning,Florida Panthers,2,3,REG
+2012020536,20122013,2013-04-02,Nashville Predators,Colorado Avalanche,3,1,REG
+2012020537,20122013,2013-04-02,Phoenix Coyotes,Los Angeles Kings,3,1,REG
+2012020538,20122013,2013-04-03,New York Rangers,Pittsburgh Penguins,6,1,REG
+2012020539,20122013,2013-04-03,Philadelphia Flyers,Montréal Canadiens,5,3,REG
+2012020541,20122013,2013-04-03,Anaheim Ducks,Dallas Stars,5,2,REG
+2012020540,20122013,2013-04-03,Calgary Flames,Edmonton Oilers,2,8,REG
+2012020542,20122013,2013-04-03,San Jose Sharks,Minnesota Wild,4,2,REG
+2012020543,20122013,2013-04-04,Boston Bruins,New Jersey Devils,1,0,REG
+2012020544,20122013,2013-04-04,Toronto Maple Leafs,Philadelphia Flyers,3,5,REG
+2012020545,20122013,2013-04-04,Washington Capitals,New York Islanders,2,1,REG
+2012020546,20122013,2013-04-04,Carolina Hurricanes,Tampa Bay Lightning,0,5,REG
+2012020547,20122013,2013-04-04,Montréal Canadiens,Winnipeg Jets,4,1,REG
+2012020548,20122013,2013-04-04,Nashville Predators,Columbus Blue Jackets,1,3,REG
+2012020549,20122013,2013-04-04,Chicago Blackhawks,St. Louis Blues,3,4,REG
+2012020551,20122013,2013-04-04,Phoenix Coyotes,Detroit Red Wings,4,2,REG
+2012020550,20122013,2013-04-04,Vancouver Canucks,Edmonton Oilers,4,0,REG
+2012020552,20122013,2013-04-04,Los Angeles Kings,Minnesota Wild,3,0,REG
+2012020553,20122013,2013-04-05,Buffalo Sabres,Ottawa Senators,4,2,REG
+2012020554,20122013,2013-04-05,Pittsburgh Penguins,New York Rangers,2,1,REG
+2012020555,20122013,2013-04-05,St. Louis Blues,Columbus Blue Jackets,3,1,REG
+2012020556,20122013,2013-04-05,Colorado Avalanche,Detroit Red Wings,2,3,REG
+2012020557,20122013,2013-04-05,Anaheim Ducks,Dallas Stars,1,3,REG
+2012020558,20122013,2013-04-05,San Jose Sharks,Calgary Flames,2,1,REG
+2012020559,20122013,2013-04-06,Winnipeg Jets,Philadelphia Flyers,4,1,REG
+2012020560,20122013,2013-04-06,Nashville Predators,Chicago Blackhawks,0,1,REG
+2012020561,20122013,2013-04-06,Los Angeles Kings,Edmonton Oilers,4,1,REG
+2012020562,20122013,2013-04-06,Montréal Canadiens,Boston Bruins,2,1,REG
+2012020563,20122013,2013-04-06,New Jersey Devils,Toronto Maple Leafs,1,2,REG
+2012020564,20122013,2013-04-06,New York Islanders,Tampa Bay Lightning,4,2,REG
+2012020565,20122013,2013-04-06,Carolina Hurricanes,New York Rangers,1,4,REG
+2012020566,20122013,2013-04-06,Florida Panthers,Washington Capitals,3,4,REG
+2012020567,20122013,2013-04-06,Phoenix Coyotes,Colorado Avalanche,4,0,REG
+2012020568,20122013,2013-04-06,Vancouver Canucks,Calgary Flames,5,2,REG
+2012020569,20122013,2013-04-07,Detroit Red Wings,St. Louis Blues,0,1,REG
+2012020570,20122013,2013-04-07,San Jose Sharks,Dallas Stars,4,5,REG
+2012020571,20122013,2013-04-07,Florida Panthers,Ottawa Senators,2,1,REG
+2012020572,20122013,2013-04-07,Columbus Blue Jackets,Minnesota Wild,0,3,REG
+2012020574,20122013,2013-04-07,Chicago Blackhawks,Nashville Predators,5,3,REG
+2012020573,20122013,2013-04-07,Washington Capitals,Tampa Bay Lightning,4,2,REG
+2012020575,20122013,2013-04-07,Buffalo Sabres,New Jersey Devils,3,2,REG
+2012020576,20122013,2013-04-07,Anaheim Ducks,Los Angeles Kings,4,3,REG
+2012020577,20122013,2013-04-08,Boston Bruins,Carolina Hurricanes,6,2,REG
+2012020578,20122013,2013-04-08,Toronto Maple Leafs,New York Rangers,4,3,REG
+2012020579,20122013,2013-04-08,Colorado Avalanche,Calgary Flames,1,3,REG
+2012020580,20122013,2013-04-08,Vancouver Canucks,Phoenix Coyotes,2,0,REG
+2012020581,20122013,2013-04-08,Anaheim Ducks,Edmonton Oilers,2,1,REG
+2012020582,20122013,2013-04-09,New York Islanders,Philadelphia Flyers,4,1,REG
+2012020583,20122013,2013-04-09,Carolina Hurricanes,Pittsburgh Penguins,3,5,REG
+2012020584,20122013,2013-04-09,Columbus Blue Jackets,San Jose Sharks,4,0,REG
+2012020585,20122013,2013-04-09,Montréal Canadiens,Washington Capitals,2,3,REG
+2012020586,20122013,2013-04-09,Tampa Bay Lightning,Ottawa Senators,3,2,REG
+2012020587,20122013,2013-04-09,Winnipeg Jets,Buffalo Sabres,4,1,REG
+2012020588,20122013,2013-04-09,Nashville Predators,St. Louis Blues,0,1,REG
+2012020589,20122013,2013-04-09,Minnesota Wild,Chicago Blackhawks,0,1,REG
+2012020590,20122013,2013-04-09,Dallas Stars,Los Angeles Kings,5,1,REG
+2012020592,20122013,2013-04-10,New York Rangers,Toronto Maple Leafs,3,2,REG
+2012020591,20122013,2013-04-10,New Jersey Devils,Boston Bruins,4,5,REG
+2012020593,20122013,2013-04-10,Calgary Flames,Vancouver Canucks,1,4,REG
+2012020594,20122013,2013-04-10,Edmonton Oilers,Phoenix Coyotes,1,3,REG
+2012020595,20122013,2013-04-10,Anaheim Ducks,Colorado Avalanche,1,4,REG
+2012020596,20122013,2013-04-11,Boston Bruins,New York Islanders,1,2,REG
+2012020598,20122013,2013-04-11,Philadelphia Flyers,Ottawa Senators,1,3,REG
+2012020599,20122013,2013-04-11,Washington Capitals,Carolina Hurricanes,3,1,REG
+2012020597,20122013,2013-04-11,Buffalo Sabres,Montréal Canadiens,1,5,REG
+2012020600,20122013,2013-04-11,Tampa Bay Lightning,Pittsburgh Penguins,3,6,REG
+2012020601,20122013,2013-04-11,Detroit Red Wings,San Jose Sharks,2,3,REG
+2012020602,20122013,2013-04-11,Winnipeg Jets,Florida Panthers,7,2,REG
+2012020603,20122013,2013-04-11,Minnesota Wild,St. Louis Blues,0,2,REG
+2012020604,20122013,2013-04-11,Los Angeles Kings,Colorado Avalanche,3,2,REG
+2012020605,20122013,2013-04-12,New Jersey Devils,Ottawa Senators,0,2,REG
+2012020606,20122013,2013-04-12,Columbus Blue Jackets,St. Louis Blues,4,1,REG
+2012020607,20122013,2013-04-12,Nashville Predators,Dallas Stars,2,5,REG
+2012020608,20122013,2013-04-12,Chicago Blackhawks,Detroit Red Wings,3,2,REG
+2012020609,20122013,2013-04-12,Calgary Flames,Phoenix Coyotes,3,2,REG
+2012020611,20122013,2013-04-13,Colorado Avalanche,Vancouver Canucks,4,3,REG
+2012020610,20122013,2013-04-13,Buffalo Sabres,Philadelphia Flyers,1,0,REG
+2012020612,20122013,2013-04-13,Toronto Maple Leafs,Montréal Canadiens,5,1,REG
+2012020613,20122013,2013-04-13,New York Islanders,New York Rangers,0,1,REG
+2012020614,20122013,2013-04-13,Washington Capitals,Tampa Bay Lightning,6,5,REG
+2012020615,20122013,2013-04-13,Carolina Hurricanes,Boston Bruins,4,2,REG
+2012020616,20122013,2013-04-13,Florida Panthers,Pittsburgh Penguins,1,3,REG
+2012020617,20122013,2013-04-13,Minnesota Wild,Columbus Blue Jackets,2,3,REG
+2012020618,20122013,2013-04-13,Dallas Stars,San Jose Sharks,2,1,REG
+2012020619,20122013,2013-04-13,Edmonton Oilers,Calgary Flames,1,4,REG
+2012020620,20122013,2013-04-13,Los Angeles Kings,Anaheim Ducks,2,1,REG
+2012020621,20122013,2013-04-14,St. Louis Blues,Chicago Blackhawks,0,2,REG
+2012020622,20122013,2013-04-14,Buffalo Sabres,Tampa Bay Lightning,3,1,REG
+2012020623,20122013,2013-04-14,Nashville Predators,Detroit Red Wings,0,3,REG
+2012020625,20122013,2013-04-15,Toronto Maple Leafs,New Jersey Devils,2,0,REG
+2012020626,20122013,2013-04-15,Montréal Canadiens,Philadelphia Flyers,3,7,REG
+2012020627,20122013,2013-04-15,Chicago Blackhawks,Dallas Stars,5,2,REG
+2012020628,20122013,2013-04-15,Nashville Predators,Vancouver Canucks,2,5,REG
+2012020629,20122013,2013-04-15,Colorado Avalanche,Columbus Blue Jackets,3,4,REG
+2012020630,20122013,2013-04-15,Calgary Flames,Minnesota Wild,3,4,REG
+2012020631,20122013,2013-04-15,Phoenix Coyotes,San Jose Sharks,0,4,REG
+2012020632,20122013,2013-04-16,New York Islanders,Florida Panthers,5,2,REG
+2012020633,20122013,2013-04-16,Washington Capitals,Toronto Maple Leafs,5,1,REG
+2012020634,20122013,2013-04-16,Ottawa Senators,Carolina Hurricanes,3,2,REG
+2012020635,20122013,2013-04-16,Philadelphia Flyers,New York Rangers,4,2,REG
+2012020636,20122013,2013-04-16,Winnipeg Jets,Tampa Bay Lightning,4,3,REG
+2012020637,20122013,2013-04-16,St. Louis Blues,Vancouver Canucks,2,1,REG
+2012020638,20122013,2013-04-16,Edmonton Oilers,Minnesota Wild,3,5,REG
+2012020639,20122013,2013-04-16,San Jose Sharks,Los Angeles Kings,3,2,REG
+2012020640,20122013,2013-04-17,Pittsburgh Penguins,Montréal Canadiens,6,4,REG
+2012020641,20122013,2013-04-17,Boston Bruins,Buffalo Sabres,2,3,REG
+2012020642,20122013,2013-04-17,Calgary Flames,Detroit Red Wings,3,2,REG
+2012020643,20122013,2013-04-17,Anaheim Ducks,Columbus Blue Jackets,2,3,REG
+2012020644,20122013,2013-04-18,Toronto Maple Leafs,New York Islanders,3,5,REG
+2012020645,20122013,2013-04-18,New York Rangers,Florida Panthers,6,1,REG
+2012020646,20122013,2013-04-18,Montréal Canadiens,Tampa Bay Lightning,3,2,REG
+2012020647,20122013,2013-04-18,Ottawa Senators,Washington Capitals,3,1,REG
+2012020648,20122013,2013-04-18,Philadelphia Flyers,New Jersey Devils,0,3,REG
+2012020649,20122013,2013-04-18,Winnipeg Jets,Carolina Hurricanes,4,3,REG
+2012020650,20122013,2013-04-18,St. Louis Blues,Phoenix Coyotes,2,1,REG
+2012020651,20122013,2013-04-18,Dallas Stars,Vancouver Canucks,5,1,REG
+2012020652,20122013,2013-04-18,Los Angeles Kings,Columbus Blue Jackets,2,1,REG
+2012020653,20122013,2013-04-18,San Jose Sharks,Minnesota Wild,6,1,REG
+2012020655,20122013,2013-04-19,Buffalo Sabres,New York Rangers,4,8,REG
+2012020656,20122013,2013-04-19,St. Louis Blues,Dallas Stars,2,1,REG
+2012020657,20122013,2013-04-19,Chicago Blackhawks,Nashville Predators,5,4,REG
+2012020658,20122013,2013-04-19,Colorado Avalanche,Edmonton Oilers,1,4,REG
+2012020659,20122013,2013-04-19,Calgary Flames,Anaheim Ducks,3,1,REG
+2012020654,20122013,2013-04-20,Boston Bruins,Pittsburgh Penguins,2,3,REG
+2012020660,20122013,2013-04-20,New Jersey Devils,Florida Panthers,6,2,REG
+2012020661,20122013,2013-04-20,Winnipeg Jets,New York Islanders,4,5,REG
+2012020662,20122013,2013-04-20,Montréal Canadiens,Washington Capitals,1,5,REG
+2012020663,20122013,2013-04-20,Ottawa Senators,Toronto Maple Leafs,1,4,REG
+2012020665,20122013,2013-04-20,Carolina Hurricanes,Philadelphia Flyers,3,5,REG
+2012020666,20122013,2013-04-20,Chicago Blackhawks,Phoenix Coyotes,2,3,REG
+2012020667,20122013,2013-04-20,Vancouver Canucks,Detroit Red Wings,2,1,REG
+2012020668,20122013,2013-04-21,Boston Bruins,Florida Panthers,3,0,REG
+2012020671,20122013,2013-04-21,New York Rangers,New Jersey Devils,4,1,REG
+2012020670,20122013,2013-04-21,Minnesota Wild,Calgary Flames,1,4,REG
+2012020669,20122013,2013-04-21,Tampa Bay Lightning,Carolina Hurricanes,2,3,REG
+2012020674,20122013,2013-04-21,San Jose Sharks,Columbus Blue Jackets,3,4,REG
+2012020672,20122013,2013-04-21,Colorado Avalanche,St. Louis Blues,5,3,REG
+2012020673,20122013,2013-04-21,Edmonton Oilers,Anaheim Ducks,1,3,REG
+2012020675,20122013,2013-04-21,Los Angeles Kings,Dallas Stars,4,3,REG
+2012020676,20122013,2013-04-22,Buffalo Sabres,Winnipeg Jets,1,2,REG
+2012020677,20122013,2013-04-22,Ottawa Senators,Pittsburgh Penguins,1,3,REG
+2012020678,20122013,2013-04-22,Detroit Red Wings,Phoenix Coyotes,4,0,REG
+2012020679,20122013,2013-04-22,Edmonton Oilers,Anaheim Ducks,0,3,REG
+2012020680,20122013,2013-04-22,Vancouver Canucks,Chicago Blackhawks,3,1,REG
+2012020681,20122013,2013-04-23,New Jersey Devils,Montréal Canadiens,3,2,REG
+2012020682,20122013,2013-04-23,Washington Capitals,Winnipeg Jets,5,3,REG
+2012020683,20122013,2013-04-23,Carolina Hurricanes,New York Islanders,4,3,REG
+2012020664,20122013,2013-04-23,Pittsburgh Penguins,Buffalo Sabres,2,4,REG
+2012020684,20122013,2013-04-23,Philadelphia Flyers,Boston Bruins,5,2,REG
+2012020685,20122013,2013-04-23,Florida Panthers,New York Rangers,3,2,REG
+2012020686,20122013,2013-04-23,St. Louis Blues,Colorado Avalanche,3,1,REG
+2012020687,20122013,2013-04-23,Nashville Predators,Calgary Flames,4,3,REG
+2012020688,20122013,2013-04-23,Minnesota Wild,Los Angeles Kings,2,1,REG
+2012020689,20122013,2013-04-23,San Jose Sharks,Dallas Stars,3,2,REG
+2012020690,20122013,2013-04-24,Tampa Bay Lightning,Toronto Maple Leafs,5,2,REG
+2012020691,20122013,2013-04-24,Detroit Red Wings,Los Angeles Kings,3,1,REG
+2012020692,20122013,2013-04-24,Edmonton Oilers,Chicago Blackhawks,1,4,REG
+2012020693,20122013,2013-04-24,Phoenix Coyotes,San Jose Sharks,2,1,REG
+2012020694,20122013,2013-04-25,Philadelphia Flyers,New York Islanders,2,1,REG
+2012020695,20122013,2013-04-25,Washington Capitals,Ottawa Senators,1,2,REG
+2012020696,20122013,2013-04-25,Carolina Hurricanes,New York Rangers,3,4,REG
+2012020154,20122013,2013-04-25,Boston Bruins,Tampa Bay Lightning,2,0,REG
+2012020697,20122013,2013-04-25,New Jersey Devils,Pittsburgh Penguins,3,2,REG
+2012020698,20122013,2013-04-25,Florida Panthers,Toronto Maple Leafs,0,4,REG
+2012020699,20122013,2013-04-25,Detroit Red Wings,Nashville Predators,5,2,REG
+2012020700,20122013,2013-04-25,Winnipeg Jets,Montréal Canadiens,2,4,REG
+2012020701,20122013,2013-04-25,St. Louis Blues,Calgary Flames,4,1,REG
+2012020702,20122013,2013-04-25,Dallas Stars,Columbus Blue Jackets,1,3,REG
+2012020703,20122013,2013-04-25,Vancouver Canucks,Anaheim Ducks,1,3,REG
+2012020704,20122013,2013-04-26,Buffalo Sabres,New York Islanders,2,1,REG
+2012020705,20122013,2013-04-26,Minnesota Wild,Edmonton Oilers,1,6,REG
+2012020706,20122013,2013-04-26,Chicago Blackhawks,Calgary Flames,3,1,REG
+2012020707,20122013,2013-04-26,Phoenix Coyotes,Colorado Avalanche,4,5,REG
+2012020714,20122013,2013-04-27,New York Rangers,New Jersey Devils,4,0,REG
+2012020717,20122013,2013-04-27,Dallas Stars,Detroit Red Wings,0,3,REG
+2012020708,20122013,2013-04-27,Toronto Maple Leafs,Montréal Canadiens,1,4,REG
+2012020709,20122013,2013-04-27,Ottawa Senators,Philadelphia Flyers,1,2,REG
+2012020711,20122013,2013-04-27,Washington Capitals,Boston Bruins,3,2,REG
+2012020712,20122013,2013-04-27,Tampa Bay Lightning,Florida Panthers,3,5,REG
+2012020713,20122013,2013-04-27,Columbus Blue Jackets,Nashville Predators,3,1,REG
+2012020715,20122013,2013-04-27,Colorado Avalanche,Minnesota Wild,1,3,REG
+2012020710,20122013,2013-04-27,Pittsburgh Penguins,Carolina Hurricanes,8,3,REG
+2012020716,20122013,2013-04-27,St. Louis Blues,Chicago Blackhawks,3,1,REG
+2012020719,20122013,2013-04-27,Anaheim Ducks,Phoenix Coyotes,3,5,REG
+2012020718,20122013,2013-04-27,Edmonton Oilers,Vancouver Canucks,7,2,REG
+2012020720,20122013,2013-04-27,Los Angeles Kings,San Jose Sharks,3,2,REG
+2012020624,20122013,2013-04-28,Boston Bruins,Ottawa Senators,2,4,REG
+2012030151,20122013,2013-04-30,Chicago Blackhawks,Minnesota Wild,2,1,POST
+2012030181,20122013,2013-04-30,St. Louis Blues,Los Angeles Kings,2,1,POST
+2012030161,20122013,2013-04-30,Anaheim Ducks,Detroit Red Wings,3,1,POST
+2012030141,20122013,2013-05-01,Boston Bruins,Toronto Maple Leafs,4,1,POST
+2012030111,20122013,2013-05-01,Pittsburgh Penguins,New York Islanders,5,0,POST
+2012030171,20122013,2013-05-01,Vancouver Canucks,San Jose Sharks,1,3,POST
+2012030121,20122013,2013-05-02,Montréal Canadiens,Ottawa Senators,2,4,POST
+2012030131,20122013,2013-05-02,Washington Capitals,New York Rangers,3,1,POST
+2012030182,20122013,2013-05-02,St. Louis Blues,Los Angeles Kings,2,1,POST
+2012030162,20122013,2013-05-02,Anaheim Ducks,Detroit Red Wings,4,5,POST
+2012030112,20122013,2013-05-03,Pittsburgh Penguins,New York Islanders,3,4,POST
+2012030122,20122013,2013-05-03,Montréal Canadiens,Ottawa Senators,3,1,POST
+2012030152,20122013,2013-05-03,Chicago Blackhawks,Minnesota Wild,5,2,POST
+2012030172,20122013,2013-05-03,Vancouver Canucks,San Jose Sharks,2,3,POST
+2012030132,20122013,2013-05-04,Washington Capitals,New York Rangers,1,0,POST
+2012030142,20122013,2013-05-04,Boston Bruins,Toronto Maple Leafs,2,4,POST
+2012030163,20122013,2013-05-04,Detroit Red Wings,Anaheim Ducks,0,4,POST
+2012030183,20122013,2013-05-04,Los Angeles Kings,St. Louis Blues,1,0,POST
+2012030113,20122013,2013-05-05,New York Islanders,Pittsburgh Penguins,4,5,POST
+2012030153,20122013,2013-05-05,Minnesota Wild,Chicago Blackhawks,3,2,POST
+2012030123,20122013,2013-05-05,Ottawa Senators,Montréal Canadiens,6,1,POST
+2012030173,20122013,2013-05-05,San Jose Sharks,Vancouver Canucks,5,2,POST
+2012030143,20122013,2013-05-06,Toronto Maple Leafs,Boston Bruins,2,5,POST
+2012030133,20122013,2013-05-06,New York Rangers,Washington Capitals,4,3,POST
+2012030164,20122013,2013-05-06,Detroit Red Wings,Anaheim Ducks,3,2,POST
+2012030184,20122013,2013-05-06,Los Angeles Kings,St. Louis Blues,4,3,POST
+2012030114,20122013,2013-05-07,New York Islanders,Pittsburgh Penguins,6,4,POST
+2012030124,20122013,2013-05-07,Ottawa Senators,Montréal Canadiens,3,2,POST
+2012030154,20122013,2013-05-07,Minnesota Wild,Chicago Blackhawks,0,3,POST
+2012030174,20122013,2013-05-07,San Jose Sharks,Vancouver Canucks,4,3,POST
+2012030144,20122013,2013-05-08,Toronto Maple Leafs,Boston Bruins,3,4,POST
+2012030134,20122013,2013-05-08,New York Rangers,Washington Capitals,4,3,POST
+2012030185,20122013,2013-05-08,St. Louis Blues,Los Angeles Kings,2,3,POST
+2012030165,20122013,2013-05-08,Anaheim Ducks,Detroit Red Wings,3,2,POST
+2012030115,20122013,2013-05-09,Pittsburgh Penguins,New York Islanders,4,0,POST
+2012030125,20122013,2013-05-09,Montréal Canadiens,Ottawa Senators,1,6,POST
+2012030155,20122013,2013-05-09,Chicago Blackhawks,Minnesota Wild,5,1,POST
+2012030145,20122013,2013-05-10,Boston Bruins,Toronto Maple Leafs,1,2,POST
+2012030135,20122013,2013-05-10,Washington Capitals,New York Rangers,2,1,POST
+2012030166,20122013,2013-05-10,Detroit Red Wings,Anaheim Ducks,4,3,POST
+2012030186,20122013,2013-05-10,Los Angeles Kings,St. Louis Blues,2,1,POST
+2012030116,20122013,2013-05-11,New York Islanders,Pittsburgh Penguins,3,4,POST
+2012030136,20122013,2013-05-12,New York Rangers,Washington Capitals,1,0,POST
+2012030146,20122013,2013-05-12,Toronto Maple Leafs,Boston Bruins,2,1,POST
+2012030167,20122013,2013-05-12,Anaheim Ducks,Detroit Red Wings,2,3,POST
+2012030147,20122013,2013-05-13,Boston Bruins,Toronto Maple Leafs,5,4,POST
+2012030137,20122013,2013-05-13,Washington Capitals,New York Rangers,0,5,POST
+2012030211,20122013,2013-05-14,Pittsburgh Penguins,Ottawa Senators,4,1,POST
+2012030241,20122013,2013-05-14,Los Angeles Kings,San Jose Sharks,2,0,POST
+2012030231,20122013,2013-05-15,Chicago Blackhawks,Detroit Red Wings,4,1,POST
+2012030221,20122013,2013-05-16,Boston Bruins,New York Rangers,3,2,POST
+2012030242,20122013,2013-05-16,Los Angeles Kings,San Jose Sharks,4,3,POST
+2012030212,20122013,2013-05-17,Pittsburgh Penguins,Ottawa Senators,4,3,POST
+2012030232,20122013,2013-05-18,Chicago Blackhawks,Detroit Red Wings,1,4,POST
+2012030243,20122013,2013-05-18,San Jose Sharks,Los Angeles Kings,2,1,POST
+2012030222,20122013,2013-05-19,Boston Bruins,New York Rangers,5,2,POST
+2012030213,20122013,2013-05-19,Ottawa Senators,Pittsburgh Penguins,2,1,POST
+2012030233,20122013,2013-05-20,Detroit Red Wings,Chicago Blackhawks,3,1,POST
+2012030223,20122013,2013-05-21,New York Rangers,Boston Bruins,1,2,POST
+2012030244,20122013,2013-05-21,San Jose Sharks,Los Angeles Kings,2,1,POST
+2012030214,20122013,2013-05-22,Ottawa Senators,Pittsburgh Penguins,3,7,POST
+2012030224,20122013,2013-05-23,New York Rangers,Boston Bruins,4,3,POST
+2012030234,20122013,2013-05-23,Detroit Red Wings,Chicago Blackhawks,2,0,POST
+2012030245,20122013,2013-05-23,Los Angeles Kings,San Jose Sharks,3,0,POST
+2012030215,20122013,2013-05-24,Pittsburgh Penguins,Ottawa Senators,6,2,POST
+2012030225,20122013,2013-05-25,Boston Bruins,New York Rangers,3,1,POST
+2012030235,20122013,2013-05-25,Chicago Blackhawks,Detroit Red Wings,4,1,POST
+2012030246,20122013,2013-05-26,San Jose Sharks,Los Angeles Kings,2,1,POST
+2012030236,20122013,2013-05-27,Detroit Red Wings,Chicago Blackhawks,3,4,POST
+2012030247,20122013,2013-05-28,Los Angeles Kings,San Jose Sharks,2,1,POST
+2012030237,20122013,2013-05-29,Chicago Blackhawks,Detroit Red Wings,2,1,POST
+2012030321,20122013,2013-06-01,Chicago Blackhawks,Los Angeles Kings,2,1,POST
+2012030311,20122013,2013-06-01,Pittsburgh Penguins,Boston Bruins,0,3,POST
+2012030322,20122013,2013-06-02,Chicago Blackhawks,Los Angeles Kings,4,2,POST
+2012030312,20122013,2013-06-03,Pittsburgh Penguins,Boston Bruins,1,6,POST
+2012030323,20122013,2013-06-04,Los Angeles Kings,Chicago Blackhawks,3,1,POST
+2012030313,20122013,2013-06-05,Boston Bruins,Pittsburgh Penguins,2,1,POST
+2012030324,20122013,2013-06-06,Los Angeles Kings,Chicago Blackhawks,2,3,POST
+2012030314,20122013,2013-06-07,Boston Bruins,Pittsburgh Penguins,1,0,POST
+2012030325,20122013,2013-06-08,Chicago Blackhawks,Los Angeles Kings,4,3,POST
+2012030411,20122013,2013-06-12,Chicago Blackhawks,Boston Bruins,4,3,POST
+2012030412,20122013,2013-06-15,Chicago Blackhawks,Boston Bruins,1,2,POST
+2012030413,20122013,2013-06-17,Boston Bruins,Chicago Blackhawks,2,0,POST
+2012030414,20122013,2013-06-19,Boston Bruins,Chicago Blackhawks,5,6,POST
+2012030415,20122013,2013-06-22,Chicago Blackhawks,Boston Bruins,3,1,POST
+2012030416,20122013,2013-06-24,Boston Bruins,Chicago Blackhawks,2,3,POST

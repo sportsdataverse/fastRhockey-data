@@ -1,0 +1,1321 @@
+game_id,season_full,date,home_name,away_name,home_final_score,away_final_score,game_type
+2001020001,20012002,2001-10-03,Toronto Maple Leafs,Ottawa Senators,4,5,REG
+2001020002,20012002,2001-10-03,Pittsburgh Penguins,Colorado Avalanche,1,3,REG
+2001020003,20012002,2001-10-03,Calgary Flames,Edmonton Oilers,1,0,REG
+2001020005,20012002,2001-10-04,Buffalo Sabres,Atlanta Thrashers,1,2,REG
+2001020006,20012002,2001-10-04,Ottawa Senators,Montréal Canadiens,4,6,REG
+2001020007,20012002,2001-10-04,Philadelphia Flyers,Florida Panthers,5,2,REG
+2001020008,20012002,2001-10-04,Columbus Blue Jackets,St. Louis Blues,3,3,REG
+2001020004,20012002,2001-10-04,Boston Bruins,Anaheim Ducks,4,2,REG
+2001020009,20012002,2001-10-04,Vancouver Canucks,Chicago Blackhawks,4,5,REG
+2001020011,20012002,2001-10-04,San Jose Sharks,Detroit Red Wings,3,4,REG
+2001020010,20012002,2001-10-04,Los Angeles Kings,Phoenix Coyotes,2,2,REG
+2001020012,20012002,2001-10-05,Carolina Hurricanes,New York Rangers,3,1,REG
+2001020013,20012002,2001-10-05,Tampa Bay Lightning,New York Islanders,2,3,REG
+2001020014,20012002,2001-10-05,Dallas Stars,Nashville Predators,4,1,REG
+2001020026,20012002,2001-10-06,San Jose Sharks,Minnesota Wild,0,0,REG
+2001020015,20012002,2001-10-06,Boston Bruins,Atlanta Thrashers,4,3,REG
+2001020016,20012002,2001-10-06,Buffalo Sabres,Ottawa Senators,3,2,REG
+2001020017,20012002,2001-10-06,Montréal Canadiens,Toronto Maple Leafs,2,2,REG
+2001020018,20012002,2001-10-06,Philadelphia Flyers,Columbus Blue Jackets,3,3,REG
+2001020020,20012002,2001-10-06,Washington Capitals,New Jersey Devils,6,1,REG
+2001020019,20012002,2001-10-06,Pittsburgh Penguins,Anaheim Ducks,2,4,REG
+2001020021,20012002,2001-10-06,Florida Panthers,New York Islanders,0,3,REG
+2001020022,20012002,2001-10-06,Nashville Predators,St. Louis Blues,2,2,REG
+2001020023,20012002,2001-10-06,Calgary Flames,Chicago Blackhawks,4,0,REG
+2001020025,20012002,2001-10-06,Vancouver Canucks,Detroit Red Wings,1,4,REG
+2001020024,20012002,2001-10-06,Edmonton Oilers,Phoenix Coyotes,6,2,REG
+2001020028,20012002,2001-10-07,Carolina Hurricanes,Dallas Stars,3,0,REG
+2001020027,20012002,2001-10-07,New York Rangers,Buffalo Sabres,5,4,REG
+2001020029,20012002,2001-10-07,Tampa Bay Lightning,Florida Panthers,0,5,REG
+2001020030,20012002,2001-10-07,Los Angeles Kings,Minnesota Wild,3,4,REG
+2001020031,20012002,2001-10-08,Boston Bruins,Washington Capitals,4,0,REG
+2001020032,20012002,2001-10-08,Toronto Maple Leafs,Anaheim Ducks,6,1,REG
+2001020033,20012002,2001-10-08,Columbus Blue Jackets,Philadelphia Flyers,2,2,REG
+2001020034,20012002,2001-10-08,Calgary Flames,Phoenix Coyotes,1,2,REG
+2001020036,20012002,2001-10-09,Carolina Hurricanes,Ottawa Senators,2,6,REG
+2001020035,20012002,2001-10-09,Montréal Canadiens,Anaheim Ducks,3,1,REG
+2001020038,20012002,2001-10-09,Colorado Avalanche,Vancouver Canucks,5,4,REG
+2001020037,20012002,2001-10-09,Dallas Stars,Los Angeles Kings,2,1,REG
+2001020039,20012002,2001-10-09,Edmonton Oilers,Chicago Blackhawks,1,0,REG
+2001020040,20012002,2001-10-10,Buffalo Sabres,Philadelphia Flyers,2,1,REG
+2001020042,20012002,2001-10-10,Pittsburgh Penguins,New York Islanders,3,6,REG
+2001020043,20012002,2001-10-10,Florida Panthers,Ottawa Senators,0,2,REG
+2001020044,20012002,2001-10-10,Detroit Red Wings,Calgary Flames,2,4,REG
+2001020041,20012002,2001-10-10,New York Rangers,Washington Capitals,2,5,REG
+2001020045,20012002,2001-10-10,Minnesota Wild,Boston Bruins,2,1,REG
+2001020047,20012002,2001-10-11,Carolina Hurricanes,Toronto Maple Leafs,2,3,REG
+2001020049,20012002,2001-10-11,St. Louis Blues,Los Angeles Kings,5,6,REG
+2001020046,20012002,2001-10-11,New Jersey Devils,New York Islanders,4,6,REG
+2001020051,20012002,2001-10-11,Nashville Predators,Calgary Flames,1,0,REG
+2001020048,20012002,2001-10-11,Chicago Blackhawks,Phoenix Coyotes,3,0,REG
+2001020050,20012002,2001-10-11,Dallas Stars,Vancouver Canucks,1,4,REG
+2001020052,20012002,2001-10-11,Edmonton Oilers,Colorado Avalanche,5,3,REG
+2001020053,20012002,2001-10-11,San Jose Sharks,Tampa Bay Lightning,4,3,REG
+2001020055,20012002,2001-10-12,Columbus Blue Jackets,Montréal Canadiens,1,3,REG
+2001020054,20012002,2001-10-12,Detroit Red Wings,Buffalo Sabres,4,2,REG
+2001020056,20012002,2001-10-12,Minnesota Wild,Chicago Blackhawks,6,4,REG
+2001020057,20012002,2001-10-12,Anaheim Ducks,Washington Capitals,2,1,REG
+2001020058,20012002,2001-10-13,Toronto Maple Leafs,St. Louis Blues,2,5,REG
+2001020059,20012002,2001-10-13,Montréal Canadiens,New Jersey Devils,3,1,REG
+2001020060,20012002,2001-10-13,Ottawa Senators,New York Rangers,2,2,REG
+2001020061,20012002,2001-10-13,New York Islanders,Detroit Red Wings,4,5,REG
+2001020062,20012002,2001-10-13,Atlanta Thrashers,Carolina Hurricanes,2,5,REG
+2001020063,20012002,2001-10-13,Florida Panthers,Philadelphia Flyers,2,5,REG
+2001020064,20012002,2001-10-13,Dallas Stars,Calgary Flames,3,4,REG
+2001020065,20012002,2001-10-13,Nashville Predators,Edmonton Oilers,3,4,REG
+2001020066,20012002,2001-10-13,Vancouver Canucks,Colorado Avalanche,4,0,REG
+2001020067,20012002,2001-10-13,Phoenix Coyotes,Washington Capitals,5,2,REG
+2001020068,20012002,2001-10-13,Los Angeles Kings,Tampa Bay Lightning,0,1,REG
+2001020069,20012002,2001-10-13,San Jose Sharks,Boston Bruins,3,2,REG
+2001020070,20012002,2001-10-14,Buffalo Sabres,Pittsburgh Penguins,4,1,REG
+2001020072,20012002,2001-10-14,Minnesota Wild,Edmonton Oilers,3,3,REG
+2001020073,20012002,2001-10-14,Anaheim Ducks,Tampa Bay Lightning,2,3,REG
+2001020071,20012002,2001-10-14,Chicago Blackhawks,Columbus Blue Jackets,2,2,REG
+2001020074,20012002,2001-10-15,Montréal Canadiens,New York Rangers,1,2,REG
+2001020075,20012002,2001-10-16,Buffalo Sabres,Nashville Predators,3,3,REG
+2001020076,20012002,2001-10-16,Pittsburgh Penguins,Ottawa Senators,5,2,REG
+2001020077,20012002,2001-10-16,Atlanta Thrashers,Philadelphia Flyers,3,3,REG
+2001020078,20012002,2001-10-16,Detroit Red Wings,Columbus Blue Jackets,4,3,REG
+2001020079,20012002,2001-10-16,Minnesota Wild,San Jose Sharks,3,3,REG
+2001020080,20012002,2001-10-16,Colorado Avalanche,Tampa Bay Lightning,2,1,REG
+2001020081,20012002,2001-10-16,Edmonton Oilers,Toronto Maple Leafs,1,4,REG
+2001020082,20012002,2001-10-16,Vancouver Canucks,Florida Panthers,2,2,REG
+2001020083,20012002,2001-10-16,Phoenix Coyotes,Boston Bruins,1,1,REG
+2001020084,20012002,2001-10-16,Los Angeles Kings,Washington Capitals,2,3,REG
+2001020086,20012002,2001-10-17,Carolina Hurricanes,New York Islanders,0,4,REG
+2001020085,20012002,2001-10-17,New York Rangers,New Jersey Devils,4,3,REG
+2001020087,20012002,2001-10-17,St. Louis Blues,Dallas Stars,2,2,REG
+2001020088,20012002,2001-10-17,Anaheim Ducks,Boston Bruins,2,2,REG
+2001020089,20012002,2001-10-18,Ottawa Senators,Pittsburgh Penguins,0,3,REG
+2001020091,20012002,2001-10-18,New York Islanders,Carolina Hurricanes,2,1,REG
+2001020090,20012002,2001-10-18,New Jersey Devils,San Jose Sharks,6,1,REG
+2001020092,20012002,2001-10-18,Detroit Red Wings,Philadelphia Flyers,3,2,REG
+2001020094,20012002,2001-10-18,Nashville Predators,Chicago Blackhawks,3,5,REG
+2001020093,20012002,2001-10-18,Dallas Stars,Phoenix Coyotes,3,1,REG
+2001020095,20012002,2001-10-18,Colorado Avalanche,Edmonton Oilers,1,4,REG
+2001020096,20012002,2001-10-18,Calgary Flames,Florida Panthers,3,1,REG
+2001020097,20012002,2001-10-18,Vancouver Canucks,Toronto Maple Leafs,5,6,REG
+2001020098,20012002,2001-10-18,Los Angeles Kings,Anaheim Ducks,4,1,REG
+2001020099,20012002,2001-10-19,Buffalo Sabres,Columbus Blue Jackets,1,3,REG
+2001020100,20012002,2001-10-19,Washington Capitals,Montréal Canadiens,4,1,REG
+2001020101,20012002,2001-10-19,Atlanta Thrashers,New York Rangers,3,4,REG
+2001020102,20012002,2001-10-19,Minnesota Wild,St. Louis Blues,2,3,REG
+2001020105,20012002,2001-10-20,New York Islanders,San Jose Sharks,2,2,REG
+2001020114,20012002,2001-10-20,Calgary Flames,Toronto Maple Leafs,4,1,REG
+2001020103,20012002,2001-10-20,Montréal Canadiens,Buffalo Sabres,1,3,REG
+2001020106,20012002,2001-10-20,Philadelphia Flyers,Washington Capitals,6,3,REG
+2001020107,20012002,2001-10-20,Carolina Hurricanes,Atlanta Thrashers,2,1,REG
+2001020110,20012002,2001-10-20,Columbus Blue Jackets,Colorado Avalanche,0,5,REG
+2001020104,20012002,2001-10-20,New Jersey Devils,Ottawa Senators,3,2,REG
+2001020108,20012002,2001-10-20,Tampa Bay Lightning,New York Rangers,5,2,REG
+2001020109,20012002,2001-10-20,Detroit Red Wings,Los Angeles Kings,3,2,REG
+2001020111,20012002,2001-10-20,St. Louis Blues,Pittsburgh Penguins,2,1,REG
+2001020112,20012002,2001-10-20,Dallas Stars,Chicago Blackhawks,2,2,REG
+2001020113,20012002,2001-10-20,Nashville Predators,Boston Bruins,1,2,REG
+2001020116,20012002,2001-10-20,Phoenix Coyotes,Vancouver Canucks,5,2,REG
+2001020115,20012002,2001-10-20,Edmonton Oilers,Florida Panthers,6,2,REG
+2001020118,20012002,2001-10-21,Anaheim Ducks,Vancouver Canucks,3,1,REG
+2001020117,20012002,2001-10-21,Chicago Blackhawks,Colorado Avalanche,4,2,REG
+2001020119,20012002,2001-10-22,New York Rangers,San Jose Sharks,1,5,REG
+2001020120,20012002,2001-10-22,St. Louis Blues,Calgary Flames,2,3,REG
+2001020121,20012002,2001-10-22,Edmonton Oilers,Nashville Predators,2,4,REG
+2001020124,20012002,2001-10-23,Ottawa Senators,New Jersey Devils,1,2,REG
+2001020127,20012002,2001-10-23,Columbus Blue Jackets,Los Angeles Kings,1,7,REG
+2001020123,20012002,2001-10-23,Toronto Maple Leafs,Boston Bruins,2,0,REG
+2001020125,20012002,2001-10-23,Atlanta Thrashers,Pittsburgh Penguins,2,4,REG
+2001020126,20012002,2001-10-23,Tampa Bay Lightning,Washington Capitals,1,1,REG
+2001020122,20012002,2001-10-23,Buffalo Sabres,San Jose Sharks,4,1,REG
+2001020128,20012002,2001-10-23,Chicago Blackhawks,Calgary Flames,6,3,REG
+2001020129,20012002,2001-10-23,Colorado Avalanche,Carolina Hurricanes,5,1,REG
+2001020130,20012002,2001-10-23,Vancouver Canucks,Nashville Predators,4,2,REG
+2001020132,20012002,2001-10-24,Florida Panthers,Washington Capitals,3,4,REG
+2001020133,20012002,2001-10-24,Detroit Red Wings,Edmonton Oilers,4,1,REG
+2001020134,20012002,2001-10-24,Minnesota Wild,Carolina Hurricanes,3,7,REG
+2001020131,20012002,2001-10-24,Pittsburgh Penguins,Dallas Stars,3,2,REG
+2001020135,20012002,2001-10-24,Phoenix Coyotes,Anaheim Ducks,2,3,REG
+2001020136,20012002,2001-10-25,Boston Bruins,Toronto Maple Leafs,2,1,REG
+2001020137,20012002,2001-10-25,Philadelphia Flyers,Ottawa Senators,2,7,REG
+2001020139,20012002,2001-10-25,Columbus Blue Jackets,Edmonton Oilers,2,5,REG
+2001020141,20012002,2001-10-25,St. Louis Blues,New York Rangers,5,1,REG
+2001020138,20012002,2001-10-25,Tampa Bay Lightning,Los Angeles Kings,3,0,REG
+2001020140,20012002,2001-10-25,Chicago Blackhawks,San Jose Sharks,4,2,REG
+2001020143,20012002,2001-10-25,Calgary Flames,Nashville Predators,4,5,REG
+2001020142,20012002,2001-10-25,Colorado Avalanche,Vancouver Canucks,4,1,REG
+2001020144,20012002,2001-10-26,Buffalo Sabres,Montréal Canadiens,2,5,REG
+2001020145,20012002,2001-10-26,Carolina Hurricanes,New York Islanders,2,3,REG
+2001020146,20012002,2001-10-26,Atlanta Thrashers,Washington Capitals,1,0,REG
+2001020147,20012002,2001-10-26,Florida Panthers,Los Angeles Kings,3,2,REG
+2001020148,20012002,2001-10-26,Detroit Red Wings,Dallas Stars,3,5,REG
+2001020158,20012002,2001-10-27,Phoenix Coyotes,Colorado Avalanche,1,0,REG
+2001020149,20012002,2001-10-27,Boston Bruins,New York Rangers,1,2,REG
+2001020150,20012002,2001-10-27,Toronto Maple Leafs,Pittsburgh Penguins,4,0,REG
+2001020151,20012002,2001-10-27,Montréal Canadiens,Philadelphia Flyers,1,5,REG
+2001020152,20012002,2001-10-27,Ottawa Senators,St. Louis Blues,4,1,REG
+2001020154,20012002,2001-10-27,Atlanta Thrashers,Tampa Bay Lightning,4,3,REG
+2001020153,20012002,2001-10-27,New Jersey Devils,Buffalo Sabres,3,1,REG
+2001020155,20012002,2001-10-27,Nashville Predators,Detroit Red Wings,0,1,REG
+2001020156,20012002,2001-10-27,Calgary Flames,Minnesota Wild,4,2,REG
+2001020157,20012002,2001-10-27,Edmonton Oilers,Vancouver Canucks,3,2,REG
+2001020159,20012002,2001-10-27,San Jose Sharks,Columbus Blue Jackets,2,0,REG
+2001020160,20012002,2001-10-28,New York Islanders,Dallas Stars,3,2,REG
+2001020162,20012002,2001-10-28,Carolina Hurricanes,Los Angeles Kings,3,2,REG
+2001020161,20012002,2001-10-28,Pittsburgh Penguins,Florida Panthers,2,2,REG
+2001020164,20012002,2001-10-28,Anaheim Ducks,Colorado Avalanche,2,3,REG
+2001020163,20012002,2001-10-28,Chicago Blackhawks,Boston Bruins,3,3,REG
+2001020165,20012002,2001-10-29,New York Rangers,Dallas Stars,4,2,REG
+2001020166,20012002,2001-10-30,Boston Bruins,New Jersey Devils,3,4,REG
+2001020167,20012002,2001-10-30,Buffalo Sabres,Phoenix Coyotes,2,3,REG
+2001020169,20012002,2001-10-30,New York Islanders,Florida Panthers,3,2,REG
+2001020170,20012002,2001-10-30,Washington Capitals,Philadelphia Flyers,0,3,REG
+2001020171,20012002,2001-10-30,Carolina Hurricanes,Detroit Red Wings,2,5,REG
+2001020168,20012002,2001-10-30,Toronto Maple Leafs,Tampa Bay Lightning,3,2,REG
+2001020172,20012002,2001-10-30,Atlanta Thrashers,Ottawa Senators,3,6,REG
+2001020174,20012002,2001-10-30,Nashville Predators,Minnesota Wild,2,4,REG
+2001020173,20012002,2001-10-30,Chicago Blackhawks,Los Angeles Kings,5,1,REG
+2001020175,20012002,2001-10-30,Edmonton Oilers,Montréal Canadiens,3,1,REG
+2001020176,20012002,2001-10-30,Vancouver Canucks,Columbus Blue Jackets,3,1,REG
+2001020177,20012002,2001-10-31,New York Rangers,Florida Panthers,1,3,REG
+2001020178,20012002,2001-10-31,Philadelphia Flyers,Pittsburgh Penguins,3,0,REG
+2001020181,20012002,2001-10-31,Colorado Avalanche,St. Louis Blues,0,1,REG
+2001020180,20012002,2001-10-31,Minnesota Wild,Nashville Predators,4,6,REG
+2001020179,20012002,2001-10-31,Dallas Stars,Detroit Red Wings,3,4,REG
+2001020182,20012002,2001-10-31,Anaheim Ducks,San Jose Sharks,2,4,REG
+2001020184,20012002,2001-11-01,Pittsburgh Penguins,Toronto Maple Leafs,3,1,REG
+2001020183,20012002,2001-11-01,New Jersey Devils,Phoenix Coyotes,5,2,REG
+2001020185,20012002,2001-11-01,St. Louis Blues,Carolina Hurricanes,4,3,REG
+2001020186,20012002,2001-11-01,Calgary Flames,Columbus Blue Jackets,2,1,REG
+2001020187,20012002,2001-11-01,Vancouver Canucks,Montréal Canadiens,4,0,REG
+2001020188,20012002,2001-11-01,Los Angeles Kings,Chicago Blackhawks,2,3,REG
+2001020189,20012002,2001-11-01,San Jose Sharks,Atlanta Thrashers,5,2,REG
+2001020190,20012002,2001-11-02,Buffalo Sabres,Tampa Bay Lightning,4,1,REG
+2001020191,20012002,2001-11-02,Washington Capitals,Phoenix Coyotes,2,2,REG
+2001020192,20012002,2001-11-02,Carolina Hurricanes,New York Rangers,3,2,REG
+2001020193,20012002,2001-11-02,Detroit Red Wings,New York Islanders,2,1,REG
+2001020195,20012002,2001-11-02,Minnesota Wild,Colorado Avalanche,4,2,REG
+2001020194,20012002,2001-11-02,Dallas Stars,Nashville Predators,3,0,REG
+2001020196,20012002,2001-11-02,Edmonton Oilers,Columbus Blue Jackets,1,2,REG
+2001020197,20012002,2001-11-02,Anaheim Ducks,Chicago Blackhawks,5,2,REG
+2001020200,20012002,2001-11-03,New Jersey Devils,Boston Bruins,1,2,REG
+2001020207,20012002,2001-11-03,Los Angeles Kings,Atlanta Thrashers,4,1,REG
+2001020206,20012002,2001-11-03,Calgary Flames,Montréal Canadiens,6,2,REG
+2001020198,20012002,2001-11-03,Toronto Maple Leafs,Colorado Avalanche,4,1,REG
+2001020199,20012002,2001-11-03,Ottawa Senators,Buffalo Sabres,3,0,REG
+2001020201,20012002,2001-11-03,Philadelphia Flyers,New York Islanders,1,2,REG
+2001020202,20012002,2001-11-03,Pittsburgh Penguins,Tampa Bay Lightning,2,1,REG
+2001020203,20012002,2001-11-03,Florida Panthers,New York Rangers,3,5,REG
+2001020204,20012002,2001-11-03,St. Louis Blues,Washington Capitals,4,1,REG
+2001020205,20012002,2001-11-03,Nashville Predators,Dallas Stars,4,1,REG
+2001020208,20012002,2001-11-03,San Jose Sharks,Vancouver Canucks,5,1,REG
+2001020209,20012002,2001-11-04,Carolina Hurricanes,Phoenix Coyotes,1,0,REG
+2001020211,20012002,2001-11-04,Minnesota Wild,Edmonton Oilers,0,2,REG
+2001020212,20012002,2001-11-04,Anaheim Ducks,Atlanta Thrashers,5,0,REG
+2001020210,20012002,2001-11-04,Chicago Blackhawks,Detroit Red Wings,5,4,REG
+2001020213,20012002,2001-11-06,Boston Bruins,Edmonton Oilers,1,0,REG
+2001020216,20012002,2001-11-06,New York Islanders,Tampa Bay Lightning,3,0,REG
+2001020217,20012002,2001-11-06,New York Rangers,Minnesota Wild,3,1,REG
+2001020218,20012002,2001-11-06,Carolina Hurricanes,Pittsburgh Penguins,2,2,REG
+2001020219,20012002,2001-11-06,Columbus Blue Jackets,Vancouver Canucks,2,3,REG
+2001020214,20012002,2001-11-06,Toronto Maple Leafs,Washington Capitals,4,2,REG
+2001020215,20012002,2001-11-06,Montréal Canadiens,Colorado Avalanche,1,1,REG
+2001020220,20012002,2001-11-06,Chicago Blackhawks,Philadelphia Flyers,2,1,REG
+2001020221,20012002,2001-11-06,St. Louis Blues,San Jose Sharks,1,4,REG
+2001020222,20012002,2001-11-07,New Jersey Devils,Atlanta Thrashers,3,2,REG
+2001020223,20012002,2001-11-07,Florida Panthers,Pittsburgh Penguins,2,0,REG
+2001020224,20012002,2001-11-07,Dallas Stars,San Jose Sharks,2,2,REG
+2001020225,20012002,2001-11-07,Phoenix Coyotes,Detroit Red Wings,1,3,REG
+2001020226,20012002,2001-11-07,Anaheim Ducks,Calgary Flames,3,3,REG
+2001020227,20012002,2001-11-08,Boston Bruins,Minnesota Wild,3,5,REG
+2001020228,20012002,2001-11-08,Buffalo Sabres,Atlanta Thrashers,8,0,REG
+2001020231,20012002,2001-11-08,New York Islanders,New York Rangers,2,6,REG
+2001020232,20012002,2001-11-08,Washington Capitals,Carolina Hurricanes,2,3,REG
+2001020229,20012002,2001-11-08,Montréal Canadiens,Nashville Predators,3,1,REG
+2001020230,20012002,2001-11-08,Ottawa Senators,Colorado Avalanche,1,0,REG
+2001020233,20012002,2001-11-08,Tampa Bay Lightning,Philadelphia Flyers,1,2,REG
+2001020234,20012002,2001-11-08,St. Louis Blues,Vancouver Canucks,3,1,REG
+2001020235,20012002,2001-11-08,Los Angeles Kings,Calgary Flames,2,3,REG
+2001020237,20012002,2001-11-09,Carolina Hurricanes,San Jose Sharks,3,2,REG
+2001020238,20012002,2001-11-09,Columbus Blue Jackets,Edmonton Oilers,0,3,REG
+2001020236,20012002,2001-11-09,New Jersey Devils,Toronto Maple Leafs,3,2,REG
+2001020239,20012002,2001-11-09,Chicago Blackhawks,Vancouver Canucks,3,1,REG
+2001020240,20012002,2001-11-09,Dallas Stars,Phoenix Coyotes,1,5,REG
+2001020241,20012002,2001-11-09,Anaheim Ducks,Detroit Red Wings,0,1,REG
+2001020242,20012002,2001-11-10,Boston Bruins,Columbus Blue Jackets,1,5,REG
+2001020243,20012002,2001-11-10,Buffalo Sabres,New York Rangers,2,4,REG
+2001020244,20012002,2001-11-10,Toronto Maple Leafs,New Jersey Devils,1,1,REG
+2001020245,20012002,2001-11-10,Montréal Canadiens,New York Islanders,3,2,REG
+2001020246,20012002,2001-11-10,Ottawa Senators,Nashville Predators,3,2,REG
+2001020247,20012002,2001-11-10,Washington Capitals,Atlanta Thrashers,3,0,REG
+2001020248,20012002,2001-11-10,Tampa Bay Lightning,Pittsburgh Penguins,3,2,REG
+2001020249,20012002,2001-11-10,Florida Panthers,Philadelphia Flyers,2,3,REG
+2001020250,20012002,2001-11-10,St. Louis Blues,Phoenix Coyotes,4,1,REG
+2001020251,20012002,2001-11-10,Calgary Flames,Colorado Avalanche,2,0,REG
+2001020252,20012002,2001-11-10,Los Angeles Kings,Detroit Red Wings,3,2,REG
+2001020254,20012002,2001-11-11,Carolina Hurricanes,Edmonton Oilers,1,1,REG
+2001020256,20012002,2001-11-11,Minnesota Wild,Vancouver Canucks,0,5,REG
+2001020253,20012002,2001-11-11,New York Rangers,Montréal Canadiens,3,2,REG
+2001020257,20012002,2001-11-11,Anaheim Ducks,Dallas Stars,2,2,REG
+2001020255,20012002,2001-11-11,Chicago Blackhawks,San Jose Sharks,3,2,REG
+2001020258,20012002,2001-11-12,Florida Panthers,Buffalo Sabres,3,5,REG
+2001020259,20012002,2001-11-13,Boston Bruins,Montréal Canadiens,5,3,REG
+2001020261,20012002,2001-11-13,Washington Capitals,Ottawa Senators,5,11,REG
+2001020263,20012002,2001-11-13,Columbus Blue Jackets,St. Louis Blues,3,2,REG
+2001020262,20012002,2001-11-13,Detroit Red Wings,Carolina Hurricanes,4,3,REG
+2001020264,20012002,2001-11-13,Nashville Predators,Buffalo Sabres,4,1,REG
+2001020265,20012002,2001-11-13,Minnesota Wild,Atlanta Thrashers,4,2,REG
+2001020260,20012002,2001-11-13,New Jersey Devils,Pittsburgh Penguins,1,5,REG
+2001020267,20012002,2001-11-13,Phoenix Coyotes,Edmonton Oilers,4,5,REG
+2001020266,20012002,2001-11-13,Vancouver Canucks,Chicago Blackhawks,3,2,REG
+2001020269,20012002,2001-11-14,Pittsburgh Penguins,New York Islanders,3,3,REG
+2001020270,20012002,2001-11-14,Florida Panthers,Toronto Maple Leafs,2,3,REG
+2001020268,20012002,2001-11-14,New York Rangers,Philadelphia Flyers,4,2,REG
+2001020271,20012002,2001-11-14,Colorado Avalanche,Minnesota Wild,1,0,REG
+2001020272,20012002,2001-11-14,Anaheim Ducks,San Jose Sharks,2,4,REG
+2001020273,20012002,2001-11-15,Boston Bruins,New Jersey Devils,5,4,REG
+2001020274,20012002,2001-11-15,Ottawa Senators,Carolina Hurricanes,1,1,REG
+2001020275,20012002,2001-11-15,Philadelphia Flyers,Washington Capitals,5,0,REG
+2001020276,20012002,2001-11-15,Tampa Bay Lightning,Toronto Maple Leafs,2,3,REG
+2001020277,20012002,2001-11-15,Calgary Flames,Chicago Blackhawks,2,2,REG
+2001020279,20012002,2001-11-15,Phoenix Coyotes,San Jose Sharks,5,3,REG
+2001020278,20012002,2001-11-15,Vancouver Canucks,St. Louis Blues,2,1,REG
+2001020280,20012002,2001-11-15,Los Angeles Kings,Dallas Stars,3,4,REG
+2001020281,20012002,2001-11-16,Buffalo Sabres,Florida Panthers,0,2,REG
+2001020284,20012002,2001-11-16,Columbus Blue Jackets,Anaheim Ducks,3,2,REG
+2001020282,20012002,2001-11-16,Atlanta Thrashers,Nashville Predators,4,4,REG
+2001020283,20012002,2001-11-16,Detroit Red Wings,Minnesota Wild,8,3,REG
+2001020285,20012002,2001-11-16,Colorado Avalanche,New York Islanders,1,0,REG
+2001020286,20012002,2001-11-16,Edmonton Oilers,Chicago Blackhawks,7,1,REG
+2001020290,20012002,2001-11-17,New Jersey Devils,Philadelphia Flyers,1,3,REG
+2001020293,20012002,2001-11-17,Tampa Bay Lightning,Carolina Hurricanes,2,0,REG
+2001020287,20012002,2001-11-17,Boston Bruins,Buffalo Sabres,3,1,REG
+2001020288,20012002,2001-11-17,Montréal Canadiens,Florida Panthers,1,0,REG
+2001020289,20012002,2001-11-17,Ottawa Senators,Toronto Maple Leafs,2,1,REG
+2001020292,20012002,2001-11-17,Washington Capitals,Anaheim Ducks,4,1,REG
+2001020291,20012002,2001-11-17,Pittsburgh Penguins,New York Rangers,1,0,REG
+2001020294,20012002,2001-11-17,Detroit Red Wings,Los Angeles Kings,4,2,REG
+2001020295,20012002,2001-11-17,Nashville Predators,Columbus Blue Jackets,3,2,REG
+2001020296,20012002,2001-11-17,Calgary Flames,St. Louis Blues,2,0,REG
+2001020298,20012002,2001-11-17,Phoenix Coyotes,New York Islanders,6,1,REG
+2001020297,20012002,2001-11-17,Vancouver Canucks,Edmonton Oilers,2,2,REG
+2001020299,20012002,2001-11-17,San Jose Sharks,Dallas Stars,2,3,REG
+2001020300,20012002,2001-11-18,New Jersey Devils,Colorado Avalanche,0,2,REG
+2001020302,20012002,2001-11-18,Minnesota Wild,Los Angeles Kings,2,2,REG
+2001020301,20012002,2001-11-18,New York Rangers,Atlanta Thrashers,6,2,REG
+2001020303,20012002,2001-11-19,Toronto Maple Leafs,Florida Panthers,5,1,REG
+2001020304,20012002,2001-11-19,Carolina Hurricanes,Columbus Blue Jackets,5,2,REG
+2001020305,20012002,2001-11-19,Atlanta Thrashers,Buffalo Sabres,3,2,REG
+2001020306,20012002,2001-11-19,Dallas Stars,New York Islanders,2,3,REG
+2001020308,20012002,2001-11-20,Ottawa Senators,Vancouver Canucks,3,0,REG
+2001020310,20012002,2001-11-20,Philadelphia Flyers,New Jersey Devils,3,3,REG
+2001020307,20012002,2001-11-20,Montréal Canadiens,Boston Bruins,3,2,REG
+2001020311,20012002,2001-11-20,Tampa Bay Lightning,Anaheim Ducks,3,2,REG
+2001020312,20012002,2001-11-20,Detroit Red Wings,Nashville Predators,6,3,REG
+2001020309,20012002,2001-11-20,New York Rangers,Colorado Avalanche,5,3,REG
+2001020313,20012002,2001-11-20,Calgary Flames,Los Angeles Kings,5,5,REG
+2001020314,20012002,2001-11-20,Edmonton Oilers,St. Louis Blues,2,0,REG
+2001020315,20012002,2001-11-20,Phoenix Coyotes,Minnesota Wild,2,1,REG
+2001020317,20012002,2001-11-21,New York Islanders,Colorado Avalanche,5,4,REG
+2001020319,20012002,2001-11-21,Washington Capitals,Tampa Bay Lightning,3,2,REG
+2001020321,20012002,2001-11-21,Columbus Blue Jackets,Detroit Red Wings,0,1,REG
+2001020316,20012002,2001-11-21,Buffalo Sabres,Toronto Maple Leafs,4,2,REG
+2001020318,20012002,2001-11-21,Pittsburgh Penguins,Vancouver Canucks,1,4,REG
+2001020320,20012002,2001-11-21,Florida Panthers,Anaheim Ducks,6,0,REG
+2001020323,20012002,2001-11-21,Nashville Predators,Chicago Blackhawks,4,3,REG
+2001020322,20012002,2001-11-21,Dallas Stars,Carolina Hurricanes,4,4,REG
+2001020324,20012002,2001-11-21,San Jose Sharks,Minnesota Wild,0,2,REG
+2001020325,20012002,2001-11-22,Ottawa Senators,Calgary Flames,4,4,REG
+2001020326,20012002,2001-11-22,Atlanta Thrashers,Montréal Canadiens,2,5,REG
+2001020327,20012002,2001-11-22,Edmonton Oilers,Los Angeles Kings,2,4,REG
+2001020328,20012002,2001-11-23,Boston Bruins,Vancouver Canucks,3,2,REG
+2001020337,20012002,2001-11-23,Minnesota Wild,Phoenix Coyotes,5,2,REG
+2001020329,20012002,2001-11-23,Buffalo Sabres,Calgary Flames,5,2,REG
+2001020330,20012002,2001-11-23,New York Islanders,Toronto Maple Leafs,3,1,REG
+2001020331,20012002,2001-11-23,Washington Capitals,New York Rangers,6,2,REG
+2001020334,20012002,2001-11-23,Columbus Blue Jackets,Chicago Blackhawks,2,2,REG
+2001020332,20012002,2001-11-23,Tampa Bay Lightning,New Jersey Devils,2,0,REG
+2001020333,20012002,2001-11-23,Detroit Red Wings,St. Louis Blues,3,1,REG
+2001020336,20012002,2001-11-23,Nashville Predators,Pittsburgh Penguins,5,0,REG
+2001020335,20012002,2001-11-23,Dallas Stars,Philadelphia Flyers,3,3,REG
+2001020346,20012002,2001-11-24,Los Angeles Kings,San Jose Sharks,3,1,REG
+2001020340,20012002,2001-11-24,Ottawa Senators,Atlanta Thrashers,3,6,REG
+2001020338,20012002,2001-11-24,Toronto Maple Leafs,Boston Bruins,2,0,REG
+2001020339,20012002,2001-11-24,Montréal Canadiens,Washington Capitals,5,3,REG
+2001020341,20012002,2001-11-24,New York Islanders,Anaheim Ducks,5,3,REG
+2001020342,20012002,2001-11-24,Pittsburgh Penguins,Buffalo Sabres,3,1,REG
+2001020343,20012002,2001-11-24,Florida Panthers,New Jersey Devils,1,5,REG
+2001020344,20012002,2001-11-24,St. Louis Blues,Phoenix Coyotes,5,3,REG
+2001020345,20012002,2001-11-24,Colorado Avalanche,Edmonton Oilers,2,0,REG
+2001020349,20012002,2001-11-25,Carolina Hurricanes,Tampa Bay Lightning,0,4,REG
+2001020352,20012002,2001-11-25,Minnesota Wild,Dallas Stars,3,4,REG
+2001020351,20012002,2001-11-25,Columbus Blue Jackets,Calgary Flames,4,3,REG
+2001020347,20012002,2001-11-25,New York Rangers,Anaheim Ducks,2,3,REG
+2001020350,20012002,2001-11-25,Detroit Red Wings,Chicago Blackhawks,4,4,REG
+2001020348,20012002,2001-11-25,Philadelphia Flyers,Vancouver Canucks,1,4,REG
+2001020353,20012002,2001-11-27,Boston Bruins,Tampa Bay Lightning,6,3,REG
+2001020354,20012002,2001-11-27,Buffalo Sabres,New York Rangers,2,2,REG
+2001020357,20012002,2001-11-27,New York Islanders,Washington Capitals,5,5,REG
+2001020360,20012002,2001-11-27,Columbus Blue Jackets,Phoenix Coyotes,3,0,REG
+2001020355,20012002,2001-11-27,Toronto Maple Leafs,Carolina Hurricanes,2,5,REG
+2001020356,20012002,2001-11-27,Montréal Canadiens,Atlanta Thrashers,5,1,REG
+2001020358,20012002,2001-11-27,Pittsburgh Penguins,New Jersey Devils,6,0,REG
+2001020359,20012002,2001-11-27,Detroit Red Wings,Calgary Flames,4,2,REG
+2001020361,20012002,2001-11-27,St. Louis Blues,Ottawa Senators,4,2,REG
+2001020362,20012002,2001-11-27,Minnesota Wild,Vancouver Canucks,2,1,REG
+2001020363,20012002,2001-11-27,Colorado Avalanche,Florida Panthers,4,1,REG
+2001020364,20012002,2001-11-27,San Jose Sharks,Nashville Predators,3,2,REG
+2001020366,20012002,2001-11-28,Washington Capitals,Buffalo Sabres,2,5,REG
+2001020367,20012002,2001-11-28,Chicago Blackhawks,Vancouver Canucks,3,3,REG
+2001020368,20012002,2001-11-28,Anaheim Ducks,Edmonton Oilers,0,2,REG
+2001020365,20012002,2001-11-29,New York Rangers,Carolina Hurricanes,5,0,REG
+2001020369,20012002,2001-11-29,New York Islanders,Montréal Canadiens,1,1,REG
+2001020372,20012002,2001-11-29,Columbus Blue Jackets,St. Louis Blues,1,3,REG
+2001020370,20012002,2001-11-29,Philadelphia Flyers,Boston Bruins,2,3,REG
+2001020371,20012002,2001-11-29,Tampa Bay Lightning,Atlanta Thrashers,5,2,REG
+2001020373,20012002,2001-11-29,Minnesota Wild,Florida Panthers,6,0,REG
+2001020374,20012002,2001-11-29,Calgary Flames,Dallas Stars,0,3,REG
+2001020375,20012002,2001-11-29,Phoenix Coyotes,Nashville Predators,1,0,REG
+2001020376,20012002,2001-11-29,Los Angeles Kings,Edmonton Oilers,1,3,REG
+2001020377,20012002,2001-11-29,San Jose Sharks,Pittsburgh Penguins,5,0,REG
+2001020378,20012002,2001-11-30,Washington Capitals,Carolina Hurricanes,6,2,REG
+2001020379,20012002,2001-11-30,Detroit Red Wings,New Jersey Devils,4,2,REG
+2001020380,20012002,2001-11-30,Chicago Blackhawks,Toronto Maple Leafs,1,2,REG
+2001020381,20012002,2001-11-30,Vancouver Canucks,Colorado Avalanche,2,5,REG
+2001020382,20012002,2001-11-30,Anaheim Ducks,San Jose Sharks,2,5,REG
+2001020389,20012002,2001-12-01,Florida Panthers,Atlanta Thrashers,2,5,REG
+2001020394,20012002,2001-12-01,Los Angeles Kings,Nashville Predators,4,2,REG
+2001020383,20012002,2001-12-01,Toronto Maple Leafs,Chicago Blackhawks,4,1,REG
+2001020384,20012002,2001-12-01,Montréal Canadiens,New York Rangers,1,3,REG
+2001020385,20012002,2001-12-01,Ottawa Senators,Boston Bruins,2,1,REG
+2001020387,20012002,2001-12-01,New York Islanders,Buffalo Sabres,2,4,REG
+2001020388,20012002,2001-12-01,Philadelphia Flyers,Tampa Bay Lightning,2,0,REG
+2001020386,20012002,2001-12-01,New Jersey Devils,Detroit Red Wings,4,1,REG
+2001020390,20012002,2001-12-01,St. Louis Blues,Columbus Blue Jackets,4,3,REG
+2001020391,20012002,2001-12-01,Calgary Flames,Colorado Avalanche,2,2,REG
+2001020393,20012002,2001-12-01,Phoenix Coyotes,Pittsburgh Penguins,5,2,REG
+2001020392,20012002,2001-12-01,Edmonton Oilers,Dallas Stars,4,6,REG
+2001020396,20012002,2001-12-02,Carolina Hurricanes,Washington Capitals,3,4,REG
+2001020397,20012002,2001-12-02,Minnesota Wild,St. Louis Blues,4,4,REG
+2001020395,20012002,2001-12-02,New York Rangers,Tampa Bay Lightning,1,0,REG
+2001020399,20012002,2001-12-02,Anaheim Ducks,Nashville Predators,4,2,REG
+2001020398,20012002,2001-12-02,Vancouver Canucks,Dallas Stars,2,4,REG
+2001020400,20012002,2001-12-03,Montréal Canadiens,Chicago Blackhawks,2,3,REG
+2001020401,20012002,2001-12-03,Colorado Avalanche,Ottawa Senators,4,2,REG
+2001020402,20012002,2001-12-03,Los Angeles Kings,Calgary Flames,0,2,REG
+2001020405,20012002,2001-12-04,New York Islanders,Philadelphia Flyers,2,3,REG
+2001020407,20012002,2001-12-04,Carolina Hurricanes,Buffalo Sabres,2,4,REG
+2001020403,20012002,2001-12-04,Toronto Maple Leafs,Pittsburgh Penguins,0,1,REG
+2001020404,20012002,2001-12-04,New Jersey Devils,Tampa Bay Lightning,1,1,REG
+2001020408,20012002,2001-12-04,Atlanta Thrashers,Boston Bruins,2,3,REG
+2001020406,20012002,2001-12-04,Washington Capitals,New York Rangers,5,2,REG
+2001020409,20012002,2001-12-04,San Jose Sharks,Calgary Flames,2,2,REG
+2001020410,20012002,2001-12-05,Montréal Canadiens,New Jersey Devils,1,2,REG
+2001020411,20012002,2001-12-05,Florida Panthers,Columbus Blue Jackets,2,0,REG
+2001020412,20012002,2001-12-05,Detroit Red Wings,Colorado Avalanche,1,4,REG
+2001020413,20012002,2001-12-05,Chicago Blackhawks,Minnesota Wild,4,2,REG
+2001020414,20012002,2001-12-05,Dallas Stars,Ottawa Senators,3,6,REG
+2001020415,20012002,2001-12-05,Edmonton Oilers,Anaheim Ducks,3,2,REG
+2001020416,20012002,2001-12-05,Phoenix Coyotes,St. Louis Blues,3,0,REG
+2001020418,20012002,2001-12-06,New York Rangers,Toronto Maple Leafs,3,6,REG
+2001020417,20012002,2001-12-06,Boston Bruins,Pittsburgh Penguins,1,4,REG
+2001020419,20012002,2001-12-06,Philadelphia Flyers,New York Islanders,0,2,REG
+2001020420,20012002,2001-12-06,Atlanta Thrashers,Washington Capitals,3,3,REG
+2001020421,20012002,2001-12-06,Tampa Bay Lightning,Columbus Blue Jackets,1,0,REG
+2001020422,20012002,2001-12-06,Nashville Predators,Ottawa Senators,4,2,REG
+2001020423,20012002,2001-12-06,Calgary Flames,San Jose Sharks,1,3,REG
+2001020424,20012002,2001-12-06,Vancouver Canucks,Anaheim Ducks,3,2,REG
+2001020425,20012002,2001-12-06,Los Angeles Kings,St. Louis Blues,1,1,REG
+2001020426,20012002,2001-12-07,Buffalo Sabres,Colorado Avalanche,1,4,REG
+2001020427,20012002,2001-12-07,Detroit Red Wings,Phoenix Coyotes,1,1,REG
+2001020428,20012002,2001-12-07,Chicago Blackhawks,New York Islanders,4,3,REG
+2001020429,20012002,2001-12-07,Dallas Stars,Edmonton Oilers,5,0,REG
+2001020434,20012002,2001-12-08,New Jersey Devils,Washington Capitals,3,1,REG
+2001020435,20012002,2001-12-08,Philadelphia Flyers,Minnesota Wild,5,1,REG
+2001020430,20012002,2001-12-08,Boston Bruins,Buffalo Sabres,4,2,REG
+2001020431,20012002,2001-12-08,Toronto Maple Leafs,New York Rangers,4,3,REG
+2001020432,20012002,2001-12-08,Montréal Canadiens,Phoenix Coyotes,3,3,REG
+2001020433,20012002,2001-12-08,Ottawa Senators,Tampa Bay Lightning,5,2,REG
+2001020438,20012002,2001-12-08,Columbus Blue Jackets,Colorado Avalanche,0,2,REG
+2001020436,20012002,2001-12-08,Pittsburgh Penguins,Atlanta Thrashers,6,3,REG
+2001020437,20012002,2001-12-08,Florida Panthers,Carolina Hurricanes,2,3,REG
+2001020439,20012002,2001-12-08,St. Louis Blues,Los Angeles Kings,2,0,REG
+2001020440,20012002,2001-12-08,Nashville Predators,Edmonton Oilers,2,2,REG
+2001020441,20012002,2001-12-08,Calgary Flames,Anaheim Ducks,0,4,REG
+2001020442,20012002,2001-12-08,Vancouver Canucks,San Jose Sharks,3,5,REG
+2001020443,20012002,2001-12-09,Chicago Blackhawks,Los Angeles Kings,2,5,REG
+2001020445,20012002,2001-12-10,New York Rangers,Carolina Hurricanes,3,4,REG
+2001020447,20012002,2001-12-10,Columbus Blue Jackets,New Jersey Devils,3,1,REG
+2001020444,20012002,2001-12-10,Montréal Canadiens,Minnesota Wild,4,0,REG
+2001020446,20012002,2001-12-10,Atlanta Thrashers,Philadelphia Flyers,1,3,REG
+2001020448,20012002,2001-12-10,Colorado Avalanche,Anaheim Ducks,1,1,REG
+2001020449,20012002,2001-12-10,Calgary Flames,Detroit Red Wings,2,0,REG
+2001020450,20012002,2001-12-10,Vancouver Canucks,Tampa Bay Lightning,1,1,REG
+2001020452,20012002,2001-12-11,New York Islanders,Ottawa Senators,2,2,REG
+2001020451,20012002,2001-12-11,Toronto Maple Leafs,Phoenix Coyotes,6,3,REG
+2001020454,20012002,2001-12-11,Nashville Predators,Los Angeles Kings,1,1,REG
+2001020453,20012002,2001-12-11,Washington Capitals,Pittsburgh Penguins,2,2,REG
+2001020455,20012002,2001-12-11,San Jose Sharks,Edmonton Oilers,5,4,REG
+2001020457,20012002,2001-12-12,New York Rangers,Nashville Predators,2,4,REG
+2001020459,20012002,2001-12-12,Carolina Hurricanes,Florida Panthers,4,1,REG
+2001020462,20012002,2001-12-12,Dallas Stars,Buffalo Sabres,4,3,REG
+2001020458,20012002,2001-12-12,Pittsburgh Penguins,Boston Bruins,2,4,REG
+2001020460,20012002,2001-12-12,Atlanta Thrashers,Montréal Canadiens,3,3,REG
+2001020461,20012002,2001-12-12,Chicago Blackhawks,St. Louis Blues,2,2,REG
+2001020456,20012002,2001-12-12,New Jersey Devils,New York Islanders,3,2,REG
+2001020463,20012002,2001-12-12,Colorado Avalanche,Columbus Blue Jackets,5,1,REG
+2001020464,20012002,2001-12-12,Calgary Flames,Tampa Bay Lightning,1,3,REG
+2001020465,20012002,2001-12-12,Anaheim Ducks,Vancouver Canucks,0,1,REG
+2001020466,20012002,2001-12-13,Ottawa Senators,Phoenix Coyotes,6,0,REG
+2001020467,20012002,2001-12-13,Philadelphia Flyers,Montréal Canadiens,2,3,REG
+2001020468,20012002,2001-12-13,Washington Capitals,Boston Bruins,2,1,REG
+2001020469,20012002,2001-12-13,St. Louis Blues,Toronto Maple Leafs,3,4,REG
+2001020470,20012002,2001-12-13,Edmonton Oilers,Detroit Red Wings,1,2,REG
+2001020471,20012002,2001-12-13,Los Angeles Kings,Vancouver Canucks,6,3,REG
+2001020472,20012002,2001-12-14,Buffalo Sabres,Carolina Hurricanes,3,2,REG
+2001020473,20012002,2001-12-14,New Jersey Devils,Florida Panthers,2,3,REG
+2001020474,20012002,2001-12-14,Pittsburgh Penguins,Minnesota Wild,2,5,REG
+2001020475,20012002,2001-12-14,Atlanta Thrashers,Chicago Blackhawks,1,3,REG
+2001020476,20012002,2001-12-14,Dallas Stars,Calgary Flames,3,4,REG
+2001020477,20012002,2001-12-14,Colorado Avalanche,San Jose Sharks,0,3,REG
+2001020478,20012002,2001-12-14,Edmonton Oilers,Tampa Bay Lightning,2,1,REG
+2001020479,20012002,2001-12-14,Anaheim Ducks,Columbus Blue Jackets,2,3,REG
+2001020480,20012002,2001-12-15,Boston Bruins,Philadelphia Flyers,2,5,REG
+2001020481,20012002,2001-12-15,Toronto Maple Leafs,Montréal Canadiens,6,4,REG
+2001020482,20012002,2001-12-15,Ottawa Senators,New Jersey Devils,0,2,REG
+2001020483,20012002,2001-12-15,New York Islanders,Florida Panthers,1,3,REG
+2001020484,20012002,2001-12-15,New York Rangers,Buffalo Sabres,4,2,REG
+2001020485,20012002,2001-12-15,Washington Capitals,Atlanta Thrashers,5,2,REG
+2001020486,20012002,2001-12-15,St. Louis Blues,Calgary Flames,4,0,REG
+2001020487,20012002,2001-12-15,Nashville Predators,Chicago Blackhawks,5,2,REG
+2001020489,20012002,2001-12-15,Phoenix Coyotes,Dallas Stars,2,6,REG
+2001020488,20012002,2001-12-15,Vancouver Canucks,Detroit Red Wings,3,0,REG
+2001020490,20012002,2001-12-15,Los Angeles Kings,Columbus Blue Jackets,3,2,REG
+2001020492,20012002,2001-12-16,Pittsburgh Penguins,Carolina Hurricanes,0,7,REG
+2001020493,20012002,2001-12-16,Minnesota Wild,Colorado Avalanche,2,3,REG
+2001020491,20012002,2001-12-16,Philadelphia Flyers,Edmonton Oilers,2,3,REG
+2001020494,20012002,2001-12-16,Anaheim Ducks,Los Angeles Kings,2,3,REG
+2001020496,20012002,2001-12-17,New York Rangers,Florida Panthers,4,2,REG
+2001020495,20012002,2001-12-17,Montréal Canadiens,Tampa Bay Lightning,3,4,REG
+2001020497,20012002,2001-12-17,Detroit Red Wings,Chicago Blackhawks,0,2,REG
+2001020498,20012002,2001-12-17,Dallas Stars,San Jose Sharks,1,4,REG
+2001020499,20012002,2001-12-17,Phoenix Coyotes,Columbus Blue Jackets,4,1,REG
+2001020500,20012002,2001-12-18,Boston Bruins,Atlanta Thrashers,2,3,REG
+2001020502,20012002,2001-12-18,New York Islanders,Edmonton Oilers,4,1,REG
+2001020503,20012002,2001-12-18,Philadelphia Flyers,St. Louis Blues,6,3,REG
+2001020504,20012002,2001-12-18,Carolina Hurricanes,Ottawa Senators,1,5,REG
+2001020501,20012002,2001-12-18,Toronto Maple Leafs,Los Angeles Kings,1,3,REG
+2001020505,20012002,2001-12-18,Minnesota Wild,Anaheim Ducks,1,5,REG
+2001020506,20012002,2001-12-19,Buffalo Sabres,Chicago Blackhawks,5,6,REG
+2001020508,20012002,2001-12-19,Pittsburgh Penguins,Montréal Canadiens,1,3,REG
+2001020509,20012002,2001-12-19,Atlanta Thrashers,San Jose Sharks,2,4,REG
+2001020510,20012002,2001-12-19,Florida Panthers,Washington Capitals,5,2,REG
+2001020511,20012002,2001-12-19,Detroit Red Wings,Vancouver Canucks,4,1,REG
+2001020507,20012002,2001-12-19,New York Rangers,New Jersey Devils,2,2,REG
+2001020512,20012002,2001-12-19,Colorado Avalanche,Anaheim Ducks,2,1,REG
+2001020513,20012002,2001-12-19,Phoenix Coyotes,Calgary Flames,6,3,REG
+2001020514,20012002,2001-12-20,Boston Bruins,Montréal Canadiens,5,0,REG
+2001020515,20012002,2001-12-20,Ottawa Senators,Los Angeles Kings,2,4,REG
+2001020517,20012002,2001-12-20,Philadelphia Flyers,Dallas Stars,2,1,REG
+2001020516,20012002,2001-12-20,New Jersey Devils,Edmonton Oilers,3,3,REG
+2001020518,20012002,2001-12-20,Nashville Predators,Vancouver Canucks,6,2,REG
+2001020519,20012002,2001-12-21,Buffalo Sabres,Toronto Maple Leafs,3,3,REG
+2001020520,20012002,2001-12-21,New York Rangers,New York Islanders,1,2,REG
+2001020522,20012002,2001-12-21,Carolina Hurricanes,Atlanta Thrashers,5,4,REG
+2001020521,20012002,2001-12-21,Pittsburgh Penguins,Washington Capitals,4,3,REG
+2001020523,20012002,2001-12-21,Tampa Bay Lightning,St. Louis Blues,4,3,REG
+2001020524,20012002,2001-12-21,Detroit Red Wings,San Jose Sharks,3,0,REG
+2001020525,20012002,2001-12-21,Chicago Blackhawks,Edmonton Oilers,5,1,REG
+2001020526,20012002,2001-12-21,Colorado Avalanche,Calgary Flames,2,2,REG
+2001020527,20012002,2001-12-21,Anaheim Ducks,Phoenix Coyotes,2,1,REG
+2001020530,20012002,2001-12-22,New Jersey Devils,Ottawa Senators,0,1,REG
+2001020528,20012002,2001-12-22,Toronto Maple Leafs,Buffalo Sabres,3,2,REG
+2001020529,20012002,2001-12-22,Montréal Canadiens,Los Angeles Kings,2,1,REG
+2001020531,20012002,2001-12-22,New York Islanders,Boston Bruins,2,4,REG
+2001020532,20012002,2001-12-22,Philadelphia Flyers,Carolina Hurricanes,4,3,REG
+2001020533,20012002,2001-12-22,Washington Capitals,Pittsburgh Penguins,4,4,REG
+2001020535,20012002,2001-12-22,Columbus Blue Jackets,Dallas Stars,2,4,REG
+2001020534,20012002,2001-12-22,Florida Panthers,St. Louis Blues,0,2,REG
+2001020537,20012002,2001-12-22,Vancouver Canucks,Minnesota Wild,1,2,REG
+2001020538,20012002,2001-12-23,New York Rangers,Ottawa Senators,3,2,REG
+2001020536,20012002,2001-12-23,Nashville Predators,San Jose Sharks,1,1,REG
+2001020542,20012002,2001-12-23,Phoenix Coyotes,Anaheim Ducks,0,4,REG
+2001020540,20012002,2001-12-23,Chicago Blackhawks,Detroit Red Wings,0,5,REG
+2001020539,20012002,2001-12-23,Atlanta Thrashers,Dallas Stars,1,4,REG
+2001020541,20012002,2001-12-23,Colorado Avalanche,Minnesota Wild,6,3,REG
+2001020543,20012002,2001-12-26,Boston Bruins,Ottawa Senators,3,2,REG
+2001020544,20012002,2001-12-26,Buffalo Sabres,Montréal Canadiens,3,1,REG
+2001020546,20012002,2001-12-26,Washington Capitals,Philadelphia Flyers,1,4,REG
+2001020547,20012002,2001-12-26,Carolina Hurricanes,Toronto Maple Leafs,4,3,REG
+2001020545,20012002,2001-12-26,New Jersey Devils,Pittsburgh Penguins,4,0,REG
+2001020548,20012002,2001-12-26,Atlanta Thrashers,Florida Panthers,3,3,REG
+2001020549,20012002,2001-12-26,St. Louis Blues,Chicago Blackhawks,1,3,REG
+2001020550,20012002,2001-12-26,Dallas Stars,Colorado Avalanche,0,2,REG
+2001020551,20012002,2001-12-26,Nashville Predators,Tampa Bay Lightning,0,1,REG
+2001020552,20012002,2001-12-26,Minnesota Wild,Detroit Red Wings,3,3,REG
+2001020554,20012002,2001-12-26,Phoenix Coyotes,Los Angeles Kings,1,1,REG
+2001020553,20012002,2001-12-26,Edmonton Oilers,Calgary Flames,3,2,REG
+2001020555,20012002,2001-12-26,San Jose Sharks,Anaheim Ducks,1,2,REG
+2001020556,20012002,2001-12-27,Ottawa Senators,New York Islanders,5,2,REG
+2001020557,20012002,2001-12-27,Tampa Bay Lightning,Carolina Hurricanes,2,3,REG
+2001020558,20012002,2001-12-27,Detroit Red Wings,Columbus Blue Jackets,5,1,REG
+2001020559,20012002,2001-12-27,Chicago Blackhawks,Colorado Avalanche,3,1,REG
+2001020560,20012002,2001-12-27,Vancouver Canucks,Calgary Flames,4,2,REG
+2001020561,20012002,2001-12-27,Los Angeles Kings,Anaheim Ducks,2,2,REG
+2001020563,20012002,2001-12-28,Florida Panthers,Boston Bruins,1,7,REG
+2001020562,20012002,2001-12-28,Atlanta Thrashers,Toronto Maple Leafs,5,4,REG
+2001020564,20012002,2001-12-28,St. Louis Blues,Montréal Canadiens,3,0,REG
+2001020565,20012002,2001-12-28,Dallas Stars,Washington Capitals,2,3,REG
+2001020566,20012002,2001-12-28,Edmonton Oilers,Minnesota Wild,3,2,REG
+2001020567,20012002,2001-12-28,Phoenix Coyotes,Philadelphia Flyers,4,2,REG
+2001020568,20012002,2001-12-28,San Jose Sharks,New York Rangers,3,5,REG
+2001020571,20012002,2001-12-29,Tampa Bay Lightning,Boston Bruins,4,5,REG
+2001020569,20012002,2001-12-29,New York Islanders,Montréal Canadiens,6,5,REG
+2001020570,20012002,2001-12-29,Pittsburgh Penguins,Ottawa Senators,2,5,REG
+2001020572,20012002,2001-12-29,Florida Panthers,Toronto Maple Leafs,4,2,REG
+2001020573,20012002,2001-12-29,Columbus Blue Jackets,Buffalo Sabres,2,2,REG
+2001020574,20012002,2001-12-29,Nashville Predators,Detroit Red Wings,3,2,REG
+2001020575,20012002,2001-12-29,Colorado Avalanche,Philadelphia Flyers,2,5,REG
+2001020576,20012002,2001-12-29,Calgary Flames,Minnesota Wild,4,3,REG
+2001020577,20012002,2001-12-29,Vancouver Canucks,New Jersey Devils,4,2,REG
+2001020578,20012002,2001-12-29,Los Angeles Kings,New York Rangers,4,5,REG
+2001020579,20012002,2001-12-30,Washington Capitals,Carolina Hurricanes,5,5,REG
+2001020581,20012002,2001-12-30,St. Louis Blues,Nashville Predators,7,2,REG
+2001020583,20012002,2001-12-30,San Jose Sharks,Phoenix Coyotes,2,4,REG
+2001020582,20012002,2001-12-30,Edmonton Oilers,New Jersey Devils,1,2,REG
+2001020580,20012002,2001-12-30,Chicago Blackhawks,Anaheim Ducks,2,1,REG
+2001020587,20012002,2001-12-31,Florida Panthers,Atlanta Thrashers,4,3,REG
+2001020585,20012002,2001-12-31,Ottawa Senators,Chicago Blackhawks,4,5,REG
+2001020584,20012002,2001-12-31,Buffalo Sabres,Carolina Hurricanes,4,5,REG
+2001020588,20012002,2001-12-31,Detroit Red Wings,Minnesota Wild,4,2,REG
+2001020589,20012002,2001-12-31,Columbus Blue Jackets,Anaheim Ducks,3,1,REG
+2001020586,20012002,2001-12-31,Tampa Bay Lightning,Toronto Maple Leafs,1,4,REG
+2001020593,20012002,2001-12-31,Phoenix Coyotes,New York Rangers,5,0,REG
+2001020590,20012002,2001-12-31,Dallas Stars,Boston Bruins,2,1,REG
+2001020591,20012002,2001-12-31,Calgary Flames,Edmonton Oilers,2,2,REG
+2001020592,20012002,2001-12-31,Vancouver Canucks,Philadelphia Flyers,1,2,REG
+2001020596,20012002,2002-01-01,Nashville Predators,Colorado Avalanche,4,4,REG
+2001020595,20012002,2002-01-01,Washington Capitals,New York Islanders,3,2,REG
+2001020594,20012002,2002-01-01,New Jersey Devils,St. Louis Blues,2,1,REG
+2001020597,20012002,2002-01-02,Carolina Hurricanes,Boston Bruins,3,6,REG
+2001020600,20012002,2002-01-02,Minnesota Wild,Tampa Bay Lightning,2,0,REG
+2001020598,20012002,2002-01-02,Detroit Red Wings,Anaheim Ducks,5,3,REG
+2001020599,20012002,2002-01-02,Dallas Stars,Atlanta Thrashers,2,1,REG
+2001020601,20012002,2002-01-02,Edmonton Oilers,New York Rangers,4,1,REG
+2001020602,20012002,2002-01-02,Los Angeles Kings,Florida Panthers,3,1,REG
+2001020603,20012002,2002-01-02,San Jose Sharks,Philadelphia Flyers,5,2,REG
+2001020604,20012002,2002-01-03,Boston Bruins,Toronto Maple Leafs,1,2,REG
+2001020605,20012002,2002-01-03,Ottawa Senators,Washington Capitals,4,1,REG
+2001020606,20012002,2002-01-03,New Jersey Devils,Nashville Predators,3,4,REG
+2001020607,20012002,2002-01-03,New York Islanders,Pittsburgh Penguins,4,2,REG
+2001020608,20012002,2002-01-03,St. Louis Blues,Columbus Blue Jackets,4,2,REG
+2001020610,20012002,2002-01-03,Calgary Flames,Buffalo Sabres,3,1,REG
+2001020612,20012002,2002-01-03,Phoenix Coyotes,Atlanta Thrashers,2,1,REG
+2001020611,20012002,2002-01-03,Vancouver Canucks,Montréal Canadiens,5,2,REG
+2001020609,20012002,2002-01-03,Colorado Avalanche,New York Rangers,3,2,REG
+2001020614,20012002,2002-01-04,Minnesota Wild,Nashville Predators,2,1,REG
+2001020613,20012002,2002-01-04,Chicago Blackhawks,Tampa Bay Lightning,2,0,REG
+2001020615,20012002,2002-01-04,Anaheim Ducks,Florida Panthers,1,2,REG
+2001020616,20012002,2002-01-04,San Jose Sharks,Phoenix Coyotes,5,3,REG
+2001020623,20012002,2002-01-05,St. Louis Blues,Dallas Stars,5,2,REG
+2001020617,20012002,2002-01-05,Boston Bruins,Washington Capitals,7,4,REG
+2001020620,20012002,2002-01-05,Pittsburgh Penguins,New York Rangers,4,1,REG
+2001020622,20012002,2002-01-05,Detroit Red Wings,Colorado Avalanche,3,1,REG
+2001020618,20012002,2002-01-05,Toronto Maple Leafs,Ottawa Senators,3,1,REG
+2001020624,20012002,2002-01-05,Calgary Flames,Montréal Canadiens,2,4,REG
+2001020619,20012002,2002-01-05,New York Islanders,Los Angeles Kings,0,3,REG
+2001020621,20012002,2002-01-05,Carolina Hurricanes,New Jersey Devils,1,2,REG
+2001020625,20012002,2002-01-05,Edmonton Oilers,Vancouver Canucks,3,4,REG
+2001020626,20012002,2002-01-05,San Jose Sharks,Florida Panthers,6,0,REG
+2001020629,20012002,2002-01-06,Columbus Blue Jackets,Nashville Predators,4,3,REG
+2001020627,20012002,2002-01-06,Carolina Hurricanes,Philadelphia Flyers,3,4,REG
+2001020631,20012002,2002-01-06,Minnesota Wild,Buffalo Sabres,1,4,REG
+2001020630,20012002,2002-01-06,Chicago Blackhawks,Pittsburgh Penguins,2,0,REG
+2001020628,20012002,2002-01-06,Atlanta Thrashers,New York Islanders,2,3,REG
+2001020632,20012002,2002-01-06,Edmonton Oilers,Montréal Canadiens,7,6,REG
+2001020633,20012002,2002-01-06,Phoenix Coyotes,Tampa Bay Lightning,0,3,REG
+2001020634,20012002,2002-01-07,Ottawa Senators,Toronto Maple Leafs,4,3,REG
+2001020636,20012002,2002-01-07,Washington Capitals,Florida Panthers,1,2,REG
+2001020635,20012002,2002-01-07,New Jersey Devils,Los Angeles Kings,2,3,REG
+2001020637,20012002,2002-01-08,Buffalo Sabres,Vancouver Canucks,3,2,REG
+2001020639,20012002,2002-01-08,New York Islanders,Calgary Flames,2,5,REG
+2001020640,20012002,2002-01-08,Philadelphia Flyers,Atlanta Thrashers,7,4,REG
+2001020638,20012002,2002-01-08,Toronto Maple Leafs,Nashville Predators,4,3,REG
+2001020641,20012002,2002-01-08,Pittsburgh Penguins,Boston Bruins,2,3,REG
+2001020642,20012002,2002-01-08,Tampa Bay Lightning,Dallas Stars,1,2,REG
+2001020643,20012002,2002-01-08,Minnesota Wild,Montréal Canadiens,4,2,REG
+2001020644,20012002,2002-01-08,San Jose Sharks,St. Louis Blues,2,6,REG
+2001020647,20012002,2002-01-09,Washington Capitals,Columbus Blue Jackets,6,3,REG
+2001020645,20012002,2002-01-09,New Jersey Devils,Calgary Flames,5,1,REG
+2001020648,20012002,2002-01-09,Atlanta Thrashers,Ottawa Senators,4,3,REG
+2001020649,20012002,2002-01-09,Florida Panthers,Dallas Stars,2,3,REG
+2001020650,20012002,2002-01-09,Detroit Red Wings,Vancouver Canucks,5,4,REG
+2001020646,20012002,2002-01-09,New York Rangers,Los Angeles Kings,0,4,REG
+2001020651,20012002,2002-01-09,Colorado Avalanche,Chicago Blackhawks,7,3,REG
+2001020652,20012002,2002-01-09,Phoenix Coyotes,San Jose Sharks,5,6,REG
+2001020653,20012002,2002-01-09,Anaheim Ducks,St. Louis Blues,2,3,REG
+2001020654,20012002,2002-01-10,Boston Bruins,Los Angeles Kings,5,0,REG
+2001020655,20012002,2002-01-10,Buffalo Sabres,Pittsburgh Penguins,0,2,REG
+2001020656,20012002,2002-01-10,Montréal Canadiens,New York Islanders,4,0,REG
+2001020657,20012002,2002-01-10,Philadelphia Flyers,New Jersey Devils,3,2,REG
+2001020659,20012002,2002-01-10,Nashville Predators,Minnesota Wild,2,2,REG
+2001020658,20012002,2002-01-10,Chicago Blackhawks,Columbus Blue Jackets,2,1,REG
+2001020660,20012002,2002-01-10,Edmonton Oilers,Carolina Hurricanes,1,4,REG
+2001020661,20012002,2002-01-11,Washington Capitals,Toronto Maple Leafs,3,3,REG
+2001020662,20012002,2002-01-11,Atlanta Thrashers,Calgary Flames,1,0,REG
+2001020663,20012002,2002-01-11,Florida Panthers,Ottawa Senators,2,4,REG
+2001020664,20012002,2002-01-11,Minnesota Wild,Anaheim Ducks,2,2,REG
+2001020668,20012002,2002-01-12,Philadelphia Flyers,New York Rangers,4,2,REG
+2001020669,20012002,2002-01-12,Pittsburgh Penguins,St. Louis Blues,1,4,REG
+2001020672,20012002,2002-01-12,Detroit Red Wings,Dallas Stars,5,2,REG
+2001020677,20012002,2002-01-12,San Jose Sharks,Los Angeles Kings,2,3,REG
+2001020665,20012002,2002-01-12,Boston Bruins,New York Islanders,4,5,REG
+2001020666,20012002,2002-01-12,Buffalo Sabres,New Jersey Devils,2,1,REG
+2001020667,20012002,2002-01-12,Toronto Maple Leafs,Montréal Canadiens,1,1,REG
+2001020673,20012002,2002-01-12,Columbus Blue Jackets,Chicago Blackhawks,5,4,REG
+2001020670,20012002,2002-01-12,Tampa Bay Lightning,Ottawa Senators,1,2,REG
+2001020671,20012002,2002-01-12,Florida Panthers,Washington Capitals,0,1,REG
+2001020674,20012002,2002-01-12,Nashville Predators,Anaheim Ducks,2,1,REG
+2001020676,20012002,2002-01-12,Vancouver Canucks,Carolina Hurricanes,7,1,REG
+2001020675,20012002,2002-01-12,Edmonton Oilers,Colorado Avalanche,2,2,REG
+2001020679,20012002,2002-01-13,Minnesota Wild,Dallas Stars,1,3,REG
+2001020678,20012002,2002-01-13,Atlanta Thrashers,Tampa Bay Lightning,2,2,REG
+2001020681,20012002,2002-01-14,New York Rangers,Columbus Blue Jackets,2,2,REG
+2001020682,20012002,2002-01-14,Washington Capitals,Boston Bruins,1,0,REG
+2001020680,20012002,2002-01-14,Montréal Canadiens,Philadelphia Flyers,3,5,REG
+2001020683,20012002,2002-01-14,Chicago Blackhawks,Edmonton Oilers,2,1,REG
+2001020684,20012002,2002-01-14,Anaheim Ducks,Nashville Predators,5,3,REG
+2001020686,20012002,2002-01-15,Ottawa Senators,Philadelphia Flyers,1,4,REG
+2001020688,20012002,2002-01-15,Carolina Hurricanes,Minnesota Wild,2,0,REG
+2001020685,20012002,2002-01-15,Toronto Maple Leafs,Atlanta Thrashers,2,3,REG
+2001020687,20012002,2002-01-15,New Jersey Devils,Tampa Bay Lightning,4,5,REG
+2001020689,20012002,2002-01-15,St. Louis Blues,Edmonton Oilers,3,2,REG
+2001020690,20012002,2002-01-15,Colorado Avalanche,San Jose Sharks,0,1,REG
+2001020691,20012002,2002-01-15,Calgary Flames,New York Islanders,1,3,REG
+2001020693,20012002,2002-01-15,Phoenix Coyotes,Detroit Red Wings,2,2,REG
+2001020692,20012002,2002-01-15,Vancouver Canucks,Pittsburgh Penguins,5,2,REG
+2001020694,20012002,2002-01-15,Los Angeles Kings,Nashville Predators,2,0,REG
+2001020697,20012002,2002-01-16,Columbus Blue Jackets,New York Rangers,2,0,REG
+2001020695,20012002,2002-01-16,Montréal Canadiens,Washington Capitals,2,0,REG
+2001020696,20012002,2002-01-16,Florida Panthers,Chicago Blackhawks,0,3,REG
+2001020698,20012002,2002-01-16,Dallas Stars,Detroit Red Wings,3,2,REG
+2001020699,20012002,2002-01-16,Anaheim Ducks,Buffalo Sabres,1,3,REG
+2001020700,20012002,2002-01-17,Boston Bruins,Ottawa Senators,5,2,REG
+2001020702,20012002,2002-01-17,Philadelphia Flyers,Atlanta Thrashers,6,3,REG
+2001020703,20012002,2002-01-17,Carolina Hurricanes,Montréal Canadiens,1,1,REG
+2001020701,20012002,2002-01-17,New Jersey Devils,New York Rangers,6,4,REG
+2001020706,20012002,2002-01-17,Colorado Avalanche,Phoenix Coyotes,3,2,REG
+2001020704,20012002,2002-01-17,St. Louis Blues,Vancouver Canucks,5,4,REG
+2001020705,20012002,2002-01-17,Nashville Predators,Toronto Maple Leafs,3,2,REG
+2001020707,20012002,2002-01-17,Calgary Flames,Pittsburgh Penguins,4,6,REG
+2001020708,20012002,2002-01-17,Los Angeles Kings,Buffalo Sabres,4,2,REG
+2001020709,20012002,2002-01-17,San Jose Sharks,New York Islanders,3,2,REG
+2001020712,20012002,2002-01-18,Columbus Blue Jackets,Minnesota Wild,1,3,REG
+2001020710,20012002,2002-01-18,Tampa Bay Lightning,Chicago Blackhawks,2,2,REG
+2001020711,20012002,2002-01-18,Detroit Red Wings,Washington Capitals,3,1,REG
+2001020713,20012002,2002-01-18,Dallas Stars,Florida Panthers,2,3,REG
+2001020714,20012002,2002-01-18,Edmonton Oilers,Anaheim Ducks,3,1,REG
+2001020717,20012002,2002-01-19,New Jersey Devils,Carolina Hurricanes,3,3,REG
+2001020726,20012002,2002-01-19,Los Angeles Kings,New York Islanders,2,3,REG
+2001020715,20012002,2002-01-19,Toronto Maple Leafs,Philadelphia Flyers,0,3,REG
+2001020716,20012002,2002-01-19,Ottawa Senators,Minnesota Wild,4,1,REG
+2001020718,20012002,2002-01-19,Washington Capitals,Vancouver Canucks,1,5,REG
+2001020719,20012002,2002-01-19,Tampa Bay Lightning,Montréal Canadiens,1,5,REG
+2001020720,20012002,2002-01-19,Florida Panthers,Atlanta Thrashers,1,6,REG
+2001020721,20012002,2002-01-19,St. Louis Blues,Boston Bruins,2,1,REG
+2001020722,20012002,2002-01-19,Nashville Predators,Columbus Blue Jackets,2,1,REG
+2001020723,20012002,2002-01-19,Calgary Flames,Anaheim Ducks,2,1,REG
+2001020725,20012002,2002-01-19,Phoenix Coyotes,Buffalo Sabres,1,3,REG
+2001020724,20012002,2002-01-19,Edmonton Oilers,Pittsburgh Penguins,0,1,REG
+2001020727,20012002,2002-01-19,San Jose Sharks,Colorado Avalanche,1,3,REG
+2001020728,20012002,2002-01-20,Detroit Red Wings,Ottawa Senators,3,2,REG
+2001020729,20012002,2002-01-20,Chicago Blackhawks,Dallas Stars,3,2,REG
+2001020730,20012002,2002-01-21,Boston Bruins,St. Louis Blues,3,4,REG
+2001020734,20012002,2002-01-21,Florida Panthers,Montréal Canadiens,7,5,REG
+2001020732,20012002,2002-01-21,Carolina Hurricanes,Vancouver Canucks,5,7,REG
+2001020735,20012002,2002-01-21,Columbus Blue Jackets,Dallas Stars,3,5,REG
+2001020731,20012002,2002-01-21,Pittsburgh Penguins,Philadelphia Flyers,5,2,REG
+2001020733,20012002,2002-01-21,Tampa Bay Lightning,New Jersey Devils,3,2,REG
+2001020739,20012002,2002-01-21,San Jose Sharks,Edmonton Oilers,4,3,REG
+2001020736,20012002,2002-01-21,Nashville Predators,Phoenix Coyotes,0,1,REG
+2001020737,20012002,2002-01-21,Colorado Avalanche,Buffalo Sabres,3,2,REG
+2001020738,20012002,2002-01-21,Anaheim Ducks,Los Angeles Kings,2,4,REG
+2001020740,20012002,2002-01-22,New York Islanders,New York Rangers,4,5,REG
+2001020741,20012002,2002-01-22,Philadelphia Flyers,Ottawa Senators,1,1,REG
+2001020742,20012002,2002-01-22,Atlanta Thrashers,Washington Capitals,0,3,REG
+2001020743,20012002,2002-01-22,Calgary Flames,Toronto Maple Leafs,1,6,REG
+2001020744,20012002,2002-01-23,Buffalo Sabres,St. Louis Blues,2,5,REG
+2001020745,20012002,2002-01-23,New York Rangers,Boston Bruins,8,4,REG
+2001020747,20012002,2002-01-23,Washington Capitals,Montréal Canadiens,3,5,REG
+2001020748,20012002,2002-01-23,Carolina Hurricanes,Nashville Predators,2,2,REG
+2001020746,20012002,2002-01-23,Pittsburgh Penguins,Tampa Bay Lightning,5,1,REG
+2001020749,20012002,2002-01-23,Florida Panthers,New Jersey Devils,1,3,REG
+2001020750,20012002,2002-01-23,Detroit Red Wings,San Jose Sharks,2,2,REG
+2001020751,20012002,2002-01-23,Chicago Blackhawks,Phoenix Coyotes,1,4,REG
+2001020752,20012002,2002-01-23,Dallas Stars,Vancouver Canucks,2,4,REG
+2001020753,20012002,2002-01-23,Edmonton Oilers,Colorado Avalanche,2,4,REG
+2001020754,20012002,2002-01-23,Anaheim Ducks,Minnesota Wild,3,2,REG
+2001020755,20012002,2002-01-24,Ottawa Senators,Boston Bruins,4,3,REG
+2001020757,20012002,2002-01-24,Philadelphia Flyers,Nashville Predators,2,3,REG
+2001020759,20012002,2002-01-24,Columbus Blue Jackets,San Jose Sharks,6,2,REG
+2001020756,20012002,2002-01-24,New York Islanders,Pittsburgh Penguins,4,5,REG
+2001020758,20012002,2002-01-24,Atlanta Thrashers,New Jersey Devils,4,2,REG
+2001020760,20012002,2002-01-24,Calgary Flames,Colorado Avalanche,0,2,REG
+2001020761,20012002,2002-01-24,Los Angeles Kings,Minnesota Wild,4,1,REG
+2001020762,20012002,2002-01-25,Buffalo Sabres,Tampa Bay Lightning,4,1,REG
+2001020763,20012002,2002-01-25,Carolina Hurricanes,Florida Panthers,1,1,REG
+2001020764,20012002,2002-01-25,Detroit Red Wings,Phoenix Coyotes,4,1,REG
+2001020765,20012002,2002-01-25,Chicago Blackhawks,St. Louis Blues,2,1,REG
+2001020766,20012002,2002-01-25,Dallas Stars,Anaheim Ducks,1,6,REG
+2001020767,20012002,2002-01-25,Vancouver Canucks,Toronto Maple Leafs,6,1,REG
+2001020769,20012002,2002-01-26,Montréal Canadiens,Ottawa Senators,1,1,REG
+2001020771,20012002,2002-01-26,New York Rangers,Washington Capitals,6,3,REG
+2001020773,20012002,2002-01-26,Pittsburgh Penguins,Atlanta Thrashers,3,2,REG
+2001020780,20012002,2002-01-26,Los Angeles Kings,Colorado Avalanche,2,4,REG
+2001020777,20012002,2002-01-26,Minnesota Wild,New Jersey Devils,2,2,REG
+2001020779,20012002,2002-01-26,Edmonton Oilers,Toronto Maple Leafs,4,1,REG
+2001020768,20012002,2002-01-26,Boston Bruins,Florida Panthers,4,2,REG
+2001020770,20012002,2002-01-26,New York Islanders,Tampa Bay Lightning,6,2,REG
+2001020772,20012002,2002-01-26,Philadelphia Flyers,Carolina Hurricanes,4,2,REG
+2001020774,20012002,2002-01-26,Columbus Blue Jackets,Phoenix Coyotes,2,3,REG
+2001020775,20012002,2002-01-26,St. Louis Blues,Detroit Red Wings,2,5,REG
+2001020776,20012002,2002-01-26,Nashville Predators,Anaheim Ducks,1,3,REG
+2001020778,20012002,2002-01-26,Calgary Flames,Vancouver Canucks,0,2,REG
+2001020781,20012002,2002-01-27,Montréal Canadiens,San Jose Sharks,3,1,REG
+2001020782,20012002,2002-01-27,Washington Capitals,Buffalo Sabres,2,3,REG
+2001020783,20012002,2002-01-28,Boston Bruins,Chicago Blackhawks,2,1,REG
+2001020784,20012002,2002-01-28,New York Rangers,Tampa Bay Lightning,0,1,REG
+2001020785,20012002,2002-01-28,Atlanta Thrashers,Phoenix Coyotes,2,4,REG
+2001020786,20012002,2002-01-28,St. Louis Blues,Anaheim Ducks,0,1,REG
+2001020788,20012002,2002-01-28,Minnesota Wild,Calgary Flames,2,3,REG
+2001020787,20012002,2002-01-28,Dallas Stars,Columbus Blue Jackets,4,2,REG
+2001020789,20012002,2002-01-28,Colorado Avalanche,Los Angeles Kings,4,6,REG
+2001020790,20012002,2002-01-28,Edmonton Oilers,Detroit Red Wings,1,1,REG
+2001020791,20012002,2002-01-28,Vancouver Canucks,Nashville Predators,5,1,REG
+2001020793,20012002,2002-01-29,New York Islanders,New Jersey Devils,1,3,REG
+2001020794,20012002,2002-01-29,Philadelphia Flyers,Pittsburgh Penguins,3,2,REG
+2001020795,20012002,2002-01-29,Carolina Hurricanes,Buffalo Sabres,2,2,REG
+2001020792,20012002,2002-01-29,Toronto Maple Leafs,San Jose Sharks,4,3,REG
+2001020797,20012002,2002-01-30,Ottawa Senators,Philadelphia Flyers,3,1,REG
+2001020799,20012002,2002-01-30,New York Rangers,New York Islanders,3,6,REG
+2001020796,20012002,2002-01-30,Montréal Canadiens,Boston Bruins,3,4,REG
+2001020798,20012002,2002-01-30,New Jersey Devils,Chicago Blackhawks,3,1,REG
+2001020800,20012002,2002-01-30,Pittsburgh Penguins,San Jose Sharks,3,6,REG
+2001020802,20012002,2002-01-30,Atlanta Thrashers,Toronto Maple Leafs,0,6,REG
+2001020803,20012002,2002-01-30,Tampa Bay Lightning,Carolina Hurricanes,1,3,REG
+2001020804,20012002,2002-01-30,Florida Panthers,Phoenix Coyotes,1,3,REG
+2001020805,20012002,2002-01-30,Minnesota Wild,Los Angeles Kings,0,2,REG
+2001020801,20012002,2002-01-30,Washington Capitals,St. Louis Blues,1,4,REG
+2001020806,20012002,2002-01-30,Colorado Avalanche,Nashville Predators,2,5,REG
+2001020807,20012002,2002-01-30,Calgary Flames,Detroit Red Wings,4,3,REG
+2001020808,20012002,2002-01-30,Vancouver Canucks,Edmonton Oilers,2,2,REG
+2001020809,20012002,2002-01-30,Anaheim Ducks,Columbus Blue Jackets,3,1,REG
+2001020812,20012002,2002-02-04,Columbus Blue Jackets,Boston Bruins,0,8,REG
+2001020810,20012002,2002-02-04,Tampa Bay Lightning,Ottawa Senators,4,4,REG
+2001020811,20012002,2002-02-04,Florida Panthers,New York Islanders,6,6,REG
+2001020813,20012002,2002-02-04,Colorado Avalanche,Detroit Red Wings,1,3,REG
+2001020814,20012002,2002-02-04,Vancouver Canucks,Phoenix Coyotes,4,2,REG
+2001020815,20012002,2002-02-04,Los Angeles Kings,Philadelphia Flyers,1,3,REG
+2001020816,20012002,2002-02-05,Boston Bruins,Buffalo Sabres,2,2,REG
+2001020819,20012002,2002-02-05,New York Islanders,St. Louis Blues,4,3,REG
+2001020820,20012002,2002-02-05,Carolina Hurricanes,Pittsburgh Penguins,3,3,REG
+2001020817,20012002,2002-02-05,Toronto Maple Leafs,Minnesota Wild,3,1,REG
+2001020818,20012002,2002-02-05,New Jersey Devils,Montréal Canadiens,0,1,REG
+2001020821,20012002,2002-02-05,Atlanta Thrashers,Edmonton Oilers,3,2,REG
+2001020822,20012002,2002-02-06,Washington Capitals,Minnesota Wild,2,1,REG
+2001020825,20012002,2002-02-06,Columbus Blue Jackets,Ottawa Senators,4,6,REG
+2001020823,20012002,2002-02-06,Florida Panthers,Tampa Bay Lightning,2,3,REG
+2001020826,20012002,2002-02-06,Nashville Predators,Dallas Stars,2,1,REG
+2001020824,20012002,2002-02-06,Detroit Red Wings,New York Rangers,3,1,REG
+2001020827,20012002,2002-02-06,Phoenix Coyotes,Chicago Blackhawks,2,5,REG
+2001020828,20012002,2002-02-06,Anaheim Ducks,Philadelphia Flyers,5,4,REG
+2001020829,20012002,2002-02-06,San Jose Sharks,Calgary Flames,2,0,REG
+2001020832,20012002,2002-02-07,New York Islanders,Toronto Maple Leafs,4,1,REG
+2001020834,20012002,2002-02-07,St. Louis Blues,Edmonton Oilers,3,1,REG
+2001020830,20012002,2002-02-07,Montréal Canadiens,Pittsburgh Penguins,1,0,REG
+2001020831,20012002,2002-02-07,New Jersey Devils,Atlanta Thrashers,3,3,REG
+2001020833,20012002,2002-02-07,Tampa Bay Lightning,Florida Panthers,1,3,REG
+2001020835,20012002,2002-02-07,Los Angeles Kings,Carolina Hurricanes,2,1,REG
+2001020836,20012002,2002-02-08,Buffalo Sabres,Ottawa Senators,3,2,REG
+2001020837,20012002,2002-02-08,Atlanta Thrashers,New York Rangers,1,2,REG
+2001020838,20012002,2002-02-08,Detroit Red Wings,Columbus Blue Jackets,2,3,REG
+2001020840,20012002,2002-02-08,Nashville Predators,Washington Capitals,3,3,REG
+2001020841,20012002,2002-02-08,Minnesota Wild,Colorado Avalanche,0,6,REG
+2001020839,20012002,2002-02-08,Dallas Stars,Edmonton Oilers,1,1,REG
+2001020842,20012002,2002-02-08,Calgary Flames,Vancouver Canucks,1,4,REG
+2001020843,20012002,2002-02-08,Phoenix Coyotes,Los Angeles Kings,6,5,REG
+2001020844,20012002,2002-02-08,Anaheim Ducks,Carolina Hurricanes,1,4,REG
+2001020845,20012002,2002-02-08,San Jose Sharks,Chicago Blackhawks,4,2,REG
+2001020846,20012002,2002-02-09,Boston Bruins,Florida Panthers,4,1,REG
+2001020849,20012002,2002-02-09,Pittsburgh Penguins,New Jersey Devils,1,2,REG
+2001020847,20012002,2002-02-09,Toronto Maple Leafs,Montréal Canadiens,4,1,REG
+2001020852,20012002,2002-02-09,St. Louis Blues,Philadelphia Flyers,0,5,REG
+2001020848,20012002,2002-02-09,Ottawa Senators,Detroit Red Wings,2,3,REG
+2001020851,20012002,2002-02-09,Columbus Blue Jackets,Nashville Predators,0,1,REG
+2001020850,20012002,2002-02-09,Tampa Bay Lightning,Washington Capitals,2,4,REG
+2001020854,20012002,2002-02-09,Vancouver Canucks,Calgary Flames,3,4,REG
+2001020853,20012002,2002-02-09,Colorado Avalanche,Chicago Blackhawks,2,3,REG
+2001020856,20012002,2002-02-10,New York Rangers,Pittsburgh Penguins,4,3,REG
+2001020857,20012002,2002-02-10,Minnesota Wild,New York Islanders,4,3,REG
+2001020858,20012002,2002-02-10,Phoenix Coyotes,Edmonton Oilers,3,4,REG
+2001020855,20012002,2002-02-10,New Jersey Devils,Buffalo Sabres,4,1,REG
+2001020859,20012002,2002-02-10,Anaheim Ducks,Dallas Stars,1,5,REG
+2001020860,20012002,2002-02-10,San Jose Sharks,Carolina Hurricanes,4,0,REG
+2001020861,20012002,2002-02-11,Toronto Maple Leafs,Atlanta Thrashers,5,4,REG
+2001020863,20012002,2002-02-11,Washington Capitals,Tampa Bay Lightning,3,1,REG
+2001020862,20012002,2002-02-11,Montréal Canadiens,Detroit Red Wings,2,3,REG
+2001020864,20012002,2002-02-11,Colorado Avalanche,Boston Bruins,5,2,REG
+2001020865,20012002,2002-02-11,Los Angeles Kings,Dallas Stars,2,1,REG
+2001020866,20012002,2002-02-12,Buffalo Sabres,New Jersey Devils,2,2,REG
+2001020867,20012002,2002-02-12,Ottawa Senators,Pittsburgh Penguins,5,1,REG
+2001020868,20012002,2002-02-12,Philadelphia Flyers,New York Islanders,0,1,REG
+2001020869,20012002,2002-02-12,Columbus Blue Jackets,Minnesota Wild,3,3,REG
+2001020870,20012002,2002-02-12,St. Louis Blues,Atlanta Thrashers,3,0,REG
+2001020871,20012002,2002-02-12,Nashville Predators,Florida Panthers,1,0,REG
+2001020874,20012002,2002-02-12,Phoenix Coyotes,Calgary Flames,4,3,REG
+2001020873,20012002,2002-02-12,Vancouver Canucks,Boston Bruins,1,2,REG
+2001020872,20012002,2002-02-12,Edmonton Oilers,San Jose Sharks,2,3,REG
+2001020878,20012002,2002-02-13,Colorado Avalanche,St. Louis Blues,3,1,REG
+2001020877,20012002,2002-02-13,Minnesota Wild,Detroit Red Wings,0,2,REG
+2001020875,20012002,2002-02-13,Chicago Blackhawks,Florida Panthers,5,4,REG
+2001020876,20012002,2002-02-13,Dallas Stars,New York Rangers,4,2,REG
+2001020879,20012002,2002-02-13,Anaheim Ducks,Calgary Flames,3,2,REG
+2001020880,20012002,2002-02-13,Los Angeles Kings,Phoenix Coyotes,2,2,REG
+2001020883,20012002,2002-02-26,New York Islanders,Boston Bruins,3,3,REG
+2001020884,20012002,2002-02-26,New York Rangers,New Jersey Devils,3,4,REG
+2001020885,20012002,2002-02-26,Philadelphia Flyers,Chicago Blackhawks,5,4,REG
+2001020886,20012002,2002-02-26,Washington Capitals,Florida Panthers,4,3,REG
+2001020889,20012002,2002-02-26,Columbus Blue Jackets,Los Angeles Kings,1,5,REG
+2001020881,20012002,2002-02-26,Toronto Maple Leafs,Carolina Hurricanes,4,1,REG
+2001020882,20012002,2002-02-26,Montréal Canadiens,Ottawa Senators,2,5,REG
+2001020887,20012002,2002-02-26,Atlanta Thrashers,Buffalo Sabres,2,1,REG
+2001020888,20012002,2002-02-26,Tampa Bay Lightning,Detroit Red Wings,3,4,REG
+2001020890,20012002,2002-02-26,Nashville Predators,San Jose Sharks,1,5,REG
+2001020891,20012002,2002-02-26,Colorado Avalanche,Calgary Flames,2,2,REG
+2001020893,20012002,2002-02-26,Phoenix Coyotes,Dallas Stars,5,1,REG
+2001020892,20012002,2002-02-26,Vancouver Canucks,St. Louis Blues,4,4,REG
+2001020895,20012002,2002-02-27,Pittsburgh Penguins,Los Angeles Kings,4,5,REG
+2001020896,20012002,2002-02-27,Florida Panthers,Detroit Red Wings,2,3,REG
+2001020894,20012002,2002-02-27,New Jersey Devils,Philadelphia Flyers,0,1,REG
+2001020897,20012002,2002-02-27,Chicago Blackhawks,Montréal Canadiens,2,3,REG
+2001020898,20012002,2002-02-27,Anaheim Ducks,Minnesota Wild,3,5,REG
+2001020899,20012002,2002-02-28,Boston Bruins,Carolina Hurricanes,2,6,REG
+2001020900,20012002,2002-02-28,New York Rangers,Ottawa Senators,0,3,REG
+2001020902,20012002,2002-02-28,Columbus Blue Jackets,Pittsburgh Penguins,3,4,REG
+2001020901,20012002,2002-02-28,Washington Capitals,San Jose Sharks,2,5,REG
+2001020904,20012002,2002-02-28,Calgary Flames,St. Louis Blues,3,2,REG
+2001020905,20012002,2002-02-28,Edmonton Oilers,Nashville Predators,2,3,REG
+2001020906,20012002,2002-02-28,Vancouver Canucks,Dallas Stars,3,4,REG
+2001020903,20012002,2002-02-28,Colorado Avalanche,Phoenix Coyotes,2,1,REG
+2001020907,20012002,2002-03-01,Buffalo Sabres,Boston Bruins,4,3,REG
+2001020908,20012002,2002-03-01,New Jersey Devils,Toronto Maple Leafs,4,2,REG
+2001020909,20012002,2002-03-01,Atlanta Thrashers,New York Islanders,4,3,REG
+2001020910,20012002,2002-03-01,Tampa Bay Lightning,San Jose Sharks,4,2,REG
+2001020918,20012002,2002-03-02,Colorado Avalanche,Dallas Stars,1,2,REG
+2001020915,20012002,2002-03-02,New York Rangers,Philadelphia Flyers,6,5,REG
+2001020916,20012002,2002-03-02,Pittsburgh Penguins,Detroit Red Wings,2,4,REG
+2001020922,20012002,2002-03-02,Los Angeles Kings,Columbus Blue Jackets,0,2,REG
+2001020911,20012002,2002-03-02,Toronto Maple Leafs,Buffalo Sabres,3,3,REG
+2001020912,20012002,2002-03-02,Montréal Canadiens,Carolina Hurricanes,3,4,REG
+2001020913,20012002,2002-03-02,Ottawa Senators,Washington Capitals,2,3,REG
+2001020914,20012002,2002-03-02,New York Islanders,Atlanta Thrashers,4,1,REG
+2001020917,20012002,2002-03-02,Tampa Bay Lightning,Florida Panthers,3,2,REG
+2001020919,20012002,2002-03-02,Calgary Flames,Nashville Predators,5,2,REG
+2001020921,20012002,2002-03-02,Vancouver Canucks,Minnesota Wild,6,3,REG
+2001020920,20012002,2002-03-02,Edmonton Oilers,St. Louis Blues,1,1,REG
+2001020923,20012002,2002-03-03,Chicago Blackhawks,Anaheim Ducks,2,1,REG
+2001020924,20012002,2002-03-03,Dallas Stars,San Jose Sharks,4,1,REG
+2001020925,20012002,2002-03-03,Phoenix Coyotes,Columbus Blue Jackets,2,1,REG
+2001020926,20012002,2002-03-04,Boston Bruins,Philadelphia Flyers,1,4,REG
+2001020927,20012002,2002-03-04,Buffalo Sabres,Edmonton Oilers,0,3,REG
+2001020929,20012002,2002-03-04,New York Islanders,Pittsburgh Penguins,2,4,REG
+2001020930,20012002,2002-03-04,New York Rangers,Calgary Flames,3,5,REG
+2001020931,20012002,2002-03-04,Washington Capitals,Toronto Maple Leafs,2,3,REG
+2001020928,20012002,2002-03-04,Montréal Canadiens,Atlanta Thrashers,5,3,REG
+2001020932,20012002,2002-03-04,Colorado Avalanche,New Jersey Devils,2,0,REG
+2001020933,20012002,2002-03-04,Los Angeles Kings,Ottawa Senators,1,1,REG
+2001020934,20012002,2002-03-05,Pittsburgh Penguins,Florida Panthers,6,5,REG
+2001020936,20012002,2002-03-05,Minnesota Wild,New York Rangers,2,3,REG
+2001020935,20012002,2002-03-05,Chicago Blackhawks,Carolina Hurricanes,1,2,REG
+2001020937,20012002,2002-03-05,Phoenix Coyotes,New Jersey Devils,4,1,REG
+2001020938,20012002,2002-03-05,San Jose Sharks,Nashville Predators,0,2,REG
+2001020940,20012002,2002-03-06,Washington Capitals,Calgary Flames,3,2,REG
+2001020939,20012002,2002-03-06,Montréal Canadiens,Boston Bruins,5,3,REG
+2001020941,20012002,2002-03-06,Atlanta Thrashers,Anaheim Ducks,1,4,REG
+2001020942,20012002,2002-03-06,Tampa Bay Lightning,Edmonton Oilers,2,3,REG
+2001020943,20012002,2002-03-06,Detroit Red Wings,Toronto Maple Leafs,6,2,REG
+2001020944,20012002,2002-03-06,Dallas Stars,Los Angeles Kings,3,2,REG
+2001020945,20012002,2002-03-06,Colorado Avalanche,Columbus Blue Jackets,4,1,REG
+2001020946,20012002,2002-03-07,New York Islanders,Buffalo Sabres,0,5,REG
+2001020947,20012002,2002-03-07,Philadelphia Flyers,Calgary Flames,2,4,REG
+2001020948,20012002,2002-03-07,Pittsburgh Penguins,Carolina Hurricanes,1,3,REG
+2001020950,20012002,2002-03-07,St. Louis Blues,Minnesota Wild,0,3,REG
+2001020951,20012002,2002-03-07,Nashville Predators,Los Angeles Kings,2,3,REG
+2001020949,20012002,2002-03-07,Chicago Blackhawks,New York Rangers,5,1,REG
+2001020952,20012002,2002-03-07,Phoenix Coyotes,Vancouver Canucks,6,1,REG
+2001020953,20012002,2002-03-07,San Jose Sharks,Ottawa Senators,5,2,REG
+2001020954,20012002,2002-03-08,Buffalo Sabres,Montréal Canadiens,3,0,REG
+2001020955,20012002,2002-03-08,Carolina Hurricanes,Washington Capitals,2,2,REG
+2001020959,20012002,2002-03-08,Columbus Blue Jackets,New York Islanders,4,2,REG
+2001020956,20012002,2002-03-08,Atlanta Thrashers,Boston Bruins,0,3,REG
+2001020957,20012002,2002-03-08,Tampa Bay Lightning,Philadelphia Flyers,2,4,REG
+2001020958,20012002,2002-03-08,Florida Panthers,Edmonton Oilers,5,4,REG
+2001020960,20012002,2002-03-08,Dallas Stars,Minnesota Wild,3,5,REG
+2001020961,20012002,2002-03-08,Anaheim Ducks,New Jersey Devils,2,1,REG
+2001020967,20012002,2002-03-09,Colorado Avalanche,Los Angeles Kings,4,3,REG
+2001020966,20012002,2002-03-09,St. Louis Blues,Detroit Red Wings,2,5,REG
+2001020964,20012002,2002-03-09,Pittsburgh Penguins,New York Rangers,3,2,REG
+2001020968,20012002,2002-03-09,Phoenix Coyotes,Ottawa Senators,3,2,REG
+2001020962,20012002,2002-03-09,Boston Bruins,Calgary Flames,3,2,REG
+2001020963,20012002,2002-03-09,Montréal Canadiens,Toronto Maple Leafs,1,1,REG
+2001020965,20012002,2002-03-09,Florida Panthers,Nashville Predators,2,2,REG
+2001020969,20012002,2002-03-09,San Jose Sharks,Vancouver Canucks,2,0,REG
+2001020971,20012002,2002-03-10,New York Islanders,Atlanta Thrashers,6,1,REG
+2001020970,20012002,2002-03-10,Buffalo Sabres,Detroit Red Wings,5,1,REG
+2001020973,20012002,2002-03-10,Washington Capitals,Edmonton Oilers,4,2,REG
+2001020976,20012002,2002-03-10,Minnesota Wild,Columbus Blue Jackets,5,0,REG
+2001020974,20012002,2002-03-10,Tampa Bay Lightning,Nashville Predators,5,1,REG
+2001020975,20012002,2002-03-10,Dallas Stars,New Jersey Devils,0,3,REG
+2001020972,20012002,2002-03-10,Philadelphia Flyers,Toronto Maple Leafs,1,3,REG
+2001020978,20012002,2002-03-10,Anaheim Ducks,Ottawa Senators,2,4,REG
+2001020977,20012002,2002-03-10,Vancouver Canucks,San Jose Sharks,4,7,REG
+2001020979,20012002,2002-03-11,New York Rangers,Montréal Canadiens,2,1,REG
+2001020981,20012002,2002-03-11,Carolina Hurricanes,Calgary Flames,3,3,REG
+2001020980,20012002,2002-03-11,Pittsburgh Penguins,Columbus Blue Jackets,2,4,REG
+2001020982,20012002,2002-03-11,St. Louis Blues,Colorado Avalanche,2,3,REG
+2001020983,20012002,2002-03-11,Los Angeles Kings,Chicago Blackhawks,2,1,REG
+2001020984,20012002,2002-03-12,Buffalo Sabres,New York Islanders,0,3,REG
+2001020986,20012002,2002-03-12,Washington Capitals,Dallas Stars,2,5,REG
+2001020985,20012002,2002-03-12,Toronto Maple Leafs,Philadelphia Flyers,1,1,REG
+2001020987,20012002,2002-03-12,Atlanta Thrashers,Tampa Bay Lightning,4,4,REG
+2001020988,20012002,2002-03-12,Nashville Predators,Vancouver Canucks,0,5,REG
+2001020989,20012002,2002-03-12,Minnesota Wild,Ottawa Senators,3,4,REG
+2001020990,20012002,2002-03-12,Phoenix Coyotes,Chicago Blackhawks,3,1,REG
+2001020991,20012002,2002-03-13,New Jersey Devils,New York Islanders,3,2,REG
+2001020993,20012002,2002-03-13,Florida Panthers,Calgary Flames,3,3,REG
+2001020994,20012002,2002-03-13,Detroit Red Wings,Edmonton Oilers,4,3,REG
+2001020992,20012002,2002-03-13,New York Rangers,Boston Bruins,1,3,REG
+2001020995,20012002,2002-03-13,Anaheim Ducks,Pittsburgh Penguins,4,2,REG
+2001020996,20012002,2002-03-13,San Jose Sharks,St. Louis Blues,0,2,REG
+2001020997,20012002,2002-03-14,Boston Bruins,Toronto Maple Leafs,1,2,REG
+2001020999,20012002,2002-03-14,Ottawa Senators,Edmonton Oilers,1,4,REG
+2001021003,20012002,2002-03-14,Columbus Blue Jackets,Vancouver Canucks,1,5,REG
+2001020998,20012002,2002-03-14,Montréal Canadiens,Dallas Stars,3,3,REG
+2001021000,20012002,2002-03-14,Philadelphia Flyers,Buffalo Sabres,1,3,REG
+2001021001,20012002,2002-03-14,Atlanta Thrashers,Colorado Avalanche,2,0,REG
+2001021002,20012002,2002-03-14,Tampa Bay Lightning,Calgary Flames,3,2,REG
+2001021004,20012002,2002-03-14,Los Angeles Kings,St. Louis Blues,2,1,REG
+2001021005,20012002,2002-03-15,Florida Panthers,Buffalo Sabres,5,2,REG
+2001021006,20012002,2002-03-15,Nashville Predators,Phoenix Coyotes,2,3,REG
+2001021007,20012002,2002-03-15,Anaheim Ducks,Chicago Blackhawks,1,1,REG
+2001021008,20012002,2002-03-15,San Jose Sharks,Washington Capitals,5,4,REG
+2001021018,20012002,2002-03-16,Los Angeles Kings,Pittsburgh Penguins,4,3,REG
+2001021009,20012002,2002-03-16,Boston Bruins,Detroit Red Wings,2,1,REG
+2001021013,20012002,2002-03-16,New Jersey Devils,New York Rangers,3,1,REG
+2001021014,20012002,2002-03-16,Philadelphia Flyers,Colorado Avalanche,1,2,REG
+2001021010,20012002,2002-03-16,Toronto Maple Leafs,Dallas Stars,5,5,REG
+2001021011,20012002,2002-03-16,Montréal Canadiens,Carolina Hurricanes,3,2,REG
+2001021012,20012002,2002-03-16,Ottawa Senators,New York Islanders,4,3,REG
+2001021015,20012002,2002-03-16,Atlanta Thrashers,Vancouver Canucks,2,4,REG
+2001021016,20012002,2002-03-16,Columbus Blue Jackets,Calgary Flames,3,1,REG
+2001021017,20012002,2002-03-16,Edmonton Oilers,Washington Capitals,4,1,REG
+2001021019,20012002,2002-03-16,San Jose Sharks,Chicago Blackhawks,2,2,REG
+2001021024,20012002,2002-03-17,Minnesota Wild,Phoenix Coyotes,2,2,REG
+2001021023,20012002,2002-03-17,Nashville Predators,Colorado Avalanche,4,5,REG
+2001021021,20012002,2002-03-17,New York Rangers,Detroit Red Wings,3,5,REG
+2001021020,20012002,2002-03-17,Ottawa Senators,Florida Panthers,2,0,REG
+2001021022,20012002,2002-03-17,Tampa Bay Lightning,Buffalo Sabres,2,2,REG
+2001021026,20012002,2002-03-17,New Jersey Devils,Vancouver Canucks,2,3,REG
+2001021025,20012002,2002-03-17,Anaheim Ducks,St. Louis Blues,2,3,REG
+2001021027,20012002,2002-03-18,Philadelphia Flyers,Tampa Bay Lightning,3,3,REG
+2001021028,20012002,2002-03-18,Carolina Hurricanes,Montréal Canadiens,1,1,REG
+2001021029,20012002,2002-03-18,Atlanta Thrashers,Pittsburgh Penguins,2,4,REG
+2001021031,20012002,2002-03-18,Minnesota Wild,Calgary Flames,4,2,REG
+2001021030,20012002,2002-03-18,Chicago Blackhawks,Dallas Stars,2,2,REG
+2001021032,20012002,2002-03-18,San Jose Sharks,Los Angeles Kings,2,3,REG
+2001021033,20012002,2002-03-19,Boston Bruins,Phoenix Coyotes,4,2,REG
+2001021034,20012002,2002-03-19,Buffalo Sabres,Ottawa Senators,5,1,REG
+2001021036,20012002,2002-03-19,New York Rangers,Vancouver Canucks,1,3,REG
+2001021035,20012002,2002-03-19,Toronto Maple Leafs,New York Islanders,3,2,REG
+2001021037,20012002,2002-03-19,Detroit Red Wings,Anaheim Ducks,1,2,REG
+2001021038,20012002,2002-03-19,St. Louis Blues,Nashville Predators,5,1,REG
+2001021039,20012002,2002-03-19,Colorado Avalanche,Washington Capitals,0,3,REG
+2001021041,20012002,2002-03-20,Tampa Bay Lightning,Atlanta Thrashers,4,2,REG
+2001021042,20012002,2002-03-20,Florida Panthers,Montréal Canadiens,1,4,REG
+2001021044,20012002,2002-03-20,Dallas Stars,St. Louis Blues,3,2,REG
+2001021045,20012002,2002-03-20,Minnesota Wild,Columbus Blue Jackets,1,3,REG
+2001021040,20012002,2002-03-20,Pittsburgh Penguins,Phoenix Coyotes,1,3,REG
+2001021043,20012002,2002-03-20,Chicago Blackhawks,New Jersey Devils,1,3,REG
+2001021046,20012002,2002-03-20,Edmonton Oilers,San Jose Sharks,2,1,REG
+2001021049,20012002,2002-03-21,Ottawa Senators,New York Rangers,2,5,REG
+2001021050,20012002,2002-03-21,New York Islanders,Vancouver Canucks,3,2,REG
+2001021051,20012002,2002-03-21,Philadelphia Flyers,Anaheim Ducks,2,1,REG
+2001021052,20012002,2002-03-21,Carolina Hurricanes,Florida Panthers,3,2,REG
+2001021053,20012002,2002-03-21,Columbus Blue Jackets,Detroit Red Wings,2,3,REG
+2001021047,20012002,2002-03-21,Buffalo Sabres,Boston Bruins,1,2,REG
+2001021048,20012002,2002-03-21,Toronto Maple Leafs,Washington Capitals,3,4,REG
+2001021054,20012002,2002-03-21,Nashville Predators,New Jersey Devils,3,4,REG
+2001021055,20012002,2002-03-21,Calgary Flames,San Jose Sharks,1,4,REG
+2001021056,20012002,2002-03-21,Los Angeles Kings,Colorado Avalanche,3,1,REG
+2001021057,20012002,2002-03-22,New York Rangers,Atlanta Thrashers,2,5,REG
+2001021058,20012002,2002-03-22,Tampa Bay Lightning,Montréal Canadiens,3,3,REG
+2001021059,20012002,2002-03-22,St. Louis Blues,Anaheim Ducks,3,2,REG
+2001021060,20012002,2002-03-22,Dallas Stars,Phoenix Coyotes,4,3,REG
+2001021063,20012002,2002-03-23,New Jersey Devils,Carolina Hurricanes,2,4,REG
+2001021064,20012002,2002-03-23,New York Islanders,Minnesota Wild,2,1,REG
+2001021065,20012002,2002-03-23,Pittsburgh Penguins,Philadelphia Flyers,4,4,REG
+2001021069,20012002,2002-03-23,Colorado Avalanche,Detroit Red Wings,0,2,REG
+2001021071,20012002,2002-03-23,Los Angeles Kings,San Jose Sharks,3,0,REG
+2001021068,20012002,2002-03-23,Nashville Predators,Montréal Canadiens,5,1,REG
+2001021061,20012002,2002-03-23,Toronto Maple Leafs,Buffalo Sabres,2,0,REG
+2001021062,20012002,2002-03-23,Ottawa Senators,Atlanta Thrashers,2,3,REG
+2001021067,20012002,2002-03-23,Columbus Blue Jackets,Washington Capitals,2,5,REG
+2001021066,20012002,2002-03-23,Florida Panthers,Boston Bruins,1,3,REG
+2001021070,20012002,2002-03-23,Edmonton Oilers,Calgary Flames,3,1,REG
+2001021075,20012002,2002-03-24,Chicago Blackhawks,St. Louis Blues,4,3,REG
+2001021076,20012002,2002-03-24,Dallas Stars,Anaheim Ducks,1,2,REG
+2001021072,20012002,2002-03-24,Ottawa Senators,Buffalo Sabres,2,3,REG
+2001021074,20012002,2002-03-24,Tampa Bay Lightning,Boston Bruins,3,4,REG
+2001021078,20012002,2002-03-24,Phoenix Coyotes,Los Angeles Kings,4,0,REG
+2001021073,20012002,2002-03-24,Pittsburgh Penguins,Washington Capitals,6,2,REG
+2001021077,20012002,2002-03-24,Vancouver Canucks,Edmonton Oilers,0,2,REG
+2001021080,20012002,2002-03-25,New York Islanders,New York Rangers,4,2,REG
+2001021081,20012002,2002-03-25,Philadelphia Flyers,Toronto Maple Leafs,4,1,REG
+2001021079,20012002,2002-03-25,New Jersey Devils,Florida Panthers,3,1,REG
+2001021082,20012002,2002-03-25,Nashville Predators,Detroit Red Wings,3,3,REG
+2001021083,20012002,2002-03-25,Calgary Flames,Columbus Blue Jackets,6,1,REG
+2001021084,20012002,2002-03-26,Buffalo Sabres,Washington Capitals,3,4,REG
+2001021087,20012002,2002-03-26,Carolina Hurricanes,Boston Bruins,2,3,REG
+2001021085,20012002,2002-03-26,Toronto Maple Leafs,Tampa Bay Lightning,7,2,REG
+2001021086,20012002,2002-03-26,Montréal Canadiens,Florida Panthers,1,2,REG
+2001021088,20012002,2002-03-26,St. Louis Blues,Minnesota Wild,1,2,REG
+2001021089,20012002,2002-03-26,Edmonton Oilers,Columbus Blue Jackets,3,1,REG
+2001021090,20012002,2002-03-26,Vancouver Canucks,Los Angeles Kings,4,0,REG
+2001021091,20012002,2002-03-26,San Jose Sharks,Dallas Stars,3,2,REG
+2001021092,20012002,2002-03-27,New York Islanders,Ottawa Senators,1,4,REG
+2001021094,20012002,2002-03-27,Pittsburgh Penguins,New Jersey Devils,3,4,REG
+2001021095,20012002,2002-03-27,Atlanta Thrashers,Minnesota Wild,2,4,REG
+2001021093,20012002,2002-03-27,New York Rangers,Philadelphia Flyers,2,4,REG
+2001021096,20012002,2002-03-27,Chicago Blackhawks,Nashville Predators,4,1,REG
+2001021097,20012002,2002-03-27,Anaheim Ducks,Phoenix Coyotes,2,4,REG
+2001021100,20012002,2002-03-28,Ottawa Senators,Florida Panthers,3,4,REG
+2001021101,20012002,2002-03-28,Carolina Hurricanes,Philadelphia Flyers,4,1,REG
+2001021103,20012002,2002-03-28,St. Louis Blues,Buffalo Sabres,4,1,REG
+2001021098,20012002,2002-03-28,Toronto Maple Leafs,New York Islanders,4,5,REG
+2001021099,20012002,2002-03-28,Montréal Canadiens,Tampa Bay Lightning,2,1,REG
+2001021102,20012002,2002-03-28,Detroit Red Wings,Nashville Predators,3,3,REG
+2001021104,20012002,2002-03-28,Calgary Flames,Dallas Stars,2,2,REG
+2001021105,20012002,2002-03-28,Edmonton Oilers,Los Angeles Kings,2,2,REG
+2001021107,20012002,2002-03-28,Phoenix Coyotes,Anaheim Ducks,1,2,REG
+2001021106,20012002,2002-03-28,Vancouver Canucks,Columbus Blue Jackets,4,3,REG
+2001021108,20012002,2002-03-28,San Jose Sharks,Colorado Avalanche,2,3,REG
+2001021109,20012002,2002-03-29,New Jersey Devils,Washington Capitals,1,3,REG
+2001021110,20012002,2002-03-29,Minnesota Wild,Chicago Blackhawks,1,3,REG
+2001021111,20012002,2002-03-30,Boston Bruins,Carolina Hurricanes,0,2,REG
+2001021115,20012002,2002-03-30,Philadelphia Flyers,Buffalo Sabres,1,3,REG
+2001021112,20012002,2002-03-30,Toronto Maple Leafs,New Jersey Devils,1,3,REG
+2001021113,20012002,2002-03-30,Montréal Canadiens,Pittsburgh Penguins,2,1,REG
+2001021114,20012002,2002-03-30,Ottawa Senators,Tampa Bay Lightning,3,1,REG
+2001021116,20012002,2002-03-30,Washington Capitals,New York Islanders,4,2,REG
+2001021117,20012002,2002-03-30,Florida Panthers,New York Rangers,2,4,REG
+2001021118,20012002,2002-03-30,Detroit Red Wings,Atlanta Thrashers,4,1,REG
+2001021119,20012002,2002-03-30,Nashville Predators,St. Louis Blues,2,4,REG
+2001021120,20012002,2002-03-30,Calgary Flames,Los Angeles Kings,5,3,REG
+2001021123,20012002,2002-03-30,Phoenix Coyotes,Colorado Avalanche,5,3,REG
+2001021122,20012002,2002-03-30,Vancouver Canucks,Anaheim Ducks,4,1,REG
+2001021121,20012002,2002-03-30,Edmonton Oilers,Dallas Stars,3,1,REG
+2001021124,20012002,2002-03-30,San Jose Sharks,Columbus Blue Jackets,10,2,REG
+2001021125,20012002,2002-03-31,Chicago Blackhawks,Minnesota Wild,2,1,REG
+2001021126,20012002,2002-04-01,Buffalo Sabres,Philadelphia Flyers,3,1,REG
+2001021127,20012002,2002-04-01,New York Islanders,New Jersey Devils,4,2,REG
+2001021128,20012002,2002-04-01,Pittsburgh Penguins,Montréal Canadiens,0,3,REG
+2001021129,20012002,2002-04-01,Tampa Bay Lightning,New York Rangers,4,6,REG
+2001021130,20012002,2002-04-01,Detroit Red Wings,Toronto Maple Leafs,4,5,REG
+2001021131,20012002,2002-04-01,Dallas Stars,Columbus Blue Jackets,3,1,REG
+2001021132,20012002,2002-04-01,Colorado Avalanche,Nashville Predators,5,1,REG
+2001021133,20012002,2002-04-01,Phoenix Coyotes,St. Louis Blues,5,3,REG
+2001021134,20012002,2002-04-02,Ottawa Senators,Carolina Hurricanes,4,3,REG
+2001021135,20012002,2002-04-02,Philadelphia Flyers,Boston Bruins,2,4,REG
+2001021136,20012002,2002-04-02,Calgary Flames,Atlanta Thrashers,4,2,REG
+2001021137,20012002,2002-04-02,Edmonton Oilers,Minnesota Wild,2,1,REG
+2001021138,20012002,2002-04-02,Los Angeles Kings,Vancouver Canucks,4,4,REG
+2001021139,20012002,2002-04-02,San Jose Sharks,Anaheim Ducks,3,1,REG
+2001021141,20012002,2002-04-03,Washington Capitals,Tampa Bay Lightning,4,1,REG
+2001021142,20012002,2002-04-03,Carolina Hurricanes,New Jersey Devils,2,3,REG
+2001021143,20012002,2002-04-03,Florida Panthers,Pittsburgh Penguins,3,2,REG
+2001021145,20012002,2002-04-03,Dallas Stars,St. Louis Blues,1,2,REG
+2001021140,20012002,2002-04-03,Buffalo Sabres,New York Islanders,1,1,REG
+2001021144,20012002,2002-04-03,Chicago Blackhawks,Nashville Predators,1,3,REG
+2001021146,20012002,2002-04-03,Colorado Avalanche,Atlanta Thrashers,6,0,REG
+2001021147,20012002,2002-04-03,Anaheim Ducks,Detroit Red Wings,1,1,REG
+2001021148,20012002,2002-04-04,Boston Bruins,New York Islanders,1,2,REG
+2001021150,20012002,2002-04-04,Philadelphia Flyers,Montréal Canadiens,1,3,REG
+2001021152,20012002,2002-04-04,Columbus Blue Jackets,Nashville Predators,2,1,REG
+2001021149,20012002,2002-04-04,Toronto Maple Leafs,New York Rangers,2,4,REG
+2001021151,20012002,2002-04-04,Tampa Bay Lightning,Pittsburgh Penguins,4,2,REG
+2001021153,20012002,2002-04-04,Calgary Flames,Minnesota Wild,4,3,REG
+2001021154,20012002,2002-04-04,Los Angeles Kings,Detroit Red Wings,3,0,REG
+2001021155,20012002,2002-04-04,San Jose Sharks,Phoenix Coyotes,5,2,REG
+2001021160,20012002,2002-04-05,Dallas Stars,Colorado Avalanche,3,1,REG
+2001021156,20012002,2002-04-05,Buffalo Sabres,Florida Panthers,3,1,REG
+2001021157,20012002,2002-04-05,Washington Capitals,Ottawa Senators,0,0,REG
+2001021158,20012002,2002-04-05,Atlanta Thrashers,New Jersey Devils,1,3,REG
+2001021159,20012002,2002-04-05,St. Louis Blues,Chicago Blackhawks,5,1,REG
+2001021161,20012002,2002-04-05,Vancouver Canucks,Minnesota Wild,5,4,REG
+2001021162,20012002,2002-04-05,Anaheim Ducks,Edmonton Oilers,2,0,REG
+2001021163,20012002,2002-04-06,Boston Bruins,New York Rangers,4,6,REG
+2001021164,20012002,2002-04-06,Toronto Maple Leafs,Florida Panthers,2,2,REG
+2001021165,20012002,2002-04-06,Montréal Canadiens,Columbus Blue Jackets,4,1,REG
+2001021166,20012002,2002-04-06,New York Islanders,Washington Capitals,5,4,REG
+2001021167,20012002,2002-04-06,Philadelphia Flyers,Pittsburgh Penguins,3,1,REG
+2001021168,20012002,2002-04-06,Nashville Predators,Calgary Flames,3,1,REG
+2001021169,20012002,2002-04-06,Los Angeles Kings,Edmonton Oilers,4,3,REG
+2001021170,20012002,2002-04-06,San Jose Sharks,Detroit Red Wings,6,3,REG
+2001021172,20012002,2002-04-07,New Jersey Devils,Boston Bruins,3,2,REG
+2001021173,20012002,2002-04-07,Carolina Hurricanes,Atlanta Thrashers,1,1,REG
+2001021174,20012002,2002-04-07,Tampa Bay Lightning,Buffalo Sabres,3,5,REG
+2001021176,20012002,2002-04-07,St. Louis Blues,Colorado Avalanche,2,4,REG
+2001021171,20012002,2002-04-07,Ottawa Senators,Montréal Canadiens,1,3,REG
+2001021178,20012002,2002-04-07,Anaheim Ducks,Dallas Stars,4,1,REG
+2001021175,20012002,2002-04-07,Chicago Blackhawks,Calgary Flames,3,2,REG
+2001021177,20012002,2002-04-07,Vancouver Canucks,Phoenix Coyotes,4,3,REG
+2001021180,20012002,2002-04-08,New York Islanders,Carolina Hurricanes,1,2,REG
+2001021181,20012002,2002-04-08,New York Rangers,Pittsburgh Penguins,3,2,REG
+2001021182,20012002,2002-04-08,Philadelphia Flyers,Florida Panthers,4,4,REG
+2001021179,20012002,2002-04-08,Toronto Maple Leafs,Columbus Blue Jackets,4,1,REG
+2001021183,20012002,2002-04-08,Minnesota Wild,San Jose Sharks,3,1,REG
+2001021184,20012002,2002-04-08,Los Angeles Kings,Dallas Stars,3,0,REG
+2001021185,20012002,2002-04-09,Boston Bruins,Tampa Bay Lightning,2,2,REG
+2001021187,20012002,2002-04-09,Washington Capitals,Chicago Blackhawks,3,1,REG
+2001021186,20012002,2002-04-09,Montréal Canadiens,Ottawa Senators,4,3,REG
+2001021189,20012002,2002-04-09,Colorado Avalanche,Vancouver Canucks,1,2,REG
+2001021188,20012002,2002-04-09,St. Louis Blues,Nashville Predators,3,2,REG
+2001021190,20012002,2002-04-09,Calgary Flames,Phoenix Coyotes,2,4,REG
+2001021191,20012002,2002-04-10,New Jersey Devils,Philadelphia Flyers,1,0,REG
+2001021192,20012002,2002-04-10,New York Rangers,Toronto Maple Leafs,2,7,REG
+2001021194,20012002,2002-04-10,Carolina Hurricanes,Tampa Bay Lightning,4,2,REG
+2001021197,20012002,2002-04-10,Columbus Blue Jackets,San Jose Sharks,3,5,REG
+2001021193,20012002,2002-04-10,Pittsburgh Penguins,Buffalo Sabres,4,4,REG
+2001021195,20012002,2002-04-10,Atlanta Thrashers,Florida Panthers,4,4,REG
+2001021196,20012002,2002-04-10,Detroit Red Wings,Chicago Blackhawks,3,3,REG
+2001021198,20012002,2002-04-10,Dallas Stars,Minnesota Wild,4,4,REG
+2001021199,20012002,2002-04-10,Edmonton Oilers,Phoenix Coyotes,3,0,REG
+2001021200,20012002,2002-04-11,Ottawa Senators,Boston Bruins,4,0,REG
+2001021201,20012002,2002-04-11,St. Louis Blues,San Jose Sharks,4,1,REG
+2001021202,20012002,2002-04-11,Nashville Predators,New York Islanders,2,5,REG
+2001021203,20012002,2002-04-11,Vancouver Canucks,Los Angeles Kings,5,2,REG
+2001021204,20012002,2002-04-12,Buffalo Sabres,Washington Capitals,1,3,REG
+2001021209,20012002,2002-04-12,Columbus Blue Jackets,Atlanta Thrashers,5,4,REG
+2001021205,20012002,2002-04-12,New Jersey Devils,Montréal Canadiens,5,2,REG
+2001021206,20012002,2002-04-12,Pittsburgh Penguins,Toronto Maple Leafs,2,5,REG
+2001021207,20012002,2002-04-12,Tampa Bay Lightning,New York Islanders,1,3,REG
+2001021208,20012002,2002-04-12,Florida Panthers,Carolina Hurricanes,1,3,REG
+2001021210,20012002,2002-04-12,Dallas Stars,Chicago Blackhawks,3,1,REG
+2001021211,20012002,2002-04-12,Edmonton Oilers,Calgary Flames,0,2,REG
+2001021212,20012002,2002-04-12,Phoenix Coyotes,Minnesota Wild,7,1,REG
+2001021213,20012002,2002-04-12,Anaheim Ducks,Colorado Avalanche,1,3,REG
+2001021219,20012002,2002-04-13,St. Louis Blues,Detroit Red Wings,3,2,REG
+2001021217,20012002,2002-04-13,Philadelphia Flyers,New York Rangers,2,1,REG
+2001021221,20012002,2002-04-13,San Jose Sharks,Los Angeles Kings,3,1,REG
+2001021214,20012002,2002-04-13,Boston Bruins,Pittsburgh Penguins,7,1,REG
+2001021215,20012002,2002-04-13,Montréal Canadiens,Buffalo Sabres,0,3,REG
+2001021216,20012002,2002-04-13,Ottawa Senators,Toronto Maple Leafs,2,5,REG
+2001021218,20012002,2002-04-13,Washington Capitals,New Jersey Devils,3,4,REG
+2001021220,20012002,2002-04-13,Calgary Flames,Vancouver Canucks,1,4,REG
+2001021222,20012002,2002-04-14,New York Islanders,Philadelphia Flyers,3,1,REG
+2001021227,20012002,2002-04-14,Minnesota Wild,Edmonton Oilers,2,4,REG
+2001021228,20012002,2002-04-14,Colorado Avalanche,Dallas Stars,2,2,REG
+2001021226,20012002,2002-04-14,Chicago Blackhawks,Columbus Blue Jackets,2,0,REG
+2001021223,20012002,2002-04-14,Atlanta Thrashers,Carolina Hurricanes,2,2,REG
+2001021224,20012002,2002-04-14,Florida Panthers,Tampa Bay Lightning,2,3,REG
+2001021230,20012002,2002-04-14,Los Angeles Kings,Anaheim Ducks,1,0,REG
+2001021225,20012002,2002-04-14,Detroit Red Wings,St. Louis Blues,3,5,REG
+2001021229,20012002,2002-04-14,Phoenix Coyotes,Nashville Predators,6,4,REG
+2001030121,20012002,2002-04-17,Philadelphia Flyers,Ottawa Senators,1,0,POST
+2001030131,20012002,2002-04-17,Carolina Hurricanes,New Jersey Devils,2,1,POST
+2001030151,20012002,2002-04-17,Detroit Red Wings,Vancouver Canucks,3,4,POST
+2001030171,20012002,2002-04-17,San Jose Sharks,Phoenix Coyotes,2,1,POST
+2001030181,20012002,2002-04-18,St. Louis Blues,Chicago Blackhawks,1,2,POST
+2001030111,20012002,2002-04-18,Boston Bruins,Montréal Canadiens,2,5,POST
+2001030141,20012002,2002-04-18,Toronto Maple Leafs,New York Islanders,3,1,POST
+2001030161,20012002,2002-04-18,Colorado Avalanche,Los Angeles Kings,4,3,POST
+2001030152,20012002,2002-04-19,Detroit Red Wings,Vancouver Canucks,2,5,POST
+2001030132,20012002,2002-04-19,Carolina Hurricanes,New Jersey Devils,2,1,POST
+2001030172,20012002,2002-04-20,San Jose Sharks,Phoenix Coyotes,1,3,POST
+2001030162,20012002,2002-04-20,Colorado Avalanche,Los Angeles Kings,5,3,POST
+2001030182,20012002,2002-04-20,St. Louis Blues,Chicago Blackhawks,2,0,POST
+2001030142,20012002,2002-04-20,Toronto Maple Leafs,New York Islanders,2,0,POST
+2001030122,20012002,2002-04-20,Philadelphia Flyers,Ottawa Senators,0,3,POST
+2001030133,20012002,2002-04-21,New Jersey Devils,Carolina Hurricanes,4,0,POST
+2001030112,20012002,2002-04-21,Boston Bruins,Montréal Canadiens,6,4,POST
+2001030183,20012002,2002-04-21,Chicago Blackhawks,St. Louis Blues,0,4,POST
+2001030153,20012002,2002-04-21,Vancouver Canucks,Detroit Red Wings,1,3,POST
+2001030123,20012002,2002-04-22,Ottawa Senators,Philadelphia Flyers,3,0,POST
+2001030163,20012002,2002-04-22,Los Angeles Kings,Colorado Avalanche,3,1,POST
+2001030173,20012002,2002-04-22,Phoenix Coyotes,San Jose Sharks,1,4,POST
+2001030113,20012002,2002-04-23,Montréal Canadiens,Boston Bruins,5,3,POST
+2001030134,20012002,2002-04-23,New Jersey Devils,Carolina Hurricanes,3,1,POST
+2001030143,20012002,2002-04-23,New York Islanders,Toronto Maple Leafs,6,1,POST
+2001030184,20012002,2002-04-23,Chicago Blackhawks,St. Louis Blues,0,1,POST
+2001030164,20012002,2002-04-23,Los Angeles Kings,Colorado Avalanche,0,1,POST
+2001030154,20012002,2002-04-23,Vancouver Canucks,Detroit Red Wings,2,4,POST
+2001030124,20012002,2002-04-24,Ottawa Senators,Philadelphia Flyers,3,0,POST
+2001030135,20012002,2002-04-24,Carolina Hurricanes,New Jersey Devils,3,2,POST
+2001030144,20012002,2002-04-24,New York Islanders,Toronto Maple Leafs,4,3,POST
+2001030174,20012002,2002-04-24,Phoenix Coyotes,San Jose Sharks,1,2,POST
+2001030185,20012002,2002-04-25,St. Louis Blues,Chicago Blackhawks,5,3,POST
+2001030114,20012002,2002-04-25,Montréal Canadiens,Boston Bruins,2,5,POST
+2001030155,20012002,2002-04-25,Detroit Red Wings,Vancouver Canucks,4,0,POST
+2001030165,20012002,2002-04-25,Colorado Avalanche,Los Angeles Kings,0,1,POST
+2001030125,20012002,2002-04-26,Philadelphia Flyers,Ottawa Senators,1,2,POST
+2001030145,20012002,2002-04-26,Toronto Maple Leafs,New York Islanders,6,3,POST
+2001030175,20012002,2002-04-26,San Jose Sharks,Phoenix Coyotes,4,1,POST
+2001030115,20012002,2002-04-27,Boston Bruins,Montréal Canadiens,1,2,POST
+2001030136,20012002,2002-04-27,New Jersey Devils,Carolina Hurricanes,0,1,POST
+2001030166,20012002,2002-04-27,Los Angeles Kings,Colorado Avalanche,3,1,POST
+2001030156,20012002,2002-04-27,Vancouver Canucks,Detroit Red Wings,4,6,POST
+2001030146,20012002,2002-04-28,New York Islanders,Toronto Maple Leafs,5,3,POST
+2001030116,20012002,2002-04-29,Montréal Canadiens,Boston Bruins,2,1,POST
+2001030167,20012002,2002-04-29,Colorado Avalanche,Los Angeles Kings,4,0,POST
+2001030147,20012002,2002-04-30,Toronto Maple Leafs,New York Islanders,4,2,POST
+2001030241,20012002,2002-05-01,Colorado Avalanche,San Jose Sharks,3,6,POST
+2001030221,20012002,2002-05-02,Toronto Maple Leafs,Ottawa Senators,0,5,POST
+2001030231,20012002,2002-05-02,Detroit Red Wings,St. Louis Blues,2,0,POST
+2001030211,20012002,2002-05-03,Carolina Hurricanes,Montréal Canadiens,2,0,POST
+2001030232,20012002,2002-05-04,Detroit Red Wings,St. Louis Blues,3,2,POST
+2001030242,20012002,2002-05-04,Colorado Avalanche,San Jose Sharks,8,2,POST
+2001030222,20012002,2002-05-04,Toronto Maple Leafs,Ottawa Senators,3,2,POST
+2001030212,20012002,2002-05-05,Carolina Hurricanes,Montréal Canadiens,1,4,POST
+2001030223,20012002,2002-05-06,Ottawa Senators,Toronto Maple Leafs,3,2,POST
+2001030243,20012002,2002-05-06,San Jose Sharks,Colorado Avalanche,6,4,POST
+2001030213,20012002,2002-05-07,Montréal Canadiens,Carolina Hurricanes,2,1,POST
+2001030233,20012002,2002-05-07,St. Louis Blues,Detroit Red Wings,6,1,POST
+2001030224,20012002,2002-05-08,Ottawa Senators,Toronto Maple Leafs,1,2,POST
+2001030244,20012002,2002-05-08,San Jose Sharks,Colorado Avalanche,1,4,POST
+2001030214,20012002,2002-05-09,Montréal Canadiens,Carolina Hurricanes,3,4,POST
+2001030234,20012002,2002-05-09,St. Louis Blues,Detroit Red Wings,3,4,POST
+2001030225,20012002,2002-05-10,Toronto Maple Leafs,Ottawa Senators,2,4,POST
+2001030245,20012002,2002-05-11,Colorado Avalanche,San Jose Sharks,3,5,POST
+2001030235,20012002,2002-05-11,Detroit Red Wings,St. Louis Blues,4,0,POST
+2001030215,20012002,2002-05-12,Carolina Hurricanes,Montréal Canadiens,5,1,POST
+2001030226,20012002,2002-05-12,Ottawa Senators,Toronto Maple Leafs,3,4,POST
+2001030216,20012002,2002-05-13,Montréal Canadiens,Carolina Hurricanes,2,8,POST
+2001030246,20012002,2002-05-13,San Jose Sharks,Colorado Avalanche,1,2,POST
+2001030227,20012002,2002-05-14,Toronto Maple Leafs,Ottawa Senators,3,0,POST
+2001030247,20012002,2002-05-15,Colorado Avalanche,San Jose Sharks,1,0,POST
+2001030311,20012002,2002-05-16,Carolina Hurricanes,Toronto Maple Leafs,1,2,POST
+2001030321,20012002,2002-05-18,Detroit Red Wings,Colorado Avalanche,5,3,POST
+2001030312,20012002,2002-05-19,Carolina Hurricanes,Toronto Maple Leafs,2,1,POST
+2001030322,20012002,2002-05-20,Detroit Red Wings,Colorado Avalanche,3,4,POST
+2001030313,20012002,2002-05-21,Toronto Maple Leafs,Carolina Hurricanes,1,2,POST
+2001030323,20012002,2002-05-22,Colorado Avalanche,Detroit Red Wings,1,2,POST
+2001030314,20012002,2002-05-23,Toronto Maple Leafs,Carolina Hurricanes,0,3,POST
+2001030324,20012002,2002-05-25,Colorado Avalanche,Detroit Red Wings,3,2,POST
+2001030315,20012002,2002-05-25,Carolina Hurricanes,Toronto Maple Leafs,0,1,POST
+2001030325,20012002,2002-05-27,Detroit Red Wings,Colorado Avalanche,1,2,POST
+2001030316,20012002,2002-05-28,Toronto Maple Leafs,Carolina Hurricanes,1,2,POST
+2001030326,20012002,2002-05-29,Colorado Avalanche,Detroit Red Wings,0,2,POST
+2001030327,20012002,2002-05-31,Detroit Red Wings,Colorado Avalanche,7,0,POST
+2001030411,20012002,2002-06-04,Detroit Red Wings,Carolina Hurricanes,2,3,POST
+2001030412,20012002,2002-06-06,Detroit Red Wings,Carolina Hurricanes,3,1,POST
+2001030413,20012002,2002-06-08,Carolina Hurricanes,Detroit Red Wings,2,3,POST
+2001030414,20012002,2002-06-10,Carolina Hurricanes,Detroit Red Wings,0,3,POST
+2001030415,20012002,2002-06-13,Detroit Red Wings,Carolina Hurricanes,3,1,POST

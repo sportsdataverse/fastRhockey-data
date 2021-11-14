@@ -1,0 +1,1316 @@
+game_id,season_full,date,home_name,away_name,home_final_score,away_final_score,game_type
+2007020001,20072008,2007-09-29,Los Angeles Kings,Anaheim Ducks,4,1,REG
+2007020002,20072008,2007-09-30,Anaheim Ducks,Los Angeles Kings,4,1,REG
+2007020003,20072008,2007-10-03,Carolina Hurricanes,Montréal Canadiens,2,3,REG
+2007020004,20072008,2007-10-03,Detroit Red Wings,Anaheim Ducks,3,2,REG
+2007020005,20072008,2007-10-03,Toronto Maple Leafs,Ottawa Senators,3,4,REG
+2007020006,20072008,2007-10-03,Colorado Avalanche,Dallas Stars,4,3,REG
+2007020007,20072008,2007-10-04,New York Rangers,Florida Panthers,5,2,REG
+2007020008,20072008,2007-10-04,Ottawa Senators,Toronto Maple Leafs,3,2,REG
+2007020009,20072008,2007-10-04,Tampa Bay Lightning,New Jersey Devils,3,1,REG
+2007020010,20072008,2007-10-04,Nashville Predators,Colorado Avalanche,4,0,REG
+2007020011,20072008,2007-10-04,Minnesota Wild,Chicago Blackhawks,1,0,REG
+2007020013,20072008,2007-10-04,Edmonton Oilers,San Jose Sharks,3,2,REG
+2007020014,20072008,2007-10-04,Phoenix Coyotes,St. Louis Blues,3,2,REG
+2007020012,20072008,2007-10-04,Calgary Flames,Philadelphia Flyers,2,3,REG
+2007020015,20072008,2007-10-05,Carolina Hurricanes,Pittsburgh Penguins,4,1,REG
+2007020016,20072008,2007-10-05,Columbus Blue Jackets,Anaheim Ducks,4,0,REG
+2007020017,20072008,2007-10-05,Buffalo Sabres,New York Islanders,4,6,REG
+2007020018,20072008,2007-10-05,Atlanta Thrashers,Washington Capitals,1,3,REG
+2007020019,20072008,2007-10-05,Dallas Stars,Boston Bruins,4,1,REG
+2007020020,20072008,2007-10-05,Vancouver Canucks,San Jose Sharks,1,3,REG
+2007020022,20072008,2007-10-06,Toronto Maple Leafs,Montréal Canadiens,4,3,REG
+2007020023,20072008,2007-10-06,Ottawa Senators,New York Rangers,2,0,REG
+2007020024,20072008,2007-10-06,New York Islanders,Buffalo Sabres,3,2,REG
+2007020025,20072008,2007-10-06,Washington Capitals,Carolina Hurricanes,2,0,REG
+2007020026,20072008,2007-10-06,Florida Panthers,New Jersey Devils,1,4,REG
+2007020027,20072008,2007-10-06,Pittsburgh Penguins,Anaheim Ducks,5,4,REG
+2007020028,20072008,2007-10-06,Tampa Bay Lightning,Atlanta Thrashers,5,2,REG
+2007020021,20072008,2007-10-06,Edmonton Oilers,Philadelphia Flyers,5,3,REG
+2007020029,20072008,2007-10-06,Nashville Predators,Dallas Stars,5,1,REG
+2007020030,20072008,2007-10-06,Minnesota Wild,Columbus Blue Jackets,3,2,REG
+2007020031,20072008,2007-10-06,Chicago Blackhawks,Detroit Red Wings,4,3,REG
+2007020033,20072008,2007-10-06,Phoenix Coyotes,Boston Bruins,1,3,REG
+2007020032,20072008,2007-10-06,Calgary Flames,Vancouver Canucks,3,4,REG
+2007020034,20072008,2007-10-06,Los Angeles Kings,St. Louis Blues,3,5,REG
+2007020035,20072008,2007-10-07,Colorado Avalanche,San Jose Sharks,6,2,REG
+2007020036,20072008,2007-10-08,New York Islanders,Washington Capitals,1,2,REG
+2007020037,20072008,2007-10-08,Ottawa Senators,New Jersey Devils,4,2,REG
+2007020038,20072008,2007-10-08,Detroit Red Wings,Edmonton Oilers,4,2,REG
+2007020039,20072008,2007-10-09,Toronto Maple Leafs,Carolina Hurricanes,1,7,REG
+2007020040,20072008,2007-10-10,New York Islanders,New York Rangers,2,1,REG
+2007020041,20072008,2007-10-10,Atlanta Thrashers,Ottawa Senators,1,3,REG
+2007020042,20072008,2007-10-10,Columbus Blue Jackets,Phoenix Coyotes,3,0,REG
+2007020043,20072008,2007-10-10,Pittsburgh Penguins,Montréal Canadiens,2,3,REG
+2007020044,20072008,2007-10-10,Tampa Bay Lightning,Florida Panthers,2,1,REG
+2007020045,20072008,2007-10-10,Detroit Red Wings,Calgary Flames,4,2,REG
+2007020046,20072008,2007-10-10,Minnesota Wild,Edmonton Oilers,2,0,REG
+2007020047,20072008,2007-10-10,Chicago Blackhawks,San Jose Sharks,1,2,REG
+2007020048,20072008,2007-10-10,St. Louis Blues,Nashville Predators,4,1,REG
+2007020049,20072008,2007-10-10,Dallas Stars,Los Angeles Kings,5,1,REG
+2007020051,20072008,2007-10-10,Anaheim Ducks,Boston Bruins,2,1,REG
+2007020050,20072008,2007-10-10,Vancouver Canucks,Philadelphia Flyers,2,8,REG
+2007020052,20072008,2007-10-11,Buffalo Sabres,Atlanta Thrashers,6,0,REG
+2007020053,20072008,2007-10-11,Toronto Maple Leafs,New York Islanders,8,1,REG
+2007020054,20072008,2007-10-11,Ottawa Senators,Carolina Hurricanes,3,5,REG
+2007020055,20072008,2007-10-11,Florida Panthers,New Jersey Devils,3,0,REG
+2007020056,20072008,2007-10-11,Nashville Predators,Phoenix Coyotes,3,6,REG
+2007020057,20072008,2007-10-12,New York Rangers,Washington Capitals,3,1,REG
+2007020058,20072008,2007-10-12,Detroit Red Wings,Chicago Blackhawks,2,3,REG
+2007020059,20072008,2007-10-12,St. Louis Blues,Colorado Avalanche,4,1,REG
+2007020060,20072008,2007-10-12,Dallas Stars,Calgary Flames,2,3,REG
+2007020061,20072008,2007-10-12,Edmonton Oilers,Vancouver Canucks,2,5,REG
+2007020062,20072008,2007-10-12,Los Angeles Kings,Boston Bruins,6,8,REG
+2007020063,20072008,2007-10-13,Buffalo Sabres,Washington Capitals,7,3,REG
+2007020064,20072008,2007-10-13,Toronto Maple Leafs,Pittsburgh Penguins,4,6,REG
+2007020065,20072008,2007-10-13,Montréal Canadiens,Carolina Hurricanes,1,3,REG
+2007020066,20072008,2007-10-13,New York Rangers,Ottawa Senators,1,3,REG
+2007020067,20072008,2007-10-13,Philadelphia Flyers,New York Islanders,3,1,REG
+2007020068,20072008,2007-10-13,Atlanta Thrashers,New Jersey Devils,5,6,REG
+2007020069,20072008,2007-10-13,Florida Panthers,Tampa Bay Lightning,6,4,REG
+2007020070,20072008,2007-10-13,Nashville Predators,Calgary Flames,4,7,REG
+2007020071,20072008,2007-10-13,Chicago Blackhawks,Dallas Stars,2,1,REG
+2007020072,20072008,2007-10-13,Colorado Avalanche,Columbus Blue Jackets,5,1,REG
+2007020073,20072008,2007-10-13,Vancouver Canucks,Edmonton Oilers,4,1,REG
+2007020074,20072008,2007-10-13,Phoenix Coyotes,Minnesota Wild,2,3,REG
+2007020075,20072008,2007-10-13,San Jose Sharks,Boston Bruins,1,2,REG
+2007020076,20072008,2007-10-14,Anaheim Ducks,Minnesota Wild,0,2,REG
+2007020077,20072008,2007-10-14,Los Angeles Kings,Detroit Red Wings,1,4,REG
+2007020078,20072008,2007-10-15,Buffalo Sabres,Toronto Maple Leafs,5,4,REG
+2007020079,20072008,2007-10-15,Vancouver Canucks,San Jose Sharks,2,4,REG
+2007020080,20072008,2007-10-15,Anaheim Ducks,Detroit Red Wings,6,3,REG
+2007020081,20072008,2007-10-16,Philadelphia Flyers,Atlanta Thrashers,4,0,REG
+2007020082,20072008,2007-10-16,Montréal Canadiens,Florida Panthers,1,2,REG
+2007020083,20072008,2007-10-16,Colorado Avalanche,Calgary Flames,5,4,REG
+2007020084,20072008,2007-10-16,Los Angeles Kings,Minnesota Wild,4,3,REG
+2007020085,20072008,2007-10-17,Columbus Blue Jackets,Dallas Stars,2,3,REG
+2007020086,20072008,2007-10-17,Pittsburgh Penguins,New Jersey Devils,4,5,REG
+2007020087,20072008,2007-10-17,Chicago Blackhawks,St. Louis Blues,1,3,REG
+2007020088,20072008,2007-10-17,Anaheim Ducks,Nashville Predators,3,1,REG
+2007020089,20072008,2007-10-18,Boston Bruins,Tampa Bay Lightning,4,1,REG
+2007020090,20072008,2007-10-18,Philadelphia Flyers,New Jersey Devils,4,0,REG
+2007020091,20072008,2007-10-18,Washington Capitals,New York Islanders,2,5,REG
+2007020092,20072008,2007-10-18,Atlanta Thrashers,New York Rangers,5,3,REG
+2007020093,20072008,2007-10-18,Toronto Maple Leafs,Florida Panthers,3,2,REG
+2007020094,20072008,2007-10-18,Ottawa Senators,Montréal Canadiens,4,3,REG
+2007020095,20072008,2007-10-18,Calgary Flames,Los Angeles Kings,4,3,REG
+2007020096,20072008,2007-10-18,Phoenix Coyotes,Edmonton Oilers,2,4,REG
+2007020097,20072008,2007-10-18,San Jose Sharks,Detroit Red Wings,2,4,REG
+2007020098,20072008,2007-10-19,Buffalo Sabres,Columbus Blue Jackets,0,3,REG
+2007020099,20072008,2007-10-19,Pittsburgh Penguins,Carolina Hurricanes,4,3,REG
+2007020100,20072008,2007-10-19,Chicago Blackhawks,Colorado Avalanche,5,3,REG
+2007020101,20072008,2007-10-19,Vancouver Canucks,Los Angeles Kings,2,4,REG
+2007020102,20072008,2007-10-20,Boston Bruins,New York Rangers,1,0,REG
+2007020103,20072008,2007-10-20,Toronto Maple Leafs,Chicago Blackhawks,4,6,REG
+2007020104,20072008,2007-10-20,Montréal Canadiens,Buffalo Sabres,4,2,REG
+2007020105,20072008,2007-10-20,Ottawa Senators,Florida Panthers,4,1,REG
+2007020106,20072008,2007-10-20,New York Islanders,New Jersey Devils,4,3,REG
+2007020107,20072008,2007-10-20,Philadelphia Flyers,Carolina Hurricanes,3,2,REG
+2007020108,20072008,2007-10-20,Washington Capitals,Pittsburgh Penguins,1,2,REG
+2007020109,20072008,2007-10-20,Tampa Bay Lightning,Atlanta Thrashers,6,2,REG
+2007020110,20072008,2007-10-20,Dallas Stars,Anaheim Ducks,3,1,REG
+2007020111,20072008,2007-10-20,St. Louis Blues,Minnesota Wild,1,3,REG
+2007020113,20072008,2007-10-20,Phoenix Coyotes,Detroit Red Wings,2,5,REG
+2007020112,20072008,2007-10-20,Calgary Flames,Edmonton Oilers,4,1,REG
+2007020114,20072008,2007-10-20,San Jose Sharks,Nashville Predators,3,0,REG
+2007020115,20072008,2007-10-21,Columbus Blue Jackets,Vancouver Canucks,1,4,REG
+2007020116,20072008,2007-10-21,Minnesota Wild,Colorado Avalanche,3,2,REG
+2007020117,20072008,2007-10-22,Carolina Hurricanes,Vancouver Canucks,3,1,REG
+2007020118,20072008,2007-10-22,Montréal Canadiens,Boston Bruins,6,1,REG
+2007020119,20072008,2007-10-22,Calgary Flames,San Jose Sharks,1,4,REG
+2007020120,20072008,2007-10-23,Pittsburgh Penguins,New York Rangers,1,0,REG
+2007020121,20072008,2007-10-23,Toronto Maple Leafs,Atlanta Thrashers,4,5,REG
+2007020122,20072008,2007-10-23,Chicago Blackhawks,Columbus Blue Jackets,4,7,REG
+2007020123,20072008,2007-10-23,St. Louis Blues,Anaheim Ducks,4,2,REG
+2007020124,20072008,2007-10-23,Edmonton Oilers,Colorado Avalanche,2,4,REG
+2007020125,20072008,2007-10-23,Los Angeles Kings,Nashville Predators,6,0,REG
+2007020126,20072008,2007-10-24,Washington Capitals,Tampa Bay Lightning,5,3,REG
+2007020127,20072008,2007-10-24,Carolina Hurricanes,Buffalo Sabres,6,2,REG
+2007020128,20072008,2007-10-24,Florida Panthers,Philadelphia Flyers,4,3,REG
+2007020129,20072008,2007-10-24,Detroit Red Wings,Vancouver Canucks,3,2,REG
+2007020130,20072008,2007-10-24,Calgary Flames,Minnesota Wild,5,3,REG
+2007020131,20072008,2007-10-25,Boston Bruins,Chicago Blackhawks,3,1,REG
+2007020132,20072008,2007-10-25,New York Rangers,New Jersey Devils,2,0,REG
+2007020133,20072008,2007-10-25,Columbus Blue Jackets,St. Louis Blues,3,0,REG
+2007020134,20072008,2007-10-25,Pittsburgh Penguins,Toronto Maple Leafs,2,5,REG
+2007020135,20072008,2007-10-25,Tampa Bay Lightning,Philadelphia Flyers,5,2,REG
+2007020136,20072008,2007-10-25,Nashville Predators,Atlanta Thrashers,3,0,REG
+2007020137,20072008,2007-10-25,Edmonton Oilers,Minnesota Wild,5,4,REG
+2007020138,20072008,2007-10-25,Anaheim Ducks,Phoenix Coyotes,0,1,REG
+2007020139,20072008,2007-10-25,Los Angeles Kings,Dallas Stars,2,1,REG
+2007020140,20072008,2007-10-26,Washington Capitals,Vancouver Canucks,2,3,REG
+2007020141,20072008,2007-10-26,Carolina Hurricanes,Montréal Canadiens,4,7,REG
+2007020142,20072008,2007-10-26,Florida Panthers,Buffalo Sabres,2,4,REG
+2007020143,20072008,2007-10-26,Detroit Red Wings,San Jose Sharks,5,1,REG
+2007020144,20072008,2007-10-26,Calgary Flames,Colorado Avalanche,2,3,REG
+2007020146,20072008,2007-10-27,Boston Bruins,Philadelphia Flyers,1,2,REG
+2007020145,20072008,2007-10-27,Columbus Blue Jackets,San Jose Sharks,2,1,REG
+2007020147,20072008,2007-10-27,New Jersey Devils,Ottawa Senators,1,4,REG
+2007020148,20072008,2007-10-27,New York Islanders,Carolina Hurricanes,3,8,REG
+2007020149,20072008,2007-10-27,New York Rangers,Toronto Maple Leafs,1,4,REG
+2007020150,20072008,2007-10-27,Pittsburgh Penguins,Montréal Canadiens,3,4,REG
+2007020151,20072008,2007-10-27,Tampa Bay Lightning,Buffalo Sabres,3,4,REG
+2007020152,20072008,2007-10-27,Nashville Predators,Florida Panthers,4,3,REG
+2007020153,20072008,2007-10-27,Chicago Blackhawks,Atlanta Thrashers,2,3,REG
+2007020154,20072008,2007-10-27,St. Louis Blues,Washington Capitals,4,3,REG
+2007020155,20072008,2007-10-27,Phoenix Coyotes,Dallas Stars,3,5,REG
+2007020156,20072008,2007-10-27,Los Angeles Kings,Edmonton Oilers,4,1,REG
+2007020157,20072008,2007-10-28,Colorado Avalanche,Minnesota Wild,3,1,REG
+2007020158,20072008,2007-10-28,Anaheim Ducks,Edmonton Oilers,2,3,REG
+2007020159,20072008,2007-10-28,Vancouver Canucks,Detroit Red Wings,2,3,REG
+2007020160,20072008,2007-10-29,New York Rangers,Tampa Bay Lightning,3,1,REG
+2007020161,20072008,2007-10-29,Toronto Maple Leafs,Washington Capitals,1,7,REG
+2007020162,20072008,2007-10-29,Dallas Stars,San Jose Sharks,2,4,REG
+2007020163,20072008,2007-10-30,Minnesota Wild,Pittsburgh Penguins,2,4,REG
+2007020164,20072008,2007-10-30,Montréal Canadiens,Atlanta Thrashers,2,3,REG
+2007020165,20072008,2007-10-30,St. Louis Blues,Phoenix Coyotes,1,2,REG
+2007020166,20072008,2007-10-30,Calgary Flames,Nashville Predators,5,1,REG
+2007020167,20072008,2007-10-30,Edmonton Oilers,Detroit Red Wings,1,2,REG
+2007020168,20072008,2007-10-31,New Jersey Devils,Tampa Bay Lightning,6,1,REG
+2007020169,20072008,2007-10-31,Florida Panthers,Carolina Hurricanes,4,2,REG
+2007020170,20072008,2007-10-31,Dallas Stars,Chicago Blackhawks,4,5,REG
+2007020171,20072008,2007-10-31,Los Angeles Kings,Columbus Blue Jackets,1,4,REG
+2007020172,20072008,2007-11-01,Boston Bruins,Buffalo Sabres,4,3,REG
+2007020173,20072008,2007-11-01,New York Islanders,Tampa Bay Lightning,4,0,REG
+2007020174,20072008,2007-11-01,New York Rangers,Washington Capitals,2,0,REG
+2007020175,20072008,2007-11-01,Montréal Canadiens,Philadelphia Flyers,5,2,REG
+2007020176,20072008,2007-11-01,Ottawa Senators,Atlanta Thrashers,6,4,REG
+2007020179,20072008,2007-11-01,Calgary Flames,Detroit Red Wings,1,4,REG
+2007020177,20072008,2007-11-01,Minnesota Wild,St. Louis Blues,2,3,REG
+2007020178,20072008,2007-11-01,Colorado Avalanche,Pittsburgh Penguins,3,2,REG
+2007020181,20072008,2007-11-01,Anaheim Ducks,Columbus Blue Jackets,2,1,REG
+2007020180,20072008,2007-11-01,Vancouver Canucks,Nashville Predators,0,3,REG
+2007020182,20072008,2007-11-02,New Jersey Devils,Toronto Maple Leafs,3,2,REG
+2007020183,20072008,2007-11-02,Washington Capitals,Philadelphia Flyers,2,3,REG
+2007020184,20072008,2007-11-02,Buffalo Sabres,Florida Panthers,2,4,REG
+2007020185,20072008,2007-11-02,Dallas Stars,Phoenix Coyotes,0,5,REG
+2007020186,20072008,2007-11-02,Edmonton Oilers,Nashville Predators,1,4,REG
+2007020187,20072008,2007-11-02,San Jose Sharks,Los Angeles Kings,2,5,REG
+2007020188,20072008,2007-11-03,Montréal Canadiens,Toronto Maple Leafs,2,3,REG
+2007020189,20072008,2007-11-03,Ottawa Senators,Boston Bruins,3,2,REG
+2007020190,20072008,2007-11-03,New York Islanders,Pittsburgh Penguins,3,2,REG
+2007020191,20072008,2007-11-03,New York Rangers,New Jersey Devils,2,1,REG
+2007020192,20072008,2007-11-03,Carolina Hurricanes,Florida Panthers,4,2,REG
+2007020193,20072008,2007-11-03,Tampa Bay Lightning,Atlanta Thrashers,4,6,REG
+2007020194,20072008,2007-11-03,Minnesota Wild,Calgary Flames,4,1,REG
+2007020195,20072008,2007-11-03,St. Louis Blues,Chicago Blackhawks,2,3,REG
+2007020196,20072008,2007-11-03,Phoenix Coyotes,Anaheim Ducks,2,5,REG
+2007020197,20072008,2007-11-03,Colorado Avalanche,Vancouver Canucks,3,4,REG
+2007020198,20072008,2007-11-03,Los Angeles Kings,San Jose Sharks,1,3,REG
+2007020199,20072008,2007-11-04,Columbus Blue Jackets,St. Louis Blues,3,0,REG
+2007020201,20072008,2007-11-04,Chicago Blackhawks,Nashville Predators,2,5,REG
+2007020200,20072008,2007-11-04,Boston Bruins,Ottawa Senators,1,2,REG
+2007020202,20072008,2007-11-05,New Jersey Devils,Pittsburgh Penguins,0,5,REG
+2007020203,20072008,2007-11-05,New York Rangers,Philadelphia Flyers,2,0,REG
+2007020204,20072008,2007-11-05,Carolina Hurricanes,Washington Capitals,5,0,REG
+2007020205,20072008,2007-11-05,Montréal Canadiens,Buffalo Sabres,2,0,REG
+2007020206,20072008,2007-11-05,Florida Panthers,Tampa Bay Lightning,4,3,REG
+2007020207,20072008,2007-11-05,Minnesota Wild,Edmonton Oilers,5,2,REG
+2007020208,20072008,2007-11-05,Colorado Avalanche,Calgary Flames,4,1,REG
+2007020209,20072008,2007-11-05,Anaheim Ducks,Dallas Stars,0,5,REG
+2007020210,20072008,2007-11-06,New York Islanders,New York Rangers,3,2,REG
+2007020211,20072008,2007-11-06,Atlanta Thrashers,Washington Capitals,2,1,REG
+2007020212,20072008,2007-11-06,Ottawa Senators,Toronto Maple Leafs,5,1,REG
+2007020213,20072008,2007-11-07,Buffalo Sabres,Boston Bruins,2,1,REG
+2007020214,20072008,2007-11-07,Pittsburgh Penguins,Philadelphia Flyers,1,3,REG
+2007020215,20072008,2007-11-07,Tampa Bay Lightning,Florida Panthers,3,1,REG
+2007020216,20072008,2007-11-07,Detroit Red Wings,Nashville Predators,3,2,REG
+2007020217,20072008,2007-11-07,Chicago Blackhawks,Columbus Blue Jackets,5,2,REG
+2007020218,20072008,2007-11-07,Colorado Avalanche,Edmonton Oilers,4,3,REG
+2007020219,20072008,2007-11-07,Anaheim Ducks,Phoenix Coyotes,5,6,REG
+2007020220,20072008,2007-11-07,San Jose Sharks,Dallas Stars,1,3,REG
+2007020222,20072008,2007-11-08,New Jersey Devils,Philadelphia Flyers,4,1,REG
+2007020223,20072008,2007-11-08,New York Rangers,Pittsburgh Penguins,4,2,REG
+2007020224,20072008,2007-11-08,Carolina Hurricanes,Tampa Bay Lightning,1,5,REG
+2007020221,20072008,2007-11-08,Boston Bruins,Montréal Canadiens,1,2,REG
+2007020225,20072008,2007-11-08,Ottawa Senators,Washington Capitals,1,4,REG
+2007020226,20072008,2007-11-08,Calgary Flames,Vancouver Canucks,2,3,REG
+2007020227,20072008,2007-11-08,Phoenix Coyotes,Dallas Stars,5,2,REG
+2007020228,20072008,2007-11-09,Buffalo Sabres,Toronto Maple Leafs,0,3,REG
+2007020229,20072008,2007-11-09,Florida Panthers,Atlanta Thrashers,1,4,REG
+2007020230,20072008,2007-11-09,Detroit Red Wings,Columbus Blue Jackets,4,1,REG
+2007020231,20072008,2007-11-09,Chicago Blackhawks,St. Louis Blues,4,2,REG
+2007020232,20072008,2007-11-09,Vancouver Canucks,Colorado Avalanche,2,1,REG
+2007020233,20072008,2007-11-09,Anaheim Ducks,San Jose Sharks,3,2,REG
+2007020234,20072008,2007-11-10,Ottawa Senators,Montréal Canadiens,3,1,REG
+2007020235,20072008,2007-11-10,Boston Bruins,Buffalo Sabres,2,1,REG
+2007020236,20072008,2007-11-10,Toronto Maple Leafs,New York Rangers,2,3,REG
+2007020237,20072008,2007-11-10,New York Islanders,New Jersey Devils,2,1,REG
+2007020238,20072008,2007-11-10,Philadelphia Flyers,Pittsburgh Penguins,5,2,REG
+2007020239,20072008,2007-11-10,Washington Capitals,Tampa Bay Lightning,2,5,REG
+2007020240,20072008,2007-11-10,Atlanta Thrashers,Carolina Hurricanes,3,5,REG
+2007020241,20072008,2007-11-10,Nashville Predators,Columbus Blue Jackets,4,3,REG
+2007020242,20072008,2007-11-10,Calgary Flames,Edmonton Oilers,2,4,REG
+2007020243,20072008,2007-11-10,Los Angeles Kings,Dallas Stars,6,5,REG
+2007020244,20072008,2007-11-10,San Jose Sharks,Phoenix Coyotes,4,1,REG
+2007020245,20072008,2007-11-11,Chicago Blackhawks,Detroit Red Wings,3,2,REG
+2007020246,20072008,2007-11-11,Colorado Avalanche,Minnesota Wild,4,2,REG
+2007020247,20072008,2007-11-12,Philadelphia Flyers,New York Islanders,3,2,REG
+2007020248,20072008,2007-11-12,Columbus Blue Jackets,Nashville Predators,1,4,REG
+2007020249,20072008,2007-11-12,Pittsburgh Penguins,New Jersey Devils,2,3,REG
+2007020250,20072008,2007-11-12,Florida Panthers,Carolina Hurricanes,3,4,REG
+2007020251,20072008,2007-11-12,San Jose Sharks,Phoenix Coyotes,5,0,REG
+2007020252,20072008,2007-11-13,Atlanta Thrashers,Florida Panthers,3,2,REG
+2007020253,20072008,2007-11-13,St. Louis Blues,Detroit Red Wings,4,3,REG
+2007020254,20072008,2007-11-13,Toronto Maple Leafs,Montréal Canadiens,3,4,REG
+2007020255,20072008,2007-11-13,Calgary Flames,Minnesota Wild,3,2,REG
+2007020256,20072008,2007-11-13,Anaheim Ducks,Los Angeles Kings,4,3,REG
+2007020257,20072008,2007-11-14,New Jersey Devils,New York Rangers,2,4,REG
+2007020258,20072008,2007-11-14,Columbus Blue Jackets,Chicago Blackhawks,4,2,REG
+2007020259,20072008,2007-11-14,Tampa Bay Lightning,Carolina Hurricanes,6,1,REG
+2007020260,20072008,2007-11-14,Dallas Stars,San Jose Sharks,3,4,REG
+2007020261,20072008,2007-11-14,Vancouver Canucks,Edmonton Oilers,0,1,REG
+2007020262,20072008,2007-11-15,Boston Bruins,Toronto Maple Leafs,5,2,REG
+2007020263,20072008,2007-11-15,Philadelphia Flyers,New York Rangers,3,4,REG
+2007020264,20072008,2007-11-15,Ottawa Senators,Buffalo Sabres,3,2,REG
+2007020265,20072008,2007-11-15,Pittsburgh Penguins,New York Islanders,3,2,REG
+2007020266,20072008,2007-11-15,Florida Panthers,Washington Capitals,2,1,REG
+2007020267,20072008,2007-11-15,Nashville Predators,Chicago Blackhawks,5,4,REG
+2007020268,20072008,2007-11-15,Edmonton Oilers,Minnesota Wild,2,4,REG
+2007020269,20072008,2007-11-15,Phoenix Coyotes,San Jose Sharks,0,6,REG
+2007020270,20072008,2007-11-15,Los Angeles Kings,Anaheim Ducks,3,6,REG
+2007020271,20072008,2007-11-16,New Jersey Devils,New York Islanders,0,1,REG
+2007020272,20072008,2007-11-16,Carolina Hurricanes,Atlanta Thrashers,0,3,REG
+2007020273,20072008,2007-11-16,Buffalo Sabres,Montréal Canadiens,4,1,REG
+2007020274,20072008,2007-11-16,Tampa Bay Lightning,Washington Capitals,5,2,REG
+2007020275,20072008,2007-11-16,St. Louis Blues,Columbus Blue Jackets,3,2,REG
+2007020276,20072008,2007-11-16,Dallas Stars,Colorado Avalanche,6,1,REG
+2007020277,20072008,2007-11-16,Vancouver Canucks,Minnesota Wild,6,2,REG
+2007020278,20072008,2007-11-17,Los Angeles Kings,Phoenix Coyotes,0,1,REG
+2007020279,20072008,2007-11-17,Toronto Maple Leafs,Ottawa Senators,3,0,REG
+2007020280,20072008,2007-11-17,Montréal Canadiens,Boston Bruins,7,4,REG
+2007020281,20072008,2007-11-17,Philadelphia Flyers,New Jersey Devils,2,6,REG
+2007020282,20072008,2007-11-17,Carolina Hurricanes,Florida Panthers,2,1,REG
+2007020283,20072008,2007-11-17,Detroit Red Wings,Chicago Blackhawks,3,5,REG
+2007020284,20072008,2007-11-17,Pittsburgh Penguins,New York Rangers,3,4,REG
+2007020285,20072008,2007-11-17,Nashville Predators,St. Louis Blues,2,3,REG
+2007020286,20072008,2007-11-17,Edmonton Oilers,Calgary Flames,1,3,REG
+2007020287,20072008,2007-11-17,San Jose Sharks,Anaheim Ducks,1,2,REG
+2007020288,20072008,2007-11-18,Columbus Blue Jackets,Detroit Red Wings,4,5,REG
+2007020289,20072008,2007-11-18,Minnesota Wild,Colorado Avalanche,4,1,REG
+2007020290,20072008,2007-11-18,Vancouver Canucks,Calgary Flames,4,1,REG
+2007020291,20072008,2007-11-19,New York Rangers,New York Islanders,1,2,REG
+2007020292,20072008,2007-11-19,Washington Capitals,Florida Panthers,3,4,REG
+2007020293,20072008,2007-11-19,Atlanta Thrashers,Tampa Bay Lightning,4,3,REG
+2007020294,20072008,2007-11-19,Montréal Canadiens,Ottawa Senators,2,4,REG
+2007020295,20072008,2007-11-19,St. Louis Blues,Nashville Predators,2,1,REG
+2007020296,20072008,2007-11-19,Dallas Stars,Los Angeles Kings,3,0,REG
+2007020297,20072008,2007-11-20,Toronto Maple Leafs,Boston Bruins,2,4,REG
+2007020299,20072008,2007-11-20,Edmonton Oilers,Vancouver Canucks,5,4,REG
+2007020298,20072008,2007-11-20,Calgary Flames,Colorado Avalanche,4,1,REG
+2007020301,20072008,2007-11-21,New York Islanders,Montréal Canadiens,1,4,REG
+2007020302,20072008,2007-11-21,Washington Capitals,Atlanta Thrashers,1,5,REG
+2007020303,20072008,2007-11-21,Carolina Hurricanes,Philadelphia Flyers,3,6,REG
+2007020304,20072008,2007-11-21,Columbus Blue Jackets,Florida Panthers,2,5,REG
+2007020300,20072008,2007-11-21,Buffalo Sabres,Ottawa Senators,4,2,REG
+2007020305,20072008,2007-11-21,Pittsburgh Penguins,New Jersey Devils,1,2,REG
+2007020306,20072008,2007-11-21,Tampa Bay Lightning,New York Rangers,1,2,REG
+2007020307,20072008,2007-11-21,Detroit Red Wings,St. Louis Blues,3,0,REG
+2007020308,20072008,2007-11-21,Minnesota Wild,Vancouver Canucks,2,4,REG
+2007020309,20072008,2007-11-21,Dallas Stars,Anaheim Ducks,2,1,REG
+2007020310,20072008,2007-11-21,Phoenix Coyotes,Los Angeles Kings,4,1,REG
+2007020311,20072008,2007-11-22,Ottawa Senators,Pittsburgh Penguins,5,6,REG
+2007020312,20072008,2007-11-22,Nashville Predators,Detroit Red Wings,3,2,REG
+2007020313,20072008,2007-11-22,Calgary Flames,Chicago Blackhawks,1,2,REG
+2007020314,20072008,2007-11-22,Edmonton Oilers,Colorado Avalanche,2,3,REG
+2007020315,20072008,2007-11-23,Boston Bruins,New York Islanders,2,1,REG
+2007020316,20072008,2007-11-23,Philadelphia Flyers,Washington Capitals,3,4,REG
+2007020317,20072008,2007-11-23,Minnesota Wild,Columbus Blue Jackets,0,4,REG
+2007020318,20072008,2007-11-23,Anaheim Ducks,Phoenix Coyotes,3,4,REG
+2007020319,20072008,2007-11-23,Carolina Hurricanes,Tampa Bay Lightning,4,3,REG
+2007020320,20072008,2007-11-23,Buffalo Sabres,Montréal Canadiens,4,2,REG
+2007020321,20072008,2007-11-23,Atlanta Thrashers,New Jersey Devils,0,3,REG
+2007020322,20072008,2007-11-23,Florida Panthers,New York Rangers,3,2,REG
+2007020323,20072008,2007-11-23,St. Louis Blues,Vancouver Canucks,3,1,REG
+2007020324,20072008,2007-11-23,Dallas Stars,Toronto Maple Leafs,3,1,REG
+2007020330,20072008,2007-11-24,Phoenix Coyotes,Toronto Maple Leafs,5,1,REG
+2007020334,20072008,2007-11-24,Colorado Avalanche,Calgary Flames,2,5,REG
+2007020325,20072008,2007-11-24,Montréal Canadiens,Buffalo Sabres,0,3,REG
+2007020326,20072008,2007-11-24,Ottawa Senators,Philadelphia Flyers,3,4,REG
+2007020327,20072008,2007-11-24,New York Islanders,Boston Bruins,2,1,REG
+2007020328,20072008,2007-11-24,Washington Capitals,Carolina Hurricanes,5,2,REG
+2007020329,20072008,2007-11-24,Columbus Blue Jackets,Detroit Red Wings,3,2,REG
+2007020331,20072008,2007-11-24,Pittsburgh Penguins,Atlanta Thrashers,5,0,REG
+2007020332,20072008,2007-11-24,Tampa Bay Lightning,New Jersey Devils,2,3,REG
+2007020333,20072008,2007-11-24,Nashville Predators,Minnesota Wild,3,4,REG
+2007020335,20072008,2007-11-24,Edmonton Oilers,Chicago Blackhawks,3,2,REG
+2007020336,20072008,2007-11-24,San Jose Sharks,Los Angeles Kings,1,2,REG
+2007020337,20072008,2007-11-25,New York Rangers,Dallas Stars,2,3,REG
+2007020338,20072008,2007-11-25,St. Louis Blues,Calgary Flames,3,0,REG
+2007020339,20072008,2007-11-25,Anaheim Ducks,Los Angeles Kings,3,2,REG
+2007020340,20072008,2007-11-25,Vancouver Canucks,Chicago Blackhawks,2,0,REG
+2007020341,20072008,2007-11-26,New York Islanders,Dallas Stars,2,3,REG
+2007020342,20072008,2007-11-26,Philadelphia Flyers,Boston Bruins,3,6,REG
+2007020343,20072008,2007-11-26,Washington Capitals,Buffalo Sabres,1,3,REG
+2007020344,20072008,2007-11-26,Edmonton Oilers,Columbus Blue Jackets,3,1,REG
+2007020345,20072008,2007-11-27,Detroit Red Wings,Calgary Flames,5,3,REG
+2007020346,20072008,2007-11-27,Toronto Maple Leafs,Montréal Canadiens,3,4,REG
+2007020347,20072008,2007-11-27,Vancouver Canucks,Anaheim Ducks,4,0,REG
+2007020348,20072008,2007-11-28,Buffalo Sabres,St. Louis Blues,3,4,REG
+2007020349,20072008,2007-11-28,New Jersey Devils,Dallas Stars,4,2,REG
+2007020350,20072008,2007-11-28,New York Islanders,Ottawa Senators,3,2,REG
+2007020351,20072008,2007-11-28,Washington Capitals,Florida Panthers,1,2,REG
+2007020352,20072008,2007-11-28,Carolina Hurricanes,Philadelphia Flyers,1,3,REG
+2007020353,20072008,2007-11-28,Minnesota Wild,Phoenix Coyotes,3,1,REG
+2007020354,20072008,2007-11-28,Chicago Blackhawks,Tampa Bay Lightning,5,1,REG
+2007020355,20072008,2007-11-28,Colorado Avalanche,Edmonton Oilers,4,2,REG
+2007020356,20072008,2007-11-28,San Jose Sharks,Los Angeles Kings,2,3,REG
+2007020357,20072008,2007-11-29,New York Rangers,New York Islanders,4,2,REG
+2007020358,20072008,2007-11-29,Atlanta Thrashers,Toronto Maple Leafs,2,4,REG
+2007020359,20072008,2007-11-29,Ottawa Senators,Nashville Predators,5,6,REG
+2007020360,20072008,2007-11-29,Florida Panthers,Boston Bruins,3,4,REG
+2007020361,20072008,2007-11-29,Detroit Red Wings,Tampa Bay Lightning,4,2,REG
+2007020362,20072008,2007-11-29,Calgary Flames,Anaheim Ducks,1,4,REG
+2007020363,20072008,2007-11-29,Vancouver Canucks,Columbus Blue Jackets,2,0,REG
+2007020364,20072008,2007-11-30,New Jersey Devils,Montréal Canadiens,4,0,REG
+2007020365,20072008,2007-11-30,Carolina Hurricanes,Washington Capitals,4,3,REG
+2007020366,20072008,2007-11-30,Pittsburgh Penguins,Dallas Stars,4,1,REG
+2007020367,20072008,2007-11-30,Minnesota Wild,St. Louis Blues,3,2,REG
+2007020368,20072008,2007-11-30,Chicago Blackhawks,Phoenix Coyotes,6,1,REG
+2007020369,20072008,2007-11-30,Edmonton Oilers,Anaheim Ducks,5,1,REG
+2007020370,20072008,2007-11-30,San Jose Sharks,Colorado Avalanche,3,2,REG
+2007020371,20072008,2007-12-01,Ottawa Senators,New York Rangers,2,5,REG
+2007020372,20072008,2007-12-01,Buffalo Sabres,Carolina Hurricanes,8,1,REG
+2007020373,20072008,2007-12-01,Toronto Maple Leafs,Pittsburgh Penguins,4,2,REG
+2007020374,20072008,2007-12-01,Montréal Canadiens,Nashville Predators,4,5,REG
+2007020375,20072008,2007-12-01,New York Islanders,Atlanta Thrashers,0,4,REG
+2007020376,20072008,2007-12-01,Philadelphia Flyers,Dallas Stars,1,4,REG
+2007020377,20072008,2007-12-01,Florida Panthers,Washington Capitals,1,2,REG
+2007020378,20072008,2007-12-01,Detroit Red Wings,Phoenix Coyotes,3,2,REG
+2007020379,20072008,2007-12-01,Tampa Bay Lightning,Boston Bruins,4,1,REG
+2007020380,20072008,2007-12-01,St. Louis Blues,Chicago Blackhawks,3,1,REG
+2007020381,20072008,2007-12-01,Calgary Flames,Columbus Blue Jackets,3,4,REG
+2007020382,20072008,2007-12-01,Los Angeles Kings,Colorado Avalanche,2,5,REG
+2007020383,20072008,2007-12-02,New Jersey Devils,Atlanta Thrashers,3,2,REG
+2007020384,20072008,2007-12-02,Minnesota Wild,Vancouver Canucks,2,1,REG
+2007020385,20072008,2007-12-02,Anaheim Ducks,Edmonton Oilers,0,4,REG
+2007020386,20072008,2007-12-03,New York Islanders,Boston Bruins,1,3,REG
+2007020387,20072008,2007-12-03,New York Rangers,Carolina Hurricanes,0,4,REG
+2007020388,20072008,2007-12-03,Columbus Blue Jackets,Dallas Stars,1,2,REG
+2007020389,20072008,2007-12-03,Pittsburgh Penguins,Phoenix Coyotes,3,1,REG
+2007020390,20072008,2007-12-03,Colorado Avalanche,San Jose Sharks,2,3,REG
+2007020391,20072008,2007-12-03,Los Angeles Kings,Edmonton Oilers,3,4,REG
+2007020392,20072008,2007-12-04,Montréal Canadiens,Detroit Red Wings,1,4,REG
+2007020393,20072008,2007-12-04,Toronto Maple Leafs,Nashville Predators,3,1,REG
+2007020394,20072008,2007-12-04,Tampa Bay Lightning,Ottawa Senators,4,3,REG
+2007020395,20072008,2007-12-04,Calgary Flames,St. Louis Blues,3,1,REG
+2007020396,20072008,2007-12-05,New Jersey Devils,Boston Bruins,4,3,REG
+2007020397,20072008,2007-12-05,Atlanta Thrashers,New York Islanders,4,3,REG
+2007020398,20072008,2007-12-05,Columbus Blue Jackets,Colorado Avalanche,5,4,REG
+2007020399,20072008,2007-12-05,Florida Panthers,Ottawa Senators,4,5,REG
+2007020400,20072008,2007-12-05,Minnesota Wild,Philadelphia Flyers,1,3,REG
+2007020401,20072008,2007-12-05,Chicago Blackhawks,Vancouver Canucks,2,3,REG
+2007020402,20072008,2007-12-05,Dallas Stars,San Jose Sharks,2,3,REG
+2007020403,20072008,2007-12-05,Edmonton Oilers,Pittsburgh Penguins,2,4,REG
+2007020404,20072008,2007-12-05,Phoenix Coyotes,Los Angeles Kings,4,1,REG
+2007020405,20072008,2007-12-05,Anaheim Ducks,Buffalo Sabres,4,1,REG
+2007020406,20072008,2007-12-06,Boston Bruins,Montréal Canadiens,2,4,REG
+2007020407,20072008,2007-12-06,New York Rangers,Toronto Maple Leafs,2,6,REG
+2007020408,20072008,2007-12-06,Tampa Bay Lightning,Carolina Hurricanes,2,1,REG
+2007020409,20072008,2007-12-06,Nashville Predators,Vancouver Canucks,2,5,REG
+2007020410,20072008,2007-12-06,Calgary Flames,Pittsburgh Penguins,2,3,REG
+2007020411,20072008,2007-12-06,Los Angeles Kings,Buffalo Sabres,8,2,REG
+2007020412,20072008,2007-12-07,New Jersey Devils,Washington Capitals,3,2,REG
+2007020413,20072008,2007-12-07,Atlanta Thrashers,New York Rangers,4,2,REG
+2007020414,20072008,2007-12-07,Florida Panthers,New York Islanders,3,0,REG
+2007020415,20072008,2007-12-07,Detroit Red Wings,Minnesota Wild,5,0,REG
+2007020416,20072008,2007-12-07,Chicago Blackhawks,Anaheim Ducks,3,5,REG
+2007020417,20072008,2007-12-07,Dallas Stars,Ottawa Senators,2,4,REG
+2007020418,20072008,2007-12-07,Colorado Avalanche,Philadelphia Flyers,2,1,REG
+2007020419,20072008,2007-12-07,Edmonton Oilers,St. Louis Blues,3,4,REG
+2007020420,20072008,2007-12-07,Phoenix Coyotes,San Jose Sharks,0,1,REG
+2007020421,20072008,2007-12-08,Toronto Maple Leafs,Boston Bruins,1,2,REG
+2007020422,20072008,2007-12-08,Montréal Canadiens,Carolina Hurricanes,1,5,REG
+2007020423,20072008,2007-12-08,Washington Capitals,Atlanta Thrashers,6,3,REG
+2007020424,20072008,2007-12-08,Columbus Blue Jackets,Minnesota Wild,1,2,REG
+2007020425,20072008,2007-12-08,Tampa Bay Lightning,New York Islanders,2,3,REG
+2007020426,20072008,2007-12-08,Nashville Predators,Anaheim Ducks,4,2,REG
+2007020427,20072008,2007-12-08,Vancouver Canucks,Pittsburgh Penguins,1,2,REG
+2007020428,20072008,2007-12-08,Los Angeles Kings,Phoenix Coyotes,2,4,REG
+2007020429,20072008,2007-12-08,San Jose Sharks,Buffalo Sabres,1,7,REG
+2007020430,20072008,2007-12-09,New York Rangers,New Jersey Devils,1,0,REG
+2007020431,20072008,2007-12-09,Detroit Red Wings,Carolina Hurricanes,5,2,REG
+2007020432,20072008,2007-12-09,Chicago Blackhawks,Calgary Flames,2,3,REG
+2007020433,20072008,2007-12-09,Colorado Avalanche,St. Louis Blues,9,5,REG
+2007020434,20072008,2007-12-10,Buffalo Sabres,Boston Bruins,1,4,REG
+2007020435,20072008,2007-12-10,Washington Capitals,New Jersey Devils,3,2,REG
+2007020436,20072008,2007-12-10,Columbus Blue Jackets,Anaheim Ducks,3,4,REG
+2007020437,20072008,2007-12-10,Toronto Maple Leafs,Tampa Bay Lightning,6,1,REG
+2007020438,20072008,2007-12-10,Nashville Predators,Detroit Red Wings,1,2,REG
+2007020439,20072008,2007-12-10,Dallas Stars,Edmonton Oilers,5,4,REG
+2007020440,20072008,2007-12-10,Los Angeles Kings,Vancouver Canucks,4,2,REG
+2007020441,20072008,2007-12-11,Philadelphia Flyers,Pittsburgh Penguins,8,2,REG
+2007020442,20072008,2007-12-11,Montréal Canadiens,Tampa Bay Lightning,2,3,REG
+2007020443,20072008,2007-12-11,Florida Panthers,Calgary Flames,1,2,REG
+2007020444,20072008,2007-12-11,St. Louis Blues,Edmonton Oilers,4,5,REG
+2007020445,20072008,2007-12-11,San Jose Sharks,Minnesota Wild,4,1,REG
+2007020446,20072008,2007-12-12,Buffalo Sabres,New York Islanders,5,3,REG
+2007020447,20072008,2007-12-12,Washington Capitals,New York Rangers,5,4,REG
+2007020449,20072008,2007-12-12,Atlanta Thrashers,Boston Bruins,3,5,REG
+2007020450,20072008,2007-12-12,Columbus Blue Jackets,Colorado Avalanche,4,1,REG
+2007020448,20072008,2007-12-12,Carolina Hurricanes,Ottawa Senators,0,6,REG
+2007020451,20072008,2007-12-12,Chicago Blackhawks,Los Angeles Kings,6,3,REG
+2007020452,20072008,2007-12-12,Anaheim Ducks,Vancouver Canucks,2,3,REG
+2007020453,20072008,2007-12-13,Boston Bruins,New Jersey Devils,1,3,REG
+2007020454,20072008,2007-12-13,New York Islanders,Phoenix Coyotes,3,2,REG
+2007020455,20072008,2007-12-13,Philadelphia Flyers,Montréal Canadiens,1,4,REG
+2007020456,20072008,2007-12-13,Pittsburgh Penguins,Ottawa Senators,1,4,REG
+2007020457,20072008,2007-12-13,Tampa Bay Lightning,Calgary Flames,6,9,REG
+2007020458,20072008,2007-12-13,Detroit Red Wings,Edmonton Oilers,3,4,REG
+2007020459,20072008,2007-12-13,Nashville Predators,Colorado Avalanche,1,2,REG
+2007020460,20072008,2007-12-13,St. Louis Blues,Florida Panthers,0,1,REG
+2007020461,20072008,2007-12-13,Dallas Stars,Los Angeles Kings,4,1,REG
+2007020462,20072008,2007-12-13,San Jose Sharks,Vancouver Canucks,5,2,REG
+2007020463,20072008,2007-12-14,Washington Capitals,Buffalo Sabres,3,5,REG
+2007020464,20072008,2007-12-14,Carolina Hurricanes,Calgary Flames,3,4,REG
+2007020465,20072008,2007-12-14,Atlanta Thrashers,Toronto Maple Leafs,0,4,REG
+2007020466,20072008,2007-12-14,Anaheim Ducks,Minnesota Wild,2,5,REG
+2007020467,20072008,2007-12-15,New Jersey Devils,Phoenix Coyotes,1,4,REG
+2007020479,20072008,2007-12-15,San Jose Sharks,Dallas Stars,2,4,REG
+2007020468,20072008,2007-12-15,Boston Bruins,Columbus Blue Jackets,2,0,REG
+2007020469,20072008,2007-12-15,Buffalo Sabres,Chicago Blackhawks,3,1,REG
+2007020470,20072008,2007-12-15,Montréal Canadiens,Toronto Maple Leafs,4,1,REG
+2007020471,20072008,2007-12-15,Ottawa Senators,Atlanta Thrashers,7,3,REG
+2007020472,20072008,2007-12-15,New York Islanders,Pittsburgh Penguins,2,3,REG
+2007020473,20072008,2007-12-15,Philadelphia Flyers,Carolina Hurricanes,5,6,REG
+2007020474,20072008,2007-12-15,Detroit Red Wings,Florida Panthers,5,2,REG
+2007020475,20072008,2007-12-15,Tampa Bay Lightning,Washington Capitals,2,3,REG
+2007020476,20072008,2007-12-15,Colorado Avalanche,Nashville Predators,3,1,REG
+2007020477,20072008,2007-12-15,Edmonton Oilers,Vancouver Canucks,2,1,REG
+2007020478,20072008,2007-12-15,Los Angeles Kings,Minnesota Wild,1,2,REG
+2007020480,20072008,2007-12-16,New Jersey Devils,Philadelphia Flyers,4,2,REG
+2007020481,20072008,2007-12-16,New York Rangers,Phoenix Coyotes,1,5,REG
+2007020482,20072008,2007-12-16,St. Louis Blues,Calgary Flames,3,5,REG
+2007020483,20072008,2007-12-16,Chicago Blackhawks,Florida Panthers,1,3,REG
+2007020484,20072008,2007-12-16,Anaheim Ducks,San Jose Sharks,1,2,REG
+2007020485,20072008,2007-12-17,Detroit Red Wings,Washington Capitals,4,3,REG
+2007020486,20072008,2007-12-17,Los Angeles Kings,Colorado Avalanche,2,4,REG
+2007020487,20072008,2007-12-18,Boston Bruins,Ottawa Senators,2,3,REG
+2007020488,20072008,2007-12-18,New York Rangers,Pittsburgh Penguins,4,0,REG
+2007020489,20072008,2007-12-18,Philadelphia Flyers,Phoenix Coyotes,2,3,REG
+2007020490,20072008,2007-12-18,Carolina Hurricanes,Toronto Maple Leafs,3,2,REG
+2007020491,20072008,2007-12-18,Atlanta Thrashers,Tampa Bay Lightning,6,2,REG
+2007020492,20072008,2007-12-18,Columbus Blue Jackets,Calgary Flames,1,3,REG
+2007020493,20072008,2007-12-18,Montréal Canadiens,Florida Panthers,2,3,REG
+2007020494,20072008,2007-12-18,Minnesota Wild,Nashville Predators,3,2,REG
+2007020495,20072008,2007-12-18,Edmonton Oilers,Dallas Stars,1,2,REG
+2007020496,20072008,2007-12-18,Vancouver Canucks,New Jersey Devils,5,0,REG
+2007020497,20072008,2007-12-18,San Jose Sharks,Anaheim Ducks,0,2,REG
+2007020498,20072008,2007-12-19,New York Islanders,Buffalo Sabres,1,2,REG
+2007020499,20072008,2007-12-19,Detroit Red Wings,Los Angeles Kings,6,2,REG
+2007020500,20072008,2007-12-19,Chicago Blackhawks,Nashville Predators,5,2,REG
+2007020501,20072008,2007-12-19,Anaheim Ducks,Colorado Avalanche,2,1,REG
+2007020502,20072008,2007-12-20,Boston Bruins,Pittsburgh Penguins,4,5,REG
+2007020503,20072008,2007-12-20,Washington Capitals,Montréal Canadiens,2,5,REG
+2007020504,20072008,2007-12-20,Atlanta Thrashers,Ottawa Senators,3,2,REG
+2007020505,20072008,2007-12-20,Tampa Bay Lightning,Toronto Maple Leafs,2,1,REG
+2007020506,20072008,2007-12-20,Florida Panthers,Carolina Hurricanes,5,4,REG
+2007020507,20072008,2007-12-20,Minnesota Wild,New York Rangers,6,3,REG
+2007020508,20072008,2007-12-20,St. Louis Blues,Detroit Red Wings,3,2,REG
+2007020509,20072008,2007-12-20,Vancouver Canucks,Dallas Stars,3,2,REG
+2007020510,20072008,2007-12-20,San Jose Sharks,Phoenix Coyotes,2,3,REG
+2007020511,20072008,2007-12-21,Columbus Blue Jackets,Los Angeles Kings,2,1,REG
+2007020512,20072008,2007-12-21,Buffalo Sabres,Philadelphia Flyers,3,2,REG
+2007020513,20072008,2007-12-21,Pittsburgh Penguins,New York Islanders,2,4,REG
+2007020514,20072008,2007-12-21,Colorado Avalanche,New York Rangers,4,3,REG
+2007020516,20072008,2007-12-21,Edmonton Oilers,New Jersey Devils,1,3,REG
+2007020515,20072008,2007-12-21,Calgary Flames,Dallas Stars,2,3,REG
+2007020517,20072008,2007-12-22,Boston Bruins,St. Louis Blues,1,4,REG
+2007020518,20072008,2007-12-22,Ottawa Senators,Chicago Blackhawks,3,4,REG
+2007020519,20072008,2007-12-22,New York Islanders,Washington Capitals,3,2,REG
+2007020520,20072008,2007-12-22,Philadelphia Flyers,Buffalo Sabres,5,6,REG
+2007020521,20072008,2007-12-22,Atlanta Thrashers,Montréal Canadiens,3,2,REG
+2007020522,20072008,2007-12-22,Florida Panthers,Toronto Maple Leafs,1,2,REG
+2007020523,20072008,2007-12-22,Tampa Bay Lightning,Carolina Hurricanes,1,4,REG
+2007020524,20072008,2007-12-22,Nashville Predators,Los Angeles Kings,4,3,REG
+2007020525,20072008,2007-12-22,Minnesota Wild,Detroit Red Wings,1,4,REG
+2007020526,20072008,2007-12-22,Phoenix Coyotes,Vancouver Canucks,1,2,REG
+2007020527,20072008,2007-12-22,San Jose Sharks,Anaheim Ducks,2,5,REG
+2007020528,20072008,2007-12-23,Pittsburgh Penguins,Boston Bruins,4,2,REG
+2007020529,20072008,2007-12-23,Columbus Blue Jackets,Nashville Predators,1,3,REG
+2007020530,20072008,2007-12-23,St. Louis Blues,Atlanta Thrashers,2,3,REG
+2007020532,20072008,2007-12-23,Chicago Blackhawks,Edmonton Oilers,3,2,REG
+2007020531,20072008,2007-12-23,New York Rangers,Ottawa Senators,1,3,REG
+2007020533,20072008,2007-12-23,Colorado Avalanche,Vancouver Canucks,3,1,REG
+2007020534,20072008,2007-12-23,Calgary Flames,New Jersey Devils,0,1,REG
+2007020535,20072008,2007-12-23,Dallas Stars,Montréal Canadiens,4,1,REG
+2007020536,20072008,2007-12-26,Buffalo Sabres,Ottawa Senators,3,5,REG
+2007020538,20072008,2007-12-26,New York Rangers,Carolina Hurricanes,4,2,REG
+2007020539,20072008,2007-12-26,Washington Capitals,Tampa Bay Lightning,3,2,REG
+2007020540,20072008,2007-12-26,Columbus Blue Jackets,Atlanta Thrashers,2,0,REG
+2007020537,20072008,2007-12-26,New York Islanders,Toronto Maple Leafs,4,3,REG
+2007020541,20072008,2007-12-26,Chicago Blackhawks,Nashville Predators,5,2,REG
+2007020542,20072008,2007-12-26,St. Louis Blues,Detroit Red Wings,0,5,REG
+2007020543,20072008,2007-12-26,Dallas Stars,Minnesota Wild,8,3,REG
+2007020544,20072008,2007-12-26,Los Angeles Kings,San Jose Sharks,2,3,REG
+2007020545,20072008,2007-12-27,Philadelphia Flyers,Toronto Maple Leafs,4,1,REG
+2007020546,20072008,2007-12-27,Atlanta Thrashers,Florida Panthers,3,5,REG
+2007020549,20072008,2007-12-27,Tampa Bay Lightning,Montréal Canadiens,2,5,REG
+2007020547,20072008,2007-12-27,Ottawa Senators,New York Islanders,5,2,REG
+2007020548,20072008,2007-12-27,Pittsburgh Penguins,Washington Capitals,4,3,REG
+2007020550,20072008,2007-12-27,Nashville Predators,Columbus Blue Jackets,4,3,REG
+2007020551,20072008,2007-12-27,Colorado Avalanche,Detroit Red Wings,2,4,REG
+2007020552,20072008,2007-12-27,Edmonton Oilers,Anaheim Ducks,1,2,REG
+2007020553,20072008,2007-12-27,Phoenix Coyotes,Minnesota Wild,2,3,REG
+2007020554,20072008,2007-12-27,Vancouver Canucks,Calgary Flames,5,3,REG
+2007020555,20072008,2007-12-28,New Jersey Devils,Buffalo Sabres,2,1,REG
+2007020556,20072008,2007-12-28,Carolina Hurricanes,Boston Bruins,4,3,REG
+2007020557,20072008,2007-12-28,Florida Panthers,Montréal Canadiens,1,5,REG
+2007020558,20072008,2007-12-28,St. Louis Blues,San Jose Sharks,0,1,REG
+2007020559,20072008,2007-12-29,Tampa Bay Lightning,Philadelphia Flyers,2,4,REG
+2007020560,20072008,2007-12-29,Colorado Avalanche,Los Angeles Kings,1,3,REG
+2007020561,20072008,2007-12-29,Toronto Maple Leafs,New York Rangers,1,6,REG
+2007020562,20072008,2007-12-29,Ottawa Senators,Washington Capitals,6,8,REG
+2007020563,20072008,2007-12-29,New York Islanders,New Jersey Devils,5,2,REG
+2007020564,20072008,2007-12-29,Atlanta Thrashers,Boston Bruins,5,0,REG
+2007020565,20072008,2007-12-29,Columbus Blue Jackets,Carolina Hurricanes,4,1,REG
+2007020566,20072008,2007-12-29,Pittsburgh Penguins,Buffalo Sabres,2,0,REG
+2007020567,20072008,2007-12-29,Nashville Predators,San Jose Sharks,2,5,REG
+2007020568,20072008,2007-12-29,Minnesota Wild,Edmonton Oilers,5,4,REG
+2007020570,20072008,2007-12-29,Phoenix Coyotes,Detroit Red Wings,2,4,REG
+2007020569,20072008,2007-12-29,Dallas Stars,St. Louis Blues,5,4,REG
+2007020571,20072008,2007-12-29,Calgary Flames,Anaheim Ducks,5,3,REG
+2007020572,20072008,2007-12-30,Florida Panthers,Philadelphia Flyers,0,1,REG
+2007020574,20072008,2007-12-30,Chicago Blackhawks,Los Angeles Kings,2,3,REG
+2007020573,20072008,2007-12-30,New York Rangers,Montréal Canadiens,4,3,REG
+2007020575,20072008,2007-12-30,Vancouver Canucks,Anaheim Ducks,2,1,REG
+2007020576,20072008,2007-12-31,Boston Bruins,Atlanta Thrashers,5,2,REG
+2007020577,20072008,2007-12-31,Columbus Blue Jackets,Edmonton Oilers,4,2,REG
+2007020579,20072008,2007-12-31,Minnesota Wild,San Jose Sharks,2,3,REG
+2007020578,20072008,2007-12-31,Detroit Red Wings,St. Louis Blues,0,2,REG
+2007020581,20072008,2007-12-31,Phoenix Coyotes,Colorado Avalanche,4,3,REG
+2007020580,20072008,2007-12-31,Carolina Hurricanes,New York Islanders,1,4,REG
+2007020582,20072008,2007-12-31,Dallas Stars,Nashville Predators,0,1,REG
+2007020583,20072008,2007-12-31,Calgary Flames,Vancouver Canucks,2,1,REG
+2007020584,20072008,2008-01-01,Buffalo Sabres,Pittsburgh Penguins,1,2,REG
+2007020585,20072008,2008-01-01,Washington Capitals,Ottawa Senators,6,3,REG
+2007020586,20072008,2008-01-01,Toronto Maple Leafs,Tampa Bay Lightning,4,3,REG
+2007020587,20072008,2008-01-01,Los Angeles Kings,Chicago Blackhawks,9,2,REG
+2007020588,20072008,2008-01-02,New Jersey Devils,Florida Panthers,3,2,REG
+2007020589,20072008,2008-01-02,Carolina Hurricanes,Atlanta Thrashers,4,5,REG
+2007020590,20072008,2008-01-02,Detroit Red Wings,Dallas Stars,4,1,REG
+2007020591,20072008,2008-01-02,St. Louis Blues,Edmonton Oilers,2,3,REG
+2007020592,20072008,2008-01-02,Colorado Avalanche,Phoenix Coyotes,2,5,REG
+2007020593,20072008,2008-01-02,Calgary Flames,New York Rangers,4,3,REG
+2007020594,20072008,2008-01-02,Anaheim Ducks,Columbus Blue Jackets,2,1,REG
+2007020595,20072008,2008-01-03,Boston Bruins,Washington Capitals,2,0,REG
+2007020596,20072008,2008-01-03,New York Islanders,Florida Panthers,3,4,REG
+2007020597,20072008,2008-01-03,Montréal Canadiens,Tampa Bay Lightning,6,3,REG
+2007020598,20072008,2008-01-03,Pittsburgh Penguins,Toronto Maple Leafs,6,2,REG
+2007020599,20072008,2008-01-03,Nashville Predators,Edmonton Oilers,5,2,REG
+2007020600,20072008,2008-01-03,Minnesota Wild,Dallas Stars,6,3,REG
+2007020601,20072008,2008-01-03,Phoenix Coyotes,Chicago Blackhawks,4,2,REG
+2007020602,20072008,2008-01-03,Vancouver Canucks,New York Rangers,3,0,REG
+2007020603,20072008,2008-01-03,Los Angeles Kings,Columbus Blue Jackets,3,4,REG
+2007020604,20072008,2008-01-03,San Jose Sharks,Calgary Flames,2,3,REG
+2007020605,20072008,2008-01-04,New Jersey Devils,Philadelphia Flyers,3,0,REG
+2007020606,20072008,2008-01-04,Buffalo Sabres,Ottawa Senators,3,5,REG
+2007020607,20072008,2008-01-04,Atlanta Thrashers,Carolina Hurricanes,3,4,REG
+2007020608,20072008,2008-01-04,Anaheim Ducks,Chicago Blackhawks,2,1,REG
+2007020609,20072008,2008-01-05,Montréal Canadiens,Washington Capitals,4,5,REG
+2007020610,20072008,2008-01-05,Dallas Stars,Detroit Red Wings,0,3,REG
+2007020614,20072008,2008-01-05,Pittsburgh Penguins,Florida Panthers,3,0,REG
+2007020611,20072008,2008-01-05,Boston Bruins,New Jersey Devils,4,3,REG
+2007020612,20072008,2008-01-05,Toronto Maple Leafs,Philadelphia Flyers,2,3,REG
+2007020613,20072008,2008-01-05,Ottawa Senators,Tampa Bay Lightning,4,3,REG
+2007020615,20072008,2008-01-05,Nashville Predators,Minnesota Wild,4,1,REG
+2007020616,20072008,2008-01-05,St. Louis Blues,Carolina Hurricanes,1,0,REG
+2007020617,20072008,2008-01-05,Colorado Avalanche,New York Islanders,2,1,REG
+2007020618,20072008,2008-01-05,Phoenix Coyotes,Anaheim Ducks,3,2,REG
+2007020619,20072008,2008-01-05,Edmonton Oilers,New York Rangers,3,2,REG
+2007020620,20072008,2008-01-05,Los Angeles Kings,Calgary Flames,4,6,REG
+2007020621,20072008,2008-01-05,San Jose Sharks,Columbus Blue Jackets,3,2,REG
+2007020622,20072008,2008-01-06,Atlanta Thrashers,Buffalo Sabres,5,2,REG
+2007020623,20072008,2008-01-06,Chicago Blackhawks,Detroit Red Wings,1,3,REG
+2007020624,20072008,2008-01-07,Dallas Stars,Minnesota Wild,3,1,REG
+2007020625,20072008,2008-01-07,Edmonton Oilers,New York Islanders,4,0,REG
+2007020626,20072008,2008-01-07,Anaheim Ducks,Nashville Predators,5,2,REG
+2007020627,20072008,2008-01-08,Boston Bruins,Carolina Hurricanes,0,1,REG
+2007020628,20072008,2008-01-08,New Jersey Devils,Buffalo Sabres,2,1,REG
+2007020629,20072008,2008-01-08,New York Rangers,Tampa Bay Lightning,3,5,REG
+2007020630,20072008,2008-01-08,Atlanta Thrashers,Philadelphia Flyers,1,4,REG
+2007020631,20072008,2008-01-08,Montréal Canadiens,Chicago Blackhawks,4,3,REG
+2007020632,20072008,2008-01-08,Florida Panthers,Pittsburgh Penguins,1,3,REG
+2007020633,20072008,2008-01-08,Detroit Red Wings,Colorado Avalanche,1,0,REG
+2007020634,20072008,2008-01-08,St. Louis Blues,Columbus Blue Jackets,6,1,REG
+2007020635,20072008,2008-01-08,Calgary Flames,Phoenix Coyotes,1,3,REG
+2007020636,20072008,2008-01-08,Vancouver Canucks,New York Islanders,3,2,REG
+2007020637,20072008,2008-01-08,Los Angeles Kings,Nashville Predators,0,7,REG
+2007020638,20072008,2008-01-09,Washington Capitals,Colorado Avalanche,2,1,REG
+2007020639,20072008,2008-01-09,Chicago Blackhawks,Dallas Stars,1,3,REG
+2007020640,20072008,2008-01-09,Anaheim Ducks,Toronto Maple Leafs,5,0,REG
+2007020642,20072008,2008-01-10,New York Rangers,Philadelphia Flyers,2,6,REG
+2007020643,20072008,2008-01-10,Carolina Hurricanes,New Jersey Devils,1,4,REG
+2007020644,20072008,2008-01-10,Atlanta Thrashers,Florida Panthers,2,3,REG
+2007020641,20072008,2008-01-10,Boston Bruins,Montréal Canadiens,2,5,REG
+2007020645,20072008,2008-01-10,Ottawa Senators,Buffalo Sabres,3,2,REG
+2007020646,20072008,2008-01-10,Tampa Bay Lightning,Pittsburgh Penguins,1,4,REG
+2007020647,20072008,2008-01-10,Detroit Red Wings,Minnesota Wild,5,6,REG
+2007020648,20072008,2008-01-10,St. Louis Blues,Dallas Stars,4,2,REG
+2007020649,20072008,2008-01-10,Edmonton Oilers,Phoenix Coyotes,5,2,REG
+2007020650,20072008,2008-01-10,Los Angeles Kings,Toronto Maple Leafs,5,2,REG
+2007020651,20072008,2008-01-10,San Jose Sharks,Vancouver Canucks,3,1,REG
+2007020652,20072008,2008-01-11,Columbus Blue Jackets,St. Louis Blues,6,4,REG
+2007020653,20072008,2008-01-11,Chicago Blackhawks,Minnesota Wild,2,5,REG
+2007020654,20072008,2008-01-11,Calgary Flames,New York Islanders,4,5,REG
+2007020655,20072008,2008-01-11,Vancouver Canucks,Phoenix Coyotes,3,4,REG
+2007020656,20072008,2008-01-12,Philadelphia Flyers,Boston Bruins,3,4,REG
+2007020657,20072008,2008-01-12,Los Angeles Kings,Dallas Stars,4,3,REG
+2007020658,20072008,2008-01-12,Buffalo Sabres,New Jersey Devils,2,3,REG
+2007020659,20072008,2008-01-12,Ottawa Senators,Detroit Red Wings,3,2,REG
+2007020660,20072008,2008-01-12,New York Rangers,Montréal Canadiens,4,1,REG
+2007020661,20072008,2008-01-12,Carolina Hurricanes,Colorado Avalanche,4,5,REG
+2007020662,20072008,2008-01-12,Atlanta Thrashers,Pittsburgh Penguins,3,2,REG
+2007020663,20072008,2008-01-12,Florida Panthers,Tampa Bay Lightning,3,5,REG
+2007020664,20072008,2008-01-12,Columbus Blue Jackets,Nashville Predators,2,1,REG
+2007020665,20072008,2008-01-12,San Jose Sharks,Toronto Maple Leafs,3,2,REG
+2007020666,20072008,2008-01-13,Washington Capitals,Philadelphia Flyers,4,6,REG
+2007020667,20072008,2008-01-13,Florida Panthers,Colorado Avalanche,3,4,REG
+2007020668,20072008,2008-01-13,St. Louis Blues,Vancouver Canucks,3,4,REG
+2007020669,20072008,2008-01-13,Minnesota Wild,Phoenix Coyotes,4,1,REG
+2007020670,20072008,2008-01-13,Ottawa Senators,New York Islanders,1,3,REG
+2007020673,20072008,2008-01-13,Anaheim Ducks,San Jose Sharks,4,3,REG
+2007020672,20072008,2008-01-13,Edmonton Oilers,Calgary Flames,2,1,REG
+2007020671,20072008,2008-01-13,Nashville Predators,Chicago Blackhawks,2,3,REG
+2007020674,20072008,2008-01-14,Pittsburgh Penguins,New York Rangers,4,1,REG
+2007020675,20072008,2008-01-15,New York Islanders,Montréal Canadiens,1,3,REG
+2007020676,20072008,2008-01-15,Washington Capitals,Ottawa Senators,4,2,REG
+2007020677,20072008,2008-01-15,Columbus Blue Jackets,Vancouver Canucks,3,2,REG
+2007020678,20072008,2008-01-15,Toronto Maple Leafs,Carolina Hurricanes,5,4,REG
+2007020679,20072008,2008-01-15,Tampa Bay Lightning,Colorado Avalanche,0,3,REG
+2007020680,20072008,2008-01-15,Detroit Red Wings,Atlanta Thrashers,1,5,REG
+2007020681,20072008,2008-01-15,Nashville Predators,Calgary Flames,3,0,REG
+2007020682,20072008,2008-01-15,Edmonton Oilers,Los Angeles Kings,1,3,REG
+2007020683,20072008,2008-01-15,Phoenix Coyotes,San Jose Sharks,5,3,REG
+2007020684,20072008,2008-01-15,Anaheim Ducks,Dallas Stars,4,2,REG
+2007020685,20072008,2008-01-16,New Jersey Devils,New York Islanders,1,3,REG
+2007020686,20072008,2008-01-16,New York Rangers,Buffalo Sabres,2,1,REG
+2007020687,20072008,2008-01-16,Philadelphia Flyers,Florida Panthers,5,3,REG
+2007020688,20072008,2008-01-16,Minnesota Wild,Calgary Flames,2,3,REG
+2007020689,20072008,2008-01-16,Chicago Blackhawks,St. Louis Blues,6,1,REG
+2007020690,20072008,2008-01-17,Boston Bruins,Toronto Maple Leafs,2,3,REG
+2007020691,20072008,2008-01-17,Washington Capitals,Edmonton Oilers,5,4,REG
+2007020692,20072008,2008-01-17,Atlanta Thrashers,Montréal Canadiens,2,3,REG
+2007020693,20072008,2008-01-17,Ottawa Senators,Carolina Hurricanes,5,1,REG
+2007020694,20072008,2008-01-17,Detroit Red Wings,Vancouver Canucks,3,2,REG
+2007020695,20072008,2008-01-17,Nashville Predators,Anaheim Ducks,1,2,REG
+2007020696,20072008,2008-01-17,Phoenix Coyotes,Columbus Blue Jackets,3,4,REG
+2007020697,20072008,2008-01-17,San Jose Sharks,Dallas Stars,2,4,REG
+2007020698,20072008,2008-01-18,New Jersey Devils,Florida Panthers,1,2,REG
+2007020699,20072008,2008-01-18,Carolina Hurricanes,Edmonton Oilers,7,2,REG
+2007020700,20072008,2008-01-18,Buffalo Sabres,Atlanta Thrashers,10,1,REG
+2007020701,20072008,2008-01-18,Pittsburgh Penguins,Tampa Bay Lightning,0,3,REG
+2007020702,20072008,2008-01-18,Minnesota Wild,Anaheim Ducks,2,4,REG
+2007020703,20072008,2008-01-18,Colorado Avalanche,Chicago Blackhawks,1,2,REG
+2007020704,20072008,2008-01-18,Calgary Flames,Los Angeles Kings,6,1,REG
+2007020705,20072008,2008-01-19,Boston Bruins,New York Rangers,4,3,REG
+2007020706,20072008,2008-01-19,Dallas Stars,Columbus Blue Jackets,3,1,REG
+2007020712,20072008,2008-01-19,St. Louis Blues,Nashville Predators,2,5,REG
+2007020707,20072008,2008-01-19,Toronto Maple Leafs,Buffalo Sabres,4,2,REG
+2007020708,20072008,2008-01-19,Montréal Canadiens,Pittsburgh Penguins,0,2,REG
+2007020709,20072008,2008-01-19,Ottawa Senators,Tampa Bay Lightning,0,2,REG
+2007020710,20072008,2008-01-19,New York Islanders,Philadelphia Flyers,3,5,REG
+2007020711,20072008,2008-01-19,Washington Capitals,Florida Panthers,5,3,REG
+2007020713,20072008,2008-01-19,Phoenix Coyotes,Chicago Blackhawks,1,2,REG
+2007020714,20072008,2008-01-19,Vancouver Canucks,Los Angeles Kings,3,4,REG
+2007020715,20072008,2008-01-19,San Jose Sharks,Detroit Red Wings,3,6,REG
+2007020716,20072008,2008-01-20,New York Rangers,Boston Bruins,1,3,REG
+2007020718,20072008,2008-01-20,Atlanta Thrashers,Edmonton Oilers,2,4,REG
+2007020717,20072008,2008-01-20,Dallas Stars,Anaheim Ducks,5,2,REG
+2007020719,20072008,2008-01-20,New Jersey Devils,Toronto Maple Leafs,3,2,REG
+2007020720,20072008,2008-01-20,Philadelphia Flyers,Ottawa Senators,6,1,REG
+2007020721,20072008,2008-01-20,Colorado Avalanche,Columbus Blue Jackets,3,1,REG
+2007020722,20072008,2008-01-21,New York Islanders,Carolina Hurricanes,2,3,REG
+2007020723,20072008,2008-01-21,Phoenix Coyotes,Buffalo Sabres,6,2,REG
+2007020724,20072008,2008-01-21,Nashville Predators,St. Louis Blues,6,3,REG
+2007020725,20072008,2008-01-21,Pittsburgh Penguins,Washington Capitals,5,6,REG
+2007020726,20072008,2008-01-21,Vancouver Canucks,Minnesota Wild,2,4,REG
+2007020727,20072008,2008-01-22,New York Rangers,Atlanta Thrashers,4,0,REG
+2007020728,20072008,2008-01-22,Philadelphia Flyers,New Jersey Devils,3,7,REG
+2007020729,20072008,2008-01-22,Carolina Hurricanes,New York Islanders,3,6,REG
+2007020730,20072008,2008-01-22,Montréal Canadiens,Boston Bruins,8,2,REG
+2007020731,20072008,2008-01-22,Tampa Bay Lightning,Edmonton Oilers,4,3,REG
+2007020732,20072008,2008-01-22,Florida Panthers,Ottawa Senators,5,3,REG
+2007020733,20072008,2008-01-22,Dallas Stars,Columbus Blue Jackets,2,4,REG
+2007020734,20072008,2008-01-22,Colorado Avalanche,Nashville Predators,0,4,REG
+2007020735,20072008,2008-01-22,Calgary Flames,Minnesota Wild,2,1,REG
+2007020736,20072008,2008-01-22,Los Angeles Kings,Detroit Red Wings,0,3,REG
+2007020737,20072008,2008-01-22,San Jose Sharks,Chicago Blackhawks,3,2,REG
+2007020738,20072008,2008-01-23,Toronto Maple Leafs,Washington Capitals,3,2,REG
+2007020739,20072008,2008-01-23,Vancouver Canucks,St. Louis Blues,3,2,REG
+2007020740,20072008,2008-01-23,Anaheim Ducks,Detroit Red Wings,1,2,REG
+2007020741,20072008,2008-01-24,Boston Bruins,New York Islanders,4,1,REG
+2007020742,20072008,2008-01-24,New Jersey Devils,Montréal Canadiens,3,4,REG
+2007020744,20072008,2008-01-24,Philadelphia Flyers,Pittsburgh Penguins,4,3,REG
+2007020745,20072008,2008-01-24,Washington Capitals,Toronto Maple Leafs,2,1,REG
+2007020746,20072008,2008-01-24,Tampa Bay Lightning,Ottawa Senators,4,8,REG
+2007020747,20072008,2008-01-24,Florida Panthers,Edmonton Oilers,3,4,REG
+2007020743,20072008,2008-01-24,New York Rangers,Atlanta Thrashers,2,1,REG
+2007020748,20072008,2008-01-24,Chicago Blackhawks,Columbus Blue Jackets,0,1,REG
+2007020749,20072008,2008-01-24,Dallas Stars,Buffalo Sabres,1,2,REG
+2007020750,20072008,2008-01-24,Colorado Avalanche,Minnesota Wild,2,3,REG
+2007020751,20072008,2008-01-24,Phoenix Coyotes,Nashville Predators,4,3,REG
+2007020752,20072008,2008-01-24,Los Angeles Kings,Anaheim Ducks,3,1,REG
+2007020753,20072008,2008-01-24,San Jose Sharks,St. Louis Blues,4,1,REG
+2007020754,20072008,2008-01-29,Boston Bruins,Nashville Predators,3,1,REG
+2007020755,20072008,2008-01-29,New Jersey Devils,Pittsburgh Penguins,2,4,REG
+2007020756,20072008,2008-01-29,New York Islanders,Ottawa Senators,2,5,REG
+2007020757,20072008,2008-01-29,Philadelphia Flyers,Los Angeles Kings,3,2,REG
+2007020758,20072008,2008-01-29,Carolina Hurricanes,New York Rangers,3,1,REG
+2007020759,20072008,2008-01-29,Columbus Blue Jackets,Phoenix Coyotes,2,4,REG
+2007020762,20072008,2008-01-29,Tampa Bay Lightning,Buffalo Sabres,2,4,REG
+2007020760,20072008,2008-01-29,Toronto Maple Leafs,St. Louis Blues,2,3,REG
+2007020761,20072008,2008-01-29,Montréal Canadiens,Washington Capitals,4,0,REG
+2007020763,20072008,2008-01-29,Edmonton Oilers,San Jose Sharks,0,3,REG
+2007020764,20072008,2008-01-29,Vancouver Canucks,Dallas Stars,3,4,REG
+2007020768,20072008,2008-01-30,Minnesota Wild,Anaheim Ducks,5,1,REG
+2007020765,20072008,2008-01-30,Atlanta Thrashers,Pittsburgh Penguins,4,1,REG
+2007020766,20072008,2008-01-30,Florida Panthers,Buffalo Sabres,0,1,REG
+2007020767,20072008,2008-01-30,Detroit Red Wings,Phoenix Coyotes,3,2,REG
+2007020769,20072008,2008-01-30,Colorado Avalanche,Chicago Blackhawks,6,3,REG
+2007020770,20072008,2008-01-30,Calgary Flames,San Jose Sharks,5,4,REG
+2007020771,20072008,2008-01-31,New York Islanders,Los Angeles Kings,1,3,REG
+2007020772,20072008,2008-01-31,Philadelphia Flyers,New York Rangers,0,4,REG
+2007020773,20072008,2008-01-31,Washington Capitals,Montréal Canadiens,5,4,REG
+2007020774,20072008,2008-01-31,Carolina Hurricanes,Toronto Maple Leafs,3,2,REG
+2007020775,20072008,2008-01-31,Ottawa Senators,Boston Bruins,1,4,REG
+2007020776,20072008,2008-01-31,Tampa Bay Lightning,Vancouver Canucks,4,3,REG
+2007020777,20072008,2008-01-31,Nashville Predators,Columbus Blue Jackets,4,2,REG
+2007020778,20072008,2008-02-01,New Jersey Devils,New York Rangers,1,3,REG
+2007020779,20072008,2008-02-01,Atlanta Thrashers,Buffalo Sabres,5,4,REG
+2007020780,20072008,2008-02-01,Florida Panthers,Vancouver Canucks,4,3,REG
+2007020781,20072008,2008-02-01,Detroit Red Wings,Colorado Avalanche,2,0,REG
+2007020782,20072008,2008-02-01,St. Louis Blues,Anaheim Ducks,1,0,REG
+2007020783,20072008,2008-02-01,Edmonton Oilers,Dallas Stars,1,4,REG
+2007020784,20072008,2008-02-02,Montréal Canadiens,New York Islanders,4,1,REG
+2007020796,20072008,2008-02-02,San Jose Sharks,Chicago Blackhawks,3,2,REG
+2007020785,20072008,2008-02-02,Boston Bruins,Detroit Red Wings,1,3,REG
+2007020786,20072008,2008-02-02,Toronto Maple Leafs,Ottawa Senators,4,2,REG
+2007020787,20072008,2008-02-02,New Jersey Devils,Los Angeles Kings,6,3,REG
+2007020788,20072008,2008-02-02,Philadelphia Flyers,Anaheim Ducks,3,0,REG
+2007020789,20072008,2008-02-02,Washington Capitals,Atlanta Thrashers,0,2,REG
+2007020790,20072008,2008-02-02,Columbus Blue Jackets,Minnesota Wild,1,4,REG
+2007020791,20072008,2008-02-02,Pittsburgh Penguins,Carolina Hurricanes,4,1,REG
+2007020792,20072008,2008-02-02,Tampa Bay Lightning,Florida Panthers,2,3,REG
+2007020793,20072008,2008-02-02,Nashville Predators,Phoenix Coyotes,3,2,REG
+2007020794,20072008,2008-02-02,St. Louis Blues,Colorado Avalanche,4,6,REG
+2007020795,20072008,2008-02-02,Calgary Flames,Dallas Stars,1,2,REG
+2007020797,20072008,2008-02-03,Montréal Canadiens,New York Rangers,3,5,REG
+2007020798,20072008,2008-02-04,New Jersey Devils,Pittsburgh Penguins,4,3,REG
+2007020799,20072008,2008-02-04,Colorado Avalanche,Phoenix Coyotes,3,4,REG
+2007020800,20072008,2008-02-04,Edmonton Oilers,Calgary Flames,5,0,REG
+2007020801,20072008,2008-02-05,Boston Bruins,Buffalo Sabres,2,4,REG
+2007020802,20072008,2008-02-05,New York Islanders,Anaheim Ducks,0,3,REG
+2007020803,20072008,2008-02-05,New York Rangers,Los Angeles Kings,2,4,REG
+2007020804,20072008,2008-02-05,Atlanta Thrashers,Philadelphia Flyers,2,3,REG
+2007020805,20072008,2008-02-05,Columbus Blue Jackets,Washington Capitals,3,4,REG
+2007020806,20072008,2008-02-05,Toronto Maple Leafs,Florida Panthers,0,8,REG
+2007020807,20072008,2008-02-05,Montréal Canadiens,Ottawa Senators,4,3,REG
+2007020808,20072008,2008-02-05,Nashville Predators,Carolina Hurricanes,1,0,REG
+2007020809,20072008,2008-02-05,Minnesota Wild,Detroit Red Wings,2,3,REG
+2007020810,20072008,2008-02-05,St. Louis Blues,Tampa Bay Lightning,4,5,REG
+2007020811,20072008,2008-02-05,Dallas Stars,Vancouver Canucks,3,2,REG
+2007020812,20072008,2008-02-05,Calgary Flames,Phoenix Coyotes,4,3,REG
+2007020813,20072008,2008-02-06,Buffalo Sabres,New Jersey Devils,3,2,REG
+2007020814,20072008,2008-02-06,Philadelphia Flyers,Washington Capitals,3,4,REG
+2007020815,20072008,2008-02-06,Edmonton Oilers,Chicago Blackhawks,4,1,REG
+2007020816,20072008,2008-02-06,San Jose Sharks,Colorado Avalanche,1,3,REG
+2007020817,20072008,2008-02-07,New York Rangers,Anaheim Ducks,1,4,REG
+2007020818,20072008,2008-02-07,Atlanta Thrashers,Vancouver Canucks,1,2,REG
+2007020819,20072008,2008-02-07,Montréal Canadiens,Toronto Maple Leafs,2,4,REG
+2007020820,20072008,2008-02-07,Ottawa Senators,Florida Panthers,5,4,REG
+2007020821,20072008,2008-02-07,Pittsburgh Penguins,New York Islanders,4,3,REG
+2007020822,20072008,2008-02-07,Detroit Red Wings,Los Angeles Kings,3,5,REG
+2007020823,20072008,2008-02-07,Nashville Predators,Tampa Bay Lightning,1,2,REG
+2007020824,20072008,2008-02-07,Minnesota Wild,Dallas Stars,0,1,REG
+2007020825,20072008,2008-02-07,Calgary Flames,Chicago Blackhawks,1,3,REG
+2007020826,20072008,2008-02-07,Phoenix Coyotes,Columbus Blue Jackets,1,2,REG
+2007020827,20072008,2008-02-08,New Jersey Devils,Anaheim Ducks,1,2,REG
+2007020828,20072008,2008-02-08,Washington Capitals,Carolina Hurricanes,1,2,REG
+2007020829,20072008,2008-02-08,Buffalo Sabres,Boston Bruins,2,3,REG
+2007020830,20072008,2008-02-08,San Jose Sharks,Columbus Blue Jackets,2,1,REG
+2007020831,20072008,2008-02-09,Philadelphia Flyers,New York Rangers,0,2,REG
+2007020832,20072008,2008-02-09,Pittsburgh Penguins,Los Angeles Kings,4,2,REG
+2007020833,20072008,2008-02-09,Toronto Maple Leafs,Detroit Red Wings,3,2,REG
+2007020834,20072008,2008-02-09,Minnesota Wild,New York Islanders,4,3,REG
+2007020839,20072008,2008-02-09,Calgary Flames,Edmonton Oilers,4,1,REG
+2007020835,20072008,2008-02-09,Boston Bruins,Florida Panthers,3,6,REG
+2007020836,20072008,2008-02-09,Ottawa Senators,Montréal Canadiens,6,1,REG
+2007020837,20072008,2008-02-09,New Jersey Devils,Carolina Hurricanes,6,1,REG
+2007020838,20072008,2008-02-09,Atlanta Thrashers,Tampa Bay Lightning,2,1,REG
+2007020840,20072008,2008-02-09,Dallas Stars,St. Louis Blues,6,2,REG
+2007020841,20072008,2008-02-09,Vancouver Canucks,Colorado Avalanche,2,6,REG
+2007020842,20072008,2008-02-09,San Jose Sharks,Nashville Predators,4,3,REG
+2007020843,20072008,2008-02-10,Pittsburgh Penguins,Philadelphia Flyers,4,3,REG
+2007020844,20072008,2008-02-10,Washington Capitals,New York Rangers,3,2,REG
+2007020845,20072008,2008-02-10,Detroit Red Wings,Anaheim Ducks,2,3,REG
+2007020847,20072008,2008-02-10,St. Louis Blues,Minnesota Wild,1,2,REG
+2007020846,20072008,2008-02-10,Columbus Blue Jackets,Los Angeles Kings,2,3,REG
+2007020848,20072008,2008-02-10,Buffalo Sabres,Florida Panthers,5,3,REG
+2007020849,20072008,2008-02-10,Phoenix Coyotes,Nashville Predators,3,6,REG
+2007020850,20072008,2008-02-10,Vancouver Canucks,Chicago Blackhawks,3,2,REG
+2007020851,20072008,2008-02-11,Dallas Stars,Phoenix Coyotes,2,1,REG
+2007020852,20072008,2008-02-12,Boston Bruins,Carolina Hurricanes,2,3,REG
+2007020853,20072008,2008-02-12,New York Islanders,Philadelphia Flyers,4,3,REG
+2007020855,20072008,2008-02-12,Tampa Bay Lightning,Montréal Canadiens,3,2,REG
+2007020854,20072008,2008-02-12,Ottawa Senators,Buffalo Sabres,1,5,REG
+2007020856,20072008,2008-02-12,Nashville Predators,Detroit Red Wings,4,2,REG
+2007020857,20072008,2008-02-12,St. Louis Blues,Los Angeles Kings,4,2,REG
+2007020859,20072008,2008-02-12,Edmonton Oilers,Minnesota Wild,4,2,REG
+2007020858,20072008,2008-02-12,Colorado Avalanche,Anaheim Ducks,1,2,REG
+2007020860,20072008,2008-02-12,San Jose Sharks,Calgary Flames,3,4,REG
+2007020862,20072008,2008-02-13,New Jersey Devils,Ottawa Senators,3,2,REG
+2007020863,20072008,2008-02-13,Atlanta Thrashers,Washington Capitals,3,2,REG
+2007020864,20072008,2008-02-13,Columbus Blue Jackets,Chicago Blackhawks,2,7,REG
+2007020861,20072008,2008-02-13,Buffalo Sabres,Toronto Maple Leafs,1,0,REG
+2007020865,20072008,2008-02-13,Pittsburgh Penguins,Boston Bruins,1,2,REG
+2007020866,20072008,2008-02-13,Florida Panthers,Montréal Canadiens,1,2,REG
+2007020867,20072008,2008-02-14,Philadelphia Flyers,Tampa Bay Lightning,3,5,REG
+2007020868,20072008,2008-02-14,Carolina Hurricanes,Pittsburgh Penguins,4,2,REG
+2007020869,20072008,2008-02-14,Toronto Maple Leafs,New York Islanders,4,5,REG
+2007020870,20072008,2008-02-14,Nashville Predators,Chicago Blackhawks,1,6,REG
+2007020871,20072008,2008-02-14,Colorado Avalanche,St. Louis Blues,1,4,REG
+2007020872,20072008,2008-02-14,Phoenix Coyotes,Dallas Stars,5,2,REG
+2007020873,20072008,2008-02-14,Vancouver Canucks,Minnesota Wild,4,5,REG
+2007020874,20072008,2008-02-14,San Jose Sharks,Edmonton Oilers,2,3,REG
+2007020875,20072008,2008-02-15,New Jersey Devils,Atlanta Thrashers,3,4,REG
+2007020876,20072008,2008-02-15,Florida Panthers,Washington Capitals,4,2,REG
+2007020877,20072008,2008-02-15,Detroit Red Wings,Columbus Blue Jackets,1,5,REG
+2007020878,20072008,2008-02-15,Anaheim Ducks,Dallas Stars,2,4,REG
+2007020879,20072008,2008-02-15,Los Angeles Kings,Calgary Flames,6,3,REG
+2007020880,20072008,2008-02-16,New York Rangers,Buffalo Sabres,5,1,REG
+2007020881,20072008,2008-02-16,Toronto Maple Leafs,Boston Bruins,4,3,REG
+2007020882,20072008,2008-02-16,Montréal Canadiens,Philadelphia Flyers,1,0,REG
+2007020883,20072008,2008-02-16,Ottawa Senators,New Jersey Devils,2,3,REG
+2007020884,20072008,2008-02-16,New York Islanders,Atlanta Thrashers,4,1,REG
+2007020885,20072008,2008-02-16,Carolina Hurricanes,Florida Panthers,5,4,REG
+2007020886,20072008,2008-02-16,Tampa Bay Lightning,Washington Capitals,2,3,REG
+2007020887,20072008,2008-02-16,Nashville Predators,St. Louis Blues,2,1,REG
+2007020888,20072008,2008-02-16,Phoenix Coyotes,Los Angeles Kings,4,3,REG
+2007020889,20072008,2008-02-16,Vancouver Canucks,Edmonton Oilers,4,2,REG
+2007020892,20072008,2008-02-17,Chicago Blackhawks,Colorado Avalanche,2,1,REG
+2007020891,20072008,2008-02-17,New York Rangers,San Jose Sharks,3,1,REG
+2007020893,20072008,2008-02-17,Dallas Stars,Detroit Red Wings,1,0,REG
+2007020894,20072008,2008-02-17,St. Louis Blues,Columbus Blue Jackets,5,1,REG
+2007020890,20072008,2008-02-17,Buffalo Sabres,Pittsburgh Penguins,1,4,REG
+2007020895,20072008,2008-02-17,Philadelphia Flyers,Montréal Canadiens,3,5,REG
+2007020897,20072008,2008-02-17,Anaheim Ducks,Calgary Flames,4,2,REG
+2007020896,20072008,2008-02-17,Minnesota Wild,Nashville Predators,5,4,REG
+2007020898,20072008,2008-02-18,New Jersey Devils,Carolina Hurricanes,5,1,REG
+2007020899,20072008,2008-02-18,New York Islanders,San Jose Sharks,3,2,REG
+2007020900,20072008,2008-02-18,Colorado Avalanche,Detroit Red Wings,0,4,REG
+2007020901,20072008,2008-02-18,Los Angeles Kings,Phoenix Coyotes,0,4,REG
+2007020902,20072008,2008-02-19,Carolina Hurricanes,Boston Bruins,2,3,REG
+2007020903,20072008,2008-02-19,Toronto Maple Leafs,Columbus Blue Jackets,3,1,REG
+2007020904,20072008,2008-02-19,Montréal Canadiens,New York Rangers,6,5,REG
+2007020905,20072008,2008-02-19,Ottawa Senators,Philadelphia Flyers,3,2,REG
+2007020906,20072008,2008-02-19,Pittsburgh Penguins,Florida Panthers,3,2,REG
+2007020907,20072008,2008-02-19,Nashville Predators,Edmonton Oilers,5,4,REG
+2007020908,20072008,2008-02-19,Minnesota Wild,Vancouver Canucks,2,3,REG
+2007020909,20072008,2008-02-19,St. Louis Blues,Chicago Blackhawks,5,1,REG
+2007020910,20072008,2008-02-19,Phoenix Coyotes,Calgary Flames,1,4,REG
+2007020911,20072008,2008-02-20,Buffalo Sabres,Tampa Bay Lightning,4,3,REG
+2007020912,20072008,2008-02-20,New Jersey Devils,San Jose Sharks,3,2,REG
+2007020913,20072008,2008-02-20,Washington Capitals,New York Islanders,2,3,REG
+2007020914,20072008,2008-02-20,Chicago Blackhawks,Minnesota Wild,3,0,REG
+2007020915,20072008,2008-02-20,Dallas Stars,Calgary Flames,2,3,REG
+2007020916,20072008,2008-02-20,Anaheim Ducks,Colorado Avalanche,3,2,REG
+2007020917,20072008,2008-02-21,New York Islanders,Tampa Bay Lightning,1,0,REG
+2007020918,20072008,2008-02-21,Philadelphia Flyers,San Jose Sharks,1,3,REG
+2007020919,20072008,2008-02-21,Carolina Hurricanes,Atlanta Thrashers,5,3,REG
+2007020920,20072008,2008-02-21,Toronto Maple Leafs,Buffalo Sabres,1,5,REG
+2007020921,20072008,2008-02-21,Montréal Canadiens,Pittsburgh Penguins,4,5,REG
+2007020922,20072008,2008-02-21,Ottawa Senators,Columbus Blue Jackets,2,3,REG
+2007020923,20072008,2008-02-21,Florida Panthers,Boston Bruins,4,5,REG
+2007020924,20072008,2008-02-21,Nashville Predators,Vancouver Canucks,2,3,REG
+2007020925,20072008,2008-02-21,Los Angeles Kings,St. Louis Blues,5,1,REG
+2007020926,20072008,2008-02-22,Dallas Stars,Edmonton Oilers,5,2,REG
+2007020927,20072008,2008-02-22,Calgary Flames,Detroit Red Wings,1,0,REG
+2007020928,20072008,2008-02-22,Phoenix Coyotes,Colorado Avalanche,2,3,REG
+2007020929,20072008,2008-02-22,Anaheim Ducks,St. Louis Blues,2,1,REG
+2007020930,20072008,2008-02-23,New Jersey Devils,New York Islanders,4,2,REG
+2007020931,20072008,2008-02-23,Pittsburgh Penguins,Ottawa Senators,3,4,REG
+2007020932,20072008,2008-02-23,Los Angeles Kings,Chicago Blackhawks,5,6,REG
+2007020933,20072008,2008-02-23,Carolina Hurricanes,Washington Capitals,6,3,REG
+2007020934,20072008,2008-02-23,Buffalo Sabres,New York Rangers,3,4,REG
+2007020935,20072008,2008-02-23,Toronto Maple Leafs,Atlanta Thrashers,3,1,REG
+2007020937,20072008,2008-02-23,Philadelphia Flyers,Florida Panthers,1,2,REG
+2007020936,20072008,2008-02-23,Montréal Canadiens,Columbus Blue Jackets,0,3,REG
+2007020938,20072008,2008-02-23,Tampa Bay Lightning,Boston Bruins,3,5,REG
+2007020939,20072008,2008-02-23,Nashville Predators,Dallas Stars,3,6,REG
+2007020940,20072008,2008-02-23,Vancouver Canucks,Detroit Red Wings,4,1,REG
+2007020941,20072008,2008-02-24,Minnesota Wild,Calgary Flames,1,2,REG
+2007020942,20072008,2008-02-24,Pittsburgh Penguins,San Jose Sharks,1,2,REG
+2007020943,20072008,2008-02-24,Washington Capitals,New Jersey Devils,1,2,REG
+2007020944,20072008,2008-02-24,New York Rangers,Florida Panthers,5,0,REG
+2007020947,20072008,2008-02-24,Anaheim Ducks,Chicago Blackhawks,6,3,REG
+2007020945,20072008,2008-02-24,Edmonton Oilers,Colorado Avalanche,3,2,REG
+2007020946,20072008,2008-02-24,Phoenix Coyotes,St. Louis Blues,2,0,REG
+2007020948,20072008,2008-02-25,Buffalo Sabres,Philadelphia Flyers,3,4,REG
+2007020949,20072008,2008-02-25,Ottawa Senators,Toronto Maple Leafs,0,5,REG
+2007020951,20072008,2008-02-26,New York Islanders,Pittsburgh Penguins,2,4,REG
+2007020952,20072008,2008-02-26,Washington Capitals,Minnesota Wild,4,1,REG
+2007020953,20072008,2008-02-26,Carolina Hurricanes,New Jersey Devils,2,1,REG
+2007020950,20072008,2008-02-26,Boston Bruins,Ottawa Senators,4,0,REG
+2007020954,20072008,2008-02-26,Montréal Canadiens,Atlanta Thrashers,5,1,REG
+2007020955,20072008,2008-02-26,St. Louis Blues,Dallas Stars,1,3,REG
+2007020956,20072008,2008-02-26,Calgary Flames,Colorado Avalanche,2,3,REG
+2007020957,20072008,2008-02-26,Edmonton Oilers,Detroit Red Wings,4,3,REG
+2007020958,20072008,2008-02-27,Buffalo Sabres,Nashville Predators,8,4,REG
+2007020959,20072008,2008-02-27,Columbus Blue Jackets,San Jose Sharks,2,4,REG
+2007020960,20072008,2008-02-27,Tampa Bay Lightning,Minnesota Wild,2,3,REG
+2007020961,20072008,2008-02-27,Florida Panthers,Toronto Maple Leafs,3,4,REG
+2007020962,20072008,2008-02-27,Chicago Blackhawks,Phoenix Coyotes,1,0,REG
+2007020963,20072008,2008-02-27,Vancouver Canucks,Colorado Avalanche,2,3,REG
+2007020964,20072008,2008-02-28,Boston Bruins,Pittsburgh Penguins,5,1,REG
+2007020965,20072008,2008-02-28,Philadelphia Flyers,Ottawa Senators,3,1,REG
+2007020966,20072008,2008-02-28,Carolina Hurricanes,New York Rangers,2,4,REG
+2007020967,20072008,2008-02-28,Atlanta Thrashers,New York Islanders,4,5,REG
+2007020968,20072008,2008-02-28,St. Louis Blues,Phoenix Coyotes,1,2,REG
+2007020969,20072008,2008-02-28,Dallas Stars,Chicago Blackhawks,7,4,REG
+2007020970,20072008,2008-02-28,Edmonton Oilers,Los Angeles Kings,5,4,REG
+2007020971,20072008,2008-02-29,New Jersey Devils,Washington Capitals,0,4,REG
+2007020972,20072008,2008-02-29,Buffalo Sabres,Montréal Canadiens,2,6,REG
+2007020973,20072008,2008-02-29,Florida Panthers,Minnesota Wild,2,3,REG
+2007020974,20072008,2008-02-29,Detroit Red Wings,San Jose Sharks,2,3,REG
+2007020975,20072008,2008-02-29,Tampa Bay Lightning,Toronto Maple Leafs,3,2,REG
+2007020976,20072008,2008-02-29,Vancouver Canucks,Columbus Blue Jackets,2,3,REG
+2007020977,20072008,2008-02-29,Anaheim Ducks,Calgary Flames,3,1,REG
+2007020978,20072008,2008-03-01,Boston Bruins,Atlanta Thrashers,3,2,REG
+2007020979,20072008,2008-03-01,New York Islanders,Philadelphia Flyers,1,4,REG
+2007020980,20072008,2008-03-01,Ottawa Senators,Pittsburgh Penguins,5,4,REG
+2007020981,20072008,2008-03-01,Montréal Canadiens,New Jersey Devils,2,1,REG
+2007020982,20072008,2008-03-01,Washington Capitals,Toronto Maple Leafs,2,3,REG
+2007020983,20072008,2008-03-01,Carolina Hurricanes,Tampa Bay Lightning,5,1,REG
+2007020986,20072008,2008-03-01,Colorado Avalanche,Los Angeles Kings,5,2,REG
+2007020984,20072008,2008-03-01,Dallas Stars,Nashville Predators,1,3,REG
+2007020985,20072008,2008-03-01,St. Louis Blues,San Jose Sharks,0,2,REG
+2007020987,20072008,2008-03-01,Phoenix Coyotes,Calgary Flames,1,3,REG
+2007020990,20072008,2008-03-02,New York Rangers,Philadelphia Flyers,5,4,REG
+2007020992,20072008,2008-03-02,Chicago Blackhawks,Vancouver Canucks,4,1,REG
+2007020991,20072008,2008-03-02,Pittsburgh Penguins,Atlanta Thrashers,3,2,REG
+2007020989,20072008,2008-03-02,New York Islanders,Florida Panthers,0,1,REG
+2007020988,20072008,2008-03-02,Buffalo Sabres,Detroit Red Wings,2,4,REG
+2007020993,20072008,2008-03-02,Minnesota Wild,Los Angeles Kings,2,1,REG
+2007020994,20072008,2008-03-02,Edmonton Oilers,Columbus Blue Jackets,4,3,REG
+2007020995,20072008,2008-03-03,Washington Capitals,Boston Bruins,10,2,REG
+2007020996,20072008,2008-03-03,Anaheim Ducks,Ottawa Senators,3,1,REG
+2007020997,20072008,2008-03-03,San Jose Sharks,Montréal Canadiens,6,4,REG
+2007020998,20072008,2008-03-04,Boston Bruins,Florida Panthers,0,1,REG
+2007020999,20072008,2008-03-04,New York Rangers,New York Islanders,3,4,REG
+2007021000,20072008,2008-03-04,Philadelphia Flyers,Buffalo Sabres,2,5,REG
+2007021001,20072008,2008-03-04,Toronto Maple Leafs,New Jersey Devils,1,4,REG
+2007021002,20072008,2008-03-04,Tampa Bay Lightning,Pittsburgh Penguins,0,2,REG
+2007021003,20072008,2008-03-04,Minnesota Wild,Chicago Blackhawks,2,4,REG
+2007021004,20072008,2008-03-04,St. Louis Blues,Los Angeles Kings,3,2,REG
+2007021006,20072008,2008-03-04,Calgary Flames,Columbus Blue Jackets,1,0,REG
+2007021007,20072008,2008-03-04,Edmonton Oilers,Nashville Predators,1,5,REG
+2007021005,20072008,2008-03-04,Colorado Avalanche,Vancouver Canucks,2,1,REG
+2007021009,20072008,2008-03-05,Atlanta Thrashers,Carolina Hurricanes,3,6,REG
+2007021008,20072008,2008-03-05,Buffalo Sabres,Washington Capitals,1,3,REG
+2007021010,20072008,2008-03-05,Detroit Red Wings,St. Louis Blues,4,1,REG
+2007021011,20072008,2008-03-05,Chicago Blackhawks,Anaheim Ducks,3,0,REG
+2007021012,20072008,2008-03-05,Dallas Stars,Phoenix Coyotes,1,2,REG
+2007021013,20072008,2008-03-05,San Jose Sharks,Ottawa Senators,3,2,REG
+2007021014,20072008,2008-03-06,Boston Bruins,Toronto Maple Leafs,2,8,REG
+2007021015,20072008,2008-03-06,New York Islanders,New York Rangers,1,4,REG
+2007021016,20072008,2008-03-06,Philadelphia Flyers,Tampa Bay Lightning,3,2,REG
+2007021017,20072008,2008-03-06,Carolina Hurricanes,Minnesota Wild,3,2,REG
+2007021018,20072008,2008-03-06,Florida Panthers,Pittsburgh Penguins,5,2,REG
+2007021019,20072008,2008-03-06,Colorado Avalanche,Anaheim Ducks,1,0,REG
+2007021020,20072008,2008-03-06,Phoenix Coyotes,Montréal Canadiens,2,4,REG
+2007021021,20072008,2008-03-06,Vancouver Canucks,Nashville Predators,6,2,REG
+2007021022,20072008,2008-03-06,Los Angeles Kings,Ottawa Senators,2,0,REG
+2007021023,20072008,2008-03-07,New Jersey Devils,Tampa Bay Lightning,2,1,REG
+2007021024,20072008,2008-03-07,Columbus Blue Jackets,Edmonton Oilers,1,2,REG
+2007021025,20072008,2008-03-07,Atlanta Thrashers,Minnesota Wild,3,2,REG
+2007021026,20072008,2008-03-07,Chicago Blackhawks,San Jose Sharks,2,3,REG
+2007021027,20072008,2008-03-07,Calgary Flames,Nashville Predators,1,2,REG
+2007021028,20072008,2008-03-08,Boston Bruins,Washington Capitals,2,1,REG
+2007021034,20072008,2008-03-08,Colorado Avalanche,Dallas Stars,3,1,REG
+2007021029,20072008,2008-03-08,Los Angeles Kings,Montréal Canadiens,2,5,REG
+2007021035,20072008,2008-03-08,Phoenix Coyotes,Ottawa Senators,2,4,REG
+2007021030,20072008,2008-03-08,Toronto Maple Leafs,New Jersey Devils,1,2,REG
+2007021031,20072008,2008-03-08,Philadelphia Flyers,New York Islanders,4,1,REG
+2007021032,20072008,2008-03-08,Carolina Hurricanes,Buffalo Sabres,4,3,REG
+2007021033,20072008,2008-03-08,Florida Panthers,Atlanta Thrashers,3,2,REG
+2007021036,20072008,2008-03-08,Vancouver Canucks,St. Louis Blues,4,2,REG
+2007021038,20072008,2008-03-09,Washington Capitals,Pittsburgh Penguins,2,4,REG
+2007021041,20072008,2008-03-09,Chicago Blackhawks,Edmonton Oilers,5,6,REG
+2007021037,20072008,2008-03-09,New York Rangers,Boston Bruins,1,0,REG
+2007021039,20072008,2008-03-09,Detroit Red Wings,Nashville Predators,4,3,REG
+2007021040,20072008,2008-03-09,Columbus Blue Jackets,Tampa Bay Lightning,5,3,REG
+2007021042,20072008,2008-03-09,Minnesota Wild,San Jose Sharks,2,3,REG
+2007021044,20072008,2008-03-09,Anaheim Ducks,Montréal Canadiens,3,1,REG
+2007021043,20072008,2008-03-09,Dallas Stars,Colorado Avalanche,3,0,REG
+2007021045,20072008,2008-03-10,Buffalo Sabres,New York Rangers,2,3,REG
+2007021046,20072008,2008-03-10,Calgary Flames,St. Louis Blues,7,3,REG
+2007021047,20072008,2008-03-10,Los Angeles Kings,Vancouver Canucks,1,2,REG
+2007021048,20072008,2008-03-11,Atlanta Thrashers,Colorado Avalanche,2,5,REG
+2007021049,20072008,2008-03-11,Toronto Maple Leafs,Philadelphia Flyers,4,3,REG
+2007021050,20072008,2008-03-11,Montréal Canadiens,New Jersey Devils,4,0,REG
+2007021051,20072008,2008-03-11,Ottawa Senators,Boston Bruins,4,1,REG
+2007021052,20072008,2008-03-11,Tampa Bay Lightning,New York Islanders,8,4,REG
+2007021053,20072008,2008-03-11,Detroit Red Wings,Chicago Blackhawks,3,1,REG
+2007021054,20072008,2008-03-11,Nashville Predators,San Jose Sharks,1,2,REG
+2007021055,20072008,2008-03-11,Edmonton Oilers,St. Louis Blues,4,3,REG
+2007021056,20072008,2008-03-11,Phoenix Coyotes,Anaheim Ducks,3,2,REG
+2007021057,20072008,2008-03-12,Philadelphia Flyers,Toronto Maple Leafs,2,3,REG
+2007021058,20072008,2008-03-12,Washington Capitals,Calgary Flames,3,2,REG
+2007021059,20072008,2008-03-12,Pittsburgh Penguins,Buffalo Sabres,7,3,REG
+2007021060,20072008,2008-03-12,Florida Panthers,New York Islanders,4,2,REG
+2007021061,20072008,2008-03-12,Chicago Blackhawks,Carolina Hurricanes,0,3,REG
+2007021062,20072008,2008-03-12,Anaheim Ducks,Vancouver Canucks,4,1,REG
+2007021063,20072008,2008-03-13,Boston Bruins,Tampa Bay Lightning,1,3,REG
+2007021064,20072008,2008-03-13,Atlanta Thrashers,Calgary Flames,6,4,REG
+2007021065,20072008,2008-03-13,Montréal Canadiens,Ottawa Senators,0,3,REG
+2007021066,20072008,2008-03-13,Detroit Red Wings,Dallas Stars,5,3,REG
+2007021067,20072008,2008-03-13,Nashville Predators,Los Angeles Kings,1,4,REG
+2007021068,20072008,2008-03-13,Minnesota Wild,New Jersey Devils,3,4,REG
+2007021069,20072008,2008-03-13,Colorado Avalanche,Edmonton Oilers,5,1,REG
+2007021070,20072008,2008-03-13,Phoenix Coyotes,Vancouver Canucks,2,0,REG
+2007021071,20072008,2008-03-14,Washington Capitals,Atlanta Thrashers,4,1,REG
+2007021072,20072008,2008-03-14,Columbus Blue Jackets,Chicago Blackhawks,3,6,REG
+2007021073,20072008,2008-03-14,Buffalo Sabres,Carolina Hurricanes,7,1,REG
+2007021074,20072008,2008-03-14,Florida Panthers,New York Rangers,3,2,REG
+2007021075,20072008,2008-03-14,San Jose Sharks,St. Louis Blues,4,1,REG
+2007021076,20072008,2008-03-15,Boston Bruins,Philadelphia Flyers,3,2,REG
+2007021077,20072008,2008-03-15,Detroit Red Wings,Nashville Predators,1,3,REG
+2007021078,20072008,2008-03-15,Colorado Avalanche,New Jersey Devils,2,4,REG
+2007021083,20072008,2008-03-15,Dallas Stars,Vancouver Canucks,3,4,REG
+2007021079,20072008,2008-03-15,Toronto Maple Leafs,Buffalo Sabres,2,6,REG
+2007021080,20072008,2008-03-15,Montréal Canadiens,New York Islanders,3,0,REG
+2007021081,20072008,2008-03-15,Tampa Bay Lightning,New York Rangers,3,0,REG
+2007021082,20072008,2008-03-15,Minnesota Wild,Los Angeles Kings,2,0,REG
+2007021084,20072008,2008-03-15,Phoenix Coyotes,Edmonton Oilers,2,5,REG
+2007021085,20072008,2008-03-15,Anaheim Ducks,St. Louis Blues,5,2,REG
+2007021086,20072008,2008-03-16,Pittsburgh Penguins,Philadelphia Flyers,7,1,REG
+2007021090,20072008,2008-03-16,Chicago Blackhawks,Calgary Flames,2,4,REG
+2007021087,20072008,2008-03-16,Washington Capitals,Boston Bruins,2,1,REG
+2007021088,20072008,2008-03-16,Carolina Hurricanes,Ottawa Senators,5,1,REG
+2007021089,20072008,2008-03-16,Columbus Blue Jackets,Detroit Red Wings,4,3,REG
+2007021091,20072008,2008-03-16,Florida Panthers,Atlanta Thrashers,3,1,REG
+2007021092,20072008,2008-03-16,San Jose Sharks,Edmonton Oilers,1,2,REG
+2007021093,20072008,2008-03-17,Minnesota Wild,Colorado Avalanche,3,1,REG
+2007021094,20072008,2008-03-17,Vancouver Canucks,Phoenix Coyotes,3,1,REG
+2007021095,20072008,2008-03-18,New York Islanders,Toronto Maple Leafs,1,3,REG
+2007021096,20072008,2008-03-18,New York Rangers,Pittsburgh Penguins,5,2,REG
+2007021097,20072008,2008-03-18,Philadelphia Flyers,Atlanta Thrashers,3,2,REG
+2007021098,20072008,2008-03-18,Columbus Blue Jackets,Calgary Flames,3,0,REG
+2007021099,20072008,2008-03-18,Montréal Canadiens,St. Louis Blues,3,4,REG
+2007021100,20072008,2008-03-18,Nashville Predators,Washington Capitals,2,4,REG
+2007021101,20072008,2008-03-18,Edmonton Oilers,Phoenix Coyotes,8,4,REG
+2007021102,20072008,2008-03-18,Los Angeles Kings,San Jose Sharks,1,2,REG
+2007021103,20072008,2008-03-19,Buffalo Sabres,Tampa Bay Lightning,7,4,REG
+2007021104,20072008,2008-03-19,New Jersey Devils,New York Rangers,1,2,REG
+2007021105,20072008,2008-03-19,Atlanta Thrashers,Carolina Hurricanes,3,5,REG
+2007021106,20072008,2008-03-19,Detroit Red Wings,Columbus Blue Jackets,3,1,REG
+2007021107,20072008,2008-03-19,Chicago Blackhawks,Washington Capitals,5,0,REG
+2007021108,20072008,2008-03-19,Dallas Stars,Anaheim Ducks,1,2,REG
+2007021109,20072008,2008-03-19,San Jose Sharks,Minnesota Wild,4,3,REG
+2007021110,20072008,2008-03-20,Boston Bruins,Montréal Canadiens,2,4,REG
+2007021111,20072008,2008-03-20,Ottawa Senators,St. Louis Blues,3,2,REG
+2007021112,20072008,2008-03-20,Pittsburgh Penguins,Tampa Bay Lightning,4,2,REG
+2007021113,20072008,2008-03-20,Florida Panthers,Carolina Hurricanes,1,2,REG
+2007021114,20072008,2008-03-20,Nashville Predators,Detroit Red Wings,3,6,REG
+2007021115,20072008,2008-03-20,Calgary Flames,Colorado Avalanche,2,1,REG
+2007021116,20072008,2008-03-20,Edmonton Oilers,Vancouver Canucks,1,4,REG
+2007021117,20072008,2008-03-20,Phoenix Coyotes,Los Angeles Kings,5,6,REG
+2007021118,20072008,2008-03-21,New Jersey Devils,New York Islanders,1,3,REG
+2007021119,20072008,2008-03-21,Philadelphia Flyers,New York Rangers,4,3,REG
+2007021120,20072008,2008-03-21,Buffalo Sabres,Toronto Maple Leafs,1,4,REG
+2007021121,20072008,2008-03-21,Atlanta Thrashers,Washington Capitals,3,5,REG
+2007021122,20072008,2008-03-21,Vancouver Canucks,Minnesota Wild,1,2,REG
+2007021123,20072008,2008-03-21,San Jose Sharks,Anaheim Ducks,2,1,REG
+2007021126,20072008,2008-03-22,Edmonton Oilers,Colorado Avalanche,7,5,REG
+2007021124,20072008,2008-03-22,Nashville Predators,Chicago Blackhawks,2,1,REG
+2007021125,20072008,2008-03-22,Dallas Stars,Los Angeles Kings,2,4,REG
+2007021127,20072008,2008-03-22,Montréal Canadiens,Boston Bruins,3,2,REG
+2007021128,20072008,2008-03-22,Ottawa Senators,Toronto Maple Leafs,4,5,REG
+2007021129,20072008,2008-03-22,Florida Panthers,Tampa Bay Lightning,4,2,REG
+2007021130,20072008,2008-03-22,Columbus Blue Jackets,Detroit Red Wings,1,4,REG
+2007021131,20072008,2008-03-22,Pittsburgh Penguins,New Jersey Devils,7,1,REG
+2007021133,20072008,2008-03-22,Phoenix Coyotes,Anaheim Ducks,1,2,REG
+2007021132,20072008,2008-03-22,Calgary Flames,Minnesota Wild,5,4,REG
+2007021134,20072008,2008-03-23,Chicago Blackhawks,St. Louis Blues,4,3,REG
+2007021135,20072008,2008-03-23,Philadelphia Flyers,New York Islanders,4,1,REG
+2007021136,20072008,2008-03-24,New York Islanders,Pittsburgh Penguins,4,1,REG
+2007021137,20072008,2008-03-24,Montréal Canadiens,Ottawa Senators,7,5,REG
+2007021138,20072008,2008-03-24,Colorado Avalanche,Calgary Flames,2,0,REG
+2007021139,20072008,2008-03-24,Edmonton Oilers,Minnesota Wild,5,3,REG
+2007021140,20072008,2008-03-25,Buffalo Sabres,Ottawa Senators,3,6,REG
+2007021141,20072008,2008-03-25,New Jersey Devils,Pittsburgh Penguins,0,2,REG
+2007021143,20072008,2008-03-25,Carolina Hurricanes,Washington Capitals,2,3,REG
+2007021142,20072008,2008-03-25,New York Rangers,Philadelphia Flyers,1,2,REG
+2007021144,20072008,2008-03-25,Toronto Maple Leafs,Boston Bruins,2,6,REG
+2007021145,20072008,2008-03-25,Tampa Bay Lightning,Florida Panthers,3,1,REG
+2007021146,20072008,2008-03-25,Nashville Predators,Columbus Blue Jackets,3,0,REG
+2007021147,20072008,2008-03-25,St. Louis Blues,Detroit Red Wings,1,2,REG
+2007021148,20072008,2008-03-25,Calgary Flames,Vancouver Canucks,3,2,REG
+2007021149,20072008,2008-03-25,Phoenix Coyotes,San Jose Sharks,5,4,REG
+2007021150,20072008,2008-03-26,Columbus Blue Jackets,Chicago Blackhawks,4,0,REG
+2007021151,20072008,2008-03-26,Minnesota Wild,Edmonton Oilers,3,1,REG
+2007021152,20072008,2008-03-26,Colorado Avalanche,Vancouver Canucks,6,3,REG
+2007021153,20072008,2008-03-26,Anaheim Ducks,Los Angeles Kings,2,1,REG
+2007021154,20072008,2008-03-27,Boston Bruins,Toronto Maple Leafs,4,2,REG
+2007021155,20072008,2008-03-27,New York Rangers,New Jersey Devils,3,2,REG
+2007021156,20072008,2008-03-27,Ottawa Senators,Buffalo Sabres,3,4,REG
+2007021157,20072008,2008-03-27,Pittsburgh Penguins,New York Islanders,3,1,REG
+2007021158,20072008,2008-03-27,Tampa Bay Lightning,Washington Capitals,3,4,REG
+2007021159,20072008,2008-03-27,Florida Panthers,Atlanta Thrashers,2,3,REG
+2007021161,20072008,2008-03-27,San Jose Sharks,Dallas Stars,3,2,REG
+2007021160,20072008,2008-03-27,Los Angeles Kings,Phoenix Coyotes,4,0,REG
+2007021162,20072008,2008-03-28,New Jersey Devils,Philadelphia Flyers,5,4,REG
+2007021163,20072008,2008-03-28,Carolina Hurricanes,Atlanta Thrashers,7,1,REG
+2007021164,20072008,2008-03-28,Columbus Blue Jackets,Nashville Predators,0,2,REG
+2007021165,20072008,2008-03-28,Buffalo Sabres,Montréal Canadiens,3,4,REG
+2007021166,20072008,2008-03-28,Detroit Red Wings,St. Louis Blues,3,4,REG
+2007021167,20072008,2008-03-28,Minnesota Wild,Vancouver Canucks,4,0,REG
+2007021168,20072008,2008-03-28,Colorado Avalanche,Edmonton Oilers,5,4,REG
+2007021169,20072008,2008-03-28,Anaheim Ducks,San Jose Sharks,1,3,REG
+2007021170,20072008,2008-03-29,Boston Bruins,Ottawa Senators,4,0,REG
+2007021171,20072008,2008-03-29,Los Angeles Kings,Dallas Stars,2,7,REG
+2007021172,20072008,2008-03-29,Toronto Maple Leafs,Montréal Canadiens,4,2,REG
+2007021173,20072008,2008-03-29,New York Islanders,Philadelphia Flyers,3,4,REG
+2007021174,20072008,2008-03-29,Florida Panthers,Washington Capitals,0,3,REG
+2007021175,20072008,2008-03-29,Tampa Bay Lightning,Carolina Hurricanes,2,1,REG
+2007021176,20072008,2008-03-29,St. Louis Blues,Chicago Blackhawks,3,4,REG
+2007021177,20072008,2008-03-29,Calgary Flames,Edmonton Oilers,1,2,REG
+2007021179,20072008,2008-03-30,Pittsburgh Penguins,New York Rangers,3,1,REG
+2007021180,20072008,2008-03-30,Detroit Red Wings,Nashville Predators,1,0,REG
+2007021181,20072008,2008-03-30,Minnesota Wild,Colorado Avalanche,3,2,REG
+2007021178,20072008,2008-03-30,Buffalo Sabres,Boston Bruins,2,1,REG
+2007021182,20072008,2008-03-30,Chicago Blackhawks,Columbus Blue Jackets,5,4,REG
+2007021183,20072008,2008-03-30,Anaheim Ducks,Dallas Stars,3,2,REG
+2007021184,20072008,2008-03-30,San Jose Sharks,Phoenix Coyotes,3,1,REG
+2007021185,20072008,2008-03-30,Vancouver Canucks,Calgary Flames,6,2,REG
+2007021186,20072008,2008-03-31,New York Rangers,Pittsburgh Penguins,2,1,REG
+2007021187,20072008,2008-03-31,Tampa Bay Lightning,Atlanta Thrashers,0,2,REG
+2007021188,20072008,2008-04-01,New York Islanders,New Jersey Devils,1,2,REG
+2007021189,20072008,2008-04-01,Washington Capitals,Carolina Hurricanes,4,1,REG
+2007021190,20072008,2008-04-01,Atlanta Thrashers,Florida Panthers,2,3,REG
+2007021193,20072008,2008-04-01,St. Louis Blues,Nashville Predators,3,4,REG
+2007021191,20072008,2008-04-01,Toronto Maple Leafs,Buffalo Sabres,3,4,REG
+2007021192,20072008,2008-04-01,Ottawa Senators,Montréal Canadiens,0,3,REG
+2007021194,20072008,2008-04-01,Edmonton Oilers,Calgary Flames,2,3,REG
+2007021195,20072008,2008-04-01,Vancouver Canucks,Colorado Avalanche,2,4,REG
+2007021196,20072008,2008-04-01,San Jose Sharks,Los Angeles Kings,5,2,REG
+2007021197,20072008,2008-04-02,New Jersey Devils,Boston Bruins,3,2,REG
+2007021198,20072008,2008-04-02,Carolina Hurricanes,Tampa Bay Lightning,6,2,REG
+2007021199,20072008,2008-04-02,Pittsburgh Penguins,Philadelphia Flyers,4,2,REG
+2007021200,20072008,2008-04-02,Chicago Blackhawks,Detroit Red Wings,6,2,REG
+2007021201,20072008,2008-04-03,New York Islanders,New York Rangers,0,3,REG
+2007021202,20072008,2008-04-03,Washington Capitals,Tampa Bay Lightning,4,1,REG
+2007021203,20072008,2008-04-03,Toronto Maple Leafs,Ottawa Senators,2,8,REG
+2007021204,20072008,2008-04-03,Montréal Canadiens,Buffalo Sabres,3,1,REG
+2007021205,20072008,2008-04-03,Detroit Red Wings,Columbus Blue Jackets,3,2,REG
+2007021206,20072008,2008-04-03,Nashville Predators,St. Louis Blues,3,2,REG
+2007021207,20072008,2008-04-03,Minnesota Wild,Calgary Flames,3,1,REG
+2007021209,20072008,2008-04-03,Phoenix Coyotes,Dallas Stars,2,4,REG
+2007021208,20072008,2008-04-03,Vancouver Canucks,Edmonton Oilers,1,2,REG
+2007021210,20072008,2008-04-03,Los Angeles Kings,San Jose Sharks,4,2,REG
+2007021211,20072008,2008-04-04,New York Rangers,New York Islanders,3,4,REG
+2007021212,20072008,2008-04-04,Philadelphia Flyers,New Jersey Devils,3,0,REG
+2007021213,20072008,2008-04-04,Carolina Hurricanes,Florida Panthers,3,4,REG
+2007021214,20072008,2008-04-04,Ottawa Senators,Boston Bruins,1,2,REG
+2007021215,20072008,2008-04-04,Chicago Blackhawks,Nashville Predators,3,1,REG
+2007021216,20072008,2008-04-04,Dallas Stars,Phoenix Coyotes,2,4,REG
+2007021218,20072008,2008-04-05,Los Angeles Kings,Anaheim Ducks,3,4,REG
+2007021217,20072008,2008-04-05,St. Louis Blues,Columbus Blue Jackets,3,0,REG
+2007021219,20072008,2008-04-05,Boston Bruins,Buffalo Sabres,0,3,REG
+2007021220,20072008,2008-04-05,Montréal Canadiens,Toronto Maple Leafs,3,1,REG
+2007021221,20072008,2008-04-05,Washington Capitals,Florida Panthers,3,1,REG
+2007021222,20072008,2008-04-05,Atlanta Thrashers,Tampa Bay Lightning,4,1,REG
+2007021223,20072008,2008-04-05,Vancouver Canucks,Calgary Flames,1,7,REG
+2007021226,20072008,2008-04-06,Detroit Red Wings,Chicago Blackhawks,4,1,REG
+2007021228,20072008,2008-04-06,Colorado Avalanche,Minnesota Wild,4,3,REG
+2007021229,20072008,2008-04-06,Dallas Stars,San Jose Sharks,4,2,REG
+2007021224,20072008,2008-04-06,New Jersey Devils,New York Rangers,3,2,REG
+2007021225,20072008,2008-04-06,Philadelphia Flyers,Pittsburgh Penguins,2,0,REG
+2007021227,20072008,2008-04-06,Columbus Blue Jackets,St. Louis Blues,1,4,REG
+2007021230,20072008,2008-04-06,Anaheim Ducks,Phoenix Coyotes,3,2,REG
+2007030121,20072008,2008-04-09,Pittsburgh Penguins,Ottawa Senators,4,0,POST
+2007030141,20072008,2008-04-09,New Jersey Devils,New York Rangers,1,4,POST
+2007030171,20072008,2008-04-09,Minnesota Wild,Colorado Avalanche,2,3,POST
+2007030161,20072008,2008-04-09,San Jose Sharks,Calgary Flames,2,3,POST
+2007030111,20072008,2008-04-10,Montréal Canadiens,Boston Bruins,4,1,POST
+2007030151,20072008,2008-04-10,Detroit Red Wings,Nashville Predators,3,1,POST
+2007030162,20072008,2008-04-10,San Jose Sharks,Calgary Flames,2,0,POST
+2007030181,20072008,2008-04-10,Anaheim Ducks,Dallas Stars,0,4,POST
+2007030122,20072008,2008-04-11,Pittsburgh Penguins,Ottawa Senators,5,3,POST
+2007030131,20072008,2008-04-11,Washington Capitals,Philadelphia Flyers,5,4,POST
+2007030142,20072008,2008-04-11,New Jersey Devils,New York Rangers,1,2,POST
+2007030172,20072008,2008-04-11,Minnesota Wild,Colorado Avalanche,3,2,POST
+2007030152,20072008,2008-04-12,Detroit Red Wings,Nashville Predators,4,2,POST
+2007030112,20072008,2008-04-12,Montréal Canadiens,Boston Bruins,3,2,POST
+2007030182,20072008,2008-04-12,Anaheim Ducks,Dallas Stars,2,5,POST
+2007030132,20072008,2008-04-13,Washington Capitals,Philadelphia Flyers,0,2,POST
+2007030113,20072008,2008-04-13,Boston Bruins,Montréal Canadiens,2,1,POST
+2007030143,20072008,2008-04-13,New York Rangers,New Jersey Devils,3,4,POST
+2007030163,20072008,2008-04-13,Calgary Flames,San Jose Sharks,4,3,POST
+2007030123,20072008,2008-04-14,Ottawa Senators,Pittsburgh Penguins,1,4,POST
+2007030153,20072008,2008-04-14,Nashville Predators,Detroit Red Wings,5,3,POST
+2007030173,20072008,2008-04-14,Colorado Avalanche,Minnesota Wild,2,3,POST
+2007030114,20072008,2008-04-15,Boston Bruins,Montréal Canadiens,0,1,POST
+2007030133,20072008,2008-04-15,Philadelphia Flyers,Washington Capitals,6,3,POST
+2007030183,20072008,2008-04-15,Dallas Stars,Anaheim Ducks,2,4,POST
+2007030164,20072008,2008-04-15,Calgary Flames,San Jose Sharks,2,3,POST
+2007030174,20072008,2008-04-15,Colorado Avalanche,Minnesota Wild,5,1,POST
+2007030124,20072008,2008-04-16,Ottawa Senators,Pittsburgh Penguins,1,3,POST
+2007030144,20072008,2008-04-16,New York Rangers,New Jersey Devils,5,3,POST
+2007030154,20072008,2008-04-16,Nashville Predators,Detroit Red Wings,3,2,POST
+2007030115,20072008,2008-04-17,Montréal Canadiens,Boston Bruins,1,5,POST
+2007030134,20072008,2008-04-17,Philadelphia Flyers,Washington Capitals,4,3,POST
+2007030184,20072008,2008-04-17,Dallas Stars,Anaheim Ducks,3,1,POST
+2007030175,20072008,2008-04-17,Minnesota Wild,Colorado Avalanche,2,3,POST
+2007030165,20072008,2008-04-17,San Jose Sharks,Calgary Flames,4,3,POST
+2007030145,20072008,2008-04-18,New Jersey Devils,New York Rangers,3,5,POST
+2007030155,20072008,2008-04-18,Detroit Red Wings,Nashville Predators,2,1,POST
+2007030185,20072008,2008-04-18,Anaheim Ducks,Dallas Stars,5,2,POST
+2007030135,20072008,2008-04-19,Washington Capitals,Philadelphia Flyers,3,2,POST
+2007030116,20072008,2008-04-19,Boston Bruins,Montréal Canadiens,5,4,POST
+2007030176,20072008,2008-04-19,Colorado Avalanche,Minnesota Wild,2,1,POST
+2007030156,20072008,2008-04-20,Nashville Predators,Detroit Red Wings,0,3,POST
+2007030166,20072008,2008-04-20,Calgary Flames,San Jose Sharks,2,0,POST
+2007030186,20072008,2008-04-20,Dallas Stars,Anaheim Ducks,4,1,POST
+2007030117,20072008,2008-04-21,Montréal Canadiens,Boston Bruins,5,0,POST
+2007030136,20072008,2008-04-21,Philadelphia Flyers,Washington Capitals,2,4,POST
+2007030137,20072008,2008-04-22,Washington Capitals,Philadelphia Flyers,2,3,POST
+2007030167,20072008,2008-04-22,San Jose Sharks,Calgary Flames,5,3,POST
+2007030211,20072008,2008-04-24,Montréal Canadiens,Philadelphia Flyers,4,3,POST
+2007030231,20072008,2008-04-24,Detroit Red Wings,Colorado Avalanche,4,3,POST
+2007030221,20072008,2008-04-25,Pittsburgh Penguins,New York Rangers,5,4,POST
+2007030241,20072008,2008-04-25,San Jose Sharks,Dallas Stars,2,3,POST
+2007030232,20072008,2008-04-26,Detroit Red Wings,Colorado Avalanche,5,1,POST
+2007030212,20072008,2008-04-26,Montréal Canadiens,Philadelphia Flyers,2,4,POST
+2007030222,20072008,2008-04-27,Pittsburgh Penguins,New York Rangers,2,0,POST
+2007030242,20072008,2008-04-27,San Jose Sharks,Dallas Stars,2,5,POST
+2007030213,20072008,2008-04-28,Philadelphia Flyers,Montréal Canadiens,3,2,POST
+2007030223,20072008,2008-04-29,New York Rangers,Pittsburgh Penguins,3,5,POST
+2007030243,20072008,2008-04-29,Dallas Stars,San Jose Sharks,2,1,POST
+2007030233,20072008,2008-04-29,Colorado Avalanche,Detroit Red Wings,3,4,POST
+2007030214,20072008,2008-04-30,Philadelphia Flyers,Montréal Canadiens,4,2,POST
+2007030244,20072008,2008-04-30,Dallas Stars,San Jose Sharks,1,2,POST
+2007030224,20072008,2008-05-01,New York Rangers,Pittsburgh Penguins,3,0,POST
+2007030234,20072008,2008-05-01,Colorado Avalanche,Detroit Red Wings,2,8,POST
+2007030245,20072008,2008-05-02,San Jose Sharks,Dallas Stars,3,2,POST
+2007030215,20072008,2008-05-03,Montréal Canadiens,Philadelphia Flyers,4,6,POST
+2007030225,20072008,2008-05-04,Pittsburgh Penguins,New York Rangers,3,2,POST
+2007030246,20072008,2008-05-04,Dallas Stars,San Jose Sharks,2,1,POST
+2007030321,20072008,2008-05-08,Detroit Red Wings,Dallas Stars,4,1,POST
+2007030311,20072008,2008-05-09,Pittsburgh Penguins,Philadelphia Flyers,4,2,POST
+2007030322,20072008,2008-05-10,Detroit Red Wings,Dallas Stars,2,1,POST
+2007030312,20072008,2008-05-11,Pittsburgh Penguins,Philadelphia Flyers,4,2,POST
+2007030323,20072008,2008-05-12,Dallas Stars,Detroit Red Wings,2,5,POST
+2007030313,20072008,2008-05-13,Philadelphia Flyers,Pittsburgh Penguins,1,4,POST
+2007030324,20072008,2008-05-14,Dallas Stars,Detroit Red Wings,3,1,POST
+2007030314,20072008,2008-05-15,Philadelphia Flyers,Pittsburgh Penguins,4,2,POST
+2007030325,20072008,2008-05-17,Detroit Red Wings,Dallas Stars,1,2,POST
+2007030315,20072008,2008-05-18,Pittsburgh Penguins,Philadelphia Flyers,6,0,POST
+2007030326,20072008,2008-05-19,Dallas Stars,Detroit Red Wings,1,4,POST
+2007030411,20072008,2008-05-24,Detroit Red Wings,Pittsburgh Penguins,4,0,POST
+2007030412,20072008,2008-05-26,Detroit Red Wings,Pittsburgh Penguins,3,0,POST
+2007030413,20072008,2008-05-28,Pittsburgh Penguins,Detroit Red Wings,3,2,POST
+2007030414,20072008,2008-05-31,Pittsburgh Penguins,Detroit Red Wings,1,2,POST
+2007030415,20072008,2008-06-02,Detroit Red Wings,Pittsburgh Penguins,3,4,POST
+2007030416,20072008,2008-06-04,Pittsburgh Penguins,Detroit Red Wings,2,3,POST
