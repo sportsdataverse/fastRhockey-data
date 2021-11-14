@@ -12,8 +12,8 @@ library(qs)
 
 
 # Play-by-Play Data Pull --------------------------------------------------
-season_vector <- 2011
-rebuild <- FALSE
+season_vector <- 2013:2017
+rebuild <- TRUE
 version = packageVersion("powerplay")
 
 ### 1a) scrape season schedule
