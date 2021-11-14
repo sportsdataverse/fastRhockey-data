@@ -8,7 +8,7 @@ library(glue)
 
 
 # Play-by-Play Data Pull --------------------------------------------------
-season_vector <- powerplay::most_recent_nhl_season()
+season_vector <- 2012:powerplay::most_recent_nhl_season()
 
 version = packageVersion("powerplay")
 
