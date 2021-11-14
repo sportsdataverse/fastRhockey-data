@@ -2,14 +2,18 @@ library(powerplay)
 library(dplyr)
 library(tidyr)
 library(readr)
+library(furrr)
 library(purrr)
+library(future)
+library(progressr)
 library(arrow)
 library(glue)
+library(qs)
 
 
 # Play-by-Play Data Pull --------------------------------------------------
-season_vector <- 2012:powerplay::most_recent_nhl_season()
-
+season_vector <- 2011
+rebuild <- FALSE
 version = packageVersion("powerplay")
 
 ### 1a) scrape season schedule
@@ -35,22 +39,30 @@ season_schedules <- purrr::map_dfr(season_vector, function(x){
 pbp_list <- as.integer(gsub(".json","",list.files(path = glue::glue('nhl/json/'))))
 
 season_schedules <- season_schedules %>% 
-  dplyr::filter(!(.data$game_id %in% pbp_list),
-                .data$status_status_code == 7)
+  dplyr::filter(.data$status_status_code == 7)
 
+if(rebuild == FALSE){
+  pbp_list <- as.integer(gsub(".json","",list.files(path = glue::glue('nhl/json/'))))
+  season_schedules <- season_schedules %>% 
+    dplyr::filter(!(.data$game_id %in% pbp_list))
+}
 ### 2a) scrape game json
 ### 2b) save json to disk
-purrr::map(season_schedules$game_id, function(x){
+cli::cli_process_start("Starting scrape of {length(season_schedules$game_id)} games...")
+
+future::plan("multisession")
+scrape_games <- furrr::future_map(season_schedules$game_id, function(x){
   game <- powerplay::nhl_game_feed(game_id = x)
   jsonlite::write_json(game, path = glue::glue("nhl/json/{x}.json"))
 })
-
+cli::cli_process_done(msg_done = "Finished scrape of {length(season_schedules$game_id)} games!")
 ### 3a) Build play-by-play dataset
 season_pbp_compile <- purrr::map(season_vector,function(x){
   sched <- data.table::fread(paste0("nhl/schedules/csv/nhl_schedule_",x,".csv"))
   sched <- sched %>% 
     dplyr::filter(.data$status_status_code == 7)
-  season_pbp <- purrr::map_dfr(sched$game_id,function(y){
+  future::plan("multisession")
+  season_pbp <- furrr::future_map_dfr(sched$game_id,function(y){
     game <- jsonlite::fromJSON(glue::glue("nhl/json/{y}.json"))
     pbp <- game$all_plays
     return(pbp)
@@ -76,7 +88,8 @@ season_team_box_compile <- purrr::map(season_vector,function(x){
   sched <- data.table::fread(paste0("nhl/schedules/csv/nhl_schedule_",x,".csv"))
   sched <- sched %>% 
     dplyr::filter(.data$status_status_code == 7)
-  season_team_box <- purrr::map_dfr(sched$game_id,function(y){
+  future::plan("multisession")
+  season_team_box <- furrr::future_map_dfr(sched$game_id,function(y){
     game <- jsonlite::fromJSON(glue::glue("nhl/json/{y}.json"))
     team_box <- game$team_box
     return(team_box)
@@ -102,7 +115,8 @@ season_player_box_compile <- purrr::map(season_vector,function(x){
   sched <- data.table::fread(paste0("nhl/schedules/csv/nhl_schedule_",x,".csv"))
   sched <- sched %>% 
     dplyr::filter(.data$status_status_code == 7)
-  season_player_box <- purrr::map_dfr(sched$game_id,function(y){
+  future::plan("multisession")
+  season_player_box <- furrr::future_map_dfr(sched$game_id,function(y){
     game <- jsonlite::fromJSON(glue::glue("nhl/json/{y}.json"))
     player_box <- game$players_box
     return(player_box)
