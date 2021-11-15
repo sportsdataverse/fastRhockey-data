@@ -12,7 +12,7 @@ library(qs)
 
 
 # Play-by-Play Data Pull --------------------------------------------------
-season_vector <- 2018:powerplay::most_recent_nhl_season()
+season_vector <- powerplay::most_recent_nhl_season()
 rebuild <- TRUE
 version = packageVersion("powerplay")
 
