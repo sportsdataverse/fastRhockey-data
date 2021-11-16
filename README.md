@@ -1,2 +1,2 @@
-# powerplay-data
- NHL Data
+# fastRhockey-data
+ PHF & NHL Data
