@@ -1,4 +1,9 @@
-library(powerplay)
+if (!requireNamespace('pacman', quietly = TRUE)){
+  install.packages('pacman')
+}
+pacman::p_load_current_gh("BenHowell71/fastRhockey")
+
+library(fastRhockey)
 library(dplyr)
 library(tidyr)
 library(readr)
@@ -12,15 +17,15 @@ library(qs)
 
 
 # Play-by-Play Data Pull --------------------------------------------------
-season_vector <- powerplay::most_recent_nhl_season()
+season_vector <- fastRhockey::most_recent_nhl_season()
 rebuild <- TRUE
-version = packageVersion("powerplay")
+version = packageVersion("fastRhockey")
 
 ### 1a) scrape season schedule
 ### 1b) save to disk
 season_schedules <- purrr::map_dfr(season_vector, function(x){
 
-  sched <- powerplay::nhl_schedule(season=x) %>% 
+  sched <- fastRhockey::nhl_schedule(season=x) %>% 
     dplyr::tibble()
   ifelse(!dir.exists(file.path("nhl/schedules")), dir.create(file.path("nhl/schedules")), FALSE)
   ifelse(!dir.exists(file.path("nhl/schedules/csv")), dir.create(file.path("nhl/schedules/csv")), FALSE)
@@ -52,7 +57,7 @@ cli::cli_process_start("Starting scrape of {length(season_schedules$game_id)} ga
 
 future::plan("multisession")
 scrape_games <- furrr::future_map(season_schedules$game_id, function(x){
-  game <- powerplay::nhl_game_feed(game_id = x)
+  game <- fastRhockey::nhl_game_feed(game_id = x)
   jsonlite::write_json(game, path = glue::glue("nhl/json/{x}.json"))
 })
 cli::cli_process_done(msg_done = "Finished scrape of {length(season_schedules$game_id)} games!")
