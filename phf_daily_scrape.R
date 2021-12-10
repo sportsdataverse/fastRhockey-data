@@ -77,8 +77,8 @@ season_pbp_compile <- purrr::map(season_vector,function(x){
   sched_pull <- sched %>% 
     dplyr::filter(.data$has_play_by_play == TRUE, .data$status == "Final",
                   !(.data$game_id %in% c(301699,368721)))
-  future::plan("multisession")
-  season_pbp <- furrr::future_map_dfr(sched_pull$game_id,function(y){
+  
+  season_pbp <- purrr::map_dfr(sched_pull$game_id,function(y){
     game <- jsonlite::fromJSON(glue::glue("phf/json/{y}.json"))
     pbp <- game$plays
     return(pbp)
@@ -105,16 +105,15 @@ season_pbp_compile <- purrr::map(season_vector,function(x){
     sched$PBP <- FALSE
   }
   
-  final_sched <- dplyr::distinct(sched) %>% dplyr::arrange(desc(.data$date))
-  data.table::fwrite(final_sched,paste0("phf/schedules/csv/phf_schedule_",y,".csv"))
-  qs::qsave(final_sched,glue::glue('phf/schedules/qs/phf_schedule_{y}.qs'))
-  saveRDS(final_sched, glue::glue('phf/schedules/rds/phf_schedule_{y}.rds'))
-  arrow::write_parquet(final_sched, glue::glue('phf/schedules/parquet/phf_schedule_{y}.parquet'))
+  final_sched <- dplyr::distinct(sched) %>% dplyr::arrange(desc(.data$datetime))
+  data.table::fwrite(final_sched,paste0("phf/schedules/csv/phf_schedule_",x,".csv"))
+  qs::qsave(final_sched,glue::glue('phf/schedules/qs/phf_schedule_{x}.qs'))
+  saveRDS(final_sched, glue::glue('phf/schedules/rds/phf_schedule_{x}.rds'))
+  arrow::write_parquet(final_sched, glue::glue('phf/schedules/parquet/phf_schedule_{x}.parquet'))
   rm(sched)
   rm(final_sched)
   rm(season_pbp)
   rm(sched_pull)
-  gc()
 })
 
 sched <- purrr::map_dfr(season_vector, function(x){
@@ -162,6 +161,22 @@ season_team_box_compile <- purrr::map(season_vector,function(x){
     ifelse(!dir.exists(file.path("phf/team_box/parquet")), dir.create(file.path("phf/team_box/parquet")), FALSE)
     arrow::write_parquet(season_team_box, glue::glue("phf/team_box/parquet/team_box_{x}.parquet"))
   }
+  if(nrow(season_team_box)>0){
+    sched <- sched %>%
+      dplyr::mutate(
+        team_box = ifelse(.data$game_id %in% unique(season_team_box$game_id), TRUE,FALSE))
+  } else {
+    sched$team_box <- FALSE
+  }
+  
+  final_sched <- dplyr::distinct(sched) %>% dplyr::arrange(desc(.data$datetime))
+  data.table::fwrite(final_sched,paste0("phf/schedules/csv/phf_schedule_",x,".csv"))
+  qs::qsave(final_sched,glue::glue('phf/schedules/qs/phf_schedule_{x}.qs'))
+  saveRDS(final_sched, glue::glue('phf/schedules/rds/phf_schedule_{x}.rds'))
+  arrow::write_parquet(final_sched, glue::glue('phf/schedules/parquet/phf_schedule_{x}.parquet'))
+  rm(sched)
+  rm(final_sched)
+  rm(season_team_box)
 })
 
 
@@ -200,6 +215,22 @@ season_player_box_compile <- purrr::map(season_vector,function(x){
     ifelse(!dir.exists(file.path("phf/player_box/parquet")), dir.create(file.path("phf/player_box/parquet")), FALSE)
     arrow::write_parquet(season_player_box, glue::glue("phf/player_box/parquet/player_box_{x}.parquet"))
   }
+  if(nrow(season_player_box)>0){
+    sched <- sched %>%
+      dplyr::mutate(
+        player_box = ifelse(.data$game_id %in% unique(season_player_box$game_id), TRUE,FALSE))
+  } else {
+    sched$player_box <- FALSE
+  }
+  
+  final_sched <- dplyr::distinct(sched) %>% dplyr::arrange(desc(.data$datetime))
+  data.table::fwrite(final_sched,paste0("phf/schedules/csv/phf_schedule_",x,".csv"))
+  qs::qsave(final_sched,glue::glue('phf/schedules/qs/phf_schedule_{x}.qs'))
+  saveRDS(final_sched, glue::glue('phf/schedules/rds/phf_schedule_{x}.rds'))
+  arrow::write_parquet(final_sched, glue::glue('phf/schedules/parquet/phf_schedule_{x}.parquet'))
+  rm(sched)
+  rm(final_sched)
+  rm(season_player_box)
 })
 
 sched_list <- list.files(path = glue::glue('phf/schedules/csv/'))
@@ -208,12 +239,12 @@ sched_g <-  purrr::map_dfr(sched_list, function(x){
   return(sched)
 })
 
-data.table::fwrite(sched_g %>% dplyr::arrange(desc(.data$date)), 'phf_schedule_master.csv')
-data.table::fwrite(sched_g %>% dplyr::filter(.data$PBP == TRUE) %>% dplyr::arrange(desc(.data$date)), 'phf/phf_games_in_data_repo.csv')
-qs::qsave(sched_g %>% dplyr::arrange(desc(.data$date)), 'phf_schedule_master.qs')
-qs::qsave(sched_g %>% dplyr::filter(.data$PBP == TRUE) %>% dplyr::arrange(desc(.data$date)), 'phf/phf_games_in_data_repo.qs')
-arrow::write_parquet(sched_g %>% dplyr::arrange(desc(.data$date)),glue::glue('phf_schedule_master.parquet'))
-arrow::write_parquet(sched_g %>% dplyr::filter(.data$PBP == TRUE) %>% dplyr::arrange(desc(.data$date)), 'phf/phf_games_in_data_repo.parquet')
+data.table::fwrite(sched_g %>% dplyr::arrange(desc(.data$datetime)), 'phf_schedule_master.csv')
+data.table::fwrite(sched_g %>% dplyr::filter(.data$PBP == TRUE) %>% dplyr::arrange(desc(.data$datetime)), 'phf/phf_games_in_data_repo.csv')
+qs::qsave(sched_g %>% dplyr::arrange(desc(.data$datetime)), 'phf_schedule_master.qs')
+qs::qsave(sched_g %>% dplyr::filter(.data$PBP == TRUE) %>% dplyr::arrange(desc(.data$datetime)), 'phf/phf_games_in_data_repo.qs')
+arrow::write_parquet(sched_g %>% dplyr::arrange(desc(.data$datetime)),glue::glue('phf_schedule_master.parquet'))
+arrow::write_parquet(sched_g %>% dplyr::filter(.data$PBP == TRUE) %>% dplyr::arrange(desc(.data$datetime)), 'phf/phf_games_in_data_repo.parquet')
 
 
 rm(sched_g)
