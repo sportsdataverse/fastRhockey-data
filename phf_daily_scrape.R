@@ -74,11 +74,11 @@ cli::cli_process_done(msg_done = "Finished scrape of {length(season_schedules$ga
 ### 3a) Build play-by-play dataset
 season_pbp_compile <- purrr::map(season_vector,function(x){
   sched <- data.table::fread(paste0("phf/schedules/csv/phf_schedule_",x,".csv"))
-  sched <- sched %>% 
+  sched_pull <- sched %>% 
     dplyr::filter(.data$has_play_by_play == TRUE, .data$status == "Final",
                   !(.data$game_id %in% c(301699,368721)))
   future::plan("multisession")
-  season_pbp <- furrr::future_map_dfr(sched$game_id,function(y){
+  season_pbp <- furrr::future_map_dfr(sched_pull$game_id,function(y){
     game <- jsonlite::fromJSON(glue::glue("phf/json/{y}.json"))
     pbp <- game$plays
     return(pbp)
@@ -97,6 +97,24 @@ season_pbp_compile <- purrr::map(season_vector,function(x){
     ifelse(!dir.exists(file.path("phf/pbp/parquet")), dir.create(file.path("phf/pbp/parquet")), FALSE)
     arrow::write_parquet(season_pbp, glue::glue("phf/pbp/parquet/play_by_play_{x}.parquet"))
   }
+  if(nrow(season_pbp)>0){
+    sched <- sched %>%
+      dplyr::mutate(
+        PBP = ifelse(.data$game_id %in% unique(season_pbp$game_id), TRUE,FALSE))
+  } else {
+    sched$PBP <- FALSE
+  }
+  
+  final_sched <- dplyr::distinct(sched) %>% dplyr::arrange(desc(.data$date))
+  data.table::fwrite(final_sched,paste0("phf/schedules/csv/phf_schedule_",y,".csv"))
+  qs::qsave(final_sched,glue::glue('phf/schedules/qs/phf_schedule_{y}.qs'))
+  saveRDS(final_sched, glue::glue('phf/schedules/rds/phf_schedule_{y}.rds'))
+  arrow::write_parquet(final_sched, glue::glue('phf/schedules/parquet/phf_schedule_{y}.parquet'))
+  rm(sched)
+  rm(final_sched)
+  rm(season_pbp)
+  rm(sched_pull)
+  gc()
 })
 
 sched <- purrr::map_dfr(season_vector, function(x){
@@ -114,8 +132,8 @@ season_team_box_compile <- purrr::map(season_vector,function(x){
   sched <- sched %>% 
     dplyr::filter(.data$status == "Final",
                   !(.data$game_id %in% c(301699,368721)))
-  future::plan("multisession")
-  season_team_box <- furrr::future_map_dfr(sched$game_id,function(y){
+  
+  season_team_box <- purrr::map_dfr(sched$game_id,function(y){
     team_box <- phf_team_box(game_id = y)
     
     if(!("overtime_shots" %in% colnames(team_box))){
@@ -153,10 +171,19 @@ season_player_box_compile <- purrr::map(season_vector,function(x){
   sched <- sched %>% 
     dplyr::filter(.data$status == "Final",
                   !(.data$game_id %in% c(301699,368721)))
-  future::plan("multisession")
-  season_player_box <- furrr::future_map_dfr(sched$game_id,function(y){
+  
+  season_player_box <- purrr::map_dfr(sched$game_id,function(y){
     player_box <- phf_player_box(game_id = y)
-    player_box_combined <- dplyr::bind_rows(player_box$skaters,player_box$goalies)
+    skaters <- player_box$skaters %>% 
+      dplyr::mutate_at(c("position","faceoffs_won_lost"), 
+                       function(x){as.character(x)}) %>% 
+      dplyr::mutate(minutes_played = NA_character_)
+    goalies <- player_box$goalies 
+    goalies <- goalies %>% 
+      dplyr::mutate(position = "G") %>% 
+      dplyr::mutate_at(c("minutes_played"), 
+                       function(x){as.character(x)})
+    player_box_combined <- dplyr::bind_rows(skaters,goalies)
     return(player_box_combined)
   })
   if(nrow(season_player_box)>1){
