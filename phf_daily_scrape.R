@@ -1,0 +1,188 @@
+if (!requireNamespace('pacman', quietly = TRUE)){
+  install.packages('pacman')
+}
+pacman::p_load_current_gh("BenHowell71/fastRhockey")
+
+library(fastRhockey)
+library(dplyr)
+library(tidyr)
+library(readr)
+library(furrr)
+library(purrr)
+library(future)
+library(progressr)
+library(arrow)
+library(glue)
+library(qs)
+season_vector <- 2016:fastRhockey::most_recent_phf_season()
+rebuild <- FALSE
+version = packageVersion("fastRhockey")
+sched <- purrr::map_dfr(season_vector, function(x){
+                        sched <- fastRhockey::phf_schedule(season=x) %>% 
+                          tidyr::unnest(.data$home_team_logo_url,names_sep = "_") %>% 
+                          tidyr::unnest(.data$away_team_logo_url,names_sep = "_")
+                        return(sched)
+                        })
+### 1a) scrape season schedule
+### 1b) save to disk
+season_schedules <- purrr::map_dfr(season_vector, function(x){
+  
+  sched <- fastRhockey::phf_schedule(season=x)  %>% 
+    tidyr::unnest(.data$home_team_logo_url,names_sep = "_") %>% 
+    tidyr::unnest(.data$away_team_logo_url,names_sep = "_") %>% 
+    dplyr::tibble()
+  ifelse(!dir.exists(file.path("phf/schedules")), dir.create(file.path("phf/schedules")), FALSE)
+  ifelse(!dir.exists(file.path("phf/schedules/csv")), dir.create(file.path("phf/schedules/csv")), FALSE)
+  ifelse(!dir.exists(file.path("phf/schedules/qs")), dir.create(file.path("phf/schedules/qs")), FALSE)
+  ifelse(!dir.exists(file.path("phf/schedules/rds")), dir.create(file.path("phf/schedules/rds")), FALSE)
+  ifelse(!dir.exists(file.path("phf/schedules/parquet")), dir.create(file.path("phf/schedules/parquet")), FALSE)
+  data.table::fwrite(sched,paste0("phf/schedules/csv/phf_schedule_",x,".csv"))
+  qs::qsave(sched,glue::glue('phf/schedules/qs/phf_schedule_{x}.qs'))
+  saveRDS(sched, glue::glue('phf/schedules/rds/phf_schedule_{x}.rds'))
+  arrow::write_parquet(sched, glue::glue('phf/schedules/parquet/phf_schedule_{x}.parquet'))
+  
+  return(sched)
+})
+
+pbp_list <- as.integer(gsub(".json","",list.files(path = glue::glue('phf/json/'))))
+
+season_schedules <- season_schedules %>% 
+  dplyr::filter(.data$status == "Final",  .data$has_play_by_play == TRUE, 
+                !(.data$game_id %in% c(301699,368721)))
+
+if(rebuild == FALSE){
+  pbp_list <- as.integer(gsub(".json","",list.files(path = glue::glue('phf/json/'))))
+  season_schedules <- season_schedules %>% 
+    dplyr::filter(!(.data$game_id %in% pbp_list), .data$has_play_by_play == TRUE, 
+                  !(.data$game_id %in% c(301699,368721)))
+}
+### 2a) scrape game json
+### 2b) save json to disk
+cli::cli_process_start("Starting scrape of {length(season_schedules$game_id)} games...")
+
+future::plan("multisession")
+scrape_games <- furrr::future_map(season_schedules$game_id, function(x){
+  print(x)
+  game <- fastRhockey::phf_game_all(game_id = x)
+  jsonlite::write_json(game, path = glue::glue("phf/json/{x}.json"))
+})
+cli::cli_process_done(msg_done = "Finished scrape of {length(season_schedules$game_id)} games!")
+
+
+
+
+### 3a) Build play-by-play dataset
+season_pbp_compile <- purrr::map(season_vector,function(x){
+  sched <- data.table::fread(paste0("phf/schedules/csv/phf_schedule_",x,".csv"))
+  sched <- sched %>% 
+    dplyr::filter(.data$has_play_by_play == TRUE, .data$status == "Final",
+                  !(.data$game_id %in% c(301699,368721)))
+  future::plan("multisession")
+  season_pbp <- furrr::future_map_dfr(sched$game_id,function(y){
+    game <- jsonlite::fromJSON(glue::glue("phf/json/{y}.json"))
+    pbp <- game$plays
+    return(pbp)
+  })
+  ifelse(!dir.exists(file.path("phf/pbp")), dir.create(file.path("phf/pbp")), FALSE)
+  ifelse(!dir.exists(file.path("phf/pbp/csv")), dir.create(file.path("phf/pbp/csv")), FALSE)
+  if(nrow(season_pbp)>1){
+    data.table::fwrite(season_pbp, file=paste0("phf/pbp/csv/play_by_play_",x,".csv.gz"))
+    
+    ifelse(!dir.exists(file.path("phf/pbp/qs")), dir.create(file.path("phf/pbp/qs")), FALSE)
+    qs::qsave(season_pbp,glue::glue("phf/pbp/qs/play_by_play_{x}.qs"))
+    
+    ifelse(!dir.exists(file.path("phf/pbp/rds")), dir.create(file.path("phf/pbp/rds")), FALSE)
+    saveRDS(season_pbp,glue::glue("phf/pbp/rds/play_by_play_{x}.rds"))
+    
+    ifelse(!dir.exists(file.path("phf/pbp/parquet")), dir.create(file.path("phf/pbp/parquet")), FALSE)
+    arrow::write_parquet(season_pbp, glue::glue("phf/pbp/parquet/play_by_play_{x}.parquet"))
+  }
+})
+
+### 3b) Build team boxscore dataset
+season_team_box_compile <- purrr::map(season_vector,function(x){
+  sched <- data.table::fread(paste0("phf/schedules/csv/phf_schedule_",x,".csv"))
+  sched <- sched %>% 
+    dplyr::filter(.data$has_play_by_play == TRUE, .data$status == "Final",
+                  !(.data$game_id %in% c(301699,368721)))
+  future::plan("multisession")
+  season_team_box <- furrr::future_map_dfr(sched$game_id,function(y){
+    game <- jsonlite::fromJSON(glue::glue("phf/json/{y}.json"))
+    team_box <- game$team_box
+    if(!("overtime_shots" %in% colnames(team_box))){
+      team_box$overtime_shots <- NA_integer_
+    }
+    suppressWarnings(
+      team_box <- team_box %>% 
+        dplyr::mutate_at(c("period_1_shots","period_2_shots","period_3_shots", "overtime_shots"),
+                         function(x){
+                           as.integer(x)
+                         })
+    )
+    return(team_box)
+  })
+  if(nrow(season_team_box)>1){
+    ifelse(!dir.exists(file.path("phf/team_box")), dir.create(file.path("phf/team_box")), FALSE)
+    ifelse(!dir.exists(file.path("phf/team_box/csv")), dir.create(file.path("phf/team_box/csv")), FALSE)
+    data.table::fwrite(season_team_box, file=paste0("phf/team_box/csv/team_box_",x,".csv.gz"))
+    
+    ifelse(!dir.exists(file.path("phf/team_box/qs")), dir.create(file.path("phf/team_box/qs")), FALSE)
+    qs::qsave(season_team_box,glue::glue("phf/team_box/qs/team_box_{x}.qs"))
+    
+    ifelse(!dir.exists(file.path("phf/team_box/rds")), dir.create(file.path("phf/team_box/rds")), FALSE)
+    saveRDS(season_team_box,glue::glue("phf/team_box/rds/team_box_{x}.rds"))
+    
+    ifelse(!dir.exists(file.path("phf/team_box/parquet")), dir.create(file.path("phf/team_box/parquet")), FALSE)
+    arrow::write_parquet(season_team_box, glue::glue("phf/team_box/parquet/team_box_{x}.parquet"))
+  }
+})
+
+### 3c) Build player boxscore dataset
+season_player_box_compile <- purrr::map(season_vector,function(x){
+  sched <- data.table::fread(paste0("phf/schedules/csv/phf_schedule_",x,".csv"))
+  sched <- sched %>% 
+    dplyr::filter(.data$has_play_by_play == TRUE, .data$status == "Final",
+                  !(.data$game_id %in% c(301699,368721)))
+  future::plan("multisession")
+  season_player_box <- furrr::future_map_dfr(sched$game_id,function(y){
+    game <- jsonlite::fromJSON(glue::glue("phf/json/{y}.json"))
+    player_box <- game$players_box
+    return(player_box)
+  })
+  if(nrow(season_player_box)>1){
+    ifelse(!dir.exists(file.path("phf/player_box")), dir.create(file.path("phf/player_box")), FALSE)
+    ifelse(!dir.exists(file.path("phf/player_box/csv")), dir.create(file.path("phf/player_box/csv")), FALSE)
+    data.table::fwrite(season_player_box, file=paste0("phf/player_box/csv/player_box_",x,".csv.gz"))
+    
+    ifelse(!dir.exists(file.path("phf/player_box/qs")), dir.create(file.path("phf/player_box/qs")), FALSE)
+    qs::qsave(season_player_box,glue::glue("phf/player_box/qs/player_box_{x}.qs"))
+    
+    ifelse(!dir.exists(file.path("phf/player_box/rds")), dir.create(file.path("phf/player_box/rds")), FALSE)
+    saveRDS(season_player_box,glue::glue("phf/player_box/rds/player_box_{x}.rds"))
+    
+    ifelse(!dir.exists(file.path("phf/player_box/parquet")), dir.create(file.path("phf/player_box/parquet")), FALSE)
+    arrow::write_parquet(season_player_box, glue::glue("phf/player_box/parquet/player_box_{x}.parquet"))
+  }
+})
+
+sched_list <- list.files(path = glue::glue('phf/schedules/csv/'))
+sched_g <-  purrr::map_dfr(sched_list, function(x){
+  sched <- data.table::fread(paste0('phf/schedules/csv/',x)) %>%
+    dplyr::mutate(
+      status.displayClock = as.character(.data$status.displayClock)
+    )
+  return(sched)
+})
+
+data.table::fwrite(sched_g %>% dplyr::arrange(desc(.data$date)), 'phf_schedule_master.csv')
+data.table::fwrite(sched_g %>% dplyr::filter(.data$PBP == TRUE) %>% dplyr::arrange(desc(.data$date)), 'phf/phf_games_in_data_repo.csv')
+qs::qsave(sched_g %>% dplyr::arrange(desc(.data$date)), 'phf_schedule_master.qs')
+qs::qsave(sched_g %>% dplyr::filter(.data$PBP == TRUE) %>% dplyr::arrange(desc(.data$date)), 'phf/phf_games_in_data_repo.qs')
+arrow::write_parquet(sched_g %>% dplyr::arrange(desc(.data$date)),glue::glue('phf_schedule_master.parquet'))
+arrow::write_parquet(sched_g %>% dplyr::filter(.data$PBP == TRUE) %>% dplyr::arrange(desc(.data$date)), 'phf/phf_games_in_data_repo.parquet')
+
+
+rm(sched_g)
+rm(sched_list)
+rm(years_vec)
+gc()
