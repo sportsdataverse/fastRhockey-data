@@ -99,16 +99,25 @@ season_pbp_compile <- purrr::map(season_vector,function(x){
   }
 })
 
+sched <- purrr::map_dfr(season_vector, function(x){
+  sched <- fastRhockey::phf_schedule(season=x) %>% 
+    tidyr::unnest(.data$home_team_logo_url,names_sep = "_") %>% 
+    tidyr::unnest(.data$away_team_logo_url,names_sep = "_")
+  return(sched)
+})
+
+
+
 ### 3b) Build team boxscore dataset
 season_team_box_compile <- purrr::map(season_vector,function(x){
   sched <- data.table::fread(paste0("phf/schedules/csv/phf_schedule_",x,".csv"))
   sched <- sched %>% 
-    dplyr::filter(.data$has_play_by_play == TRUE, .data$status == "Final",
+    dplyr::filter(.data$status == "Final",
                   !(.data$game_id %in% c(301699,368721)))
   future::plan("multisession")
   season_team_box <- furrr::future_map_dfr(sched$game_id,function(y){
-    game <- jsonlite::fromJSON(glue::glue("phf/json/{y}.json"))
-    team_box <- game$team_box
+    team_box <- phf_team_box(game_id = y)
+    
     if(!("overtime_shots" %in% colnames(team_box))){
       team_box$overtime_shots <- NA_integer_
     }
@@ -137,17 +146,18 @@ season_team_box_compile <- purrr::map(season_vector,function(x){
   }
 })
 
+
 ### 3c) Build player boxscore dataset
 season_player_box_compile <- purrr::map(season_vector,function(x){
   sched <- data.table::fread(paste0("phf/schedules/csv/phf_schedule_",x,".csv"))
   sched <- sched %>% 
-    dplyr::filter(.data$has_play_by_play == TRUE, .data$status == "Final",
+    dplyr::filter(.data$status == "Final",
                   !(.data$game_id %in% c(301699,368721)))
   future::plan("multisession")
   season_player_box <- furrr::future_map_dfr(sched$game_id,function(y){
-    game <- jsonlite::fromJSON(glue::glue("phf/json/{y}.json"))
-    player_box <- game$players_box
-    return(player_box)
+    player_box <- phf_player_box(game_id = y)
+    player_box_combined <- dplyr::bind_rows(player_box$skaters,player_box$goalies)
+    return(player_box_combined)
   })
   if(nrow(season_player_box)>1){
     ifelse(!dir.exists(file.path("phf/player_box")), dir.create(file.path("phf/player_box")), FALSE)
@@ -167,10 +177,7 @@ season_player_box_compile <- purrr::map(season_vector,function(x){
 
 sched_list <- list.files(path = glue::glue('phf/schedules/csv/'))
 sched_g <-  purrr::map_dfr(sched_list, function(x){
-  sched <- data.table::fread(paste0('phf/schedules/csv/',x)) %>%
-    dplyr::mutate(
-      status.displayClock = as.character(.data$status.displayClock)
-    )
+  sched <- data.table::fread(paste0('phf/schedules/csv/',x))
   return(sched)
 })
 
