@@ -249,5 +249,5 @@ arrow::write_parquet(sched_g %>% dplyr::filter(.data$PBP == TRUE) %>% dplyr::arr
 
 rm(sched_g)
 rm(sched_list)
-rm(years_vec)
+rm(season_vector)
 gc()

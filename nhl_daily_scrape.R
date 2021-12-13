@@ -1,7 +1,4 @@
-if (!requireNamespace('pacman', quietly = TRUE)){
-  install.packages('pacman')
-}
-pacman::p_load_current_gh("BenHowell71/fastRhockey")
+
 
 library(fastRhockey)
 library(dplyr)
@@ -86,6 +83,22 @@ season_pbp_compile <- purrr::map(season_vector,function(x){
     ifelse(!dir.exists(file.path("nhl/pbp/parquet")), dir.create(file.path("nhl/pbp/parquet")), FALSE)
     arrow::write_parquet(season_pbp, glue::glue("nhl/pbp/parquet/play_by_play_{x}.parquet"))
   }
+  if(nrow(season_pbp)>0){
+    sched <- sched %>%
+      dplyr::mutate(
+        PBP = ifelse(.data$game_id %in% unique(season_pbp$game_id), TRUE,FALSE))
+  } else {
+    sched$PBP <- FALSE
+  }
+  
+  final_sched <- dplyr::distinct(sched) %>% dplyr::arrange(desc(.data$game_date))
+  data.table::fwrite(final_sched,paste0("nhl/schedules/csv/nhl_schedule_",x,".csv"))
+  qs::qsave(final_sched,glue::glue('nhl/schedules/qs/nhl_schedule_{x}.qs'))
+  saveRDS(final_sched, glue::glue('nhl/schedules/rds/nhl_schedule_{x}.rds'))
+  arrow::write_parquet(final_sched, glue::glue('nhl/schedules/parquet/nhl_schedule_{x}.parquet'))
+  rm(sched)
+  rm(final_sched)
+  rm(season_pbp)
 })
 
 ### 3b) Build team boxscore dataset
@@ -113,6 +126,22 @@ season_team_box_compile <- purrr::map(season_vector,function(x){
     ifelse(!dir.exists(file.path("nhl/team_box/parquet")), dir.create(file.path("nhl/team_box/parquet")), FALSE)
     arrow::write_parquet(season_team_box, glue::glue("nhl/team_box/parquet/team_box_{x}.parquet"))
   }
+  if(nrow(season_team_box)>0){
+    sched <- sched %>%
+      dplyr::mutate(
+        team_box = ifelse(.data$game_id %in% unique(season_team_box$game_id), TRUE,FALSE))
+  } else {
+    sched$team_box <- FALSE
+  }
+  
+  final_sched <- dplyr::distinct(sched) %>% dplyr::arrange(desc(.data$game_date))
+  data.table::fwrite(final_sched,paste0("nhl/schedules/csv/nhl_schedule_",x,".csv"))
+  qs::qsave(final_sched,glue::glue('nhl/schedules/qs/nhl_schedule_{x}.qs'))
+  saveRDS(final_sched, glue::glue('nhl/schedules/rds/nhl_schedule_{x}.rds'))
+  arrow::write_parquet(final_sched, glue::glue('nhl/schedules/parquet/nhl_schedule_{x}.parquet'))
+  rm(sched)
+  rm(final_sched)
+  rm(season_team_box)
 })
 
 ### 3c) Build player boxscore dataset
@@ -140,4 +169,39 @@ season_player_box_compile <- purrr::map(season_vector,function(x){
     ifelse(!dir.exists(file.path("nhl/player_box/parquet")), dir.create(file.path("nhl/player_box/parquet")), FALSE)
     arrow::write_parquet(season_player_box, glue::glue("nhl/player_box/parquet/player_box_{x}.parquet"))
   }
+  if(nrow(season_player_box)>0){
+    sched <- sched %>%
+      dplyr::mutate(
+        player_box = ifelse(.data$game_id %in% unique(season_player_box$game_id), TRUE,FALSE))
+  } else {
+    sched$player_box <- FALSE
+  }
+  
+  final_sched <- dplyr::distinct(sched) %>% dplyr::arrange(desc(.data$game_date))
+  data.table::fwrite(final_sched,paste0("nhl/schedules/csv/nhl_schedule_",x,".csv"))
+  qs::qsave(final_sched,glue::glue('nhl/schedules/qs/nhl_schedule_{x}.qs'))
+  saveRDS(final_sched, glue::glue('nhl/schedules/rds/nhl_schedule_{x}.rds'))
+  arrow::write_parquet(final_sched, glue::glue('nhl/schedules/parquet/nhl_schedule_{x}.parquet'))
+  rm(sched)
+  rm(final_sched)
+  rm(season_player_box)
 })
+
+sched_list <- list.files(path = glue::glue('nhl/schedules/csv/'))
+sched_g <-  purrr::map_dfr(sched_list, function(x){
+  sched <- data.table::fread(paste0('nhl/schedules/csv/',x))
+  return(sched)
+})
+
+data.table::fwrite(sched_g %>% dplyr::arrange(desc(.data$game_date)), 'nhl_schedule_master.csv')
+data.table::fwrite(sched_g %>% dplyr::filter(.data$PBP == TRUE) %>% dplyr::arrange(desc(.data$game_date)), 'nhl/nhl_games_in_data_repo.csv')
+qs::qsave(sched_g %>% dplyr::arrange(desc(.data$game_date)), 'nhl_schedule_master.qs')
+qs::qsave(sched_g %>% dplyr::filter(.data$PBP == TRUE) %>% dplyr::arrange(desc(.data$game_date)), 'nhl/nhl_games_in_data_repo.qs')
+arrow::write_parquet(sched_g %>% dplyr::arrange(desc(.data$game_date)),glue::glue('nhl_schedule_master.parquet'))
+arrow::write_parquet(sched_g %>% dplyr::filter(.data$PBP == TRUE) %>% dplyr::arrange(desc(.data$game_date)), 'nhl/nhl_games_in_data_repo.parquet')
+
+
+rm(sched_g)
+rm(sched_list)
+rm(season_vector)
+gc()
