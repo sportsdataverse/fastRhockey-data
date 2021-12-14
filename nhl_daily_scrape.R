@@ -1,21 +1,25 @@
+.libPaths("C:\\Users\\saiem\\Documents\\R\\win-library\\4.1")
+Sys.setenv(R_LIBS="C:\\Users\\saiem\\Documents\\R\\win-library\\4.1")
+if (!requireNamespace('pacman', quietly = TRUE)){
+  install.packages('pacman', lib=Sys.getenv("R_LIBS"), repos='http://cran.us.r-project.org')
+}
+pacman::p_load_current_gh("BenHowell71/fastRhockey")
 
-
-library(fastRhockey)
-library(dplyr)
-library(tidyr)
-library(readr)
-library(furrr)
-library(purrr)
-library(future)
-library(progressr)
-library(arrow)
-library(glue)
-library(qs)
+suppressPackageStartupMessages(suppressMessages(library(fastRhockey, lib.loc="C:\\Users\\saiem\\Documents\\R\\win-library\\4.1")))
+suppressPackageStartupMessages(suppressMessages(library(dplyr, lib.loc="C:\\Users\\saiem\\Documents\\R\\win-library\\4.1")))
+suppressPackageStartupMessages(suppressMessages(library(magrittr, lib.loc="C:\\Users\\saiem\\Documents\\R\\win-library\\4.1")))
+suppressPackageStartupMessages(suppressMessages(library(jsonlite, lib.loc="C:\\Users\\saiem\\Documents\\R\\win-library\\4.1")))
+suppressPackageStartupMessages(suppressMessages(library(furrr, lib.loc="C:\\Users\\saiem\\Documents\\R\\win-library\\4.1")))
+suppressPackageStartupMessages(suppressMessages(library(purrr, lib.loc="C:\\Users\\saiem\\Documents\\R\\win-library\\4.1")))
+suppressPackageStartupMessages(suppressMessages(library(progressr, lib.loc="C:\\Users\\saiem\\Documents\\R\\win-library\\4.1")))
+suppressPackageStartupMessages(suppressMessages(library(data.table, lib.loc="C:\\Users\\saiem\\Documents\\R\\win-library\\4.1")))
+suppressPackageStartupMessages(suppressMessages(library(qs, lib.loc="C:\\Users\\saiem\\Documents\\R\\win-library\\4.1")))
+suppressPackageStartupMessages(suppressMessages(library(arrow, lib.loc="C:\\Users\\saiem\\Documents\\R\\win-library\\4.1")))
 
 
 # Play-by-Play Data Pull --------------------------------------------------
 season_vector <- fastRhockey::most_recent_nhl_season()
-rebuild <- TRUE
+rebuild <- FALSE
 version = packageVersion("fastRhockey")
 
 ### 1a) scrape season schedule
