@@ -89,7 +89,7 @@ season_pbp_compile <- purrr::map(season_vector,function(x){
   ifelse(!dir.exists(file.path("phf/pbp")), dir.create(file.path("phf/pbp")), FALSE)
   ifelse(!dir.exists(file.path("phf/pbp/csv")), dir.create(file.path("phf/pbp/csv")), FALSE)
   if(nrow(season_pbp)>1){
-    data.table::fwrite(season_pbp, file=paste0("phf/pbp/csv/play_by_play_",x,".csv.gz"))
+    data.table::fwrite(season_pbp, file=paste0("phf/pbp/csv/play_by_play_",x,".csv"))
     
     ifelse(!dir.exists(file.path("phf/pbp/qs")), dir.create(file.path("phf/pbp/qs")), FALSE)
     qs::qsave(season_pbp,glue::glue("phf/pbp/qs/play_by_play_{x}.qs"))
@@ -153,7 +153,7 @@ season_team_box_compile <- purrr::map(season_vector,function(x){
   if(nrow(season_team_box)>1){
     ifelse(!dir.exists(file.path("phf/team_box")), dir.create(file.path("phf/team_box")), FALSE)
     ifelse(!dir.exists(file.path("phf/team_box/csv")), dir.create(file.path("phf/team_box/csv")), FALSE)
-    data.table::fwrite(season_team_box, file=paste0("phf/team_box/csv/team_box_",x,".csv.gz"))
+    data.table::fwrite(season_team_box, file=paste0("phf/team_box/csv/team_box_",x,".csv"))
     
     ifelse(!dir.exists(file.path("phf/team_box/qs")), dir.create(file.path("phf/team_box/qs")), FALSE)
     qs::qsave(season_team_box,glue::glue("phf/team_box/qs/team_box_{x}.qs"))
@@ -207,7 +207,7 @@ season_player_box_compile <- purrr::map(season_vector,function(x){
   if(nrow(season_player_box)>1){
     ifelse(!dir.exists(file.path("phf/player_box")), dir.create(file.path("phf/player_box")), FALSE)
     ifelse(!dir.exists(file.path("phf/player_box/csv")), dir.create(file.path("phf/player_box/csv")), FALSE)
-    data.table::fwrite(season_player_box, file=paste0("phf/player_box/csv/player_box_",x,".csv.gz"))
+    data.table::fwrite(season_player_box, file=paste0("phf/player_box/csv/player_box_",x,".csv"))
     
     ifelse(!dir.exists(file.path("phf/player_box/qs")), dir.create(file.path("phf/player_box/qs")), FALSE)
     qs::qsave(season_player_box,glue::glue("phf/player_box/qs/player_box_{x}.qs"))
