@@ -32,6 +32,7 @@ season_schedules <- purrr::map_dfr(season_vector, function(x){
   sched <- fastRhockey::phf_schedule(season=x)  %>% 
     tidyr::unnest(.data$home_team_logo_url,names_sep = "_") %>% 
     tidyr::unnest(.data$away_team_logo_url,names_sep = "_") %>% 
+    dplyr::mutate(season = x) %>% 
     dplyr::tibble()
   ifelse(!dir.exists(file.path("phf/schedules")), dir.create(file.path("phf/schedules")), FALSE)
   ifelse(!dir.exists(file.path("phf/schedules/csv")), dir.create(file.path("phf/schedules/csv")), FALSE)
