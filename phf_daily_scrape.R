@@ -15,13 +15,14 @@ suppressPackageStartupMessages(suppressMessages(library(progressr, lib.loc="C:\\
 suppressPackageStartupMessages(suppressMessages(library(data.table, lib.loc="C:\\Users\\saiem\\Documents\\R\\win-library\\4.1")))
 suppressPackageStartupMessages(suppressMessages(library(qs, lib.loc="C:\\Users\\saiem\\Documents\\R\\win-library\\4.1")))
 suppressPackageStartupMessages(suppressMessages(library(arrow, lib.loc="C:\\Users\\saiem\\Documents\\R\\win-library\\4.1")))
-season_vector <- fastRhockey::most_recent_phf_season()
-rebuild <- FALSE
+season_vector <- 2016:fastRhockey::most_recent_phf_season()
+rebuild <- TRUE
 version = packageVersion("fastRhockey")
 sched <- purrr::map_dfr(season_vector, function(x){
                         sched <- fastRhockey::phf_schedule(season=x) %>% 
                           tidyr::unnest(.data$home_team_logo_url,names_sep = "_") %>% 
-                          tidyr::unnest(.data$away_team_logo_url,names_sep = "_")
+                          tidyr::unnest(.data$away_team_logo_url,names_sep = "_") %>% 
+                          dplyr::mutate(season = x)
                         return(sched)
                         })
 ### 1a) scrape season schedule
