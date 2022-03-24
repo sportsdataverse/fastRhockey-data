@@ -15,7 +15,7 @@ suppressPackageStartupMessages(suppressMessages(library(data.table, lib.loc="C:\
 suppressPackageStartupMessages(suppressMessages(library(qs, lib.loc="C:\\Users\\saiem\\Documents\\R\\win-library\\4.1")))
 suppressPackageStartupMessages(suppressMessages(library(arrow, lib.loc="C:\\Users\\saiem\\Documents\\R\\win-library\\4.1")))
 season_vector <- 2016:fastRhockey::most_recent_phf_season()
-rebuild <- TRUE
+rebuild <- FALSE
 version = packageVersion("fastRhockey")
 sched <- purrr::map_dfr(season_vector, function(x){
                         sched <- fastRhockey::phf_schedule(season=x) %>% 
