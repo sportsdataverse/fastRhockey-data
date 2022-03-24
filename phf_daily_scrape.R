@@ -3,7 +3,6 @@ Sys.setenv(R_LIBS="C:\\Users\\saiem\\Documents\\R\\win-library\\4.1")
 if (!requireNamespace('pacman', quietly = TRUE)){
   install.packages('pacman', lib=Sys.getenv("R_LIBS"), repos='http://cran.us.r-project.org')
 }
-pacman::p_load_current_gh("BenHowell71/fastRhockey")
 
 suppressPackageStartupMessages(suppressMessages(library(fastRhockey, lib.loc="C:\\Users\\saiem\\Documents\\R\\win-library\\4.1")))
 suppressPackageStartupMessages(suppressMessages(library(dplyr, lib.loc="C:\\Users\\saiem\\Documents\\R\\win-library\\4.1")))
@@ -15,8 +14,8 @@ suppressPackageStartupMessages(suppressMessages(library(progressr, lib.loc="C:\\
 suppressPackageStartupMessages(suppressMessages(library(data.table, lib.loc="C:\\Users\\saiem\\Documents\\R\\win-library\\4.1")))
 suppressPackageStartupMessages(suppressMessages(library(qs, lib.loc="C:\\Users\\saiem\\Documents\\R\\win-library\\4.1")))
 suppressPackageStartupMessages(suppressMessages(library(arrow, lib.loc="C:\\Users\\saiem\\Documents\\R\\win-library\\4.1")))
-season_vector <- fastRhockey::most_recent_phf_season()
-rebuild <- FALSE
+season_vector <- 2016:fastRhockey::most_recent_phf_season()
+rebuild <- TRUE
 version = packageVersion("fastRhockey")
 sched <- purrr::map_dfr(season_vector, function(x){
                         sched <- fastRhockey::phf_schedule(season=x) %>% 
@@ -39,6 +38,8 @@ season_schedules <- purrr::map_dfr(season_vector, function(x){
   ifelse(!dir.exists(file.path("phf/schedules/qs")), dir.create(file.path("phf/schedules/qs")), FALSE)
   ifelse(!dir.exists(file.path("phf/schedules/rds")), dir.create(file.path("phf/schedules/rds")), FALSE)
   ifelse(!dir.exists(file.path("phf/schedules/parquet")), dir.create(file.path("phf/schedules/parquet")), FALSE)
+  sched <- sched %>%
+    fastRhockey:::make_fastRhockey_data("PHF Schedule Information from fastRhockey data repository",Sys.time())
   data.table::fwrite(sched,paste0("phf/schedules/csv/phf_schedule_",x,".csv"))
   qs::qsave(sched,glue::glue('phf/schedules/qs/phf_schedule_{x}.qs'))
   saveRDS(sched, glue::glue('phf/schedules/rds/phf_schedule_{x}.rds'))
@@ -65,7 +66,6 @@ cli::cli_process_start("Starting scrape of {length(season_schedules$game_id)} ga
 
 future::plan("multisession")
 scrape_games <- furrr::future_map(season_schedules$game_id, function(x){
-  print(x)
   game <- fastRhockey::phf_game_all(game_id = x)
   jsonlite::write_json(game, path = glue::glue("phf/json/{x}.json"))
 })
@@ -74,7 +74,7 @@ cli::cli_process_done(msg_done = "Finished scrape of {length(season_schedules$ga
 
 
 
-### 3a) Build play-by-play dataset
+###---- 3a) Build play-by-play dataset ----
 season_pbp_compile <- purrr::map(season_vector,function(x){
   sched <- data.table::fread(paste0("phf/schedules/csv/phf_schedule_",x,".csv"))
   sched_pull <- sched %>% 
@@ -89,6 +89,9 @@ season_pbp_compile <- purrr::map(season_vector,function(x){
   ifelse(!dir.exists(file.path("phf/pbp")), dir.create(file.path("phf/pbp")), FALSE)
   ifelse(!dir.exists(file.path("phf/pbp/csv")), dir.create(file.path("phf/pbp/csv")), FALSE)
   if(nrow(season_pbp)>1){
+    season_pbp$season <- x
+    season_pbp <- season_pbp %>%
+      fastRhockey:::make_fastRhockey_data("PHF Play-by-Play Information from fastRhockey data repository",Sys.time())
     data.table::fwrite(season_pbp, file=paste0("phf/pbp/csv/play_by_play_",x,".csv"))
     
     ifelse(!dir.exists(file.path("phf/pbp/qs")), dir.create(file.path("phf/pbp/qs")), FALSE)
@@ -108,7 +111,8 @@ season_pbp_compile <- purrr::map(season_vector,function(x){
     sched$PBP <- FALSE
   }
   
-  final_sched <- dplyr::distinct(sched) %>% dplyr::arrange(desc(.data$datetime))
+  final_sched <- dplyr::distinct(sched) %>% dplyr::arrange(desc(.data$datetime)) %>%
+    fastRhockey:::make_fastRhockey_data("PHF Schedule Information from fastRhockey data repository",Sys.time())
   data.table::fwrite(final_sched,paste0("phf/schedules/csv/phf_schedule_",x,".csv"))
   qs::qsave(final_sched,glue::glue('phf/schedules/qs/phf_schedule_{x}.qs'))
   saveRDS(final_sched, glue::glue('phf/schedules/rds/phf_schedule_{x}.rds'))
@@ -122,7 +126,8 @@ season_pbp_compile <- purrr::map(season_vector,function(x){
 sched <- purrr::map_dfr(season_vector, function(x){
   sched <- fastRhockey::phf_schedule(season=x) %>% 
     tidyr::unnest(.data$home_team_logo_url,names_sep = "_") %>% 
-    tidyr::unnest(.data$away_team_logo_url,names_sep = "_")
+    tidyr::unnest(.data$away_team_logo_url,names_sep = "_") %>% 
+    dplyr::mutate(season = x)
   return(sched)
 })
 
@@ -151,6 +156,9 @@ season_team_box_compile <- purrr::map(season_vector,function(x){
     return(team_box)
   })
   if(nrow(season_team_box)>1){
+    season_team_box$season <- x
+    season_team_box <- season_team_box %>%
+      fastRhockey:::make_fastRhockey_data("PHF Team Boxscore Information from fastRhockey data repository",Sys.time())
     ifelse(!dir.exists(file.path("phf/team_box")), dir.create(file.path("phf/team_box")), FALSE)
     ifelse(!dir.exists(file.path("phf/team_box/csv")), dir.create(file.path("phf/team_box/csv")), FALSE)
     data.table::fwrite(season_team_box, file=paste0("phf/team_box/csv/team_box_",x,".csv"))
@@ -172,7 +180,8 @@ season_team_box_compile <- purrr::map(season_vector,function(x){
     sched$team_box <- FALSE
   }
   
-  final_sched <- dplyr::distinct(sched) %>% dplyr::arrange(desc(.data$datetime))
+  final_sched <- dplyr::distinct(sched) %>% dplyr::arrange(desc(.data$datetime)) %>%
+    fastRhockey:::make_fastRhockey_data("PHF Schedule Information from fastRhockey data repository",Sys.time())
   data.table::fwrite(final_sched,paste0("phf/schedules/csv/phf_schedule_",x,".csv"))
   qs::qsave(final_sched,glue::glue('phf/schedules/qs/phf_schedule_{x}.qs'))
   saveRDS(final_sched, glue::glue('phf/schedules/rds/phf_schedule_{x}.rds'))
@@ -205,6 +214,9 @@ season_player_box_compile <- purrr::map(season_vector,function(x){
     return(player_box_combined)
   })
   if(nrow(season_player_box)>1){
+    season_player_box$season <- x
+    season_player_box <- season_player_box %>%
+      fastRhockey:::make_fastRhockey_data("PHF Player Boxscore Information from fastRhockey data repository",Sys.time())
     ifelse(!dir.exists(file.path("phf/player_box")), dir.create(file.path("phf/player_box")), FALSE)
     ifelse(!dir.exists(file.path("phf/player_box/csv")), dir.create(file.path("phf/player_box/csv")), FALSE)
     data.table::fwrite(season_player_box, file=paste0("phf/player_box/csv/player_box_",x,".csv"))
@@ -226,7 +238,8 @@ season_player_box_compile <- purrr::map(season_vector,function(x){
     sched$player_box <- FALSE
   }
   
-  final_sched <- dplyr::distinct(sched) %>% dplyr::arrange(desc(.data$datetime))
+  final_sched <- dplyr::distinct(sched) %>% dplyr::arrange(desc(.data$datetime)) %>%
+    fastRhockey:::make_fastRhockey_data("PHF Schedule Information from fastRhockey data repository",Sys.time())
   data.table::fwrite(final_sched,paste0("phf/schedules/csv/phf_schedule_",x,".csv"))
   qs::qsave(final_sched,glue::glue('phf/schedules/qs/phf_schedule_{x}.qs'))
   saveRDS(final_sched, glue::glue('phf/schedules/rds/phf_schedule_{x}.rds'))
@@ -241,7 +254,8 @@ sched_g <-  purrr::map_dfr(sched_list, function(x){
   sched <- data.table::fread(paste0('phf/schedules/csv/',x))
   return(sched)
 })
-
+sched_g <- sched_g %>%
+  fastRhockey:::make_fastRhockey_data("PHF Schedule Information from fastRhockey data repository",Sys.time()) 
 data.table::fwrite(sched_g %>% dplyr::arrange(desc(.data$datetime)), 'phf_schedule_master.csv')
 data.table::fwrite(sched_g %>% dplyr::filter(.data$PBP == TRUE) %>% dplyr::arrange(desc(.data$datetime)), 'phf/phf_games_in_data_repo.csv')
 qs::qsave(sched_g %>% dplyr::arrange(desc(.data$datetime)), 'phf_schedule_master.qs')

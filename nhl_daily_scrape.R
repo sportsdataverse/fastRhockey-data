@@ -27,7 +27,8 @@ version = packageVersion("fastRhockey")
 season_schedules <- purrr::map_dfr(season_vector, function(x){
 
   sched <- fastRhockey::nhl_schedule(season=x) %>% 
-    dplyr::tibble()
+    dplyr::tibble() %>% 
+    dplyr::mutate(season=x)
   ifelse(!dir.exists(file.path("nhl/schedules")), dir.create(file.path("nhl/schedules")), FALSE)
   ifelse(!dir.exists(file.path("nhl/schedules/csv")), dir.create(file.path("nhl/schedules/csv")), FALSE)
   ifelse(!dir.exists(file.path("nhl/schedules/qs")), dir.create(file.path("nhl/schedules/qs")), FALSE)
@@ -76,6 +77,7 @@ season_pbp_compile <- purrr::map(season_vector,function(x){
   ifelse(!dir.exists(file.path("nhl/pbp")), dir.create(file.path("nhl/pbp")), FALSE)
   ifelse(!dir.exists(file.path("nhl/pbp/csv")), dir.create(file.path("nhl/pbp/csv")), FALSE)
   if(nrow(season_pbp)>1){
+    season_pbp$season <- x
     data.table::fwrite(season_pbp, file=paste0("nhl/pbp/csv/play_by_play_",x,".csv.gz"))
     
     ifelse(!dir.exists(file.path("nhl/pbp/qs")), dir.create(file.path("nhl/pbp/qs")), FALSE)
@@ -117,6 +119,7 @@ season_team_box_compile <- purrr::map(season_vector,function(x){
     return(team_box)
   })
   if(nrow(season_team_box)>1){
+    season_team_box$season <- x
     ifelse(!dir.exists(file.path("nhl/team_box")), dir.create(file.path("nhl/team_box")), FALSE)
     ifelse(!dir.exists(file.path("nhl/team_box/csv")), dir.create(file.path("nhl/team_box/csv")), FALSE)
     data.table::fwrite(season_team_box, file=paste0("nhl/team_box/csv/team_box_",x,".csv.gz"))
@@ -160,6 +163,7 @@ season_player_box_compile <- purrr::map(season_vector,function(x){
     return(player_box)
   })
   if(nrow(season_player_box)>1){
+    season_player_box$season <- x
     ifelse(!dir.exists(file.path("nhl/player_box")), dir.create(file.path("nhl/player_box")), FALSE)
     ifelse(!dir.exists(file.path("nhl/player_box/csv")), dir.create(file.path("nhl/player_box/csv")), FALSE)
     data.table::fwrite(season_player_box, file=paste0("nhl/player_box/csv/player_box_",x,".csv.gz"))
