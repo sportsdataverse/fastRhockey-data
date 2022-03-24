@@ -17,7 +17,7 @@ suppressPackageStartupMessages(suppressMessages(library(arrow, lib.loc="C:\\User
 
 
 # Play-by-Play Data Pull --------------------------------------------------
-season_vector <- 2011:fastRhockey:::most_recent_nhl_season()
+season_vector <- fastRhockey:::most_recent_nhl_season()
 rebuild <- FALSE
 rebuild_from_existing_json <- FALSE
 version = packageVersion("fastRhockey")
