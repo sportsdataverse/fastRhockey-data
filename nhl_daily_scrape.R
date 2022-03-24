@@ -17,7 +17,7 @@ suppressPackageStartupMessages(suppressMessages(library(arrow, lib.loc="C:\\User
 
 
 # Play-by-Play Data Pull --------------------------------------------------
-season_vector <- fastRhockey::most_recent_nhl_season()
+season_vector <- 2011:fastRhockey:::most_recent_nhl_season()
 rebuild <- FALSE
 rebuild_from_existing_json <- FALSE
 version = packageVersion("fastRhockey")
@@ -185,7 +185,7 @@ season_player_box_compile <- purrr::map(season_vector,function(x){
   future::plan("multisession")
   season_player_box <- furrr::future_map_dfr(sched$game_id,function(y){
     game <- jsonlite::fromJSON(paste0("nhl/json/",y,".json"))
-    player_box <- game$players_box
+    player_box <- game$player_box
     player_box$game_id <- y
     return(player_box)
   })
