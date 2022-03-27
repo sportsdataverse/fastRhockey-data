@@ -1,6 +1,6 @@
 player_jersey,player_name,position,goals,assists,points,penalty_minutes,plus_minus,shots_on_goal,blocks,giveaways,takeaways,faceoffs_won_lost,faceoffs_win_pct,powerplay_goals,shorthanded_goals,shots,shots_blocked,faceoffs_won,faceoffs_lost,team,skaters_href,player_id,game_id,minutes_played,shots_against,goals_against,saves,save_percent,goalies_href,season
-5,Leila Kilduff,D,0,1,1,0,0,0,0,0,1,0 - 0,0,0,0,1,1,0,0,Metropolitan Riveters,stats#/player/456621,456621,510842,,,,,,,2022
-8,Kelly Babstock,F,1,0,1,4,0,5,0,3,0,0 - 0,0,0,0,9,4,0,0,Metropolitan Riveters,stats#/player/699761,699761,510842,,,,,,,2022
+5,Leila Kilduff,D,0,1,1,0,1,0,0,0,1,0 - 0,0,0,0,1,1,0,0,Metropolitan Riveters,stats#/player/456621,456621,510842,,,,,,,2022
+8,Kelly Babstock,F,1,0,1,4,1,5,0,3,0,0 - 0,0,0,0,9,4,0,0,Metropolitan Riveters,stats#/player/699761,699761,510842,,,,,,,2022
 25,Rose Alleva,D,0,1,1,0,0,0,0,0,0,0 - 0,0,0,0,0,0,0,0,Metropolitan Riveters,stats#/player/456613,456613,510842,,,,,,,2022
 3,Theresa Knutson,F,0,0,0,0,0,1,0,2,0,0 - 0,0,0,0,1,0,0,0,Metropolitan Riveters,stats#/player/644548,644548,510842,,,,,,,2022
 4,Emily Janiga,F,0,0,0,2,0,1,1,0,3,14 - 11,0.56,0,0,2,1,14,11,Metropolitan Riveters,stats#/player/644549,644549,510842,,,,,,,2022
@@ -18,12 +18,12 @@ player_jersey,player_name,position,goals,assists,points,penalty_minutes,plus_min
 24,Kristen Barbara,D,0,0,0,0,0,1,1,2,3,0 - 0,0,0,0,1,0,0,0,Metropolitan Riveters,stats#/player/542417,542417,510842,,,,,,,2022
 55,Lenka Curmova,D,0,0,0,0,0,0,0,0,0,0 - 0,0,0,0,0,0,0,0,Metropolitan Riveters,stats#/player/980280,980280,510842,,,,,,,2022
 77,Colleen Murphy,D,0,0,0,0,0,0,1,1,1,0 - 0,0,0,0,3,3,0,0,Metropolitan Riveters,stats#/player/967617,967617,510842,,,,,,,2022
-3,Jonna Curtis,F,0,3,3,2,0,4,1,2,1,2 - 3,0.4,0,0,4,0,2,3,Minnesota Whitecaps,stats#/player/431666,431666,510842,,,,,,,2022
-21,Audra Morrison,F,0,3,3,0,0,4,0,1,2,0 - 0,0,0,0,5,1,0,0,Minnesota Whitecaps,stats#/player/431673,431673,510842,,,,,,,2022
-22,Sydney Baldwin,D,2,0,2,0,0,2,4,0,4,0 - 0,0,0,0,2,0,0,0,Minnesota Whitecaps,stats#/player/1086275,1086275,510842,,,,,,,2022
-8,Taylor Turnquist,D,1,0,1,0,0,5,0,3,1,6 - 14,0.3,0,0,5,0,6,14,Minnesota Whitecaps,stats#/player/949959,949959,510842,,,,,,,2022
-9,Allie Thunstrom,F,1,0,1,0,0,5,1,1,1,0 - 0,0,0,0,5,0,0,0,Minnesota Whitecaps,stats#/player/431677,431677,510842,,,,,,,2022
-19,Haley Mack,F,0,1,1,0,0,3,1,3,1,0 - 0,0,0,0,4,1,0,0,Minnesota Whitecaps,stats#/player/706982,706982,510842,,,,,,,2022
+3,Jonna Curtis,F,0,3,3,2,3,4,1,2,1,2 - 3,0.4,0,0,4,0,2,3,Minnesota Whitecaps,stats#/player/431666,431666,510842,,,,,,,2022
+21,Audra Morrison,F,1,2,3,0,3,5,0,1,2,0 - 0,0,0,0,6,1,0,0,Minnesota Whitecaps,stats#/player/431673,431673,510842,,,,,,,2022
+22,Sydney Baldwin,D,1,1,2,0,2,1,4,0,4,0 - 0,0,0,0,1,0,0,0,Minnesota Whitecaps,stats#/player/1086275,1086275,510842,,,,,,,2022
+8,Taylor Turnquist,D,1,0,1,0,1,5,0,3,1,6 - 14,0.3,0,0,5,0,6,14,Minnesota Whitecaps,stats#/player/949959,949959,510842,,,,,,,2022
+9,Allie Thunstrom,F,1,0,1,0,1,5,1,1,1,0 - 0,0,0,0,5,0,0,0,Minnesota Whitecaps,stats#/player/431677,431677,510842,,,,,,,2022
+19,Haley Mack,F,0,1,1,0,1,3,1,3,1,0 - 0,0,0,0,4,1,0,0,Minnesota Whitecaps,stats#/player/706982,706982,510842,,,,,,,2022
 2,Mak Langei,D,0,0,0,0,0,0,0,0,0,0 - 0,0,0,0,0,0,0,0,Minnesota Whitecaps,stats#/player/949960,949960,510842,,,,,,,2022
 4,Chelsey Rosenthal,F,0,0,0,2,0,1,3,0,1,0 - 0,0,0,0,1,0,0,0,Minnesota Whitecaps,stats#/player/967939,967939,510842,,,,,,,2022
 5,Winnie Brodt-Brown,D,0,0,0,0,0,0,0,0,0,0 - 0,0,0,0,0,0,0,0,Minnesota Whitecaps,stats#/player/967843,967843,510842,,,,,,,2022
@@ -48,17 +48,17 @@ player_jersey,player_name,position,goals,assists,points,penalty_minutes,plus_min
 31,Allie Morse,G,0,0,,0,,,,,,,,,,,,,,Minnesota Whitecaps,,1077050,510842,00:00,0,0,0,0,stats#/player/1077050,2022
 32,Breanna Blesi,G,0,0,,0,,,,,,,,,,,,,,Minnesota Whitecaps,,1086258,510842,00:00,0,0,0,0,stats#/player/1086258,2022
 35,Jenna Brenneman,G,0,0,,0,,,,,,,,,,,,,,Minnesota Whitecaps,,977772,510842,00:00,0,0,0,0,stats#/player/977772,2022
-17,McKenna Brand,F,0,3,3,0,0,5,1,0,0,0 - 0,0,0,0,6,1,0,0,Boston Pride,stats#/player/431610,431610,510841,,,,,,,2022
-6,Kali Flanagan,D,1,1,2,0,0,4,0,0,0,0 - 0,0,1,0,6,2,0,0,Boston Pride,stats#/player/1034117,1034117,510841,,,,,,,2022
-8,Amanda Boulier,D,0,2,2,0,0,1,2,0,0,0 - 0,0,0,0,1,0,0,0,Boston Pride,stats#/player/431662,431662,510841,,,,,,,2022
-13,Kaleigh Fratkin,D,0,2,2,0,0,2,1,0,0,0 - 0,0,0,0,3,1,0,0,Boston Pride,stats#/player/57735,57735,510841,,,,,,,2022
-21,Christina Putigna,F,1,1,2,0,0,4,1,0,0,0 - 0,0,1,0,4,0,0,0,Boston Pride,stats#/player/431616,431616,510841,,,,,,,2022
-7,Mary Parker,F,1,0,1,0,0,3,0,0,0,0 - 0,0,0,0,3,0,0,0,Boston Pride,stats#/player/1041273,1041273,510841,,,,,,,2022
-11,Evelina Raselli,F,0,1,1,2,0,0,1,0,0,9 - 0,1,0,0,0,0,9,0,Boston Pride,stats#/player/967842,967842,510841,,,,,,,2022
-14,Jillian Dempsey,F,1,0,1,0,0,2,0,0,0,5 - 4,0.556,0,0,3,1,5,4,Boston Pride,stats#/player/58116,58116,510841,,,,,,,2022
-18,Taylor Wenczkowski,F,1,0,1,0,0,7,0,0,0,8 - 5,0.615,0,0,8,1,8,5,Boston Pride,stats#/player/627747,627747,510841,,,,,,,2022
-19,Sammy Davis,F,0,1,1,0,0,2,0,0,0,0 - 0,0,0,0,2,0,0,0,Boston Pride,stats#/player/627751,627751,510841,,,,,,,2022
-73,Teresa Vanisova,F,1,0,1,2,0,1,0,0,0,0 - 0,0,0,0,1,0,0,0,Boston Pride,stats#/player/1099318,1099318,510841,,,,,,,2022
+6,Kali Flanagan,D,1,1,2,0,2,4,0,0,0,0 - 0,0,1,0,6,2,0,0,Boston Pride,stats#/player/1034117,1034117,510841,,,,,,,2022
+7,Mary Parker,F,1,1,2,0,2,3,0,0,0,0 - 0,0,0,0,3,0,0,0,Boston Pride,stats#/player/1041273,1041273,510841,,,,,,,2022
+8,Amanda Boulier,D,0,2,2,0,3,1,2,0,0,0 - 0,0,0,0,1,0,0,0,Boston Pride,stats#/player/431662,431662,510841,,,,,,,2022
+13,Kaleigh Fratkin,D,0,2,2,0,3,2,1,0,0,0 - 0,0,0,0,3,1,0,0,Boston Pride,stats#/player/57735,57735,510841,,,,,,,2022
+17,McKenna Brand,F,0,2,2,0,2,5,1,0,0,0 - 0,0,0,0,6,1,0,0,Boston Pride,stats#/player/431610,431610,510841,,,,,,,2022
+21,Christina Putigna,F,1,1,2,0,2,4,1,0,0,0 - 0,0,1,0,4,0,0,0,Boston Pride,stats#/player/431616,431616,510841,,,,,,,2022
+11,Evelina Raselli,F,0,1,1,2,1,0,1,0,0,9 - 0,1,0,0,0,0,9,0,Boston Pride,stats#/player/967842,967842,510841,,,,,,,2022
+14,Jillian Dempsey,F,1,0,1,0,1,2,0,0,0,5 - 4,0.556,0,0,3,1,5,4,Boston Pride,stats#/player/58116,58116,510841,,,,,,,2022
+18,Taylor Wenczkowski,F,1,0,1,0,1,7,0,0,0,8 - 5,0.615,0,0,8,1,8,5,Boston Pride,stats#/player/627747,627747,510841,,,,,,,2022
+19,Sammy Davis,F,0,1,1,0,1,2,0,0,0,0 - 0,0,0,0,2,0,0,0,Boston Pride,stats#/player/627751,627751,510841,,,,,,,2022
+73,Teresa Vanisova,F,1,0,1,2,2,1,0,0,0,0 - 0,0,1,0,1,0,0,0,Boston Pride,stats#/player/1099318,1099318,510841,,,,,,,2022
 4,Lauren Kelly,D,0,0,0,0,0,0,1,0,0,0 - 0,0,0,0,1,1,0,0,Boston Pride,stats#/player/431612,431612,510841,,,,,,,2022
 9,Tori Sullivan,F,0,0,0,0,0,0,0,0,0,0 - 0,0,0,0,0,0,0,0,Boston Pride,stats#/player/431622,431622,510841,,,,,,,2022
 12,Jenna Rheault,D,0,0,0,0,0,1,2,0,0,0 - 0,0,0,0,1,0,0,0,Boston Pride,stats#/player/431619,431619,510841,,,,,,,2022
@@ -89,46 +89,6 @@ player_jersey,player_name,position,goals,assists,points,penalty_minutes,plus_min
 88,Katie Burt,G,0,0,,0,,,,,,,,,,,,,,Boston Pride,,455202,510841,60:00,32,0,32,1,stats#/player/455202,2022
 70,Carly Jackson,G,0,0,,0,,,,,,,,,,,,,,Buffalo Beauts,,1034319,510841,60:00,36,6,30,0.833,stats#/player/1034319,2022
 88,Lovisa Berndtsson,G,0,0,,0,,,,,,,,,,,,,,Buffalo Beauts,,824067,510841,00:00,0,0,0,0,stats#/player/824067,2022
-22,Kennedy Marchment,F,0,4,4,0,4,2,0,0,0,13 - 5,0.722,0,0,3,1,13,5,Connecticut Whale,stats#/player/966985,966985,487965,,,,,,,2022
-12,Allie Munroe,D,0,3,3,0,5,0,0,0,0,0 - 0,0,0,0,0,0,0,0,Connecticut Whale,stats#/player/966982,966982,487965,,,,,,,2022
-88,Amanda Conway,F,2,1,3,0,3,2,0,0,0,1 - 0,1,1,0,3,1,1,0,Connecticut Whale,stats#/player/707073,707073,487965,,,,,,,2022
-8,Alyssa Wohlfeiler,F,1,0,1,0,3,5,0,0,0,0 - 0,0,0,0,6,1,0,0,Connecticut Whale,stats#/player/57768,57768,487965,,,,,,,2022
-15,Emma Vlasic,F,0,1,1,0,0,3,1,0,0,6 - 10,0.375,0,0,3,0,6,10,Connecticut Whale,stats#/player/431646,431646,487965,,,,,,,2022
-16,Hanna Beattie,D,0,1,1,0,1,0,0,0,0,0 - 0,0,0,0,0,0,0,0,Connecticut Whale,stats#/player/455146,455146,487965,,,,,,,2022
-17,Taylor Girard,F,1,0,1,0,4,4,0,0,0,0 - 0,0,0,0,6,2,0,0,Connecticut Whale,stats#/player/966983,966983,487965,,,,,,,2022
-24,Janine Weber,F,1,0,1,0,1,2,0,0,0,2 - 0,1,0,0,2,0,2,0,Connecticut Whale,stats#/player/513300,513300,487965,,,,,,,2022
-5,Tori Howran,D,0,0,0,0,0,2,0,0,0,0 - 0,0,0,0,5,3,0,0,Connecticut Whale,stats#/player/1034126,1034126,487965,,,,,,,2022
-6,Shannon Turner,D,0,0,0,0,1,0,0,0,0,0 - 0,0,0,0,2,2,0,0,Connecticut Whale,stats#/player/967608,967608,487965,,,,,,,2022
-9,Kaycie Anderson,F,0,0,0,0,0,0,0,0,0,0 - 0,0,0,0,0,0,0,0,Connecticut Whale,stats#/player/431637,431637,487965,,,,,,,2022
-11,Emily Fluke,F,0,0,0,0,0,1,0,0,0,0 - 0,0,0,0,1,0,0,0,Connecticut Whale,stats#/player/455143,455143,487965,,,,,,,2022
-13,Cailey Hutchison,F,0,0,0,0,0,0,0,0,0,3 - 5,0.375,0,0,0,0,3,5,Connecticut Whale,stats#/player/431652,431652,487965,,,,,,,2022
-18,Hannah Bates,D,0,0,0,0,0,1,0,0,0,0 - 0,0,0,0,1,0,0,0,Connecticut Whale,stats#/player/966984,966984,487965,,,,,,,2022
-27,Janka Hlinka,F,0,0,0,0,0,0,0,0,0,0 - 0,0,0,0,0,0,0,0,Connecticut Whale,stats#/player/966992,966992,487965,,,,,,,2022
-28,Melissa Samoskevich,F,0,0,0,0,0,4,1,0,0,0 - 0,0,0,0,4,0,0,0,Connecticut Whale,stats#/player/1041703,1041703,487965,,,,,,,2022
-44,Taylor Marchin,D,0,0,0,0,0,0,0,0,0,0 - 0,0,0,0,1,1,0,0,Connecticut Whale,stats#/player/431643,431643,487965,,,,,,,2022
-97,Catherine Crawley,F,0,0,0,0,0,1,0,0,0,0 - 0,0,0,0,1,0,0,0,Connecticut Whale,stats#/player/966955,966955,487965,,,,,,,2022
-2,Taylor Woods,D,0,0,0,0,-1,1,1,0,0,0 - 0,0,0,0,1,0,0,0,Toronto Six,stats#/player/542421,542421,487965,,,,,,,2022
-6,Sarah Steele,D,0,0,0,2,-1,0,0,0,0,0 - 0,0,0,0,0,0,0,0,Toronto Six,stats#/player/630147,630147,487965,,,,,,,2022
-7,Maegan Beres,F,0,0,0,0,-2,1,0,0,0,0 - 0,0,0,0,1,0,0,0,Toronto Six,stats#/player/881571,881571,487965,,,,,,,2022
-11,Breanne Wilson-Bennett,F,0,0,0,2,-2,0,1,0,0,2 - 2,0.5,0,0,0,0,2,2,Toronto Six,stats#/player/630148,630148,487965,,,,,,,2022
-12,Leah Marino,F,0,0,0,0,0,1,0,0,0,0 - 0,0,0,0,1,0,0,0,Toronto Six,stats#/player/879728,879728,487965,,,,,,,2022
-13,Mikyla Grant-Mentis,F,0,0,0,0,-2,3,2,0,0,5 - 11,0.313,0,0,3,0,5,11,Toronto Six,stats#/player/532475,532475,487965,,,,,,,2022
-16,Annie MacDonald,F,0,0,0,0,0,0,0,0,0,0 - 0,0,0,0,0,0,0,0,Toronto Six,stats#/player/963616,963616,487965,,,,,,,2022
-19,Brooke Boquist,F,0,0,0,0,0,0,0,0,0,0 - 0,0,0,0,0,0,0,0,Toronto Six,stats#/player/543984,543984,487965,,,,,,,2022
-20,Taylor Davison,D,0,0,0,0,-2,2,0,0,0,0 - 0,0,0,0,2,0,0,0,Toronto Six,stats#/player/881569,881569,487965,,,,,,,2022
-22,Natalie Marcuzzi,F,0,0,0,0,0,0,0,0,0,5 - 4,0.556,0,0,0,0,5,4,Toronto Six,stats#/player/1020560,1020560,487965,,,,,,,2022
-25,Stephanie Sucharda,D,0,0,0,0,-1,0,2,0,0,0 - 0,0,0,0,0,0,0,0,Toronto Six,stats#/player/963635,963635,487965,,,,,,,2022
-26,Cristine Chao,D,0,0,0,0,-2,0,0,0,0,0 - 0,0,0,0,1,1,0,0,Toronto Six,stats#/player/963625,963625,487965,,,,,,,2022
-27,Shiann Darkangelo,F,0,0,0,2,-1,2,1,0,0,8 - 8,0.5,0,0,2,0,8,8,Toronto Six,stats#/player/542419,542419,487965,,,,,,,2022
-28,Taylor Day,F,0,0,0,0,0,0,0,0,0,0 - 0,0,0,0,0,0,0,0,Toronto Six,stats#/player/963607,963607,487965,,,,,,,2022
-44,Lindsay Eastwood,D,0,0,0,2,-2,0,3,0,0,0 - 0,0,0,0,0,0,0,0,Toronto Six,stats#/player/630139,630139,487965,,,,,,,2022
-67,Emma Woods,F,0,0,0,0,0,0,0,0,0,0 - 0,0,0,0,0,0,0,0,Toronto Six,stats#/player/630149,630149,487965,,,,,,,2022
-71,Saroya Tinker,D,0,0,0,0,-2,0,1,0,0,0 - 0,0,0,0,1,1,0,0,Toronto Six,stats#/player/879727,879727,487965,,,,,,,2022
-86,Michela Cava,F,0,0,0,0,0,0,0,0,0,0 - 0,0,0,0,0,0,0,0,Toronto Six,stats#/player/963636,963636,487965,,,,,,,2022
-35,Abbie Ives,G,0,0,,0,,,,,,,,,,,,,,Connecticut Whale,,707072,487965,00:00,0,0,0,0,stats#/player/707072,2022
-55,Mariah Fujimagari,G,0,0,,0,,,,,,,,,,,,,,Connecticut Whale,,728502,487965,60:00,10,0,10,1,stats#/player/728502,2022
-29,Elaine Chuli,G,0,0,,0,,,,,,,,,,,,,,Toronto Six,,542418,487965,60:00,27,5,22,0.815,stats#/player/542418,2022
-31,Tera Hofmann,G,0,0,,0,,,,,,,,,,,,,,Toronto Six,,881597,487965,00:00,0,0,0,0,stats#/player/881597,2022
 24,Anjelica Diffendal,F,1,1,2,0,2,2,0,0,0,0 - 0,0,1,0,2,0,0,0,Buffalo Beauts,stats#/player/811831,811831,484010,,,,,,,2022
 77,Kennedy Ganser,F,1,1,2,0,2,2,3,0,0,15 - 12,0.556,1,0,2,0,15,12,Buffalo Beauts,stats#/player/816614,816614,484010,,,,,,,2022
 4,Marie-Jo Pelletier,D,0,1,1,0,1,2,0,0,0,0 - 0,0,0,0,2,0,0,0,Buffalo Beauts,stats#/player/431633,431633,484010,,,,,,,2022
@@ -169,6 +129,46 @@ player_jersey,player_name,position,goals,assists,points,penalty_minutes,plus_min
 88,Lovisa Berndtsson,G,0,0,,0,,,,,,,,,,,,,,Buffalo Beauts,,824067,484010,00:00,0,0,0,0,stats#/player/824067,2022
 33,Victoria Hanson,G,0,0,,0,,,,,,,,,,,,,,Boston Pride,,431611,484010,00:00,0,0,0,0,stats#/player/431611,2022
 35,Lovisa Selander,G,0,0,,0,,,,,,,,,,,,,,Boston Pride,,431620,484010,61:28,26,3,23,0.885,stats#/player/431620,2022
+22,Kennedy Marchment,F,0,4,4,0,4,4,0,0,0,13 - 5,0.722,0,0,5,1,13,5,Connecticut Whale,stats#/player/966985,966985,487965,,,,,,,2022
+12,Allie Munroe,D,0,3,3,0,5,1,2,0,0,0 - 0,0,0,0,1,0,0,0,Connecticut Whale,stats#/player/966982,966982,487965,,,,,,,2022
+88,Amanda Conway,F,2,1,3,0,3,4,0,0,0,1 - 0,1,1,0,5,1,1,0,Connecticut Whale,stats#/player/707073,707073,487965,,,,,,,2022
+8,Alyssa Wohlfeiler,F,1,0,1,0,3,5,1,0,0,0 - 0,0,0,0,7,2,0,0,Connecticut Whale,stats#/player/57768,57768,487965,,,,,,,2022
+15,Emma Vlasic,F,0,1,1,0,0,2,1,0,0,6 - 10,0.375,0,0,2,0,6,10,Connecticut Whale,stats#/player/431646,431646,487965,,,,,,,2022
+16,Hanna Beattie,D,0,1,1,0,1,0,0,0,0,0 - 0,0,0,0,0,0,0,0,Connecticut Whale,stats#/player/455146,455146,487965,,,,,,,2022
+17,Taylor Girard,F,1,0,1,0,4,3,0,0,0,0 - 0,0,0,0,6,3,0,0,Connecticut Whale,stats#/player/966983,966983,487965,,,,,,,2022
+24,Janine Weber,F,1,0,1,0,1,3,0,0,0,2 - 0,1,0,0,3,0,2,0,Connecticut Whale,stats#/player/513300,513300,487965,,,,,,,2022
+5,Tori Howran,D,0,0,0,0,0,2,0,0,0,0 - 0,0,0,0,5,3,0,0,Connecticut Whale,stats#/player/1034126,1034126,487965,,,,,,,2022
+6,Shannon Turner,D,0,0,0,0,1,0,1,0,0,0 - 0,0,0,0,2,2,0,0,Connecticut Whale,stats#/player/967608,967608,487965,,,,,,,2022
+9,Kaycie Anderson,F,0,0,0,0,0,0,0,0,0,0 - 0,0,0,0,0,0,0,0,Connecticut Whale,stats#/player/431637,431637,487965,,,,,,,2022
+11,Emily Fluke,F,0,0,0,0,0,1,0,0,0,0 - 0,0,0,0,1,0,0,0,Connecticut Whale,stats#/player/455143,455143,487965,,,,,,,2022
+13,Cailey Hutchison,F,0,0,0,0,0,0,1,0,0,3 - 5,0.375,0,0,1,1,3,5,Connecticut Whale,stats#/player/431652,431652,487965,,,,,,,2022
+18,Hannah Bates,D,0,0,0,0,2,1,0,0,0,0 - 0,0,0,0,1,0,0,0,Connecticut Whale,stats#/player/966984,966984,487965,,,,,,,2022
+27,Janka Hlinka,F,0,0,0,0,0,0,0,0,0,0 - 0,0,0,0,0,0,0,0,Connecticut Whale,stats#/player/966992,966992,487965,,,,,,,2022
+28,Melissa Samoskevich,F,0,0,0,0,0,4,1,0,0,0 - 0,0,0,0,4,0,0,0,Connecticut Whale,stats#/player/1041703,1041703,487965,,,,,,,2022
+44,Taylor Marchin,D,0,0,0,0,0,0,2,0,0,0 - 0,0,0,0,2,2,0,0,Connecticut Whale,stats#/player/431643,431643,487965,,,,,,,2022
+97,Catherine Crawley,F,0,0,0,0,0,1,0,0,0,0 - 0,0,0,0,1,0,0,0,Connecticut Whale,stats#/player/966955,966955,487965,,,,,,,2022
+2,Taylor Woods,D,0,0,0,0,-1,1,1,0,0,0 - 0,0,0,0,1,0,0,0,Toronto Six,stats#/player/542421,542421,487965,,,,,,,2022
+6,Sarah Steele,D,0,0,0,2,-1,0,0,0,0,0 - 0,0,0,0,0,0,0,0,Toronto Six,stats#/player/630147,630147,487965,,,,,,,2022
+7,Maegan Beres,F,0,0,0,0,-2,1,0,0,0,0 - 0,0,0,0,1,0,0,0,Toronto Six,stats#/player/881571,881571,487965,,,,,,,2022
+11,Breanne Wilson-Bennett,F,0,0,0,2,-2,0,1,0,0,2 - 2,0.5,0,0,0,0,2,2,Toronto Six,stats#/player/630148,630148,487965,,,,,,,2022
+12,Leah Marino,F,0,0,0,0,0,1,0,0,0,0 - 0,0,0,0,1,0,0,0,Toronto Six,stats#/player/879728,879728,487965,,,,,,,2022
+13,Mikyla Grant-Mentis,F,0,0,0,0,-2,3,2,0,0,5 - 11,0.313,0,0,3,0,5,11,Toronto Six,stats#/player/532475,532475,487965,,,,,,,2022
+16,Annie MacDonald,F,0,0,0,0,0,0,0,0,0,0 - 0,0,0,0,0,0,0,0,Toronto Six,stats#/player/963616,963616,487965,,,,,,,2022
+19,Brooke Boquist,F,0,0,0,0,-2,1,1,0,0,0 - 0,0,0,0,3,2,0,0,Toronto Six,stats#/player/543984,543984,487965,,,,,,,2022
+20,Taylor Davison,D,0,0,0,0,-2,3,1,0,0,0 - 0,0,0,0,3,0,0,0,Toronto Six,stats#/player/881569,881569,487965,,,,,,,2022
+22,Natalie Marcuzzi,F,0,0,0,0,0,0,0,0,0,5 - 4,0.556,0,0,0,0,5,4,Toronto Six,stats#/player/1020560,1020560,487965,,,,,,,2022
+25,Stephanie Sucharda,D,0,0,0,0,-1,0,2,0,0,0 - 0,0,0,0,0,0,0,0,Toronto Six,stats#/player/963635,963635,487965,,,,,,,2022
+26,Cristine Chao,D,0,0,0,0,-2,0,0,0,0,0 - 0,0,0,0,2,2,0,0,Toronto Six,stats#/player/963625,963625,487965,,,,,,,2022
+27,Shiann Darkangelo,F,0,0,0,2,-1,3,1,0,0,8 - 8,0.5,0,0,4,1,8,8,Toronto Six,stats#/player/542419,542419,487965,,,,,,,2022
+28,Taylor Day,F,0,0,0,0,0,0,0,0,0,0 - 0,0,0,0,0,0,0,0,Toronto Six,stats#/player/963607,963607,487965,,,,,,,2022
+44,Lindsay Eastwood,D,0,0,0,2,-2,0,3,0,0,0 - 0,0,0,0,2,2,0,0,Toronto Six,stats#/player/630139,630139,487965,,,,,,,2022
+67,Emma Woods,F,0,0,0,0,0,1,0,0,0,0 - 0,0,0,0,1,0,0,0,Toronto Six,stats#/player/630149,630149,487965,,,,,,,2022
+71,Saroya Tinker,D,0,0,0,0,-2,3,3,0,0,0 - 0,0,0,0,5,2,0,0,Toronto Six,stats#/player/879727,879727,487965,,,,,,,2022
+86,Michela Cava,F,0,0,0,0,0,0,0,0,0,0 - 0,0,0,0,0,0,0,0,Toronto Six,stats#/player/963636,963636,487965,,,,,,,2022
+35,Abbie Ives,G,0,0,,0,,,,,,,,,,,,,,Connecticut Whale,,707072,487965,00:00,0,0,0,0,stats#/player/707072,2022
+55,Mariah Fujimagari,G,0,0,,0,,,,,,,,,,,,,,Connecticut Whale,,728502,487965,60:00,17,0,17,1,stats#/player/728502,2022
+29,Elaine Chuli,G,0,0,,0,,,,,,,,,,,,,,Toronto Six,,542418,487965,60:00,31,5,26,0.839,stats#/player/542418,2022
+31,Tera Hofmann,G,0,0,,0,,,,,,,,,,,,,,Toronto Six,,881597,487965,00:00,0,0,0,0,stats#/player/881597,2022
 13,Dominique Kremer,D,1,0,1,0,0,3,0,0,0,0 - 0,0,0,0,4,1,0,0,Buffalo Beauts,stats#/player/632881,632881,484012,,,,,,,2022
 19,Taylor Wasylk,F,0,1,1,0,1,0,0,1,0,0 - 0,0,0,0,0,0,0,0,Buffalo Beauts,stats#/player/455201,455201,484012,,,,,,,2022
 22,Emilie Harley,F/D,0,1,1,0,1,1,0,0,0,0 - 0,0,0,0,2,1,0,0,Buffalo Beauts,stats#/player/810693,810693,484012,,,,,,,2022
@@ -1220,44 +1220,6 @@ player_jersey,player_name,position,goals,assists,points,penalty_minutes,plus_min
 35,Jenna Brenneman,G,0,0,,0,,,,,,,,,,,,,,Minnesota Whitecaps,,977772,473449,20:00,8,1,7,0.875,stats#/player/977772,2022
 70,Carly Jackson,G,0,0,,0,,,,,,,,,,,,,,Buffalo Beauts,,1034319,473449,35:18,21,5,16,0.762,stats#/player/1034319,2022
 88,Lovisa Berndtsson,G,0,0,,0,,,,,,,,,,,,,,Buffalo Beauts,,824067,473449,24:42,15,3,12,0.8,stats#/player/824067,2022
-18,Taylor Wenczkowski,F,1,1,2,2,0,6,0,0,0,7 - 10,0.412,0,0,6,0,7,10,Boston Pride,stats#/player/627747,627747,420370,,,,,,,2022
-7,Meghan Rickard,F,1,0,1,0,0,3,0,0,0,0 - 0,0,0,0,3,0,0,0,Boston Pride,stats#/player/1027138,1027138,420370,,,,,,,2022
-8,Amanda Boulier,D,0,1,1,2,2,4,1,3,0,0 - 0,0,0,0,4,0,0,0,Boston Pride,stats#/player/431662,431662,420370,,,,,,,2022
-9,Tori Sullivan,F,1,0,1,0,1,2,0,1,0,0 - 0,0,0,0,2,0,0,0,Boston Pride,stats#/player/431622,431622,420370,,,,,,,2022
-13,Kaleigh Fratkin,D,0,1,1,2,-1,5,1,1,3,0 - 0,0,0,0,7,2,0,0,Boston Pride,stats#/player/57735,57735,420370,,,,,,,2022
-19,Sammy Davis,F,0,1,1,2,1,3,0,1,1,1 - 1,0.5,0,0,3,0,1,1,Boston Pride,stats#/player/627751,627751,420370,,,,,,,2022
-42,Meghara McManus,F,0,1,1,2,1,0,0,0,0,10 - 7,0.588,0,0,1,1,10,7,Boston Pride,stats#/player/627750,627750,420370,,,,,,,2022
-47,Mallory Souliotis,D,0,1,1,0,1,0,0,0,0,0 - 0,0,0,0,1,1,0,0,Boston Pride,stats#/player/431621,431621,420370,,,,,,,2022
-4,Lauren Kelly,D,0,0,0,0,0,2,0,3,1,0 - 0,0,0,0,2,0,0,0,Boston Pride,stats#/player/431612,431612,420370,,,,,,,2022
-6,Kali Flanagan,D,0,0,0,0,0,5,1,1,0,0 - 0,0,0,0,5,0,0,0,Boston Pride,stats#/player/1034117,1034117,420370,,,,,,,2022
-12,Jenna Rheault,D,0,0,0,0,0,3,1,0,0,0 - 0,0,0,0,3,0,0,0,Boston Pride,stats#/player/431619,431619,420370,,,,,,,2022
-14,Jillian Dempsey,F,0,0,0,0,-2,0,0,0,0,18 - 15,0.546,0,0,1,1,18,15,Boston Pride,stats#/player/58116,58116,420370,,,,,,,2022
-17,McKenna Brand,F,0,0,0,0,0,3,1,2,0,2 - 0,1,0,0,4,1,2,0,Boston Pride,stats#/player/431610,431610,420370,,,,,,,2022
-20,Paige Capistran,D,0,0,0,0,0,0,0,0,0,0 - 0,0,0,0,0,0,0,0,Boston Pride,stats#/player/627748,627748,420370,,,,,,,2022
-21,Christina Putigna,F,0,0,0,2,0,4,0,1,1,0 - 0,0,0,0,5,1,0,0,Boston Pride,stats#/player/431616,431616,420370,,,,,,,2022
-23,Kateylnn Russ,F,0,0,0,0,0,1,0,0,0,0 - 0,0,0,0,1,0,0,0,Boston Pride,stats#/player/856786,856786,420370,,,,,,,2022
-29,Kayla Friesen,F,0,0,0,0,0,0,0,0,0,0 - 0,0,0,0,0,0,0,0,Boston Pride,stats#/player/856779,856779,420370,,,,,,,2022
-3,Theresa Knutson,F,1,1,2,0,2,2,0,0,0,0 - 0,0,0,0,2,0,0,0,Metropolitan Riveters,stats#/player/644548,644548,420370,,,,,,,2022
-8,Kelly Babstock,F,0,2,2,0,3,3,1,1,0,0 - 0,0,0,0,3,0,0,0,Metropolitan Riveters,stats#/player/699761,699761,420370,,,,,,,2022
-10,Kendall Cornine,F,2,0,2,4,3,9,0,2,1,15 - 12,0.556,0,0,10,1,15,12,Metropolitan Riveters,stats#/player/431650,431650,420370,,,,,,,2022
-4,Emily Janiga,F,1,0,1,0,1,3,2,4,0,13 - 18,0.419,0,0,3,0,13,18,Metropolitan Riveters,stats#/player/644549,644549,420370,,,,,,,2022
-7,Rachael Ade,D,0,1,1,0,2,0,1,0,0,0 - 0,0,0,0,0,0,0,0,Metropolitan Riveters,stats#/player/728501,728501,420370,,,,,,,2022
-18,Rebecca Russo,F,0,1,1,0,1,4,0,0,0,0 - 0,0,0,0,4,0,0,0,Metropolitan Riveters,stats#/player/644558,644558,420370,,,,,,,2022
-5,Leila Kilduff,D,0,0,0,0,0,1,0,0,0,0 - 0,0,0,0,1,0,0,0,Metropolitan Riveters,stats#/player/456621,456621,420370,,,,,,,2022
-6,Nora Maclaine,F,0,0,0,2,0,1,0,0,0,5 - 7,0.417,0,0,1,0,5,7,Metropolitan Riveters,stats#/player/828793,828793,420370,,,,,,,2022
-14,Madison Packer,F,0,0,0,0,0,3,0,6,1,0 - 1,0,0,0,3,0,0,1,Metropolitan Riveters,stats#/player/966106,966106,420370,,,,,,,2022
-16,Brooke Avery,F,0,0,0,0,0,2,0,1,1,0 - 0,0,0,0,3,1,0,0,Metropolitan Riveters,stats#/player/431648,431648,420370,,,,,,,2022
-19,Romana Kosecka,F,0,0,0,0,0,0,0,0,0,0 - 0,0,0,0,0,0,0,0,Metropolitan Riveters,stats#/player/980281,980281,420370,,,,,,,2022
-20,Mallory Rushton,F,0,0,0,0,0,1,0,0,0,0 - 0,0,0,0,1,0,0,0,Metropolitan Riveters,stats#/player/431656,431656,420370,,,,,,,2022
-21,Haley Frade,F,0,0,0,2,0,0,0,0,2,0 - 0,0,0,0,0,0,0,0,Metropolitan Riveters,stats#/player/529481,529481,420370,,,,,,,2022
-24,Kristen Barbara,D,0,0,0,2,0,3,2,1,0,0 - 0,0,0,0,3,0,0,0,Metropolitan Riveters,stats#/player/542417,542417,420370,,,,,,,2022
-25,Rose Alleva,D,0,0,0,0,0,0,1,0,0,0 - 0,0,0,0,0,0,0,0,Metropolitan Riveters,stats#/player/456613,456613,420370,,,,,,,2022
-55,Lenka Curmova,D,0,0,0,0,0,1,0,0,0,0 - 0,0,0,0,3,2,0,0,Metropolitan Riveters,stats#/player/980280,980280,420370,,,,,,,2022
-77,Colleen Murphy,D,0,0,0,2,2,1,1,1,1,0 - 0,0,0,0,2,1,0,0,Metropolitan Riveters,stats#/player/967617,967617,420370,,,,,,,2022
-33,Victoria Hanson,G,0,0,,0,,,,,,,,,,,,,,Boston Pride,,431611,420370,40:00,18,1,17,0.944,stats#/player/431611,2022
-35,Lovisa Selander,G,0,0,,0,,,,,,,,,,,,,,Boston Pride,,431620,420370,20:00,16,3,13,0.813,stats#/player/431620,2022
-1,Brooke Wolejko,G,0,0,,0,,,,,,,,,,,,,,Metropolitan Riveters,,456412,420370,60:00,41,3,38,0.927,stats#/player/456412,2022
-29,Sonjia Shelly,G,0,0,,0,,,,,,,,,,,,,,Metropolitan Riveters,,456411,420370,00:00,0,0,0,0,stats#/player/456411,2022
 9,Autumn MacDougall,F,1,0,1,0,0,3,0,1,0,1 - 0,1,0,0,4,1,1,0,Buffalo Beauts,stats#/player/632861,632861,420369,,,,,,,2022
 77,Kennedy Ganser,F,0,1,1,2,0,1,0,0,0,10 - 13,0.435,0,0,2,1,10,13,Buffalo Beauts,stats#/player/816614,816614,420369,,,,,,,2022
 95,Taylor Accursi,F,0,1,1,0,-4,1,0,0,0,0 - 1,0,0,0,2,1,0,1,Buffalo Beauts,stats#/player/455139,455139,420369,,,,,,,2022
@@ -1296,43 +1258,44 @@ player_jersey,player_name,position,goals,assists,points,penalty_minutes,plus_min
 88,Lovisa Berndtsson,G,0,0,,0,,,,,,,,,,,,,,Buffalo Beauts,,824067,420369,29:27,17,2,15,0.882,stats#/player/824067,2022
 29,Amanda Leveille,G,0,0,,0,,,,,,,,,,,,,,Minnesota Whitecaps,,967811,420369,50:45,24,1,23,0.958,stats#/player/967811,2022
 35,Jenna Brenneman,G,0,0,,0,,,,,,,,,,,,,,Minnesota Whitecaps,,977772,420369,09:15,0,0,0,0,stats#/player/977772,2022
-14,Jillian Dempsey,F,2,0,2,0,2,6,0,0,2,10 - 13,0.435,0,2,6,0,10,13,Boston Pride,stats#/player/58116,58116,420364,,,,,,,2022
-17,McKenna Brand,F,0,2,2,0,2,2,0,2,0,0 - 0,0,0,0,2,0,0,0,Boston Pride,stats#/player/431610,431610,420364,,,,,,,2022
-13,Kaleigh Fratkin,D,1,0,1,0,2,4,3,0,3,0 - 0,0,0,1,5,1,0,0,Boston Pride,stats#/player/57735,57735,420364,,,,,,,2022
-42,Meghara McManus,F,0,1,1,0,0,1,0,0,1,6 - 5,0.546,0,0,2,1,6,5,Boston Pride,stats#/player/627750,627750,420364,,,,,,,2022
-2,Meghan Rickard,F,0,0,0,0,0,3,0,0,0,0 - 0,0,0,0,3,0,0,0,Boston Pride,stats#/player/1027138,1027138,420364,,,,,,,2022
-4,Lauren Kelly,D,0,0,0,0,0,0,0,0,2,0 - 0,0,0,0,0,0,0,0,Boston Pride,stats#/player/431612,431612,420364,,,,,,,2022
-6,Kali Flanagan,D,0,0,0,0,0,1,0,3,1,0 - 0,0,0,0,1,0,0,0,Boston Pride,stats#/player/1034117,1034117,420364,,,,,,,2022
-8,Amanda Boulier,D,0,0,0,0,0,5,2,0,0,0 - 0,0,0,0,5,0,0,0,Boston Pride,stats#/player/431662,431662,420364,,,,,,,2022
-9,Tori Sullivan,F,0,0,0,0,0,0,0,0,1,0 - 0,0,0,0,0,0,0,0,Boston Pride,stats#/player/431622,431622,420364,,,,,,,2022
-12,Jenna Rheault,D,0,0,0,0,0,0,0,1,1,0 - 0,0,0,0,1,1,0,0,Boston Pride,stats#/player/431619,431619,420364,,,,,,,2022
-18,Taylor Wenczkowski,F,0,0,0,0,0,4,0,1,3,17 - 15,0.531,0,0,4,0,17,15,Boston Pride,stats#/player/627747,627747,420364,,,,,,,2022
-19,Sammy Davis,F,0,0,0,0,0,2,0,4,0,0 - 1,0,0,0,4,2,0,1,Boston Pride,stats#/player/627751,627751,420364,,,,,,,2022
-20,Paige Capistran,D,0,0,0,0,0,0,0,0,2,0 - 0,0,0,0,0,0,0,0,Boston Pride,stats#/player/627748,627748,420364,,,,,,,2022
-21,Christina Putigna,F,0,0,0,2,0,5,0,2,0,0 - 0,0,0,0,6,1,0,0,Boston Pride,stats#/player/431616,431616,420364,,,,,,,2022
-23,Kateylnn Russ,F,0,0,0,0,0,2,0,0,0,0 - 0,0,0,0,2,0,0,0,Boston Pride,stats#/player/856786,856786,420364,,,,,,,2022
-47,Mallory Souliotis,D,0,0,0,2,0,0,2,2,1,0 - 0,0,0,0,0,0,0,0,Boston Pride,stats#/player/431621,431621,420364,,,,,,,2022
-4,Emily Janiga,F,1,0,1,0,0,3,0,1,2,14 - 16,0.467,0,0,4,1,14,16,Metropolitan Riveters,stats#/player/644549,644549,420364,,,,,,,2022
-14,Madison Packer,F,0,1,1,0,0,4,0,2,2,0 - 0,0,0,0,4,0,0,0,Metropolitan Riveters,stats#/player/966106,966106,420364,,,,,,,2022
-18,Rebecca Russo,F,0,1,1,0,1,6,0,0,2,0 - 0,0,0,0,9,3,0,0,Metropolitan Riveters,stats#/player/644558,644558,420364,,,,,,,2022
-3,Theresa Knutson,F,0,0,0,0,0,6,1,1,1,0 - 0,0,0,0,6,0,0,0,Metropolitan Riveters,stats#/player/644548,644548,420364,,,,,,,2022
-5,Leila Kilduff,D,0,0,0,2,0,0,0,2,1,0 - 0,0,0,0,0,0,0,0,Metropolitan Riveters,stats#/player/456621,456621,420364,,,,,,,2022
-6,Nora Maclaine,F,0,0,0,0,0,0,1,0,1,7 - 7,0.5,0,0,0,0,7,7,Metropolitan Riveters,stats#/player/828793,828793,420364,,,,,,,2022
-7,Rachael Ade,D,0,0,0,0,0,0,0,2,0,0 - 0,0,0,0,1,1,0,0,Metropolitan Riveters,stats#/player/728501,728501,420364,,,,,,,2022
-8,Kelly Babstock,F,0,0,0,0,0,3,1,3,2,0 - 0,0,0,0,3,0,0,0,Metropolitan Riveters,stats#/player/699761,699761,420364,,,,,,,2022
-10,Kendall Cornine,F,0,0,0,4,0,5,0,2,0,13 - 10,0.565,0,0,6,1,13,10,Metropolitan Riveters,stats#/player/431650,431650,420364,,,,,,,2022
-16,Brooke Avery,F,0,0,0,2,0,0,0,1,0,0 - 0,0,0,0,0,0,0,0,Metropolitan Riveters,stats#/player/431648,431648,420364,,,,,,,2022
-19,Romana Kosecka,F,0,0,0,0,0,0,0,0,0,0 - 0,0,0,0,0,0,0,0,Metropolitan Riveters,stats#/player/980281,980281,420364,,,,,,,2022
-20,Mallory Rushton,F,0,0,0,0,0,0,1,0,1,0 - 0,0,0,0,0,0,0,0,Metropolitan Riveters,stats#/player/431656,431656,420364,,,,,,,2022
-21,Haley Frade,F,0,0,0,0,0,4,0,0,3,0 - 0,0,0,0,4,0,0,0,Metropolitan Riveters,stats#/player/529481,529481,420364,,,,,,,2022
-24,Kristen Barbara,D,0,0,0,0,0,2,2,0,0,0 - 0,0,0,0,3,1,0,0,Metropolitan Riveters,stats#/player/542417,542417,420364,,,,,,,2022
-25,Rose Alleva,D,0,0,0,0,0,0,0,1,0,0 - 0,0,0,0,0,0,0,0,Metropolitan Riveters,stats#/player/456613,456613,420364,,,,,,,2022
-55,Lenka Curmova,D,0,0,0,0,0,1,0,2,0,0 - 0,0,0,0,1,0,0,0,Metropolitan Riveters,stats#/player/980280,980280,420364,,,,,,,2022
-77,Colleen Murphy,D,0,0,0,0,0,1,0,0,0,0 - 0,0,0,0,1,0,0,0,Metropolitan Riveters,stats#/player/967617,967617,420364,,,,,,,2022
-35,Lovisa Selander,G,0,0,,0,,,,,,,,,,,,,,Boston Pride,,431620,420364,00:00,0,0,0,0,stats#/player/431620,2022
-88,Katie Burt,G,0,0,,0,,,,,,,,,,,,,,Boston Pride,,455202,420364,60:00,35,1,34,0.971,stats#/player/455202,2022
-1,Brooke Wolejko,G,0,0,,0,,,,,,,,,,,,,,Metropolitan Riveters,,456412,420364,59:32,34,2,32,0.941,stats#/player/456412,2022
-29,Sonjia Shelly,G,0,0,,0,,,,,,,,,,,,,,Metropolitan Riveters,,456411,420364,00:00,0,0,0,0,stats#/player/456411,2022
+18,Taylor Wenczkowski,F,1,1,2,2,0,6,0,0,0,7 - 10,0.412,0,0,6,0,7,10,Boston Pride,stats#/player/627747,627747,420370,,,,,,,2022
+7,Meghan Rickard,F,1,0,1,0,0,3,0,0,0,0 - 0,0,0,0,3,0,0,0,Boston Pride,stats#/player/1027138,1027138,420370,,,,,,,2022
+8,Amanda Boulier,D,0,1,1,2,2,4,1,3,0,0 - 0,0,0,0,4,0,0,0,Boston Pride,stats#/player/431662,431662,420370,,,,,,,2022
+9,Tori Sullivan,F,1,0,1,0,1,2,0,1,0,0 - 0,0,0,0,2,0,0,0,Boston Pride,stats#/player/431622,431622,420370,,,,,,,2022
+13,Kaleigh Fratkin,D,0,1,1,2,-1,5,1,1,3,0 - 0,0,0,0,7,2,0,0,Boston Pride,stats#/player/57735,57735,420370,,,,,,,2022
+19,Sammy Davis,F,0,1,1,2,1,3,0,1,1,1 - 1,0.5,0,0,3,0,1,1,Boston Pride,stats#/player/627751,627751,420370,,,,,,,2022
+42,Meghara McManus,F,0,1,1,2,1,0,0,0,0,10 - 7,0.588,0,0,1,1,10,7,Boston Pride,stats#/player/627750,627750,420370,,,,,,,2022
+47,Mallory Souliotis,D,0,1,1,0,1,0,0,0,0,0 - 0,0,0,0,1,1,0,0,Boston Pride,stats#/player/431621,431621,420370,,,,,,,2022
+4,Lauren Kelly,D,0,0,0,0,0,2,0,3,1,0 - 0,0,0,0,2,0,0,0,Boston Pride,stats#/player/431612,431612,420370,,,,,,,2022
+6,Kali Flanagan,D,0,0,0,0,0,5,1,1,0,0 - 0,0,0,0,5,0,0,0,Boston Pride,stats#/player/1034117,1034117,420370,,,,,,,2022
+12,Jenna Rheault,D,0,0,0,0,0,3,1,0,0,0 - 0,0,0,0,3,0,0,0,Boston Pride,stats#/player/431619,431619,420370,,,,,,,2022
+14,Jillian Dempsey,F,0,0,0,0,-2,0,0,0,0,18 - 15,0.546,0,0,1,1,18,15,Boston Pride,stats#/player/58116,58116,420370,,,,,,,2022
+17,McKenna Brand,F,0,0,0,0,0,3,1,2,0,2 - 0,1,0,0,4,1,2,0,Boston Pride,stats#/player/431610,431610,420370,,,,,,,2022
+20,Paige Capistran,D,0,0,0,0,0,0,0,0,0,0 - 0,0,0,0,0,0,0,0,Boston Pride,stats#/player/627748,627748,420370,,,,,,,2022
+21,Christina Putigna,F,0,0,0,2,0,4,0,1,1,0 - 0,0,0,0,5,1,0,0,Boston Pride,stats#/player/431616,431616,420370,,,,,,,2022
+23,Kateylnn Russ,F,0,0,0,0,0,1,0,0,0,0 - 0,0,0,0,1,0,0,0,Boston Pride,stats#/player/856786,856786,420370,,,,,,,2022
+29,Kayla Friesen,F,0,0,0,0,0,0,0,0,0,0 - 0,0,0,0,0,0,0,0,Boston Pride,stats#/player/856779,856779,420370,,,,,,,2022
+3,Theresa Knutson,F,1,1,2,0,2,2,0,0,0,0 - 0,0,0,0,2,0,0,0,Metropolitan Riveters,stats#/player/644548,644548,420370,,,,,,,2022
+8,Kelly Babstock,F,0,2,2,0,3,3,1,1,0,0 - 0,0,0,0,3,0,0,0,Metropolitan Riveters,stats#/player/699761,699761,420370,,,,,,,2022
+10,Kendall Cornine,F,2,0,2,4,3,9,0,2,1,15 - 12,0.556,0,0,10,1,15,12,Metropolitan Riveters,stats#/player/431650,431650,420370,,,,,,,2022
+4,Emily Janiga,F,1,0,1,0,1,3,2,4,0,13 - 18,0.419,0,0,3,0,13,18,Metropolitan Riveters,stats#/player/644549,644549,420370,,,,,,,2022
+7,Rachael Ade,D,0,1,1,0,2,0,1,0,0,0 - 0,0,0,0,0,0,0,0,Metropolitan Riveters,stats#/player/728501,728501,420370,,,,,,,2022
+18,Rebecca Russo,F,0,1,1,0,1,4,0,0,0,0 - 0,0,0,0,4,0,0,0,Metropolitan Riveters,stats#/player/644558,644558,420370,,,,,,,2022
+5,Leila Kilduff,D,0,0,0,0,0,1,0,0,0,0 - 0,0,0,0,1,0,0,0,Metropolitan Riveters,stats#/player/456621,456621,420370,,,,,,,2022
+6,Nora Maclaine,F,0,0,0,2,0,1,0,0,0,5 - 7,0.417,0,0,1,0,5,7,Metropolitan Riveters,stats#/player/828793,828793,420370,,,,,,,2022
+14,Madison Packer,F,0,0,0,0,0,3,0,6,1,0 - 1,0,0,0,3,0,0,1,Metropolitan Riveters,stats#/player/966106,966106,420370,,,,,,,2022
+16,Brooke Avery,F,0,0,0,0,0,2,0,1,1,0 - 0,0,0,0,3,1,0,0,Metropolitan Riveters,stats#/player/431648,431648,420370,,,,,,,2022
+19,Romana Kosecka,F,0,0,0,0,0,0,0,0,0,0 - 0,0,0,0,0,0,0,0,Metropolitan Riveters,stats#/player/980281,980281,420370,,,,,,,2022
+20,Mallory Rushton,F,0,0,0,0,0,1,0,0,0,0 - 0,0,0,0,1,0,0,0,Metropolitan Riveters,stats#/player/431656,431656,420370,,,,,,,2022
+21,Haley Frade,F,0,0,0,2,0,0,0,0,2,0 - 0,0,0,0,0,0,0,0,Metropolitan Riveters,stats#/player/529481,529481,420370,,,,,,,2022
+24,Kristen Barbara,D,0,0,0,2,0,3,2,1,0,0 - 0,0,0,0,3,0,0,0,Metropolitan Riveters,stats#/player/542417,542417,420370,,,,,,,2022
+25,Rose Alleva,D,0,0,0,0,0,0,1,0,0,0 - 0,0,0,0,0,0,0,0,Metropolitan Riveters,stats#/player/456613,456613,420370,,,,,,,2022
+55,Lenka Curmova,D,0,0,0,0,0,1,0,0,0,0 - 0,0,0,0,3,2,0,0,Metropolitan Riveters,stats#/player/980280,980280,420370,,,,,,,2022
+77,Colleen Murphy,D,0,0,0,2,2,1,1,1,1,0 - 0,0,0,0,2,1,0,0,Metropolitan Riveters,stats#/player/967617,967617,420370,,,,,,,2022
+33,Victoria Hanson,G,0,0,,0,,,,,,,,,,,,,,Boston Pride,,431611,420370,40:00,18,1,17,0.944,stats#/player/431611,2022
+35,Lovisa Selander,G,0,0,,0,,,,,,,,,,,,,,Boston Pride,,431620,420370,20:00,16,3,13,0.813,stats#/player/431620,2022
+1,Brooke Wolejko,G,0,0,,0,,,,,,,,,,,,,,Metropolitan Riveters,,456412,420370,60:00,41,3,38,0.927,stats#/player/456412,2022
+29,Sonjia Shelly,G,0,0,,0,,,,,,,,,,,,,,Metropolitan Riveters,,456411,420370,00:00,0,0,0,0,stats#/player/456411,2022
 17,Cassidy MacPherson,F,0,1,1,0,0,3,0,0,1,10 - 9,0.526,0,0,3,0,10,9,Buffalo Beauts,stats#/player/431630,431630,420367,,,,,,,2022
 34,Claudia Kepler,F,1,0,1,0,0,2,0,1,0,0 - 2,0,0,0,2,0,0,2,Buffalo Beauts,stats#/player/1020524,1020524,420367,,,,,,,2022
 2,Samantha Fieseler,D,0,0,0,0,0,0,1,0,0,0 - 0,0,0,0,1,1,0,0,Buffalo Beauts,stats#/player/814845,814845,420367,,,,,,,2022
@@ -1371,6 +1334,43 @@ player_jersey,player_name,position,goals,assists,points,penalty_minutes,plus_min
 70,Carly Jackson,G,0,0,,0,,,,,,,,,,,,,,Buffalo Beauts,,1034319,420367,58:03,29,2,27,0.931,stats#/player/1034319,2022
 88,Lovisa Berndtsson,G,0,0,,0,,,,,,,,,,,,,,Buffalo Beauts,,824067,420367,00:00,0,0,0,0,stats#/player/824067,2022
 29,Amanda Leveille,G,0,0,,0,,,,,,,,,,,,,,Minnesota Whitecaps,,967811,420367,60:00,37,1,36,0.973,stats#/player/967811,2022
+14,Jillian Dempsey,F,2,0,2,0,2,6,0,0,2,10 - 13,0.435,0,2,6,0,10,13,Boston Pride,stats#/player/58116,58116,420364,,,,,,,2022
+17,McKenna Brand,F,0,2,2,0,2,2,0,2,0,0 - 0,0,0,0,2,0,0,0,Boston Pride,stats#/player/431610,431610,420364,,,,,,,2022
+13,Kaleigh Fratkin,D,1,0,1,0,2,4,3,0,3,0 - 0,0,0,1,5,1,0,0,Boston Pride,stats#/player/57735,57735,420364,,,,,,,2022
+42,Meghara McManus,F,0,1,1,0,0,1,0,0,1,6 - 5,0.546,0,0,2,1,6,5,Boston Pride,stats#/player/627750,627750,420364,,,,,,,2022
+2,Meghan Rickard,F,0,0,0,0,0,3,0,0,0,0 - 0,0,0,0,3,0,0,0,Boston Pride,stats#/player/1027138,1027138,420364,,,,,,,2022
+4,Lauren Kelly,D,0,0,0,0,0,0,0,0,2,0 - 0,0,0,0,0,0,0,0,Boston Pride,stats#/player/431612,431612,420364,,,,,,,2022
+6,Kali Flanagan,D,0,0,0,0,0,1,0,3,1,0 - 0,0,0,0,1,0,0,0,Boston Pride,stats#/player/1034117,1034117,420364,,,,,,,2022
+8,Amanda Boulier,D,0,0,0,0,0,5,2,0,0,0 - 0,0,0,0,5,0,0,0,Boston Pride,stats#/player/431662,431662,420364,,,,,,,2022
+9,Tori Sullivan,F,0,0,0,0,0,0,0,0,1,0 - 0,0,0,0,0,0,0,0,Boston Pride,stats#/player/431622,431622,420364,,,,,,,2022
+12,Jenna Rheault,D,0,0,0,0,0,0,0,1,1,0 - 0,0,0,0,1,1,0,0,Boston Pride,stats#/player/431619,431619,420364,,,,,,,2022
+18,Taylor Wenczkowski,F,0,0,0,0,0,4,0,1,3,17 - 15,0.531,0,0,4,0,17,15,Boston Pride,stats#/player/627747,627747,420364,,,,,,,2022
+19,Sammy Davis,F,0,0,0,0,0,2,0,4,0,0 - 1,0,0,0,4,2,0,1,Boston Pride,stats#/player/627751,627751,420364,,,,,,,2022
+20,Paige Capistran,D,0,0,0,0,0,0,0,0,2,0 - 0,0,0,0,0,0,0,0,Boston Pride,stats#/player/627748,627748,420364,,,,,,,2022
+21,Christina Putigna,F,0,0,0,2,0,5,0,2,0,0 - 0,0,0,0,6,1,0,0,Boston Pride,stats#/player/431616,431616,420364,,,,,,,2022
+23,Kateylnn Russ,F,0,0,0,0,0,2,0,0,0,0 - 0,0,0,0,2,0,0,0,Boston Pride,stats#/player/856786,856786,420364,,,,,,,2022
+47,Mallory Souliotis,D,0,0,0,2,0,0,2,2,1,0 - 0,0,0,0,0,0,0,0,Boston Pride,stats#/player/431621,431621,420364,,,,,,,2022
+4,Emily Janiga,F,1,0,1,0,0,3,0,1,2,14 - 16,0.467,0,0,4,1,14,16,Metropolitan Riveters,stats#/player/644549,644549,420364,,,,,,,2022
+14,Madison Packer,F,0,1,1,0,0,4,0,2,2,0 - 0,0,0,0,4,0,0,0,Metropolitan Riveters,stats#/player/966106,966106,420364,,,,,,,2022
+18,Rebecca Russo,F,0,1,1,0,1,6,0,0,2,0 - 0,0,0,0,9,3,0,0,Metropolitan Riveters,stats#/player/644558,644558,420364,,,,,,,2022
+3,Theresa Knutson,F,0,0,0,0,0,6,1,1,1,0 - 0,0,0,0,6,0,0,0,Metropolitan Riveters,stats#/player/644548,644548,420364,,,,,,,2022
+5,Leila Kilduff,D,0,0,0,2,0,0,0,2,1,0 - 0,0,0,0,0,0,0,0,Metropolitan Riveters,stats#/player/456621,456621,420364,,,,,,,2022
+6,Nora Maclaine,F,0,0,0,0,0,0,1,0,1,7 - 7,0.5,0,0,0,0,7,7,Metropolitan Riveters,stats#/player/828793,828793,420364,,,,,,,2022
+7,Rachael Ade,D,0,0,0,0,0,0,0,2,0,0 - 0,0,0,0,1,1,0,0,Metropolitan Riveters,stats#/player/728501,728501,420364,,,,,,,2022
+8,Kelly Babstock,F,0,0,0,0,0,3,1,3,2,0 - 0,0,0,0,3,0,0,0,Metropolitan Riveters,stats#/player/699761,699761,420364,,,,,,,2022
+10,Kendall Cornine,F,0,0,0,4,0,5,0,2,0,13 - 10,0.565,0,0,6,1,13,10,Metropolitan Riveters,stats#/player/431650,431650,420364,,,,,,,2022
+16,Brooke Avery,F,0,0,0,2,0,0,0,1,0,0 - 0,0,0,0,0,0,0,0,Metropolitan Riveters,stats#/player/431648,431648,420364,,,,,,,2022
+19,Romana Kosecka,F,0,0,0,0,0,0,0,0,0,0 - 0,0,0,0,0,0,0,0,Metropolitan Riveters,stats#/player/980281,980281,420364,,,,,,,2022
+20,Mallory Rushton,F,0,0,0,0,0,0,1,0,1,0 - 0,0,0,0,0,0,0,0,Metropolitan Riveters,stats#/player/431656,431656,420364,,,,,,,2022
+21,Haley Frade,F,0,0,0,0,0,4,0,0,3,0 - 0,0,0,0,4,0,0,0,Metropolitan Riveters,stats#/player/529481,529481,420364,,,,,,,2022
+24,Kristen Barbara,D,0,0,0,0,0,2,2,0,0,0 - 0,0,0,0,3,1,0,0,Metropolitan Riveters,stats#/player/542417,542417,420364,,,,,,,2022
+25,Rose Alleva,D,0,0,0,0,0,0,0,1,0,0 - 0,0,0,0,0,0,0,0,Metropolitan Riveters,stats#/player/456613,456613,420364,,,,,,,2022
+55,Lenka Curmova,D,0,0,0,0,0,1,0,2,0,0 - 0,0,0,0,1,0,0,0,Metropolitan Riveters,stats#/player/980280,980280,420364,,,,,,,2022
+77,Colleen Murphy,D,0,0,0,0,0,1,0,0,0,0 - 0,0,0,0,1,0,0,0,Metropolitan Riveters,stats#/player/967617,967617,420364,,,,,,,2022
+35,Lovisa Selander,G,0,0,,0,,,,,,,,,,,,,,Boston Pride,,431620,420364,00:00,0,0,0,0,stats#/player/431620,2022
+88,Katie Burt,G,0,0,,0,,,,,,,,,,,,,,Boston Pride,,455202,420364,60:00,35,1,34,0.971,stats#/player/455202,2022
+1,Brooke Wolejko,G,0,0,,0,,,,,,,,,,,,,,Metropolitan Riveters,,456412,420364,59:32,34,2,32,0.941,stats#/player/456412,2022
+29,Sonjia Shelly,G,0,0,,0,,,,,,,,,,,,,,Metropolitan Riveters,,456411,420364,00:00,0,0,0,0,stats#/player/456411,2022
 5,Tori Howran,D,0,1,1,0,1,2,1,1,0,0 - 0,0,0,0,2,0,0,0,Connecticut Whale,stats#/player/1034126,1034126,420405,,,,,,,2022
 11,Emily Fluke,F,0,1,1,0,1,1,1,0,0,0 - 0,0,0,0,1,0,0,0,Connecticut Whale,stats#/player/455143,455143,420405,,,,,,,2022
 13,Cailey Hutchison,F,0,1,1,2,1,3,0,0,0,3 - 5,0.375,0,0,5,2,3,5,Connecticut Whale,stats#/player/431652,431652,420405,,,,,,,2022
@@ -1749,6 +1749,43 @@ player_jersey,player_name,position,goals,assists,points,penalty_minutes,plus_min
 34,Samantha Ridgewell,G,0,0,,0,,,,,,,,,,,,,,Toronto Six,,543985,420348,00:00,0,0,0,0,stats#/player/543985,2022
 1,Brooke Wolejko,G,0,0,,0,,,,,,,,,,,,,,Metropolitan Riveters,,456412,420348,60:00,34,2,32,0.941,stats#/player/456412,2022
 29,Sonjia Shelly,G,0,0,,0,,,,,,,,,,,,,,Metropolitan Riveters,,456411,420348,00:00,0,0,0,0,stats#/player/456411,2022
+8,Amanda Boulier,D,0,3,3,0,3,2,0,0,0,0 - 0,0,0,0,4,2,0,0,Boston Pride,stats#/player/431662,431662,420349,,,,,,,2022
+14,Jillian Dempsey,F,2,1,3,0,4,2,0,0,0,6 - 7,0.462,0,0,3,1,6,7,Boston Pride,stats#/player/58116,58116,420349,,,,,,,2022
+6,Kali Flanagan,D,0,2,2,0,2,2,0,0,0,0 - 0,0,0,0,3,1,0,0,Boston Pride,stats#/player/1034117,1034117,420349,,,,,,,2022
+9,Tori Sullivan,F,0,2,2,0,3,2,0,0,0,0 - 0,0,0,0,3,1,0,0,Boston Pride,stats#/player/431622,431622,420349,,,,,,,2022
+12,Jenna Rheault,D,1,1,2,2,2,2,0,1,0,1 - 1,0.5,0,0,2,0,1,1,Boston Pride,stats#/player/431619,431619,420349,,,,,,,2022
+19,Sammy Davis,F,2,0,2,2,3,7,0,0,0,0 - 0,0,0,0,7,0,0,0,Boston Pride,stats#/player/627751,627751,420349,,,,,,,2022
+42,Meghara McManus,F,1,1,2,0,3,2,0,0,0,0 - 0,0,0,0,2,0,0,0,Boston Pride,stats#/player/627750,627750,420349,,,,,,,2022
+13,Kaleigh Fratkin,D,0,1,1,0,1,3,1,1,0,0 - 0,0,0,0,3,0,0,0,Boston Pride,stats#/player/57735,57735,420349,,,,,,,2022
+17,McKenna Brand,F,0,1,1,0,1,6,0,0,0,0 - 0,0,0,0,6,0,0,0,Boston Pride,stats#/player/431610,431610,420349,,,,,,,2022
+18,Taylor Wenczkowski,F,1,0,1,0,0,2,0,0,0,10 - 14,0.417,1,0,3,1,10,14,Boston Pride,stats#/player/627747,627747,420349,,,,,,,2022
+21,Christina Putigna,F,1,0,1,0,3,6,0,1,0,1 - 0,1,0,0,6,0,1,0,Boston Pride,stats#/player/431616,431616,420349,,,,,,,2022
+23,Kateylnn Russ,F,0,1,1,0,1,3,0,1,0,0 - 0,0,0,0,3,0,0,0,Boston Pride,stats#/player/856786,856786,420349,,,,,,,2022
+4,Lauren Kelly,D,0,0,0,2,0,0,1,0,0,0 - 0,0,0,0,0,0,0,0,Boston Pride,stats#/player/431612,431612,420349,,,,,,,2022
+11,Evelina Raselli,F,0,0,0,0,1,1,0,1,0,8 - 7,0.533,0,0,1,0,8,7,Boston Pride,stats#/player/967842,967842,420349,,,,,,,2022
+20,Paige Capistran,D,0,0,0,0,0,1,0,2,0,0 - 0,0,0,0,1,0,0,0,Boston Pride,stats#/player/627748,627748,420349,,,,,,,2022
+47,Mallory Souliotis,D,0,0,0,0,0,0,0,0,0,0 - 0,0,0,0,1,1,0,0,Boston Pride,stats#/player/431621,431621,420349,,,,,,,2022
+7,Maegan Beres,F,0,1,1,0,-2,2,0,0,0,0 - 0,0,0,0,2,0,0,0,Toronto Six,stats#/player/881571,881571,420349,,,,,,,2022
+12,Leah Marino,F,0,1,1,0,-1,1,0,2,0,6 - 6,0.5,0,0,1,0,6,6,Toronto Six,stats#/player/879728,879728,420349,,,,,,,2022
+19,Brooke Boquist,F,0,1,1,0,1,3,0,0,0,7 - 5,0.583,0,0,3,0,7,5,Toronto Six,stats#/player/543984,543984,420349,,,,,,,2022
+28,Taylor Day,F,1,0,1,0,0,5,0,1,0,0 - 0,0,0,0,5,0,0,0,Toronto Six,stats#/player/963607,963607,420349,,,,,,,2022
+44,Lindsay Eastwood,D,1,0,1,0,0,1,0,2,0,0 - 0,0,1,0,1,0,0,0,Toronto Six,stats#/player/630139,630139,420349,,,,,,,2022
+71,Saroya Tinker,D,0,1,1,0,-2,2,1,3,0,0 - 0,0,0,0,2,0,0,0,Toronto Six,stats#/player/879727,879727,420349,,,,,,,2022
+2,Taylor Woods,D,0,0,0,2,0,1,0,2,0,0 - 0,0,0,0,1,0,0,0,Toronto Six,stats#/player/542421,542421,420349,,,,,,,2022
+6,Sarah Steele,D,0,0,0,0,0,0,0,0,0,0 - 0,0,0,0,0,0,0,0,Toronto Six,stats#/player/630147,630147,420349,,,,,,,2022
+13,Mikyla Grant-Mentis,F,0,0,0,2,0,3,0,1,0,8 - 11,0.421,0,0,5,2,8,11,Toronto Six,stats#/player/532475,532475,420349,,,,,,,2022
+20,Taylor Davison,D,0,0,0,4,0,2,0,0,0,0 - 0,0,0,0,2,0,0,0,Toronto Six,stats#/player/881569,881569,420349,,,,,,,2022
+21,Amy Curlew,F,0,0,0,0,0,2,1,0,0,0 - 0,0,0,0,2,0,0,0,Toronto Six,stats#/player/543987,543987,420349,,,,,,,2022
+25,Stephanie Sucharda,D,0,0,0,0,0,0,0,0,0,0 - 0,0,0,0,0,0,0,0,Toronto Six,stats#/player/963635,963635,420349,,,,,,,2022
+26,Cristine Chao,D,0,0,0,0,0,0,0,0,0,0 - 0,0,0,0,1,1,0,0,Toronto Six,stats#/player/963625,963625,420349,,,,,,,2022
+27,Shiann Darkangelo,F,0,0,0,0,0,5,0,0,0,5 - 0,1,0,0,7,2,5,0,Toronto Six,stats#/player/542419,542419,420349,,,,,,,2022
+67,Emma Woods,F,0,0,0,0,0,4,0,0,0,1 - 3,0.25,0,0,4,0,1,3,Toronto Six,stats#/player/630149,630149,420349,,,,,,,2022
+86,Michela Cava,F,0,0,0,0,0,7,0,2,0,2 - 1,0.667,0,0,7,0,2,1,Toronto Six,stats#/player/963636,963636,420349,,,,,,,2022
+92,Tori Charron,F,0,0,0,0,0,0,0,0,0,0 - 0,0,0,0,0,0,0,0,Toronto Six,stats#/player/963626,963626,420349,,,,,,,2022
+33,Victoria Hanson,G,0,0,,0,,,,,,,,,,,,,,Boston Pride,,431611,420349,00:00,0,0,0,0,stats#/player/431611,2022
+88,Katie Burt,G,0,0,,0,,,,,,,,,,,,,,Boston Pride,,455202,420349,60:00,38,2,36,0.947,stats#/player/455202,2022
+31,Tera Hofmann,G,0,0,,0,,,,,,,,,,,,,,Toronto Six,,881597,420349,25:59,20,3,17,0.85,stats#/player/881597,2022
+34,Samantha Ridgewell,G,0,0,,0,,,,,,,,,,,,,,Toronto Six,,543985,420349,34:01,21,5,16,0.762,stats#/player/543985,2022
 17,Taylor Girard,F,3,0,3,0,2,5,0,1,0,0 - 0,0,0,0,5,0,0,0,Connecticut Whale,stats#/player/966983,966983,420345,,,,,,,2022
 5,Tori Howran,D,0,2,2,0,1,0,0,1,0,0 - 0,0,0,0,0,0,0,0,Connecticut Whale,stats#/player/1034126,1034126,420345,,,,,,,2022
 22,Kennedy Marchment,F,0,2,2,0,2,4,0,0,2,9 - 11,0.45,0,0,4,0,9,11,Connecticut Whale,stats#/player/966985,966985,420345,,,,,,,2022
@@ -1787,43 +1824,6 @@ player_jersey,player_name,position,goals,assists,points,penalty_minutes,plus_min
 35,Abbie Ives,G,0,0,,0,,,,,,,,,,,,,,Connecticut Whale,,707072,420345,60:00,22,2,20,0.909,stats#/player/707072,2022
 55,Mariah Fujimagari,G,0,0,,0,,,,,,,,,,,,,,Connecticut Whale,,728502,420345,00:00,0,0,0,0,stats#/player/728502,2022
 29,Amanda Leveille,G,0,0,,0,,,,,,,,,,,,,,Minnesota Whitecaps,,967811,420345,59:49,31,3,28,0.903,stats#/player/967811,2022
-8,Amanda Boulier,D,0,3,3,0,3,2,0,0,0,0 - 0,0,0,0,4,2,0,0,Boston Pride,stats#/player/431662,431662,420349,,,,,,,2022
-14,Jillian Dempsey,F,2,1,3,0,4,2,0,0,0,6 - 7,0.462,0,0,3,1,6,7,Boston Pride,stats#/player/58116,58116,420349,,,,,,,2022
-6,Kali Flanagan,D,0,2,2,0,2,2,0,0,0,0 - 0,0,0,0,3,1,0,0,Boston Pride,stats#/player/1034117,1034117,420349,,,,,,,2022
-9,Tori Sullivan,F,0,2,2,0,3,2,0,0,0,0 - 0,0,0,0,3,1,0,0,Boston Pride,stats#/player/431622,431622,420349,,,,,,,2022
-12,Jenna Rheault,D,1,1,2,2,2,2,0,1,0,1 - 1,0.5,0,0,2,0,1,1,Boston Pride,stats#/player/431619,431619,420349,,,,,,,2022
-19,Sammy Davis,F,2,0,2,2,3,7,0,0,0,0 - 0,0,0,0,7,0,0,0,Boston Pride,stats#/player/627751,627751,420349,,,,,,,2022
-42,Meghara McManus,F,1,1,2,0,3,2,0,0,0,0 - 0,0,0,0,2,0,0,0,Boston Pride,stats#/player/627750,627750,420349,,,,,,,2022
-13,Kaleigh Fratkin,D,0,1,1,0,1,3,1,1,0,0 - 0,0,0,0,3,0,0,0,Boston Pride,stats#/player/57735,57735,420349,,,,,,,2022
-17,McKenna Brand,F,0,1,1,0,1,6,0,0,0,0 - 0,0,0,0,6,0,0,0,Boston Pride,stats#/player/431610,431610,420349,,,,,,,2022
-18,Taylor Wenczkowski,F,1,0,1,0,0,2,0,0,0,10 - 14,0.417,1,0,3,1,10,14,Boston Pride,stats#/player/627747,627747,420349,,,,,,,2022
-21,Christina Putigna,F,1,0,1,0,3,6,0,1,0,1 - 0,1,0,0,6,0,1,0,Boston Pride,stats#/player/431616,431616,420349,,,,,,,2022
-23,Kateylnn Russ,F,0,1,1,0,1,3,0,1,0,0 - 0,0,0,0,3,0,0,0,Boston Pride,stats#/player/856786,856786,420349,,,,,,,2022
-4,Lauren Kelly,D,0,0,0,2,0,0,1,0,0,0 - 0,0,0,0,0,0,0,0,Boston Pride,stats#/player/431612,431612,420349,,,,,,,2022
-11,Evelina Raselli,F,0,0,0,0,1,1,0,1,0,8 - 7,0.533,0,0,1,0,8,7,Boston Pride,stats#/player/967842,967842,420349,,,,,,,2022
-20,Paige Capistran,D,0,0,0,0,0,1,0,2,0,0 - 0,0,0,0,1,0,0,0,Boston Pride,stats#/player/627748,627748,420349,,,,,,,2022
-47,Mallory Souliotis,D,0,0,0,0,0,0,0,0,0,0 - 0,0,0,0,1,1,0,0,Boston Pride,stats#/player/431621,431621,420349,,,,,,,2022
-7,Maegan Beres,F,0,1,1,0,-2,2,0,0,0,0 - 0,0,0,0,2,0,0,0,Toronto Six,stats#/player/881571,881571,420349,,,,,,,2022
-12,Leah Marino,F,0,1,1,0,-1,1,0,2,0,6 - 6,0.5,0,0,1,0,6,6,Toronto Six,stats#/player/879728,879728,420349,,,,,,,2022
-19,Brooke Boquist,F,0,1,1,0,1,3,0,0,0,7 - 5,0.583,0,0,3,0,7,5,Toronto Six,stats#/player/543984,543984,420349,,,,,,,2022
-28,Taylor Day,F,1,0,1,0,0,5,0,1,0,0 - 0,0,0,0,5,0,0,0,Toronto Six,stats#/player/963607,963607,420349,,,,,,,2022
-44,Lindsay Eastwood,D,1,0,1,0,0,1,0,2,0,0 - 0,0,1,0,1,0,0,0,Toronto Six,stats#/player/630139,630139,420349,,,,,,,2022
-71,Saroya Tinker,D,0,1,1,0,-2,2,1,3,0,0 - 0,0,0,0,2,0,0,0,Toronto Six,stats#/player/879727,879727,420349,,,,,,,2022
-2,Taylor Woods,D,0,0,0,2,0,1,0,2,0,0 - 0,0,0,0,1,0,0,0,Toronto Six,stats#/player/542421,542421,420349,,,,,,,2022
-6,Sarah Steele,D,0,0,0,0,0,0,0,0,0,0 - 0,0,0,0,0,0,0,0,Toronto Six,stats#/player/630147,630147,420349,,,,,,,2022
-13,Mikyla Grant-Mentis,F,0,0,0,2,0,3,0,1,0,8 - 11,0.421,0,0,5,2,8,11,Toronto Six,stats#/player/532475,532475,420349,,,,,,,2022
-20,Taylor Davison,D,0,0,0,4,0,2,0,0,0,0 - 0,0,0,0,2,0,0,0,Toronto Six,stats#/player/881569,881569,420349,,,,,,,2022
-21,Amy Curlew,F,0,0,0,0,0,2,1,0,0,0 - 0,0,0,0,2,0,0,0,Toronto Six,stats#/player/543987,543987,420349,,,,,,,2022
-25,Stephanie Sucharda,D,0,0,0,0,0,0,0,0,0,0 - 0,0,0,0,0,0,0,0,Toronto Six,stats#/player/963635,963635,420349,,,,,,,2022
-26,Cristine Chao,D,0,0,0,0,0,0,0,0,0,0 - 0,0,0,0,1,1,0,0,Toronto Six,stats#/player/963625,963625,420349,,,,,,,2022
-27,Shiann Darkangelo,F,0,0,0,0,0,5,0,0,0,5 - 0,1,0,0,7,2,5,0,Toronto Six,stats#/player/542419,542419,420349,,,,,,,2022
-67,Emma Woods,F,0,0,0,0,0,4,0,0,0,1 - 3,0.25,0,0,4,0,1,3,Toronto Six,stats#/player/630149,630149,420349,,,,,,,2022
-86,Michela Cava,F,0,0,0,0,0,7,0,2,0,2 - 1,0.667,0,0,7,0,2,1,Toronto Six,stats#/player/963636,963636,420349,,,,,,,2022
-92,Tori Charron,F,0,0,0,0,0,0,0,0,0,0 - 0,0,0,0,0,0,0,0,Toronto Six,stats#/player/963626,963626,420349,,,,,,,2022
-33,Victoria Hanson,G,0,0,,0,,,,,,,,,,,,,,Boston Pride,,431611,420349,00:00,0,0,0,0,stats#/player/431611,2022
-88,Katie Burt,G,0,0,,0,,,,,,,,,,,,,,Boston Pride,,455202,420349,60:00,38,2,36,0.947,stats#/player/455202,2022
-31,Tera Hofmann,G,0,0,,0,,,,,,,,,,,,,,Toronto Six,,881597,420349,25:59,20,3,17,0.85,stats#/player/881597,2022
-34,Samantha Ridgewell,G,0,0,,0,,,,,,,,,,,,,,Toronto Six,,543985,420349,34:01,21,5,16,0.762,stats#/player/543985,2022
 14,Jillian Dempsey,F,1,0,1,0,0,7,1,3,0,8 - 11,0.421,0,0,7,0,8,11,Boston Pride,stats#/player/58116,58116,420344,,,,,,,2022
 17,McKenna Brand,F,0,1,1,0,0,4,0,3,0,3 - 3,0.5,0,0,4,0,3,3,Boston Pride,stats#/player/431610,431610,420344,,,,,,,2022
 4,Lauren Kelly,D,0,0,0,0,0,0,1,0,0,0 - 0,0,0,0,0,0,0,0,Boston Pride,stats#/player/431612,431612,420344,,,,,,,2022
