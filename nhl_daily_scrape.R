@@ -1,22 +1,22 @@
 rm(list = ls())
 gc()
-.libPaths("C:\\Users\\saiem\\AppData\\Local\\R\\win-library\\4.2")
-Sys.setenv(R_LIBS="C:\\Users\\saiem\\AppData\\Local\\R\\win-library\\4.2")
+rm(list = ls())
+gc()
+lib_path <- Sys.getenv("R_LIBS")
 if (!requireNamespace('pacman', quietly = TRUE)){
   install.packages('pacman',lib=Sys.getenv("R_LIBS"), repos='http://cran.us.r-project.org')
 }
-pacman::p_load_current_gh("sportsdataverse/fastRhockey")
-suppressPackageStartupMessages(suppressMessages(library(dplyr, lib.loc="C:\\Users\\saiem\\AppData\\Local\\R\\win-library\\4.2")))
-suppressPackageStartupMessages(suppressMessages(library(magrittr, lib.loc="C:\\Users\\saiem\\AppData\\Local\\R\\win-library\\4.2")))
-suppressPackageStartupMessages(suppressMessages(library(jsonlite, lib.loc="C:\\Users\\saiem\\AppData\\Local\\R\\win-library\\4.2")))
-suppressPackageStartupMessages(suppressMessages(library(purrr, lib.loc="C:\\Users\\saiem\\AppData\\Local\\R\\win-library\\4.2")))
-suppressPackageStartupMessages(suppressMessages(library(progressr, lib.loc="C:\\Users\\saiem\\AppData\\Local\\R\\win-library\\4.2")))
-suppressPackageStartupMessages(suppressMessages(library(data.table, lib.loc="C:\\Users\\saiem\\AppData\\Local\\R\\win-library\\4.2")))
-suppressPackageStartupMessages(suppressMessages(library(qs, lib.loc="C:\\Users\\saiem\\AppData\\Local\\R\\win-library\\4.2")))
-suppressPackageStartupMessages(suppressMessages(library(arrow, lib.loc="C:\\Users\\saiem\\AppData\\Local\\R\\win-library\\4.2")))
-suppressPackageStartupMessages(suppressMessages(library(glue, lib.loc="C:\\Users\\saiem\\AppData\\Local\\R\\win-library\\4.2")))
-suppressPackageStartupMessages(suppressMessages(library(fastRhockey, lib.loc="C:\\Users\\saiem\\AppData\\Local\\R\\win-library\\4.2")))
-
+suppressPackageStartupMessages(suppressMessages(library(dplyr, lib.loc=lib_path)))
+suppressPackageStartupMessages(suppressMessages(library(magrittr, lib.loc=lib_path)))
+suppressPackageStartupMessages(suppressMessages(library(jsonlite, lib.loc=lib_path)))
+suppressPackageStartupMessages(suppressMessages(library(purrr, lib.loc=lib_path)))
+suppressPackageStartupMessages(suppressMessages(library(progressr, lib.loc=lib_path)))
+suppressPackageStartupMessages(suppressMessages(library(data.table, lib.loc=lib_path)))
+suppressPackageStartupMessages(suppressMessages(library(qs, lib.loc=lib_path)))
+suppressPackageStartupMessages(suppressMessages(library(arrow, lib.loc=lib_path)))
+suppressPackageStartupMessages(suppressMessages(library(glue, lib.loc=lib_path)))
+suppressPackageStartupMessages(suppressMessages(library(optparse, lib.loc=lib_path)))
+suppressPackageStartupMessages(suppressMessages(library(fastRhockey, lib.loc=lib_path)))
 
 # Play-by-Play Data Pull --------------------------------------------------
 season_vector <- fastRhockey::most_recent_nhl_season()
@@ -26,10 +26,10 @@ version = packageVersion("fastRhockey")
 ### 1a) scrape season schedule
 ### 1b) save to disk
 season_schedules <- purrr::map_dfr(season_vector, function(x){
-  
+
   cli::cli_process_start("Starting scrape of {x} NHL season schedule...")
-  sched <- fastRhockey::nhl_schedule(season=x) %>% 
-    dplyr::tibble() %>% 
+  sched <- fastRhockey::nhl_schedule(season=x) %>%
+    dplyr::tibble() %>%
     dplyr::mutate(season=x)
   ifelse(!dir.exists(file.path("nhl/schedules")), dir.create(file.path("nhl/schedules")), FALSE)
   ifelse(!dir.exists(file.path("nhl/schedules/csv")), dir.create(file.path("nhl/schedules/csv")), FALSE)
@@ -42,7 +42,7 @@ season_schedules <- purrr::map_dfr(season_vector, function(x){
   qs::qsave(sched,glue::glue('nhl/schedules/qs/nhl_schedule_{x}.qs'))
   saveRDS(sched, glue::glue('nhl/schedules/rds/nhl_schedule_{x}.rds'))
   arrow::write_parquet(sched, glue::glue('nhl/schedules/parquet/nhl_schedule_{x}.parquet'))
-  
+
   cli::cli_process_done(msg_done = "Finished scrape of {x} NHL season schedule!")
   Sys.sleep(15)
   return(sched)
@@ -54,19 +54,19 @@ season_schedules <- purrr::map_dfr(season_vector, function(x){
 ### 1c) filter schedule to unscraped games
 pbp_list <- as.integer(gsub(".json","",list.files(path = glue::glue('nhl/json/'))))
 
-season_schedules <- season_schedules %>% 
+season_schedules <- season_schedules %>%
   dplyr::filter(.data$status_status_code == 7)
 
 if(rebuild == FALSE){
   pbp_list <- as.integer(gsub(".json","",list.files(path = glue::glue('nhl/json/'))))
-  season_schedules <- season_schedules %>% 
+  season_schedules <- season_schedules %>%
     dplyr::filter(!(.data$game_id %in% pbp_list))
 }
 ### 2a) scrape game json
 ### 2b) save json to disk
 if(rebuild_from_existing_json == FALSE){
   cli::cli_process_start("Starting scrape of {length(season_schedules$game_id)} NHL games...")
-  
+
   future::plan("multisession")
   scrape_games <- furrr::future_map(season_schedules$game_id, function(x){
     game <- fastRhockey::nhl_game_feed(game_id = x)
@@ -77,10 +77,10 @@ if(rebuild_from_existing_json == FALSE){
 
 ### 3a) Build play-by-play dataset
 season_pbp_compile <- purrr::map(season_vector,function(x){
-  
+
   cli::cli_process_start("Starting NHL play-by-play compilation for {x} season...")
   sched <- data.table::fread(paste0("nhl/schedules/csv/nhl_schedule_",x,".csv"))
-  sched <- sched %>% 
+  sched <- sched %>%
     dplyr::filter(.data$status_status_code == 7)
   future::plan("multisession")
   season_pbp <- furrr::future_map_dfr(sched$game_id,function(y){
@@ -96,13 +96,13 @@ season_pbp_compile <- purrr::map(season_vector,function(x){
     season_pbp <- season_pbp %>%
       fastRhockey:::make_fastRhockey_data("NHL Play-by-Play Information from fastRhockey data repository",Sys.time())
     data.table::fwrite(season_pbp, file=paste0("nhl/pbp/csv/play_by_play_",x,".csv.gz"))
-    
+
     ifelse(!dir.exists(file.path("nhl/pbp/qs")), dir.create(file.path("nhl/pbp/qs")), FALSE)
     qs::qsave(season_pbp,glue::glue("nhl/pbp/qs/play_by_play_{x}.qs"))
-    
+
     ifelse(!dir.exists(file.path("nhl/pbp/rds")), dir.create(file.path("nhl/pbp/rds")), FALSE)
     saveRDS(season_pbp,glue::glue("nhl/pbp/rds/play_by_play_{x}.rds"))
-    
+
     ifelse(!dir.exists(file.path("nhl/pbp/parquet")), dir.create(file.path("nhl/pbp/parquet")), FALSE)
     arrow::write_parquet(season_pbp, glue::glue("nhl/pbp/parquet/play_by_play_{x}.parquet"))
   }
@@ -113,14 +113,14 @@ season_pbp_compile <- purrr::map(season_vector,function(x){
   } else {
     sched$PBP <- FALSE
   }
-  
+
   final_sched <- dplyr::distinct(sched) %>% dplyr::arrange(desc(.data$game_date)) %>%
     fastRhockey:::make_fastRhockey_data("NHL Schedule Information from fastRhockey data repository",Sys.time())
   data.table::fwrite(final_sched,paste0("nhl/schedules/csv/nhl_schedule_",x,".csv"))
   qs::qsave(final_sched,glue::glue('nhl/schedules/qs/nhl_schedule_{x}.qs'))
   saveRDS(final_sched, glue::glue('nhl/schedules/rds/nhl_schedule_{x}.rds'))
   arrow::write_parquet(final_sched, glue::glue('nhl/schedules/parquet/nhl_schedule_{x}.parquet'))
-  
+
   cli::cli_process_done(msg_done = "Finished NHL play-by-play compilation for {x} season!")
   rm(sched)
   rm(final_sched)
@@ -131,7 +131,7 @@ season_pbp_compile <- purrr::map(season_vector,function(x){
 season_team_box_compile <- purrr::map(season_vector,function(x){
   cli::cli_process_start("Starting NHL team boxscore compilation for {x} season...")
   sched <- data.table::fread(paste0("nhl/schedules/csv/nhl_schedule_",x,".csv"))
-  sched <- sched %>% 
+  sched <- sched %>%
     dplyr::filter(.data$status_status_code == 7)
   future::plan("multisession")
   season_team_box <- furrr::future_map_dfr(sched$game_id,function(y){
@@ -147,13 +147,13 @@ season_team_box_compile <- purrr::map(season_vector,function(x){
     ifelse(!dir.exists(file.path("nhl/team_box")), dir.create(file.path("nhl/team_box")), FALSE)
     ifelse(!dir.exists(file.path("nhl/team_box/csv")), dir.create(file.path("nhl/team_box/csv")), FALSE)
     data.table::fwrite(season_team_box, file=paste0("nhl/team_box/csv/team_box_",x,".csv.gz"))
-    
+
     ifelse(!dir.exists(file.path("nhl/team_box/qs")), dir.create(file.path("nhl/team_box/qs")), FALSE)
     qs::qsave(season_team_box,glue::glue("nhl/team_box/qs/team_box_{x}.qs"))
-    
+
     ifelse(!dir.exists(file.path("nhl/team_box/rds")), dir.create(file.path("nhl/team_box/rds")), FALSE)
     saveRDS(season_team_box,glue::glue("nhl/team_box/rds/team_box_{x}.rds"))
-    
+
     ifelse(!dir.exists(file.path("nhl/team_box/parquet")), dir.create(file.path("nhl/team_box/parquet")), FALSE)
     arrow::write_parquet(season_team_box, glue::glue("nhl/team_box/parquet/team_box_{x}.parquet"))
   }
@@ -164,14 +164,14 @@ season_team_box_compile <- purrr::map(season_vector,function(x){
   } else {
     sched$team_box <- FALSE
   }
-  
+
   final_sched <- dplyr::distinct(sched) %>% dplyr::arrange(desc(.data$game_date)) %>%
     fastRhockey:::make_fastRhockey_data("NHL Schedule Information from fastRhockey data repository",Sys.time())
   data.table::fwrite(final_sched,paste0("nhl/schedules/csv/nhl_schedule_",x,".csv"))
   qs::qsave(final_sched,glue::glue('nhl/schedules/qs/nhl_schedule_{x}.qs'))
   saveRDS(final_sched, glue::glue('nhl/schedules/rds/nhl_schedule_{x}.rds'))
   arrow::write_parquet(final_sched, glue::glue('nhl/schedules/parquet/nhl_schedule_{x}.parquet'))
-  
+
   cli::cli_process_done(msg_done = "Finished NHL team boxscore compilation for {x} season!")
   rm(sched)
   rm(final_sched)
@@ -182,7 +182,7 @@ season_team_box_compile <- purrr::map(season_vector,function(x){
 season_player_box_compile <- purrr::map(season_vector,function(x){
   cli::cli_process_start("Starting NHL player boxscore compilation for {x} season...")
   sched <- data.table::fread(paste0("nhl/schedules/csv/nhl_schedule_",x,".csv"))
-  sched <- sched %>% 
+  sched <- sched %>%
     dplyr::filter(.data$status_status_code == 7)
   future::plan("multisession")
   season_player_box <- furrr::future_map_dfr(sched$game_id,function(y){
@@ -198,13 +198,13 @@ season_player_box_compile <- purrr::map(season_vector,function(x){
     ifelse(!dir.exists(file.path("nhl/player_box")), dir.create(file.path("nhl/player_box")), FALSE)
     ifelse(!dir.exists(file.path("nhl/player_box/csv")), dir.create(file.path("nhl/player_box/csv")), FALSE)
     data.table::fwrite(season_player_box, file=paste0("nhl/player_box/csv/player_box_",x,".csv.gz"))
-    
+
     ifelse(!dir.exists(file.path("nhl/player_box/qs")), dir.create(file.path("nhl/player_box/qs")), FALSE)
     qs::qsave(season_player_box,glue::glue("nhl/player_box/qs/player_box_{x}.qs"))
-    
+
     ifelse(!dir.exists(file.path("nhl/player_box/rds")), dir.create(file.path("nhl/player_box/rds")), FALSE)
     saveRDS(season_player_box,glue::glue("nhl/player_box/rds/player_box_{x}.rds"))
-    
+
     ifelse(!dir.exists(file.path("nhl/player_box/parquet")), dir.create(file.path("nhl/player_box/parquet")), FALSE)
     arrow::write_parquet(season_player_box, glue::glue("nhl/player_box/parquet/player_box_{x}.parquet"))
   }
@@ -215,7 +215,7 @@ season_player_box_compile <- purrr::map(season_vector,function(x){
   } else {
     sched$player_box <- FALSE
   }
-  
+
   final_sched <- dplyr::distinct(sched) %>% dplyr::arrange(desc(.data$game_date)) %>%
     fastRhockey:::make_fastRhockey_data("NHL Schedule Information from fastRhockey data repository",Sys.time())
   data.table::fwrite(final_sched,paste0("nhl/schedules/csv/nhl_schedule_",x,".csv"))
