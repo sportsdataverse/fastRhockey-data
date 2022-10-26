@@ -151,7 +151,7 @@ season_team_box_compile <- purrr::map(season_vector,function(x){
                   !(.data$game_id %in% c(301699,368721)))
 
   season_team_box <- purrr::map_dfr(sched$game_id,function(y){
-    team_box <- phf_team_box(game_id = y)
+    team_box <- fastRhockey::phf_team_box(game_id = y)
 
     if(!("overtime_shots" %in% colnames(team_box))){
       team_box$overtime_shots <- NA_integer_
@@ -210,7 +210,7 @@ season_player_box_compile <- purrr::map(season_vector,function(x){
                   !(.data$game_id %in% c(301699,368721)))
 
   season_player_box <- purrr::map_dfr(sched$game_id,function(y){
-    player_box <- phf_player_box(game_id = y)
+    player_box <- fastRhockey::phf_player_box(game_id = y)
     skaters <- player_box$skaters %>%
       dplyr::mutate_at(c("position","faceoffs_won_lost"),
                        function(x){as.character(x)}) %>%
