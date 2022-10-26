@@ -1,7 +1,5 @@
 rm(list = ls())
 gc()
-rm(list = ls())
-gc()
 lib_path <- Sys.getenv("R_LIBS")
 if (!requireNamespace('pacman', quietly = TRUE)){
   install.packages('pacman',lib=Sys.getenv("R_LIBS"), repos='http://cran.us.r-project.org')
@@ -16,13 +14,19 @@ suppressPackageStartupMessages(suppressMessages(library(qs, lib.loc=lib_path)))
 suppressPackageStartupMessages(suppressMessages(library(arrow, lib.loc=lib_path)))
 suppressPackageStartupMessages(suppressMessages(library(glue, lib.loc=lib_path)))
 suppressPackageStartupMessages(suppressMessages(library(optparse, lib.loc=lib_path)))
-suppressPackageStartupMessages(suppressMessages(library(fastRhockey, lib.loc=lib_path)))
+option_list = list(
+  make_option(c("-s", "--start_year"), action="store", default=fastRhockey:::most_recent_nhl_season(), type='integer', help="Start year of the seasons to process"),
+  make_option(c("-e", "--end_year"), action="store", default=fastRhockey:::most_recent_nhl_season(), type='integer', help="End year of the seasons to process")
+)
+opt = parse_args(OptionParser(option_list=option_list))
+options(stringsAsFactors = FALSE)
+options(scipen = 999)
+
+season_vector <- opt$s:opt$e
+rebuild <- FALSE
+version = packageVersion("fastRhockey")
 
 # Play-by-Play Data Pull --------------------------------------------------
-season_vector <- fastRhockey::most_recent_nhl_season()
-rebuild <- FALSE
-rebuild_from_existing_json <- FALSE
-version = packageVersion("fastRhockey")
 ### 1a) scrape season schedule
 ### 1b) save to disk
 season_schedules <- purrr::map_dfr(season_vector, function(x){

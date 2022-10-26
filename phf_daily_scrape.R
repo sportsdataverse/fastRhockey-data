@@ -14,14 +14,23 @@ suppressPackageStartupMessages(suppressMessages(library(qs, lib.loc=lib_path)))
 suppressPackageStartupMessages(suppressMessages(library(arrow, lib.loc=lib_path)))
 suppressPackageStartupMessages(suppressMessages(library(glue, lib.loc=lib_path)))
 suppressPackageStartupMessages(suppressMessages(library(optparse, lib.loc=lib_path)))
-suppressPackageStartupMessages(suppressMessages(library(fastRhockey, lib.loc=lib_path)))
-season_vector <- fastRhockey::most_recent_phf_season()
+option_list = list(
+  make_option(c("-s", "--start_year"), action="store", default=fastRhockey:::most_recent_phf_season(), type='integer', help="Start year of the seasons to process"),
+  make_option(c("-e", "--end_year"), action="store", default=fastRhockey:::most_recent_phf_season(), type='integer', help="End year of the seasons to process")
+)
+opt = parse_args(OptionParser(option_list=option_list))
+options(stringsAsFactors = FALSE)
+options(scipen = 999)
+season_vector <- opt$s:opt$e
 rebuild <- FALSE
 version = packageVersion("fastRhockey")
+
+
+# Play-by-Play Data Pull --------------------------------------------------
 sched <- purrr::map_dfr(season_vector, function(x){
                         sched <- fastRhockey::phf_schedule(season=x) %>%
-                          tidyr::unnest(.data$home_team_logo_url,names_sep = "_") %>%
-                          tidyr::unnest(.data$away_team_logo_url,names_sep = "_") %>%
+                          tidyr::unnest("home_team_logo_url",names_sep = "_") %>%
+                          tidyr::unnest("away_team_logo_url",names_sep = "_") %>%
                           dplyr::mutate(season = x)
                         return(sched)
                         })
@@ -30,8 +39,8 @@ sched <- purrr::map_dfr(season_vector, function(x){
 season_schedules <- purrr::map_dfr(season_vector, function(x){
 
   sched <- fastRhockey::phf_schedule(season=x)  %>%
-    tidyr::unnest(.data$home_team_logo_url,names_sep = "_") %>%
-    tidyr::unnest(.data$away_team_logo_url,names_sep = "_") %>%
+    tidyr::unnest("home_team_logo_url",names_sep = "_") %>%
+    tidyr::unnest("away_team_logo_url",names_sep = "_") %>%
     dplyr::mutate(season = x) %>%
     dplyr::tibble()
   ifelse(!dir.exists(file.path("phf/schedules")), dir.create(file.path("phf/schedules")), FALSE)
@@ -126,8 +135,8 @@ season_pbp_compile <- purrr::map(season_vector,function(x){
 
 sched <- purrr::map_dfr(season_vector, function(x){
   sched <- fastRhockey::phf_schedule(season=x) %>%
-    tidyr::unnest(.data$home_team_logo_url,names_sep = "_") %>%
-    tidyr::unnest(.data$away_team_logo_url,names_sep = "_") %>%
+    tidyr::unnest("home_team_logo_url",names_sep = "_") %>%
+    tidyr::unnest("away_team_logo_url",names_sep = "_") %>%
     dplyr::mutate(season = x)
   return(sched)
 })

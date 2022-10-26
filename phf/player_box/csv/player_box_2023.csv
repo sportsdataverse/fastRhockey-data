@@ -1,0 +1,82 @@
+player_jersey,player_name,position,goals,assists,points,penalty_minutes,plus_minus,shots_on_goal,blocks,giveaways,takeaways,faceoffs_won_lost,faceoffs_win_pct,powerplay_goals,shorthanded_goals,shots,shots_blocked,faceoffs_won,faceoffs_lost,team,skaters_href,player_id,game_id,minutes_played,shots_against,goals_against,saves,save_percent,goalies_href,season
+16,Sarah Bujold,F,2,0,2,0,0,9,0,0,0,17 - 6,0.739,1,0,9,0,17,6,Metropolitan Riveters,stats#/player/1194637,1194637,598410,,,,,,,2023
+3,Sarah Forster,D,0,1,1,0,0,1,0,0,0,0 - 0,0,0,0,1,0,0,0,Metropolitan Riveters,stats#/player/1204421,1204421,598410,,,,,,,2023
+15,Minttu Tuominen,D,0,1,1,0,0,3,0,0,0,0 - 0,0,0,0,3,0,0,0,Metropolitan Riveters,stats#/player/1194641,1194641,598410,,,,,,,2023
+28,Leah Marino,F,0,1,1,0,0,4,0,0,0,0 - 0,0,0,0,4,0,0,0,Metropolitan Riveters,stats#/player/1220794,1220794,598410,,,,,,,2023
+5,Anna Kilponen,D,0,0,0,0,0,2,1,0,0,0 - 0,0,0,0,3,1,0,0,Metropolitan Riveters,stats#/player/1194645,1194645,598410,,,,,,,2023
+8,Kelly Babstock,F,0,0,0,2,0,6,0,0,0,1 - 1,0.5,0,0,6,0,1,1,Metropolitan Riveters,stats#/player/699761,699761,598410,,,,,,,2023
+9,Kaycie Anderson,F,0,0,0,0,0,0,0,0,0,0 - 0,0,0,0,0,0,0,0,Metropolitan Riveters,stats#/player/1194646,1194646,598410,,,,,,,2023
+10,Kendall Cornine,F,0,0,0,4,0,5,0,0,0,11 - 10,0.524,0,0,5,0,11,10,Metropolitan Riveters,stats#/player/431650,431650,598410,,,,,,,2023
+12,Ebba Berglund,D,0,0,0,0,0,1,0,0,0,0 - 0,0,0,0,2,1,0,0,Metropolitan Riveters,stats#/player/1194638,1194638,598410,,,,,,,2023
+14,Madison Packer,F,0,0,0,0,0,6,0,0,0,0 - 0,0,0,0,7,1,0,0,Metropolitan Riveters,stats#/player/966106,966106,598410,,,,,,,2023
+22,Emilie Harley,D,0,0,0,0,0,2,0,0,0,0 - 0,0,0,0,2,0,0,0,Metropolitan Riveters,stats#/player/1194650,1194650,598410,,,,,,,2023
+44,Taylor Marchin,D,0,0,0,0,0,6,0,0,0,0 - 0,0,0,0,6,0,0,0,Metropolitan Riveters,stats#/player/1194642,1194642,598410,,,,,,,2023
+77,Kennedy Ganser,F,0,0,0,0,0,1,0,0,0,10 - 7,0.588,0,0,1,0,10,7,Metropolitan Riveters,stats#/player/1194649,1194649,598410,,,,,,,2023
+97,Catherine Crawley,F,0,0,0,0,0,2,0,0,0,0 - 0,0,0,0,2,0,0,0,Metropolitan Riveters,stats#/player/1220795,1220795,598410,,,,,,,2023
+2,Samantha Fieseler,D,0,0,0,0,0,0,0,0,0,0 - 0,0,0,0,0,0,0,0,Buffalo Beauts,stats#/player/814845,814845,598410,,,,,,,2023
+3,Amy Budde,F,0,0,0,0,0,0,0,0,0,0 - 0,0,0,0,0,0,0,0,Buffalo Beauts,stats#/player/792391,792391,598410,,,,,,,2023
+8,Iveta Klimášová,F,0,0,0,0,0,2,0,0,0,0 - 0,0,0,0,2,0,0,0,Buffalo Beauts,stats#/player/431629,431629,598410,,,,,,,2023
+9,Autumn MacDougall,F,0,0,0,0,0,2,0,0,0,0 - 0,0,0,0,2,0,0,0,Buffalo Beauts,stats#/player/632861,632861,598410,,,,,,,2023
+10,Maddie Truax,D,0,0,0,0,0,3,0,0,0,0 - 0,0,0,0,3,0,0,0,Buffalo Beauts,stats#/player/1259837,1259837,598410,,,,,,,2023
+11,Madi Nichols,F,0,0,0,0,0,0,0,0,0,0 - 0,0,0,0,0,0,0,0,Buffalo Beauts,stats#/player/1259838,1259838,598410,,,,,,,2023
+13,Dominique Kremer,D,0,0,0,2,0,1,1,0,0,0 - 0,0,0,0,1,0,0,0,Buffalo Beauts,stats#/player/632881,632881,598410,,,,,,,2023
+14,Allison Attea,D,0,0,0,0,0,1,0,0,0,0 - 0,0,0,0,1,0,0,0,Buffalo Beauts,stats#/player/825330,825330,598410,,,,,,,2023
+16,Emma Nuutinen,F,0,0,0,0,0,0,0,0,0,0 - 0,0,0,0,0,0,0,0,Buffalo Beauts,stats#/player/1179125,1179125,598410,,,,,,,2023
+17,Cassidy MacPherson,F,0,0,0,0,0,1,0,0,0,7 - 12,0.368,0,0,2,1,7,12,Buffalo Beauts,stats#/player/431630,431630,598410,,,,,,,2023
+23,Antonia Matzka,D,0,0,0,0,0,0,0,0,0,0 - 0,0,0,0,0,0,0,0,Buffalo Beauts,stats#/player/1179126,1179126,598410,,,,,,,2023
+24,Anjelica Diffendal,F,0,0,0,0,0,1,0,0,0,0 - 0,0,0,0,1,0,0,0,Buffalo Beauts,stats#/player/811831,811831,598410,,,,,,,2023
+33,Megan Delay,D,0,0,0,2,0,0,0,0,0,0 - 0,0,0,0,0,0,0,0,Buffalo Beauts,stats#/player/431627,431627,598410,,,,,,,2023
+34,Claudia Kepler,F,0,0,0,0,0,2,0,0,0,0 - 0,0,0,0,3,1,0,0,Buffalo Beauts,stats#/player/1020524,1020524,598410,,,,,,,2023
+42,Courtney Maud,F,0,0,0,2,0,1,0,0,0,5 - 10,0.333,0,0,1,0,5,10,Buffalo Beauts,stats#/player/1159200,1159200,598410,,,,,,,2023
+44,Jenna Suokko,F,0,0,0,0,0,1,0,0,0,0 - 0,0,0,0,2,1,0,0,Buffalo Beauts,stats#/player/828439,828439,598410,,,,,,,2023
+47,Jessica Healey,D,0,0,0,0,0,1,0,0,0,0 - 0,0,0,0,1,0,0,0,Buffalo Beauts,stats#/player/1159201,1159201,598410,,,,,,,2023
+59,Mikyla Grant-Mentis,F,0,0,0,0,0,4,0,0,0,6 - 7,0.462,0,0,4,0,6,7,Buffalo Beauts,stats#/player/532475,532475,598410,,,,,,,2023
+61,Michaela Boyle,F,0,0,0,0,0,1,0,0,0,0 - 1,0,0,0,1,0,0,1,Buffalo Beauts,stats#/player/1259840,1259840,598410,,,,,,,2023
+67,Summer-Rae Dobson,F,0,0,0,2,0,1,0,0,0,2 - 1,0.667,0,0,1,0,2,1,Buffalo Beauts,stats#/player/1259841,1259841,598410,,,,,,,2023
+77,Whitney Dove,D,0,0,0,0,0,0,0,0,0,0 - 3,0,0,0,0,0,0,3,Buffalo Beauts,stats#/player/632942,632942,598410,,,,,,,2023
+94,Grace Klienbach,F,0,0,0,0,0,2,0,0,0,4 - 5,0.444,0,0,2,0,4,5,Buffalo Beauts,stats#/player/827706,827706,598410,,,,,,,2023
+1,Eveliina Makinen,G,0,0,,0,,,,,,,,,,,,,,Metropolitan Riveters,,1194640,598410,00:00,0,0,0,0,stats#/player/1194640,2023
+33,Rachel McQuigge,G,0,0,,0,,,,,,,,,,,,,,Metropolitan Riveters,,1194647,598410,60:00,24,0,24,1,stats#/player/1194647,2023
+31,Tera Hofmann,G,0,0,,0,,,,,,,,,,,,,,Buffalo Beauts,,881597,598410,29:31,18,1,17,0.944,stats#/player/881597,2023
+32,Kassidy Sauvé,G,0,0,,0,,,,,,,,,,,,,,Buffalo Beauts,,1259839,598410,30:29,30,1,29,0.967,stats#/player/1259839,2023
+8,Kelly Babstock,F,2,0,2,2,0,7,0,0,0,0 - 1,0,1,0,7,0,0,1,Metropolitan Riveters,stats#/player/699761,699761,598215,,,,,,,2023
+28,Leah Marino,F,1,1,2,0,0,2,0,0,0,0 - 0,0,1,0,2,0,0,0,Metropolitan Riveters,stats#/player/1220794,1220794,598215,,,,,,,2023
+77,Kennedy Ganser,F,2,0,2,0,0,4,0,0,0,9 - 9,0.5,0,0,4,0,9,9,Metropolitan Riveters,stats#/player/1194649,1194649,598215,,,,,,,2023
+16,Sarah Bujold,F,0,1,1,4,0,3,0,0,0,9 - 10,0.474,0,0,3,0,9,10,Metropolitan Riveters,stats#/player/1194637,1194637,598215,,,,,,,2023
+22,Emilie Harley,D,0,1,1,2,0,5,0,0,0,1 - 0,1,0,0,5,0,1,0,Metropolitan Riveters,stats#/player/1194650,1194650,598215,,,,,,,2023
+44,Taylor Marchin,D,0,1,1,0,0,3,0,0,0,0 - 1,0,0,0,3,0,0,1,Metropolitan Riveters,stats#/player/1194642,1194642,598215,,,,,,,2023
+3,Sarah Forster,D,0,0,0,0,0,1,1,0,0,0 - 0,0,0,0,2,1,0,0,Metropolitan Riveters,stats#/player/1204421,1204421,598215,,,,,,,2023
+5,Anna Kilponen,D,0,0,0,0,0,5,1,0,0,0 - 0,0,0,0,5,0,0,0,Metropolitan Riveters,stats#/player/1194645,1194645,598215,,,,,,,2023
+9,Kaycie Anderson,F,0,0,0,0,0,2,0,0,0,1 - 0,1,0,0,2,0,1,0,Metropolitan Riveters,stats#/player/1194646,1194646,598215,,,,,,,2023
+10,Kendall Cornine,F,0,0,0,2,0,2,0,0,0,11 - 3,0.786,0,0,4,2,11,3,Metropolitan Riveters,stats#/player/431650,431650,598215,,,,,,,2023
+12,Ebba Berglund,D,0,0,0,4,0,3,0,0,0,0 - 0,0,0,0,3,0,0,0,Metropolitan Riveters,stats#/player/1194638,1194638,598215,,,,,,,2023
+14,Madison Packer,F,0,0,0,4,0,4,0,0,0,0 - 0,0,0,0,4,0,0,0,Metropolitan Riveters,stats#/player/966106,966106,598215,,,,,,,2023
+15,Minttu Tuominen,D,0,0,0,0,0,0,0,0,0,0 - 0,0,0,0,0,0,0,0,Metropolitan Riveters,stats#/player/1194641,1194641,598215,,,,,,,2023
+97,Catherine Crawley,F,0,0,0,0,0,1,0,0,0,0 - 0,0,0,0,1,0,0,0,Metropolitan Riveters,stats#/player/1220795,1220795,598215,,,,,,,2023
+3,Amy Budde,F,0,1,1,0,0,0,0,0,0,0 - 0,0,0,0,0,0,0,0,Buffalo Beauts,stats#/player/792391,792391,598215,,,,,,,2023
+44,Jenna Suokko,F,1,0,1,0,0,1,0,0,0,0 - 0,0,0,0,1,0,0,0,Buffalo Beauts,stats#/player/828439,828439,598215,,,,,,,2023
+94,Grace Klienbach,F,0,1,1,0,0,0,0,0,0,9 - 4,0.692,0,0,0,0,9,4,Buffalo Beauts,stats#/player/827706,827706,598215,,,,,,,2023
+2,Samantha Fieseler,D,0,0,0,0,0,0,0,0,0,0 - 0,0,0,0,1,1,0,0,Buffalo Beauts,stats#/player/814845,814845,598215,,,,,,,2023
+8,Iveta Klimášová,F,0,0,0,0,0,0,0,0,0,0 - 0,0,0,0,0,0,0,0,Buffalo Beauts,stats#/player/431629,431629,598215,,,,,,,2023
+9,Autumn MacDougall,F,0,0,0,2,0,2,0,0,0,1 - 1,0.5,0,0,2,0,1,1,Buffalo Beauts,stats#/player/632861,632861,598215,,,,,,,2023
+10,Maddie Truax,D,0,0,0,2,0,0,0,0,0,0 - 0,0,0,0,0,0,0,0,Buffalo Beauts,stats#/player/1259837,1259837,598215,,,,,,,2023
+11,Madi Nichols,F,0,0,0,0,0,0,0,0,0,0 - 0,0,0,0,0,0,0,0,Buffalo Beauts,stats#/player/1259838,1259838,598215,,,,,,,2023
+13,Dominique Kremer,D,0,0,0,0,0,1,0,0,0,0 - 0,0,0,0,1,0,0,0,Buffalo Beauts,stats#/player/632881,632881,598215,,,,,,,2023
+14,Allison Attea,D,0,0,0,2,0,0,0,0,0,0 - 1,0,0,0,0,0,0,1,Buffalo Beauts,stats#/player/825330,825330,598215,,,,,,,2023
+16,Emma Nuutinen,F,0,0,0,0,0,0,0,0,0,0 - 0,0,0,0,0,0,0,0,Buffalo Beauts,stats#/player/1179125,1179125,598215,,,,,,,2023
+17,Cassidy MacPherson,F,0,0,0,0,0,1,0,0,0,3 - 7,0.3,0,0,1,0,3,7,Buffalo Beauts,stats#/player/431630,431630,598215,,,,,,,2023
+23,Antonia Matzka,D,0,0,0,0,0,0,0,0,0,0 - 0,0,0,0,0,0,0,0,Buffalo Beauts,stats#/player/1179126,1179126,598215,,,,,,,2023
+24,Anjelica Diffendal,F,0,0,0,0,0,2,0,0,0,0 - 0,0,0,0,2,0,0,0,Buffalo Beauts,stats#/player/811831,811831,598215,,,,,,,2023
+33,Megan Delay,D,0,0,0,0,0,0,0,0,0,0 - 0,0,0,0,0,0,0,0,Buffalo Beauts,stats#/player/431627,431627,598215,,,,,,,2023
+34,Claudia Kepler,F,0,0,0,2,0,5,0,0,0,1 - 0,1,0,0,6,1,1,0,Buffalo Beauts,stats#/player/1020524,1020524,598215,,,,,,,2023
+42,Courtney Maud,F,0,0,0,0,0,0,0,0,0,2 - 10,0.167,0,0,0,0,2,10,Buffalo Beauts,stats#/player/1159200,1159200,598215,,,,,,,2023
+47,Jessica Healey,D,0,0,0,0,0,1,0,0,0,0 - 3,0,0,0,1,0,0,3,Buffalo Beauts,stats#/player/1159201,1159201,598215,,,,,,,2023
+59,Mikyla Grant-Mentis,F,0,0,0,0,0,1,0,0,0,6 - 1,0.857,0,0,1,0,6,1,Buffalo Beauts,stats#/player/532475,532475,598215,,,,,,,2023
+61,Michaela Boyle,F,0,0,0,6,0,2,0,0,0,0 - 2,0,0,0,2,0,0,2,Buffalo Beauts,stats#/player/1259840,1259840,598215,,,,,,,2023
+67,Summer-Rae Dobson,F,0,0,0,0,0,0,0,0,0,1 - 2,0.333,0,0,0,0,1,2,Buffalo Beauts,stats#/player/1259841,1259841,598215,,,,,,,2023
+77,Whitney Dove,D,0,0,0,0,0,0,0,0,0,1 - 0,1,0,0,0,0,1,0,Buffalo Beauts,stats#/player/632942,632942,598215,,,,,,,2023
+1,Eveliina Makinen,G,0,0,,0,,,,,,,,,,,,,,Metropolitan Riveters,,1194640,598215,60:00,16,1,15,0.938,stats#/player/1194640,2023
+33,Rachel McQuigge,G,0,0,,0,,,,,,,,,,,,,,Metropolitan Riveters,,1194647,598215,00:00,0,0,0,0,stats#/player/1194647,2023
+31,Tera Hofmann,G,0,0,,0,,,,,,,,,,,,,,Buffalo Beauts,,881597,598215,00:00,0,0,0,0,stats#/player/881597,2023
+32,Kassidy Sauvé,G,0,0,,0,,,,,,,,,,,,,,Buffalo Beauts,,1259839,598215,60:00,42,5,37,0.881,stats#/player/1259839,2023
+88,Lovisa Berndtsson,G,0,0,,0,,,,,,,,,,,,,,Buffalo Beauts,,824067,598215,00:00,0,0,0,0,stats#/player/824067,2023
