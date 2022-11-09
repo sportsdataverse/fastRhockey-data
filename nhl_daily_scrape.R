@@ -23,7 +23,7 @@ options(stringsAsFactors = FALSE)
 options(scipen = 999)
 
 season_vector <- opt$s:opt$e
-rebuild <- FALSE
+rebuild <- TRUE
 rebuild_from_existing_json <- FALSE
 version <- packageVersion("fastRhockey")
 
@@ -75,7 +75,7 @@ if(rebuild_from_existing_json == FALSE){
   future::plan("multisession")
   scrape_games <- furrr::future_map(season_schedules$game_id, function(x){
     game <- fastRhockey::nhl_game_feed(game_id = x)
-    jsonlite::write_json(game, path = glue::glue("nhl/json/{x}.json"))
+    jsonlite::write_json(jsonlite::toJSON(game), path = glue::glue("nhl/json/{x}.json"))
   })
   cli::cli_process_done(msg_done = "Finished scrape of {length(season_schedules$game_id)} NHL games!")
 }
