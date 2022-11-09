@@ -1,33 +1,33 @@
 player_jersey,player_name,position,goals,assists,points,penalty_minutes,plus_minus,shots_on_goal,blocks,giveaways,takeaways,faceoffs_won_lost,faceoffs_win_pct,powerplay_goals,shorthanded_goals,shots,shots_blocked,faceoffs_won,faceoffs_lost,team,skaters_href,player_id,game_id,minutes_played,shots_against,goals_against,saves,save_percent,goalies_href,season
-7,Emily Pfalzer,D,0,1,1,0,0,0,0,0,0,0 - 0,0,0,0,2,0,0,0, Buffalo Beauts,stats#/player/58088,58088,63996,,,,,,,2016
-9,Megan Bozek,D,0,1,1,0,0,0,0,0,0,0 - 0,0,0,0,5,0,0,0, Buffalo Beauts,stats#/player/58091,58091,63996,,,,,,,2016
-20,Erin Zach,F,1,0,1,0,0,0,0,0,0,0 - 0,0,1,0,8,0,0,0, Buffalo Beauts,stats#/player/58103,58103,63996,,,,,,,2016
+7,Emily Pfalzer,D,0,1,1,0,0,2,0,0,0,0 - 0,0,0,0,2,0,0,0, Buffalo Beauts,stats#/player/58088,58088,63996,,,,,,,2016
+9,Megan Bozek,D,0,1,1,0,0,5,0,0,0,0 - 0,0,0,0,5,0,0,0, Buffalo Beauts,stats#/player/58091,58091,63996,,,,,,,2016
+20,Erin Zach,F,1,0,1,0,0,8,0,0,0,0 - 0,0,1,0,8,0,0,0, Buffalo Beauts,stats#/player/58103,58103,63996,,,,,,,2016
 2,Paige Harrington,D,0,0,0,0,0,0,0,0,0,0 - 0,0,0,0,0,0,0,0, Buffalo Beauts,stats#/player/58084,58084,63996,,,,,,,2016
-3,Kelley Steadman,F,0,0,0,0,0,0,0,0,0,1 - 1,0.5,0,0,5,0,1,1, Buffalo Beauts,stats#/player/58085,58085,63996,,,,,,,2016
+3,Kelley Steadman,F,0,0,0,0,0,5,0,0,0,1 - 1,0.5,0,0,5,0,1,1, Buffalo Beauts,stats#/player/58085,58085,63996,,,,,,,2016
 6,Jessica Fickel,F,0,0,0,0,0,0,0,0,0,0 - 1,0,0,0,0,0,0,1, Buffalo Beauts,stats#/player/58087,58087,63996,,,,,,,2016
-10,Meghan Duggan,F,0,0,0,2,0,0,0,0,0,2 - 1,0.667,0,0,4,0,2,1, Buffalo Beauts,stats#/player/58098,58098,63996,,,,,,,2016
+10,Meghan Duggan,F,0,0,0,2,0,4,0,0,0,2 - 1,0.667,0,0,4,0,2,1, Buffalo Beauts,stats#/player/58098,58098,63996,,,,,,,2016
 12,Hannah McGowan,F,0,0,0,0,0,0,0,0,0,1 - 1,0.5,0,0,0,0,1,1, Buffalo Beauts,stats#/player/58099,58099,63996,,,,,,,2016
-13,Shelby Bram,F,0,0,0,0,0,0,0,0,0,21 - 14,0.6,0,0,3,0,21,14, Buffalo Beauts,stats#/player/58100,58100,63996,,,,,,,2016
+13,Shelby Bram,F,0,0,0,0,0,3,0,0,0,21 - 14,0.6,0,0,3,0,21,14, Buffalo Beauts,stats#/player/58100,58100,63996,,,,,,,2016
 14,Kelly McDonald,D,0,0,0,0,0,0,0,0,0,0 - 0,0,0,0,0,0,0,0, Buffalo Beauts,stats#/player/58101,58101,63996,,,,,,,2016
-21,Devon Skeats,F,0,0,0,0,0,0,0,0,0,0 - 0,0,0,0,1,0,0,0, Buffalo Beauts,stats#/player/58104,58104,63996,,,,,,,2016
+21,Devon Skeats,F,0,0,0,0,0,1,0,0,0,0 - 0,0,0,0,1,0,0,0, Buffalo Beauts,stats#/player/58104,58104,63996,,,,,,,2016
 23,Lindsay Grigg,D,0,0,0,0,0,0,0,0,0,0 - 0,0,0,0,0,0,0,0, Buffalo Beauts,stats#/player/58105,58105,63996,,,,,,,2016
 24,Hailey Browne,F,0,0,0,2,0,0,0,0,0,2 - 0,1,0,0,0,0,2,0, Buffalo Beauts,stats#/player/58106,58106,63996,,,,,,,2016
 36,Kourtney Kunichika,F,0,0,0,0,0,0,0,0,0,10 - 6,0.625,0,0,0,0,10,6, Buffalo Beauts,stats#/player/58111,58111,63996,,,,,,,2016
 77,Hayley Williams,F,0,0,0,0,0,0,0,0,0,4 - 7,0.364,0,0,0,0,4,7, Buffalo Beauts,stats#/player/58113,58113,63996,,,,,,,2016
-14,Brianna Decker,F,2,1,3,0,0,0,0,0,0,14 - 21,0.4,0,1,5,0,14,21, Boston Pride,stats#/player/58122,58122,63996,,,,,,,2016
-21,Hilary Knight,F,1,1,2,0,0,0,0,0,0,1 - 0,1,0,0,8,0,1,0, Boston Pride,stats#/player/58127,58127,63996,,,,,,,2016
-10,Blake Bolden,D,0,1,1,0,0,0,0,0,0,0 - 0,0,0,0,2,0,0,0, Boston Pride,stats#/player/58119,58119,63996,,,,,,,2016
-11,Jordan Smelker,F,0,1,1,0,0,0,0,0,0,0 - 0,0,0,0,1,0,0,0, Boston Pride,stats#/player/58120,58120,63996,,,,,,,2016
-19,Gigi Marvin,D,0,1,1,0,0,0,0,0,0,0 - 0,0,0,0,3,0,0,0, Boston Pride,stats#/player/58126,58126,63996,,,,,,,2016
-22,Kacey Bellamy,D,0,1,1,2,0,0,0,0,0,0 - 0,0,0,0,1,0,0,0, Boston Pride,stats#/player/58128,58128,63996,,,,,,,2016
-2,Alyssa Gagliardi,D,0,0,0,0,0,0,0,0,0,0 - 0,0,0,0,1,0,0,0, Boston Pride,stats#/player/58115,58115,63996,,,,,,,2016
-3,Jillian Dempsey,F,0,0,0,2,0,0,0,0,0,8 - 11,0.421,0,0,2,0,8,11, Boston Pride,stats#/player/58116,58116,63996,,,,,,,2016
-5,Kelly Cooke,F,0,0,0,0,0,0,0,0,0,0 - 0,0,0,0,1,0,0,0, Boston Pride,stats#/player/58117,58117,63996,,,,,,,2016
+14,Brianna Decker,F,2,1,3,0,0,5,0,0,0,14 - 21,0.4,0,1,5,0,14,21, Boston Pride,stats#/player/58122,58122,63996,,,,,,,2016
+21,Hilary Knight,F,1,1,2,0,0,8,0,0,0,1 - 0,1,0,0,8,0,1,0, Boston Pride,stats#/player/58127,58127,63996,,,,,,,2016
+10,Blake Bolden,D,0,1,1,0,0,2,0,0,0,0 - 0,0,0,0,2,0,0,0, Boston Pride,stats#/player/58119,58119,63996,,,,,,,2016
+11,Jordan Smelker,F,0,1,1,0,0,1,0,0,0,0 - 0,0,0,0,1,0,0,0, Boston Pride,stats#/player/58120,58120,63996,,,,,,,2016
+19,Gigi Marvin,D,0,1,1,0,0,3,0,0,0,0 - 0,0,0,0,3,0,0,0, Boston Pride,stats#/player/58126,58126,63996,,,,,,,2016
+22,Kacey Bellamy,D,0,1,1,2,0,1,0,0,0,0 - 0,0,0,0,1,0,0,0, Boston Pride,stats#/player/58128,58128,63996,,,,,,,2016
+2,Alyssa Gagliardi,D,0,0,0,0,0,1,0,0,0,0 - 0,0,0,0,1,0,0,0, Boston Pride,stats#/player/58115,58115,63996,,,,,,,2016
+3,Jillian Dempsey,F,0,0,0,2,0,2,0,0,0,8 - 11,0.421,0,0,2,0,8,11, Boston Pride,stats#/player/58116,58116,63996,,,,,,,2016
+5,Kelly Cooke,F,0,0,0,0,0,1,0,0,0,0 - 0,0,0,0,1,0,0,0, Boston Pride,stats#/player/58117,58117,63996,,,,,,,2016
 12,Marissa Gedman,D,0,0,0,6,0,0,0,0,0,0 - 0,0,0,0,0,0,0,0, Boston Pride,stats#/player/58121,58121,63996,,,,,,,2016
-15,Emily Field,F,0,0,0,0,0,0,0,0,0,0 - 0,0,0,0,1,0,0,0, Boston Pride,stats#/player/58123,58123,63996,,,,,,,2016
-16,Amanda Pelkey,F,0,0,0,0,0,0,0,0,0,1 - 0,1,0,0,3,0,1,0, Boston Pride,stats#/player/58124,58124,63996,,,,,,,2016
-23,Corinne Buie,F,0,0,0,0,0,0,0,0,0,0 - 0,0,0,0,1,0,0,0, Boston Pride,stats#/player/58129,58129,63996,,,,,,,2016
-44,Zoe Hickel,F,0,0,0,0,0,0,0,0,0,0 - 0,0,0,0,4,0,0,0, Boston Pride,stats#/player/463308,463308,63996,,,,,,,2016
+15,Emily Field,F,0,0,0,0,0,1,0,0,0,0 - 0,0,0,0,1,0,0,0, Boston Pride,stats#/player/58123,58123,63996,,,,,,,2016
+16,Amanda Pelkey,F,0,0,0,0,0,3,0,0,0,1 - 0,1,0,0,3,0,1,0, Boston Pride,stats#/player/1194634,1194634,63996,,,,,,,2016
+23,Corinne Buie,F,0,0,0,0,0,1,0,0,0,0 - 0,0,0,0,1,0,0,0, Boston Pride,stats#/player/58129,58129,63996,,,,,,,2016
+44,Zoe Hickel,F,0,0,0,0,0,4,0,0,0,0 - 0,0,0,0,4,0,0,0, Boston Pride,stats#/player/463308,463308,63996,,,,,,,2016
 91,Rachel Llanes,F,0,0,0,0,0,0,0,0,0,7 - 7,0.5,0,0,0,0,7,7, Boston Pride,stats#/player/58135,58135,63996,,,,,,,2016
 1,Kimberly Sass,G,0,0,,0,,,,,,,,,,,,,, Buffalo Beauts,,58083,63996,00:00,0,0,0,0,stats#/player/58083,2016
 29,Brianne McLaughlin,G,0,0,,0,,,,,,,,,,,,,, Buffalo Beauts,,58108,63996,60:00,33,3,30,0.909,stats#/player/58108,2016
@@ -40,7 +40,7 @@ player_jersey,player_name,position,goals,assists,points,penalty_minutes,plus_min
 10,Blake Bolden,D,1,0,1,0,0,2,0,0,0,0 - 0,0,0,0,2,0,0,0, Boston Pride,stats#/player/58119,58119,63836,,,,,,,2016
 11,Jordan Smelker,F,0,1,1,0,0,3,0,0,0,0 - 0,0,0,0,3,0,0,0, Boston Pride,stats#/player/58120,58120,63836,,,,,,,2016
 14,Brianna Decker,F,0,1,1,2,0,3,0,0,0,14 - 10,0.583,0,0,3,0,14,10, Boston Pride,stats#/player/58122,58122,63836,,,,,,,2016
-16,Amanda Pelkey,F,0,1,1,0,0,1,0,0,0,1 - 0,1,0,0,1,0,1,0, Boston Pride,stats#/player/58124,58124,63836,,,,,,,2016
+16,Amanda Pelkey,F,0,1,1,0,0,1,0,0,0,1 - 0,1,0,0,1,0,1,0, Boston Pride,stats#/player/1194634,1194634,63836,,,,,,,2016
 22,Kacey Bellamy,D,0,1,1,2,0,3,0,0,0,0 - 0,0,0,0,3,0,0,0, Boston Pride,stats#/player/58128,58128,63836,,,,,,,2016
 44,Zoe Hickel,F,0,1,1,2,0,2,0,0,0,0 - 1,0,0,0,2,0,0,1, Boston Pride,stats#/player/463308,463308,63836,,,,,,,2016
 2,Alyssa Gagliardi,D,0,0,0,0,0,1,0,0,0,0 - 0,0,0,0,1,0,0,0, Boston Pride,stats#/player/58115,58115,63836,,,,,,,2016
@@ -107,36 +107,36 @@ player_jersey,player_name,position,goals,assists,points,penalty_minutes,plus_min
 1,Kimberly Sass,G,0,0,,0,,,,,,,,,,,,,, Buffalo Beauts,,58083,63627,00:00,0,0,0,0,stats#/player/58083,2016
 29,Brianne McLaughlin,G,0,0,,0,,,,,,,,,,,,,, Buffalo Beauts,,58108,63627,60:00,27,3,24,0.889,stats#/player/58108,2016
 34,Amanda Makela,G,0,0,,0,,,,,,,,,,,,,, Buffalo Beauts,,58109,63627,00:00,0,0,0,0,stats#/player/58109,2016
-21,Hilary Knight,F,3,1,4,0,0,0,0,0,0,0 - 0,0,2,0,9,0,0,0, Boston Pride,stats#/player/58127,58127,63623,,,,,,,2016
-14,Brianna Decker,F,1,1,2,0,0,0,0,0,0,18 - 9,0.667,0,1,10,0,18,9, Boston Pride,stats#/player/58122,58122,63623,,,,,,,2016
-19,Gigi Marvin,D,1,1,2,2,0,0,0,0,0,0 - 0,0,0,0,3,0,0,0, Boston Pride,stats#/player/58126,58126,63623,,,,,,,2016
-22,Kacey Bellamy,D,0,2,2,0,0,0,0,0,0,0 - 0,0,0,0,4,0,0,0, Boston Pride,stats#/player/58128,58128,63623,,,,,,,2016
-44,Zoe Hickel,F,0,2,2,2,0,0,0,0,0,0 - 0,0,0,0,4,0,0,0, Boston Pride,stats#/player/463308,463308,63623,,,,,,,2016
-3,Jillian Dempsey,F,1,0,1,0,0,0,0,0,0,14 - 7,0.667,0,0,5,0,14,7, Boston Pride,stats#/player/58116,58116,63623,,,,,,,2016
-10,Blake Bolden,D,1,0,1,2,0,0,0,0,0,0 - 0,0,0,0,4,0,0,0, Boston Pride,stats#/player/58119,58119,63623,,,,,,,2016
-16,Amanda Pelkey,F,0,1,1,0,0,0,0,0,0,0 - 0,0,0,0,2,0,0,0, Boston Pride,stats#/player/58124,58124,63623,,,,,,,2016
-2,Alyssa Gagliardi,D,0,0,0,0,0,0,0,0,0,0 - 0,0,0,0,1,0,0,0, Boston Pride,stats#/player/58115,58115,63623,,,,,,,2016
-5,Kelly Cooke,F,0,0,0,0,0,0,0,0,0,1 - 0,1,0,0,1,0,1,0, Boston Pride,stats#/player/58117,58117,63623,,,,,,,2016
-11,Jordan Smelker,F,0,0,0,2,0,0,0,0,0,0 - 0,0,0,0,2,0,0,0, Boston Pride,stats#/player/58120,58120,63623,,,,,,,2016
-12,Marissa Gedman,D,0,0,0,4,0,0,0,0,0,0 - 0,0,0,0,2,0,0,0, Boston Pride,stats#/player/58121,58121,63623,,,,,,,2016
-15,Emily Field,F,0,0,0,2,0,0,0,0,0,0 - 0,0,0,0,2,0,0,0, Boston Pride,stats#/player/58123,58123,63623,,,,,,,2016
-23,Corinne Buie,F,0,0,0,0,0,0,0,0,0,0 - 0,0,0,0,1,0,0,0, Boston Pride,stats#/player/58129,58129,63623,,,,,,,2016
-91,Rachel Llanes,F,0,0,0,0,0,0,0,0,0,5 - 5,0.5,0,0,2,0,5,5, Boston Pride,stats#/player/58135,58135,63623,,,,,,,2016
-9,Ludmila Belyakova,F,1,0,1,0,0,0,0,0,0,9 - 13,0.409,1,0,1,0,9,13, New York Riveters,stats#/player/57700,57700,63623,,,,,,,2016
-14,Madison Packer,F,1,0,1,2,0,0,0,0,0,0 - 1,0,1,0,2,0,0,1, New York Riveters,stats#/player/966106,966106,63623,,,,,,,2016
-20,Brooke Ammerman,F,0,1,1,4,0,0,0,0,0,9 - 12,0.429,0,0,1,0,9,12, New York Riveters,stats#/player/57718,57718,63623,,,,,,,2016
-24,Celeste Brown,F,1,0,1,2,0,0,0,0,0,1 - 1,0.5,1,0,3,0,1,1, New York Riveters,stats#/player/57721,57721,63623,,,,,,,2016
-26,Kiira Dosdall-Arena,D,1,0,1,0,0,0,0,0,0,0 - 0,0,1,0,2,0,0,0, New York Riveters,stats#/player/1066549,1066549,63623,,,,,,,2016
-28,Beth Hanrahan,F,0,1,1,0,0,0,0,0,0,1 - 1,0.5,0,0,1,0,1,1, New York Riveters,stats#/player/57723,57723,63623,,,,,,,2016
+21,Hilary Knight,F,3,1,4,0,0,9,0,0,0,0 - 0,0,2,0,9,0,0,0, Boston Pride,stats#/player/58127,58127,63623,,,,,,,2016
+14,Brianna Decker,F,1,1,2,0,0,10,0,0,0,18 - 9,0.667,0,1,10,0,18,9, Boston Pride,stats#/player/58122,58122,63623,,,,,,,2016
+19,Gigi Marvin,D,1,1,2,2,0,3,0,0,0,0 - 0,0,0,0,3,0,0,0, Boston Pride,stats#/player/58126,58126,63623,,,,,,,2016
+22,Kacey Bellamy,D,0,2,2,0,0,4,0,0,0,0 - 0,0,0,0,4,0,0,0, Boston Pride,stats#/player/58128,58128,63623,,,,,,,2016
+44,Zoe Hickel,F,0,2,2,2,0,4,0,0,0,0 - 0,0,0,0,4,0,0,0, Boston Pride,stats#/player/463308,463308,63623,,,,,,,2016
+3,Jillian Dempsey,F,1,0,1,0,0,5,0,0,0,14 - 7,0.667,0,0,5,0,14,7, Boston Pride,stats#/player/58116,58116,63623,,,,,,,2016
+10,Blake Bolden,D,1,0,1,2,0,4,0,0,0,0 - 0,0,0,0,4,0,0,0, Boston Pride,stats#/player/58119,58119,63623,,,,,,,2016
+16,Amanda Pelkey,F,0,1,1,0,0,2,0,0,0,0 - 0,0,0,0,2,0,0,0, Boston Pride,stats#/player/1194634,1194634,63623,,,,,,,2016
+2,Alyssa Gagliardi,D,0,0,0,0,0,1,0,0,0,0 - 0,0,0,0,1,0,0,0, Boston Pride,stats#/player/58115,58115,63623,,,,,,,2016
+5,Kelly Cooke,F,0,0,0,0,0,1,0,0,0,1 - 0,1,0,0,1,0,1,0, Boston Pride,stats#/player/58117,58117,63623,,,,,,,2016
+11,Jordan Smelker,F,0,0,0,2,0,2,0,0,0,0 - 0,0,0,0,2,0,0,0, Boston Pride,stats#/player/58120,58120,63623,,,,,,,2016
+12,Marissa Gedman,D,0,0,0,4,0,2,0,0,0,0 - 0,0,0,0,2,0,0,0, Boston Pride,stats#/player/58121,58121,63623,,,,,,,2016
+15,Emily Field,F,0,0,0,2,0,2,0,0,0,0 - 0,0,0,0,2,0,0,0, Boston Pride,stats#/player/58123,58123,63623,,,,,,,2016
+23,Corinne Buie,F,0,0,0,0,0,1,0,0,0,0 - 0,0,0,0,1,0,0,0, Boston Pride,stats#/player/58129,58129,63623,,,,,,,2016
+91,Rachel Llanes,F,0,0,0,0,0,2,0,0,0,5 - 5,0.5,0,0,2,0,5,5, Boston Pride,stats#/player/58135,58135,63623,,,,,,,2016
+9,Ludmila Belyakova,F,1,0,1,0,0,1,0,0,0,9 - 13,0.409,1,0,1,0,9,13, New York Riveters,stats#/player/57700,57700,63623,,,,,,,2016
+14,Madison Packer,F,1,0,1,2,0,2,0,0,0,0 - 1,0,1,0,2,0,0,1, New York Riveters,stats#/player/966106,966106,63623,,,,,,,2016
+20,Brooke Ammerman,F,0,1,1,4,0,1,0,0,0,9 - 12,0.429,0,0,1,0,9,12, New York Riveters,stats#/player/57718,57718,63623,,,,,,,2016
+24,Celeste Brown,F,1,0,1,2,0,3,0,0,0,1 - 1,0.5,1,0,3,0,1,1, New York Riveters,stats#/player/57721,57721,63623,,,,,,,2016
+26,Kiira Dosdall-Arena,D,1,0,1,0,0,2,0,0,0,0 - 0,0,1,0,2,0,0,0, New York Riveters,stats#/player/1066549,1066549,63623,,,,,,,2016
+28,Beth Hanrahan,F,0,1,1,0,0,1,0,0,0,1 - 1,0.5,0,0,1,0,1,1, New York Riveters,stats#/player/57723,57723,63623,,,,,,,2016
 4,Elena Orlando,D,0,0,0,4,0,0,0,0,0,0 - 0,0,0,0,0,0,0,0, New York Riveters,stats#/player/909127,909127,63623,,,,,,,2016
 8,Sydney Kidd,D,0,0,0,0,0,0,0,0,0,0 - 0,0,0,0,0,0,0,0, New York Riveters,stats#/player/57699,57699,63623,,,,,,,2016
-10,Ashley Johnston,D,0,0,0,0,0,0,0,0,0,0 - 0,0,0,0,2,0,0,0, New York Riveters,stats#/player/57701,57701,63623,,,,,,,2016
-12,Janine Weber,F,0,0,0,0,0,0,0,0,0,2 - 7,0.222,0,0,3,0,2,7, New York Riveters,stats#/player/513300,513300,63623,,,,,,,2016
+10,Ashley Johnston,D,0,0,0,0,0,2,0,0,0,0 - 0,0,0,0,2,0,0,0, New York Riveters,stats#/player/57701,57701,63623,,,,,,,2016
+12,Janine Weber,F,0,0,0,0,0,3,0,0,0,2 - 7,0.222,0,0,3,0,2,7, New York Riveters,stats#/player/513300,513300,63623,,,,,,,2016
 13,Cherie Stewart,F,0,0,0,0,0,0,0,0,0,0 - 0,0,0,0,0,0,0,0, New York Riveters,stats#/player/57714,57714,63623,,,,,,,2016
-17,Bray Ketchum,F,0,0,0,0,0,0,0,0,0,0 - 0,0,0,0,5,0,0,0, New York Riveters,stats#/player/57716,57716,63623,,,,,,,2016
-18,Meghan Fardelmann,F,0,0,0,2,0,0,0,0,0,3 - 1,0.75,0,0,4,0,3,1, New York Riveters,stats#/player/57636,57636,63623,,,,,,,2016
-21,Gabie Figueroa,D,0,0,0,2,0,0,0,0,0,0 - 0,0,0,0,2,0,0,0, New York Riveters,stats#/player/57719,57719,63623,,,,,,,2016
-91,Taylor Holze,F,0,0,0,0,0,0,0,0,0,0 - 0,0,0,0,1,0,0,0, New York Riveters,stats#/player/57726,57726,63623,,,,,,,2016
+17,Bray Ketchum,F,0,0,0,0,0,5,0,0,0,0 - 0,0,0,0,5,0,0,0, New York Riveters,stats#/player/57716,57716,63623,,,,,,,2016
+18,Meghan Fardelmann,F,0,0,0,2,0,4,0,0,0,3 - 1,0.75,0,0,4,0,3,1, New York Riveters,stats#/player/57636,57636,63623,,,,,,,2016
+21,Gabie Figueroa,D,0,0,0,2,0,2,0,0,0,0 - 0,0,0,0,2,0,0,0, New York Riveters,stats#/player/57719,57719,63623,,,,,,,2016
+91,Taylor Holze,F,0,0,0,0,0,1,0,0,0,0 - 0,0,0,0,1,0,0,0, New York Riveters,stats#/player/57726,57726,63623,,,,,,,2016
 1,Kelsie Fralick,G,0,0,,0,,,,,,,,,,,,,, Boston Pride,,58114,63623,00:00,0,0,0,0,stats#/player/58114,2016
 29,Brittany Ott,G,0,0,,0,,,,,,,,,,,,,, Boston Pride,,58131,63623,60:00,27,4,23,0.852,stats#/player/58131,2016
 30,Lauren Slebodnick,G,0,0,,0,,,,,,,,,,,,,, Boston Pride,,58132,63623,00:00,0,0,0,0,stats#/player/58132,2016
@@ -215,35 +215,35 @@ player_jersey,player_name,position,goals,assists,points,penalty_minutes,plus_min
 1,Kimberly Sass,G,0,0,,0,,,,,,,,,,,,,, Buffalo Beauts,,58083,63624,00:00,0,0,0,0,stats#/player/58083,2016
 29,Brianne McLaughlin,G,0,0,,0,,,,,,,,,,,,,, Buffalo Beauts,,58108,63624,57:16,19,2,17,0.895,stats#/player/58108,2016
 34,Amanda Makela,G,0,0,,0,,,,,,,,,,,,,, Buffalo Beauts,,58109,63624,00:00,0,0,0,0,stats#/player/58109,2016
-3,Jillian Dempsey,F,1,3,4,0,0,0,0,0,0,4 - 11,0.267,1,0,3,0,4,11, Boston Pride,stats#/player/58116,58116,63628,,,,,,,2016
-14,Brianna Decker,F,2,1,3,4,0,0,0,0,0,17 - 5,0.773,1,0,9,0,17,5, Boston Pride,stats#/player/58122,58122,63628,,,,,,,2016
-12,Marissa Gedman,D,0,2,2,2,0,0,0,0,0,0 - 0,0,0,0,1,0,0,0, Boston Pride,stats#/player/58121,58121,63628,,,,,,,2016
-16,Amanda Pelkey,F,1,1,2,2,0,0,0,0,0,1 - 0,1,0,0,4,0,1,0, Boston Pride,stats#/player/58124,58124,63628,,,,,,,2016
-19,Gigi Marvin,D,0,2,2,0,0,0,0,0,0,0 - 0,0,0,0,1,0,0,0, Boston Pride,stats#/player/58126,58126,63628,,,,,,,2016
-21,Hilary Knight,F,1,0,1,0,0,0,0,0,0,0 - 0,0,0,0,9,0,0,0, Boston Pride,stats#/player/58127,58127,63628,,,,,,,2016
-44,Zoe Hickel,F,1,0,1,0,0,0,0,0,0,1 - 1,0.5,1,0,3,0,1,1, Boston Pride,stats#/player/463308,463308,63628,,,,,,,2016
+3,Jillian Dempsey,F,1,3,4,0,0,3,0,0,0,4 - 11,0.267,1,0,3,0,4,11, Boston Pride,stats#/player/58116,58116,63628,,,,,,,2016
+14,Brianna Decker,F,2,1,3,4,0,9,0,0,0,17 - 5,0.773,1,0,9,0,17,5, Boston Pride,stats#/player/58122,58122,63628,,,,,,,2016
+12,Marissa Gedman,D,0,2,2,2,0,1,0,0,0,0 - 0,0,0,0,1,0,0,0, Boston Pride,stats#/player/58121,58121,63628,,,,,,,2016
+16,Amanda Pelkey,F,1,1,2,2,0,4,0,0,0,1 - 0,1,0,0,4,0,1,0, Boston Pride,stats#/player/1194634,1194634,63628,,,,,,,2016
+19,Gigi Marvin,D,0,2,2,0,0,1,0,0,0,0 - 0,0,0,0,1,0,0,0, Boston Pride,stats#/player/58126,58126,63628,,,,,,,2016
+21,Hilary Knight,F,1,0,1,0,0,9,0,0,0,0 - 0,0,0,0,9,0,0,0, Boston Pride,stats#/player/58127,58127,63628,,,,,,,2016
+44,Zoe Hickel,F,1,0,1,0,0,3,0,0,0,1 - 1,0.5,1,0,3,0,1,1, Boston Pride,stats#/player/463308,463308,63628,,,,,,,2016
 2,Alyssa Gagliardi,D,0,0,0,0,0,0,0,0,0,0 - 0,0,0,0,0,0,0,0, Boston Pride,stats#/player/58115,58115,63628,,,,,,,2016
-5,Kelly Cooke,F,0,0,0,0,0,0,0,0,0,0 - 1,0,0,0,3,0,0,1, Boston Pride,stats#/player/58117,58117,63628,,,,,,,2016
-10,Blake Bolden,D,0,0,0,0,0,0,0,0,0,0 - 0,0,0,0,6,0,0,0, Boston Pride,stats#/player/58119,58119,63628,,,,,,,2016
-11,Jordan Smelker,F,0,0,0,0,0,0,0,0,0,0 - 0,0,0,0,4,0,0,0, Boston Pride,stats#/player/58120,58120,63628,,,,,,,2016
-15,Emily Field,F,0,0,0,0,0,0,0,0,0,0 - 0,0,0,0,3,0,0,0, Boston Pride,stats#/player/58123,58123,63628,,,,,,,2016
-22,Kacey Bellamy,D,0,0,0,0,0,0,0,0,0,0 - 0,0,0,0,2,0,0,0, Boston Pride,stats#/player/58128,58128,63628,,,,,,,2016
-23,Corinne Buie,F,0,0,0,0,0,0,0,0,0,1 - 0,1,0,0,4,0,1,0, Boston Pride,stats#/player/58129,58129,63628,,,,,,,2016
-91,Rachel Llanes,F,0,0,0,0,0,0,0,0,0,3 - 4,0.429,0,0,4,0,3,4, Boston Pride,stats#/player/58135,58135,63628,,,,,,,2016
+5,Kelly Cooke,F,0,0,0,0,0,3,0,0,0,0 - 1,0,0,0,3,0,0,1, Boston Pride,stats#/player/58117,58117,63628,,,,,,,2016
+10,Blake Bolden,D,0,0,0,0,0,6,0,0,0,0 - 0,0,0,0,6,0,0,0, Boston Pride,stats#/player/58119,58119,63628,,,,,,,2016
+11,Jordan Smelker,F,0,0,0,0,0,4,0,0,0,0 - 0,0,0,0,4,0,0,0, Boston Pride,stats#/player/58120,58120,63628,,,,,,,2016
+15,Emily Field,F,0,0,0,0,0,3,0,0,0,0 - 0,0,0,0,3,0,0,0, Boston Pride,stats#/player/58123,58123,63628,,,,,,,2016
+22,Kacey Bellamy,D,0,0,0,0,0,2,0,0,0,0 - 0,0,0,0,2,0,0,0, Boston Pride,stats#/player/58128,58128,63628,,,,,,,2016
+23,Corinne Buie,F,0,0,0,0,0,4,0,0,0,1 - 0,1,0,0,4,0,1,0, Boston Pride,stats#/player/58129,58129,63628,,,,,,,2016
+91,Rachel Llanes,F,0,0,0,0,0,4,0,0,0,3 - 4,0.429,0,0,4,0,3,4, Boston Pride,stats#/player/58135,58135,63628,,,,,,,2016
 2,Amber Moore,D,0,0,0,0,0,0,0,0,0,0 - 0,0,0,0,0,0,0,0, New York Riveters,stats#/player/57697,57697,63628,,,,,,,2016
 4,Elena Orlando,D,0,0,0,0,0,0,0,0,0,0 - 0,0,0,0,0,0,0,0, New York Riveters,stats#/player/909127,909127,63628,,,,,,,2016
-8,Sydney Kidd,D,0,0,0,2,0,0,0,0,0,0 - 0,0,0,0,1,0,0,0, New York Riveters,stats#/player/57699,57699,63628,,,,,,,2016
-9,Ludmila Belyakova,F,0,0,0,0,0,0,0,0,0,8 - 6,0.571,0,0,4,0,8,6, New York Riveters,stats#/player/57700,57700,63628,,,,,,,2016
+8,Sydney Kidd,D,0,0,0,2,0,1,0,0,0,0 - 0,0,0,0,1,0,0,0, New York Riveters,stats#/player/57699,57699,63628,,,,,,,2016
+9,Ludmila Belyakova,F,0,0,0,0,0,4,0,0,0,8 - 6,0.571,0,0,4,0,8,6, New York Riveters,stats#/player/57700,57700,63628,,,,,,,2016
 10,Ashley Johnston,D,0,0,0,0,0,0,0,0,0,0 - 0,0,0,0,0,0,0,0, New York Riveters,stats#/player/57701,57701,63628,,,,,,,2016
 12,Janine Weber,F,0,0,0,0,0,0,0,0,0,3 - 1,0.75,0,0,0,0,3,1, New York Riveters,stats#/player/513300,513300,63628,,,,,,,2016
-14,Madison Packer,F,0,0,0,2,0,0,0,0,0,1 - 2,0.333,0,0,3,0,1,2, New York Riveters,stats#/player/966106,966106,63628,,,,,,,2016
-17,Bray Ketchum,F,0,0,0,0,0,0,0,0,0,0 - 1,0,0,0,2,0,0,1, New York Riveters,stats#/player/57716,57716,63628,,,,,,,2016
-18,Meghan Fardelmann,F,0,0,0,0,0,0,0,0,0,2 - 5,0.286,0,0,3,0,2,5, New York Riveters,stats#/player/57636,57636,63628,,,,,,,2016
-20,Brooke Ammerman,F,0,0,0,2,0,0,0,0,0,9 - 8,0.529,0,0,2,0,9,8, New York Riveters,stats#/player/57718,57718,63628,,,,,,,2016
+14,Madison Packer,F,0,0,0,2,0,3,0,0,0,1 - 2,0.333,0,0,3,0,1,2, New York Riveters,stats#/player/966106,966106,63628,,,,,,,2016
+17,Bray Ketchum,F,0,0,0,0,0,2,0,0,0,0 - 1,0,0,0,2,0,0,1, New York Riveters,stats#/player/57716,57716,63628,,,,,,,2016
+18,Meghan Fardelmann,F,0,0,0,0,0,3,0,0,0,2 - 5,0.286,0,0,3,0,2,5, New York Riveters,stats#/player/57636,57636,63628,,,,,,,2016
+20,Brooke Ammerman,F,0,0,0,2,0,2,0,0,0,9 - 8,0.529,0,0,2,0,9,8, New York Riveters,stats#/player/57718,57718,63628,,,,,,,2016
 21,Gabie Figueroa,D,0,0,0,2,0,0,0,0,0,0 - 0,0,0,0,0,0,0,0, New York Riveters,stats#/player/57719,57719,63628,,,,,,,2016
 24,Celeste Brown,F,0,0,0,2,0,0,0,0,0,2 - 2,0.5,0,0,0,0,2,2, New York Riveters,stats#/player/57721,57721,63628,,,,,,,2016
-26,Kiira Dosdall-Arena,D,0,0,0,2,0,0,0,0,0,0 - 0,0,0,0,1,0,0,0, New York Riveters,stats#/player/1066549,1066549,63628,,,,,,,2016
-28,Beth Hanrahan,F,0,0,0,2,0,0,0,0,0,0 - 0,0,0,0,1,0,0,0, New York Riveters,stats#/player/57723,57723,63628,,,,,,,2016
+26,Kiira Dosdall-Arena,D,0,0,0,2,0,1,0,0,0,0 - 0,0,0,0,1,0,0,0, New York Riveters,stats#/player/1066549,1066549,63628,,,,,,,2016
+28,Beth Hanrahan,F,0,0,0,2,0,1,0,0,0,0 - 0,0,0,0,1,0,0,0, New York Riveters,stats#/player/57723,57723,63628,,,,,,,2016
 91,Taylor Holze,F,0,0,0,0,0,0,0,0,0,0 - 3,0,0,0,0,0,0,3, New York Riveters,stats#/player/57726,57726,63628,,,,,,,2016
 1,Kelsie Fralick,G,0,0,,0,,,,,,,,,,,,,, Boston Pride,,58114,63628,00:00,0,0,0,0,stats#/player/58114,2016
 29,Brittany Ott,G,0,0,,0,,,,,,,,,,,,,, Boston Pride,,58131,63628,60:00,17,0,17,1,stats#/player/58131,2016
@@ -287,8 +287,8 @@ player_jersey,player_name,position,goals,assists,points,penalty_minutes,plus_min
 33,Nana Fujimoto,G,0,0,,0,,,,,,,,,,,,,, New York Riveters,,58266,40897,00:00,0,0,0,0,stats#/player/58266,2016
 78,Chelsea Laden,G,0,0,,0,,,,,,,,,,,,,, New York Riveters,,57761,40897,59:25,24,3,21,0.875,stats#/player/57761,2016
 9,Megan Bozek,D,0,2,2,2,0,0,0,0,0,0 - 0,0,0,0,0,0,0,0, Buffalo Beauts,stats#/player/58091,58091,40896,,,,,,,2016
-10,Meghan Duggan,F,1,0,1,0,0,0,0,0,0,0 - 0,0,0,0,0,0,0,0, Buffalo Beauts,stats#/player/58098,58098,40896,,,,,,,2016
-24,Hailey Browne,F,1,0,1,0,0,0,0,0,0,0 - 0,0,0,0,0,0,0,0, Buffalo Beauts,stats#/player/58106,58106,40896,,,,,,,2016
+10,Meghan Duggan,F,1,0,1,0,0,1,0,0,0,0 - 0,0,0,0,1,0,0,0, Buffalo Beauts,stats#/player/58098,58098,40896,,,,,,,2016
+24,Hailey Browne,F,1,0,1,0,0,1,0,0,0,0 - 0,0,0,0,1,0,0,0, Buffalo Beauts,stats#/player/58106,58106,40896,,,,,,,2016
 43,Tatiana Rafter,F,0,1,1,0,0,0,0,0,0,0 - 0,0,0,0,0,0,0,0, Buffalo Beauts,stats#/player/58112,58112,40896,,,,,,,2016
 2,Paige Harrington,D,0,0,0,2,0,0,0,0,0,0 - 0,0,0,0,0,0,0,0, Buffalo Beauts,stats#/player/58084,58084,40896,,,,,,,2016
 6,Jessica Fickel,F,0,0,0,0,0,0,0,0,0,0 - 0,0,0,0,0,0,0,0, Buffalo Beauts,stats#/player/58087,58087,40896,,,,,,,2016
@@ -301,18 +301,18 @@ player_jersey,player_name,position,goals,assists,points,penalty_minutes,plus_min
 23,Lindsay Grigg,D,0,0,0,2,0,0,0,0,0,0 - 0,0,0,0,0,0,0,0, Buffalo Beauts,stats#/player/58105,58105,40896,,,,,,,2016
 36,Kourtney Kunichika,F,0,0,0,0,0,0,0,0,0,0 - 0,0,0,0,0,0,0,0, Buffalo Beauts,stats#/player/58111,58111,40896,,,,,,,2016
 2,Alyssa Gagliardi,D,0,1,1,2,0,0,0,0,0,0 - 0,0,0,0,0,0,0,0, Boston Pride,stats#/player/58115,58115,40896,,,,,,,2016
-3,Jillian Dempsey,F,1,0,1,2,0,0,0,0,0,0 - 0,0,0,0,0,0,0,0, Boston Pride,stats#/player/58116,58116,40896,,,,,,,2016
+3,Jillian Dempsey,F,1,0,1,2,0,1,0,0,0,0 - 0,0,0,0,1,0,0,0, Boston Pride,stats#/player/58116,58116,40896,,,,,,,2016
 12,Marissa Gedman,D,0,1,1,2,0,0,0,0,0,0 - 0,0,0,0,0,0,0,0, Boston Pride,stats#/player/58121,58121,40896,,,,,,,2016
-14,Brianna Decker,F,1,0,1,0,0,0,0,0,0,0 - 0,0,0,0,0,0,0,0, Boston Pride,stats#/player/58122,58122,40896,,,,,,,2016
+14,Brianna Decker,F,1,0,1,0,0,1,0,0,0,0 - 0,0,0,0,1,0,0,0, Boston Pride,stats#/player/58122,58122,40896,,,,,,,2016
 21,Hilary Knight,F,0,1,1,0,0,0,0,0,0,0 - 0,0,0,0,0,0,0,0, Boston Pride,stats#/player/58127,58127,40896,,,,,,,2016
 22,Kacey Bellamy,D,0,1,1,2,0,0,0,0,0,0 - 0,0,0,0,0,0,0,0, Boston Pride,stats#/player/58128,58128,40896,,,,,,,2016
-23,Corinne Buie,F,1,0,1,0,0,0,0,0,0,0 - 0,0,0,0,0,0,0,0, Boston Pride,stats#/player/58129,58129,40896,,,,,,,2016
+23,Corinne Buie,F,1,0,1,0,0,1,0,0,0,0 - 0,0,0,0,1,0,0,0, Boston Pride,stats#/player/58129,58129,40896,,,,,,,2016
 44,Zoe Hickel,F,0,1,1,2,0,0,0,0,0,0 - 0,0,0,0,0,0,0,0, Boston Pride,stats#/player/463308,463308,40896,,,,,,,2016
 5,Kelly Cooke,F,0,0,0,0,0,0,0,0,0,0 - 0,0,0,0,0,0,0,0, Boston Pride,stats#/player/58117,58117,40896,,,,,,,2016
 10,Blake Bolden,D,0,0,0,0,0,0,0,0,0,0 - 0,0,0,0,0,0,0,0, Boston Pride,stats#/player/58119,58119,40896,,,,,,,2016
 11,Jordan Smelker,F,0,0,0,0,0,0,0,0,0,0 - 0,0,0,0,0,0,0,0, Boston Pride,stats#/player/58120,58120,40896,,,,,,,2016
 15,Emily Field,F,0,0,0,0,0,0,0,0,0,0 - 0,0,0,0,0,0,0,0, Boston Pride,stats#/player/58123,58123,40896,,,,,,,2016
-16,Amanda Pelkey,F,0,0,0,0,0,0,0,0,0,0 - 0,0,0,0,0,0,0,0, Boston Pride,stats#/player/58124,58124,40896,,,,,,,2016
+16,Amanda Pelkey,F,0,0,0,0,0,0,0,0,0,0 - 0,0,0,0,0,0,0,0, Boston Pride,stats#/player/1194634,1194634,40896,,,,,,,2016
 19,Gigi Marvin,D,0,0,0,0,0,0,0,0,0,0 - 0,0,0,0,0,0,0,0, Boston Pride,stats#/player/58126,58126,40896,,,,,,,2016
 57,Meagan Mangene,D,0,0,0,0,0,0,0,0,0,0 - 0,0,0,0,0,0,0,0, Boston Pride,stats#/player/58134,58134,40896,,,,,,,2016
 1,Kimberly Sass,G,0,0,,0,,,,,,,,,,,,,, Buffalo Beauts,,58083,40896,00:00,0,0,0,0,stats#/player/58083,2016
@@ -382,7 +382,7 @@ player_jersey,player_name,position,goals,assists,points,penalty_minutes,plus_min
 5,Kelly Cooke,F,0,0,0,2,0,0,0,0,0,0 - 0,0,0,0,0,0,0,0, Boston Pride,stats#/player/58117,58117,40895,,,,,,,2016
 10,Blake Bolden,D,0,0,0,0,0,1,0,0,0,0 - 0,0,0,0,1,0,0,0, Boston Pride,stats#/player/58119,58119,40895,,,,,,,2016
 12,Marissa Gedman,D,0,0,0,2,0,1,0,0,0,0 - 0,0,0,0,1,0,0,0, Boston Pride,stats#/player/58121,58121,40895,,,,,,,2016
-16,Amanda Pelkey,F,0,0,0,0,0,0,0,0,0,0 - 0,0,0,0,0,0,0,0, Boston Pride,stats#/player/58124,58124,40895,,,,,,,2016
+16,Amanda Pelkey,F,0,0,0,0,0,0,0,0,0,0 - 0,0,0,0,0,0,0,0, Boston Pride,stats#/player/1194634,1194634,40895,,,,,,,2016
 19,Gigi Marvin,D,0,0,0,0,0,6,0,0,0,0 - 0,0,0,0,6,0,0,0, Boston Pride,stats#/player/58126,58126,40895,,,,,,,2016
 23,Corinne Buie,F,0,0,0,0,0,1,0,0,0,0 - 0,0,0,0,1,0,0,0, Boston Pride,stats#/player/58129,58129,40895,,,,,,,2016
 44,Zoe Hickel,F,0,0,0,2,0,1,0,0,0,0 - 0,0,0,0,1,0,0,0, Boston Pride,stats#/player/463308,463308,40895,,,,,,,2016
@@ -392,36 +392,36 @@ player_jersey,player_name,position,goals,assists,points,penalty_minutes,plus_min
 1,Kelsie Fralick,G,0,0,,0,,,,,,,,,,,,,, Boston Pride,,58114,40895,00:00,0,0,0,0,stats#/player/58114,2016
 29,Brittany Ott,G,0,0,,0,,,,,,,,,,,,,, Boston Pride,,58131,40895,60:00,22,3,19,0.864,stats#/player/58131,2016
 30,Lauren Slebodnick,G,0,0,,0,,,,,,,,,,,,,, Boston Pride,,58132,40895,00:00,0,0,0,0,stats#/player/58132,2016
-11,Jordan Smelker,F,2,1,3,0,0,0,0,0,0,0 - 0,0,0,0,7,0,0,0, Boston Pride,stats#/player/58120,58120,40892,,,,,,,2016
-14,Brianna Decker,F,1,1,2,0,0,0,0,0,0,8 - 10,0.444,1,0,5,0,8,10, Boston Pride,stats#/player/58122,58122,40892,,,,,,,2016
-19,Gigi Marvin,D,1,1,2,2,0,0,0,0,0,0 - 0,0,0,1,7,0,0,0, Boston Pride,stats#/player/58126,58126,40892,,,,,,,2016
-21,Hilary Knight,F,0,2,2,0,0,0,0,0,0,0 - 0,0,0,0,4,0,0,0, Boston Pride,stats#/player/58127,58127,40892,,,,,,,2016
-2,Alyssa Gagliardi,D,0,1,1,0,0,0,0,0,0,0 - 0,0,0,0,1,0,0,0, Boston Pride,stats#/player/58115,58115,40892,,,,,,,2016
-3,Jillian Dempsey,F,0,1,1,0,0,0,0,0,0,5 - 11,0.313,0,0,5,0,5,11, Boston Pride,stats#/player/58116,58116,40892,,,,,,,2016
+11,Jordan Smelker,F,2,1,3,0,0,7,0,0,0,0 - 0,0,0,0,7,0,0,0, Boston Pride,stats#/player/58120,58120,40892,,,,,,,2016
+14,Brianna Decker,F,1,1,2,0,0,5,0,0,0,8 - 10,0.444,1,0,5,0,8,10, Boston Pride,stats#/player/58122,58122,40892,,,,,,,2016
+19,Gigi Marvin,D,1,1,2,2,0,7,0,0,0,0 - 0,0,0,1,7,0,0,0, Boston Pride,stats#/player/58126,58126,40892,,,,,,,2016
+21,Hilary Knight,F,0,2,2,0,0,4,0,0,0,0 - 0,0,0,0,4,0,0,0, Boston Pride,stats#/player/58127,58127,40892,,,,,,,2016
+2,Alyssa Gagliardi,D,0,1,1,0,0,1,0,0,0,0 - 0,0,0,0,1,0,0,0, Boston Pride,stats#/player/58115,58115,40892,,,,,,,2016
+3,Jillian Dempsey,F,0,1,1,0,0,5,0,0,0,5 - 11,0.313,0,0,5,0,5,11, Boston Pride,stats#/player/58116,58116,40892,,,,,,,2016
 5,Kelly Cooke,F,0,0,0,0,0,0,0,0,0,0 - 0,0,0,0,0,0,0,0, Boston Pride,stats#/player/58117,58117,40892,,,,,,,2016
-10,Blake Bolden,D,0,0,0,0,0,0,0,0,0,0 - 0,0,0,0,1,0,0,0, Boston Pride,stats#/player/58119,58119,40892,,,,,,,2016
-12,Marissa Gedman,D,0,0,0,0,0,0,0,0,0,0 - 0,0,0,0,1,0,0,0, Boston Pride,stats#/player/58121,58121,40892,,,,,,,2016
+10,Blake Bolden,D,0,0,0,0,0,1,0,0,0,0 - 0,0,0,0,1,0,0,0, Boston Pride,stats#/player/58119,58119,40892,,,,,,,2016
+12,Marissa Gedman,D,0,0,0,0,0,1,0,0,0,0 - 0,0,0,0,1,0,0,0, Boston Pride,stats#/player/58121,58121,40892,,,,,,,2016
 15,Emily Field,F,0,0,0,0,0,0,0,0,0,0 - 0,0,0,0,0,0,0,0, Boston Pride,stats#/player/58123,58123,40892,,,,,,,2016
-16,Amanda Pelkey,F,0,0,0,0,0,0,0,0,0,1 - 2,0.333,0,0,2,0,1,2, Boston Pride,stats#/player/58124,58124,40892,,,,,,,2016
-23,Corinne Buie,F,0,0,0,0,0,0,0,0,0,0 - 0,0,0,0,3,0,0,0, Boston Pride,stats#/player/58129,58129,40892,,,,,,,2016
-44,Zoe Hickel,F,0,0,0,0,0,0,0,0,0,0 - 1,0,0,0,6,0,0,1, Boston Pride,stats#/player/463308,463308,40892,,,,,,,2016
+16,Amanda Pelkey,F,0,0,0,0,0,2,0,0,0,1 - 2,0.333,0,0,2,0,1,2, Boston Pride,stats#/player/1194634,1194634,40892,,,,,,,2016
+23,Corinne Buie,F,0,0,0,0,0,3,0,0,0,0 - 0,0,0,0,3,0,0,0, Boston Pride,stats#/player/58129,58129,40892,,,,,,,2016
+44,Zoe Hickel,F,0,0,0,0,0,6,0,0,0,0 - 1,0,0,0,6,0,0,1, Boston Pride,stats#/player/463308,463308,40892,,,,,,,2016
 57,Meagan Mangene,D,0,0,0,0,0,0,0,0,0,0 - 0,0,0,0,0,0,0,0, Boston Pride,stats#/player/58134,58134,40892,,,,,,,2016
-91,Rachel Llanes,F,0,0,0,0,0,0,0,0,0,4 - 8,0.333,0,0,1,0,4,8, Boston Pride,stats#/player/58135,58135,40892,,,,,,,2016
-8,Kelly Babstock,F,1,0,1,0,0,0,0,0,0,13 - 4,0.765,0,0,2,0,13,4, Connecticut Whale,stats#/player/699761,699761,40892,,,,,,,2016
-19,Brittany Dougherty,F,1,0,1,0,0,0,0,0,0,3 - 3,0.5,0,0,1,0,3,3, Connecticut Whale,stats#/player/57742,57742,40892,,,,,,,2016
-26,Jordan Brickner,D,0,1,1,0,0,0,0,0,0,0 - 0,0,0,0,1,0,0,0, Connecticut Whale,stats#/player/57751,57751,40892,,,,,,,2016
+91,Rachel Llanes,F,0,0,0,0,0,1,0,0,0,4 - 8,0.333,0,0,1,0,4,8, Boston Pride,stats#/player/58135,58135,40892,,,,,,,2016
+8,Kelly Babstock,F,1,0,1,0,0,2,0,0,0,13 - 4,0.765,0,0,2,0,13,4, Connecticut Whale,stats#/player/699761,699761,40892,,,,,,,2016
+19,Brittany Dougherty,F,1,0,1,0,0,1,0,0,0,3 - 3,0.5,0,0,1,0,3,3, Connecticut Whale,stats#/player/57742,57742,40892,,,,,,,2016
+26,Jordan Brickner,D,0,1,1,0,0,1,0,0,0,0 - 0,0,0,0,1,0,0,0, Connecticut Whale,stats#/player/57751,57751,40892,,,,,,,2016
 4,Anya Battaglino,D,0,0,0,0,0,0,0,0,0,0 - 0,0,0,0,0,0,0,0, Connecticut Whale,stats#/player/57730,57730,40892,,,,,,,2016
-5,Kate Buesser,F,0,0,0,0,0,0,0,0,0,4 - 0,1,0,0,2,0,4,0, Connecticut Whale,stats#/player/64987,64987,40892,,,,,,,2016
+5,Kate Buesser,F,0,0,0,0,0,2,0,0,0,4 - 0,1,0,0,2,0,4,0, Connecticut Whale,stats#/player/64987,64987,40892,,,,,,,2016
 6,Shannon Turner,D,0,0,0,0,0,0,0,0,0,0 - 0,0,0,0,0,0,0,0, Connecticut Whale,stats#/player/967608,967608,40892,,,,,,,2016
-9,Molly Engstrom,D,0,0,0,2,0,0,0,0,0,0 - 0,0,0,0,1,0,0,0, Connecticut Whale,stats#/player/57733,57733,40892,,,,,,,2016
+9,Molly Engstrom,D,0,0,0,2,0,1,0,0,0,0 - 0,0,0,0,1,0,0,0, Connecticut Whale,stats#/player/57733,57733,40892,,,,,,,2016
 13,Kaleigh Fratkin,D,0,0,0,4,0,0,0,0,0,0 - 0,0,0,0,0,0,0,0, Connecticut Whale,stats#/player/57735,57735,40892,,,,,,,2016
-16,Micaela Long,F,0,0,0,0,0,0,0,0,0,0 - 0,0,0,0,3,0,0,0, Connecticut Whale,stats#/player/57736,57736,40892,,,,,,,2016
-17,Yekaterina Smolentseva,F,0,0,0,0,0,0,0,0,0,0 - 0,0,0,0,5,0,0,0, Connecticut Whale,stats#/player/57737,57737,40892,,,,,,,2016
-22,Danielle Ward,F,0,0,0,0,0,0,0,0,0,2 - 1,0.667,0,0,1,0,2,1, Connecticut Whale,stats#/player/57743,57743,40892,,,,,,,2016
+16,Micaela Long,F,0,0,0,0,0,3,0,0,0,0 - 0,0,0,0,3,0,0,0, Connecticut Whale,stats#/player/57736,57736,40892,,,,,,,2016
+17,Yekaterina Smolentseva,F,0,0,0,0,0,5,0,0,0,0 - 0,0,0,0,5,0,0,0, Connecticut Whale,stats#/player/57737,57737,40892,,,,,,,2016
+22,Danielle Ward,F,0,0,0,0,0,1,0,0,0,2 - 1,0.667,0,0,1,0,2,1, Connecticut Whale,stats#/player/57743,57743,40892,,,,,,,2016
 28,Sam Faber,F,0,0,0,0,0,0,0,0,0,0 - 0,0,0,0,0,0,0,0, Connecticut Whale,stats#/player/57753,57753,40892,,,,,,,2016
 44,Tara Tomimoto,D,0,0,0,0,0,0,0,0,0,0 - 0,0,0,0,0,0,0,0, Connecticut Whale,stats#/player/57728,57728,40892,,,,,,,2016
 61,Kelli Stack,F,0,0,0,2,0,0,0,0,0,9 - 10,0.474,0,0,0,0,9,10, Connecticut Whale,stats#/player/57760,57760,40892,,,,,,,2016
-88,Alyssa Wohlfeiler,F,0,0,0,0,0,0,0,0,0,1 - 0,1,0,0,1,0,1,0, Connecticut Whale,stats#/player/57768,57768,40892,,,,,,,2016
+88,Alyssa Wohlfeiler,F,0,0,0,0,0,1,0,0,0,1 - 0,1,0,0,1,0,1,0, Connecticut Whale,stats#/player/57768,57768,40892,,,,,,,2016
 1,Kelsie Fralick,G,0,0,,0,,,,,,,,,,,,,, Boston Pride,,58114,40892,00:00,0,0,0,0,stats#/player/58114,2016
 29,Brittany Ott,G,0,0,,0,,,,,,,,,,,,,, Boston Pride,,58131,40892,60:00,17,2,15,0.882,stats#/player/58131,2016
 24,Nicole Stock,G,0,0,,0,,,,,,,,,,,,,, Connecticut Whale,,57750,40892,58:42,41,3,38,0.927,stats#/player/57750,2016
@@ -497,72 +497,72 @@ player_jersey,player_name,position,goals,assists,points,penalty_minutes,plus_min
 1,Kimberly Sass,G,0,0,,0,,,,,,,,,,,,,, Buffalo Beauts,,58083,40886,00:00,0,0,0,0,stats#/player/58083,2016
 29,Brianne McLaughlin,G,0,0,,0,,,,,,,,,,,,,, Buffalo Beauts,,58108,40886,77:52,34,3,31,0.912,stats#/player/58108,2016
 34,Amanda Makela,G,0,0,,0,,,,,,,,,,,,,, Buffalo Beauts,,58109,40886,00:00,0,0,0,0,stats#/player/58109,2016
-9,Ludmila Belyakova,F,1,0,1,2,0,0,0,0,0,0 - 0,0,1,0,2,0,0,0, New York Riveters,stats#/player/57700,57700,40889,,,,,,,2016
-17,Bray Ketchum,F,0,1,1,2,0,0,0,0,0,0 - 0,0,0,0,3,0,0,0, New York Riveters,stats#/player/57716,57716,40889,,,,,,,2016
+9,Ludmila Belyakova,F,1,0,1,2,0,2,0,0,0,0 - 0,0,1,0,2,0,0,0, New York Riveters,stats#/player/57700,57700,40889,,,,,,,2016
+17,Bray Ketchum,F,0,1,1,2,0,3,0,0,0,0 - 0,0,0,0,3,0,0,0, New York Riveters,stats#/player/57716,57716,40889,,,,,,,2016
 2,Amber Moore,D,0,0,0,0,0,0,0,0,0,0 - 0,0,0,0,0,0,0,0, New York Riveters,stats#/player/57697,57697,40889,,,,,,,2016
 4,Elena Orlando,D,0,0,0,0,0,0,0,0,0,0 - 0,0,0,0,0,0,0,0, New York Riveters,stats#/player/909127,909127,40889,,,,,,,2016
 8,Sydney Kidd,D,0,0,0,0,0,0,0,0,0,0 - 0,0,0,0,0,0,0,0, New York Riveters,stats#/player/57699,57699,40889,,,,,,,2016
-10,Ashley Johnston,D,0,0,0,0,0,0,0,0,0,3 - 0,1,0,0,1,0,3,0, New York Riveters,stats#/player/57701,57701,40889,,,,,,,2016
-11,Morgan Fritz-Ward,F,0,0,0,0,0,0,0,0,0,0 - 0,0,0,0,1,0,0,0, New York Riveters,stats#/player/57702,57702,40889,,,,,,,2016
-12,Janine Weber,F,0,0,0,0,0,0,0,0,0,0 - 0,0,0,0,5,0,0,0, New York Riveters,stats#/player/513300,513300,40889,,,,,,,2016
-14,Madison Packer,F,0,0,0,0,0,0,0,0,0,0 - 0,0,0,0,2,0,0,0, New York Riveters,stats#/player/966106,966106,40889,,,,,,,2016
-18,Meghan Fardelmann,F,0,0,0,2,0,0,0,0,0,0 - 0,0,0,0,1,0,0,0, New York Riveters,stats#/player/57636,57636,40889,,,,,,,2016
-20,Brooke Ammerman,F,0,0,0,0,0,0,0,0,0,1 - 0,1,0,0,2,0,1,0, New York Riveters,stats#/player/57718,57718,40889,,,,,,,2016
-21,Gabie Figueroa,D,0,0,0,2,0,0,0,0,0,0 - 0,0,0,0,1,0,0,0, New York Riveters,stats#/player/57719,57719,40889,,,,,,,2016
-24,Celeste Brown,F,0,0,0,2,0,0,0,0,0,1 - 0,1,0,0,2,0,1,0, New York Riveters,stats#/player/57721,57721,40889,,,,,,,2016
-26,Kiira Dosdall-Arena,D,0,0,0,0,0,0,0,0,0,0 - 0,0,0,0,2,0,0,0, New York Riveters,stats#/player/1066549,1066549,40889,,,,,,,2016
-28,Beth Hanrahan,F,0,0,0,0,0,0,0,0,0,0 - 0,0,0,0,2,0,0,0, New York Riveters,stats#/player/57723,57723,40889,,,,,,,2016
-2,Alyssa Gagliardi,D,0,2,2,2,0,0,0,0,0,0 - 0,0,0,0,2,0,0,0, Boston Pride,stats#/player/58115,58115,40889,,,,,,,2016
-3,Jillian Dempsey,F,1,1,2,0,0,0,0,0,0,3 - 0,1,1,0,5,0,3,0, Boston Pride,stats#/player/58116,58116,40889,,,,,,,2016
+10,Ashley Johnston,D,0,0,0,0,0,1,0,0,0,3 - 0,1,0,0,1,0,3,0, New York Riveters,stats#/player/57701,57701,40889,,,,,,,2016
+11,Morgan Fritz-Ward,F,0,0,0,0,0,1,0,0,0,0 - 0,0,0,0,1,0,0,0, New York Riveters,stats#/player/57702,57702,40889,,,,,,,2016
+12,Janine Weber,F,0,0,0,0,0,5,0,0,0,0 - 0,0,0,0,5,0,0,0, New York Riveters,stats#/player/513300,513300,40889,,,,,,,2016
+14,Madison Packer,F,0,0,0,0,0,2,0,0,0,0 - 0,0,0,0,2,0,0,0, New York Riveters,stats#/player/966106,966106,40889,,,,,,,2016
+18,Meghan Fardelmann,F,0,0,0,2,0,1,0,0,0,0 - 0,0,0,0,1,0,0,0, New York Riveters,stats#/player/57636,57636,40889,,,,,,,2016
+20,Brooke Ammerman,F,0,0,0,0,0,2,0,0,0,1 - 0,1,0,0,2,0,1,0, New York Riveters,stats#/player/57718,57718,40889,,,,,,,2016
+21,Gabie Figueroa,D,0,0,0,2,0,1,0,0,0,0 - 0,0,0,0,1,0,0,0, New York Riveters,stats#/player/57719,57719,40889,,,,,,,2016
+24,Celeste Brown,F,0,0,0,2,0,2,0,0,0,1 - 0,1,0,0,2,0,1,0, New York Riveters,stats#/player/57721,57721,40889,,,,,,,2016
+26,Kiira Dosdall-Arena,D,0,0,0,0,0,2,0,0,0,0 - 0,0,0,0,2,0,0,0, New York Riveters,stats#/player/1066549,1066549,40889,,,,,,,2016
+28,Beth Hanrahan,F,0,0,0,0,0,2,0,0,0,0 - 0,0,0,0,2,0,0,0, New York Riveters,stats#/player/57723,57723,40889,,,,,,,2016
+2,Alyssa Gagliardi,D,0,2,2,2,0,2,0,0,0,0 - 0,0,0,0,2,0,0,0, Boston Pride,stats#/player/58115,58115,40889,,,,,,,2016
+3,Jillian Dempsey,F,1,1,2,0,0,5,0,0,0,3 - 0,1,1,0,5,0,3,0, Boston Pride,stats#/player/58116,58116,40889,,,,,,,2016
 11,Jordan Smelker,F,0,2,2,2,0,0,0,0,0,0 - 0,0,0,0,0,0,0,0, Boston Pride,stats#/player/58120,58120,40889,,,,,,,2016
-14,Brianna Decker,F,1,1,2,0,0,0,0,0,0,5 - 0,1,0,0,6,0,5,0, Boston Pride,stats#/player/58122,58122,40889,,,,,,,2016
-19,Gigi Marvin,D,1,1,2,2,0,0,0,0,0,0 - 0,0,0,0,2,0,0,0, Boston Pride,stats#/player/58126,58126,40889,,,,,,,2016
-5,Kelly Cooke,F,1,0,1,0,0,0,0,0,0,1 - 0,1,0,0,2,0,1,0, Boston Pride,stats#/player/58117,58117,40889,,,,,,,2016
-10,Blake Bolden,D,0,1,1,0,0,0,0,0,0,0 - 0,0,0,0,1,0,0,0, Boston Pride,stats#/player/58119,58119,40889,,,,,,,2016
-16,Amanda Pelkey,F,0,1,1,0,0,0,0,0,0,0 - 0,0,0,0,4,0,0,0, Boston Pride,stats#/player/58124,58124,40889,,,,,,,2016
-21,Hilary Knight,F,1,0,1,0,0,0,0,0,0,2 - 0,1,0,0,7,0,2,0, Boston Pride,stats#/player/58127,58127,40889,,,,,,,2016
-44,Zoe Hickel,F,1,0,1,4,0,0,0,0,0,1 - 0,1,0,0,5,0,1,0, Boston Pride,stats#/player/463308,463308,40889,,,,,,,2016
+14,Brianna Decker,F,1,1,2,0,0,6,0,0,0,5 - 0,1,0,0,6,0,5,0, Boston Pride,stats#/player/58122,58122,40889,,,,,,,2016
+19,Gigi Marvin,D,1,1,2,2,0,2,0,0,0,0 - 0,0,0,0,2,0,0,0, Boston Pride,stats#/player/58126,58126,40889,,,,,,,2016
+5,Kelly Cooke,F,1,0,1,0,0,2,0,0,0,1 - 0,1,0,0,2,0,1,0, Boston Pride,stats#/player/58117,58117,40889,,,,,,,2016
+10,Blake Bolden,D,0,1,1,0,0,1,0,0,0,0 - 0,0,0,0,1,0,0,0, Boston Pride,stats#/player/58119,58119,40889,,,,,,,2016
+16,Amanda Pelkey,F,0,1,1,0,0,4,0,0,0,0 - 0,0,0,0,4,0,0,0, Boston Pride,stats#/player/1194634,1194634,40889,,,,,,,2016
+21,Hilary Knight,F,1,0,1,0,0,7,0,0,0,2 - 0,1,0,0,7,0,2,0, Boston Pride,stats#/player/58127,58127,40889,,,,,,,2016
+44,Zoe Hickel,F,1,0,1,4,0,5,0,0,0,1 - 0,1,0,0,5,0,1,0, Boston Pride,stats#/player/463308,463308,40889,,,,,,,2016
 7,Casey Pickett,F,0,0,0,0,0,0,0,0,0,0 - 0,0,0,0,0,0,0,0, Boston Pride,stats#/player/58118,58118,40889,,,,,,,2016
 12,Marissa Gedman,D,0,0,0,0,0,0,0,0,0,0 - 0,0,0,0,0,0,0,0, Boston Pride,stats#/player/58121,58121,40889,,,,,,,2016
 15,Emily Field,F,0,0,0,4,0,0,0,0,0,0 - 0,0,0,0,0,0,0,0, Boston Pride,stats#/player/58123,58123,40889,,,,,,,2016
 23,Corinne Buie,F,0,0,0,2,0,0,0,0,0,0 - 0,0,0,0,0,0,0,0, Boston Pride,stats#/player/58129,58129,40889,,,,,,,2016
 57,Meagan Mangene,D,0,0,0,0,0,0,0,0,0,0 - 0,0,0,0,0,0,0,0, Boston Pride,stats#/player/58134,58134,40889,,,,,,,2016
-91,Rachel Llanes,F,0,0,0,4,0,0,0,0,0,0 - 0,0,0,0,1,0,0,0, Boston Pride,stats#/player/58135,58135,40889,,,,,,,2016
+91,Rachel Llanes,F,0,0,0,4,0,1,0,0,0,0 - 0,0,0,0,1,0,0,0, Boston Pride,stats#/player/58135,58135,40889,,,,,,,2016
 1,Chelsea Laden,G,0,0,,0,,,,,,,,,,,,,, New York Riveters,,57761,40889,60:00,35,6,29,0.829,stats#/player/57761,2016
 30,Jenny Scrivens,G,0,0,,0,,,,,,,,,,,,,, New York Riveters,,57724,40889,00:00,0,0,0,0,stats#/player/57724,2016
 33,Nana Fujimoto,G,0,0,,0,,,,,,,,,,,,,, New York Riveters,,58266,40889,00:00,0,0,0,0,stats#/player/58266,2016
 1,Kelsie Fralick,G,0,0,,0,,,,,,,,,,,,,, Boston Pride,,58114,40889,00:00,0,0,0,0,stats#/player/58114,2016
 29,Brittany Ott,G,0,1,,0,,,,,,,,,,,,,, Boston Pride,,58131,40889,60:00,24,1,23,0.958,stats#/player/58131,2016
-8,Kelly Babstock,F,1,0,1,0,0,0,0,0,0,9 - 9,0.5,1,0,2,0,9,9, Connecticut Whale,stats#/player/699761,699761,40888,,,,,,,2016
+8,Kelly Babstock,F,1,0,1,0,0,2,0,0,0,9 - 9,0.5,1,0,2,0,9,9, Connecticut Whale,stats#/player/699761,699761,40888,,,,,,,2016
 9,Molly Engstrom,D,0,1,1,0,0,0,0,0,0,0 - 0,0,0,0,0,0,0,0, Connecticut Whale,stats#/player/57733,57733,40888,,,,,,,2016
-19,Brittany Dougherty,F,0,1,1,0,0,0,0,0,0,0 - 0,0,0,0,1,0,0,0, Connecticut Whale,stats#/player/57742,57742,40888,,,,,,,2016
-56,Jessica Koizumi,F,0,1,1,0,0,0,0,0,0,0 - 1,0,0,0,2,0,0,1, Connecticut Whale,stats#/player/57757,57757,40888,,,,,,,2016
-61,Kelli Stack,F,1,0,1,2,0,0,0,0,0,24 - 7,0.774,0,0,6,0,24,7, Connecticut Whale,stats#/player/57760,57760,40888,,,,,,,2016
+19,Brittany Dougherty,F,0,1,1,0,0,1,0,0,0,0 - 0,0,0,0,1,0,0,0, Connecticut Whale,stats#/player/57742,57742,40888,,,,,,,2016
+56,Jessica Koizumi,F,0,1,1,0,0,2,0,0,0,0 - 1,0,0,0,2,0,0,1, Connecticut Whale,stats#/player/57757,57757,40888,,,,,,,2016
+61,Kelli Stack,F,1,0,1,2,0,6,0,0,0,24 - 7,0.774,0,0,6,0,24,7, Connecticut Whale,stats#/player/57760,57760,40888,,,,,,,2016
 4,Anya Battaglino,F,0,0,0,0,0,0,0,0,0,0 - 0,0,0,0,0,0,0,0, Connecticut Whale,stats#/player/57730,57730,40888,,,,,,,2016
-6,Shannon Turner,D,0,0,0,0,0,0,0,0,0,0 - 0,0,0,0,2,0,0,0, Connecticut Whale,stats#/player/967608,967608,40888,,,,,,,2016
-13,Kaleigh Fratkin,D,0,0,0,2,0,0,0,0,0,0 - 0,0,0,0,2,0,0,0, Connecticut Whale,stats#/player/57735,57735,40888,,,,,,,2016
-16,Micaela Long,F,0,0,0,2,0,0,0,0,0,2 - 2,0.5,0,0,4,0,2,2, Connecticut Whale,stats#/player/57736,57736,40888,,,,,,,2016
+6,Shannon Turner,D,0,0,0,0,0,2,0,0,0,0 - 0,0,0,0,2,0,0,0, Connecticut Whale,stats#/player/967608,967608,40888,,,,,,,2016
+13,Kaleigh Fratkin,D,0,0,0,2,0,2,0,0,0,0 - 0,0,0,0,2,0,0,0, Connecticut Whale,stats#/player/57735,57735,40888,,,,,,,2016
+16,Micaela Long,F,0,0,0,2,0,4,0,0,0,2 - 2,0.5,0,0,4,0,2,2, Connecticut Whale,stats#/player/57736,57736,40888,,,,,,,2016
 17,Yekaterina Smolentseva,F,0,0,0,0,0,0,0,0,0,3 - 1,0.75,0,0,0,0,3,1, Connecticut Whale,stats#/player/57737,57737,40888,,,,,,,2016
-22,Danielle Ward,F,0,0,0,0,0,0,0,0,0,2 - 12,0.143,0,0,2,0,2,12, Connecticut Whale,stats#/player/57743,57743,40888,,,,,,,2016
-26,Jordan Brickner,D,0,0,0,0,0,0,0,0,0,0 - 0,0,0,0,1,0,0,0, Connecticut Whale,stats#/player/57751,57751,40888,,,,,,,2016
+22,Danielle Ward,F,0,0,0,0,0,2,0,0,0,2 - 12,0.143,0,0,2,0,2,12, Connecticut Whale,stats#/player/57743,57743,40888,,,,,,,2016
+26,Jordan Brickner,D,0,0,0,0,0,1,0,0,0,0 - 0,0,0,0,1,0,0,0, Connecticut Whale,stats#/player/57751,57751,40888,,,,,,,2016
 44,Tara Tomimoto,D,0,0,0,0,0,0,0,0,0,0 - 0,0,0,0,0,0,0,0, Connecticut Whale,stats#/player/57728,57728,40888,,,,,,,2016
-88,Alyssa Wohlfeiler,F,0,0,0,0,0,0,0,0,0,0 - 0,0,0,0,1,0,0,0, Connecticut Whale,stats#/player/57768,57768,40888,,,,,,,2016
-11,Jordan Smelker,F,1,2,3,4,0,0,0,0,0,0 - 0,0,0,0,2,0,0,0, Boston Pride,stats#/player/58120,58120,40888,,,,,,,2016
-14,Brianna Decker,F,1,2,3,0,0,0,0,0,0,12 - 13,0.48,0,1,9,0,12,13, Boston Pride,stats#/player/58122,58122,40888,,,,,,,2016
-21,Hilary Knight,F,2,1,3,0,0,0,0,0,0,4 - 1,0.8,0,0,9,0,4,1, Boston Pride,stats#/player/58127,58127,40888,,,,,,,2016
-19,Gigi Marvin,D,1,1,2,0,0,0,0,0,0,0 - 0,0,0,0,2,0,0,0, Boston Pride,stats#/player/58126,58126,40888,,,,,,,2016
-22,Kacey Bellamy,D,0,2,2,0,0,0,0,0,0,0 - 0,0,0,0,1,0,0,0, Boston Pride,stats#/player/58128,58128,40888,,,,,,,2016
-2,Alyssa Gagliardi,D,0,0,0,2,0,0,0,0,0,0 - 0,0,0,0,2,0,0,0, Boston Pride,stats#/player/58115,58115,40888,,,,,,,2016
-3,Jillian Dempsey,F,0,0,0,2,0,0,0,0,0,7 - 17,0.292,0,0,4,0,7,17, Boston Pride,stats#/player/58116,58116,40888,,,,,,,2016
-5,Kelly Cooke,F,0,0,0,0,0,0,0,0,0,0 - 0,0,0,0,1,0,0,0, Boston Pride,stats#/player/58117,58117,40888,,,,,,,2016
+88,Alyssa Wohlfeiler,F,0,0,0,0,0,1,0,0,0,0 - 0,0,0,0,1,0,0,0, Connecticut Whale,stats#/player/57768,57768,40888,,,,,,,2016
+11,Jordan Smelker,F,1,2,3,4,0,2,0,0,0,0 - 0,0,0,0,2,0,0,0, Boston Pride,stats#/player/58120,58120,40888,,,,,,,2016
+14,Brianna Decker,F,1,2,3,0,0,9,0,0,0,12 - 13,0.48,0,1,9,0,12,13, Boston Pride,stats#/player/58122,58122,40888,,,,,,,2016
+21,Hilary Knight,F,2,1,3,0,0,9,0,0,0,4 - 1,0.8,0,0,9,0,4,1, Boston Pride,stats#/player/58127,58127,40888,,,,,,,2016
+19,Gigi Marvin,D,1,1,2,0,0,2,0,0,0,0 - 0,0,0,0,2,0,0,0, Boston Pride,stats#/player/58126,58126,40888,,,,,,,2016
+22,Kacey Bellamy,D,0,2,2,0,0,1,0,0,0,0 - 0,0,0,0,1,0,0,0, Boston Pride,stats#/player/58128,58128,40888,,,,,,,2016
+2,Alyssa Gagliardi,D,0,0,0,2,0,2,0,0,0,0 - 0,0,0,0,2,0,0,0, Boston Pride,stats#/player/58115,58115,40888,,,,,,,2016
+3,Jillian Dempsey,F,0,0,0,2,0,4,0,0,0,7 - 17,0.292,0,0,4,0,7,17, Boston Pride,stats#/player/58116,58116,40888,,,,,,,2016
+5,Kelly Cooke,F,0,0,0,0,0,1,0,0,0,0 - 0,0,0,0,1,0,0,0, Boston Pride,stats#/player/58117,58117,40888,,,,,,,2016
 7,Casey Pickett,F,0,0,0,0,0,0,0,0,0,0 - 0,0,0,0,0,0,0,0, Boston Pride,stats#/player/58118,58118,40888,,,,,,,2016
-10,Blake Bolden,D,0,0,0,0,0,0,0,0,0,0 - 0,0,0,0,1,0,0,0, Boston Pride,stats#/player/58119,58119,40888,,,,,,,2016
-12,Marissa Gedman,D,0,0,0,2,0,0,0,0,0,0 - 0,0,0,0,2,0,0,0, Boston Pride,stats#/player/58121,58121,40888,,,,,,,2016
-15,Emily Field,F,0,0,0,0,0,0,0,0,0,0 - 0,0,0,0,1,0,0,0, Boston Pride,stats#/player/58123,58123,40888,,,,,,,2016
-16,Amanda Pelkey,F,0,0,0,2,0,0,0,0,0,0 - 0,0,0,0,1,0,0,0, Boston Pride,stats#/player/58124,58124,40888,,,,,,,2016
-23,Corinne Buie,F,0,0,0,0,0,0,0,0,0,0 - 0,0,0,0,2,0,0,0, Boston Pride,stats#/player/58129,58129,40888,,,,,,,2016
-44,Zoe Hickel,F,0,0,0,0,0,0,0,0,0,0 - 0,0,0,0,4,0,0,0, Boston Pride,stats#/player/463308,463308,40888,,,,,,,2016
-91,Rachel Llanes,F,0,0,0,0,0,0,0,0,0,10 - 7,0.588,0,0,2,0,10,7, Boston Pride,stats#/player/58135,58135,40888,,,,,,,2016
+10,Blake Bolden,D,0,0,0,0,0,1,0,0,0,0 - 0,0,0,0,1,0,0,0, Boston Pride,stats#/player/58119,58119,40888,,,,,,,2016
+12,Marissa Gedman,D,0,0,0,2,0,2,0,0,0,0 - 0,0,0,0,2,0,0,0, Boston Pride,stats#/player/58121,58121,40888,,,,,,,2016
+15,Emily Field,F,0,0,0,0,0,1,0,0,0,0 - 0,0,0,0,1,0,0,0, Boston Pride,stats#/player/58123,58123,40888,,,,,,,2016
+16,Amanda Pelkey,F,0,0,0,2,0,1,0,0,0,0 - 0,0,0,0,1,0,0,0, Boston Pride,stats#/player/1194634,1194634,40888,,,,,,,2016
+23,Corinne Buie,F,0,0,0,0,0,2,0,0,0,0 - 0,0,0,0,2,0,0,0, Boston Pride,stats#/player/58129,58129,40888,,,,,,,2016
+44,Zoe Hickel,F,0,0,0,0,0,4,0,0,0,0 - 0,0,0,0,4,0,0,0, Boston Pride,stats#/player/463308,463308,40888,,,,,,,2016
+91,Rachel Llanes,F,0,0,0,0,0,2,0,0,0,10 - 7,0.588,0,0,2,0,10,7, Boston Pride,stats#/player/58135,58135,40888,,,,,,,2016
 24,Nicole Stock,G,0,0,,0,,,,,,,,,,,,,, Connecticut Whale,,57750,40888,00:00,0,0,0,0,stats#/player/57750,2016
 32,Jaimie Leonoff,G,0,0,,0,,,,,,,,,,,,,, Connecticut Whale,,57754,40888,60:00,59,5,54,0.915,stats#/player/57754,2016
 78,Shenae Lundberg,G,0,0,,0,,,,,,,,,,,,,, Connecticut Whale,,57696,40888,00:00,0,0,0,0,stats#/player/57696,2016
@@ -643,7 +643,7 @@ player_jersey,player_name,position,goals,assists,points,penalty_minutes,plus_min
 19,Gigi Marvin,D,1,1,2,0,0,1,0,0,0,0 - 0,0,1,0,1,0,0,0, Boston Pride,stats#/player/58126,58126,40891,,,,,,,2016
 11,Jordan Smelker,F,1,0,1,0,0,2,0,0,0,0 - 0,0,1,0,2,0,0,0, Boston Pride,stats#/player/58120,58120,40891,,,,,,,2016
 12,Marissa Gedman,D,0,1,1,0,0,0,0,0,0,0 - 0,0,0,0,0,0,0,0, Boston Pride,stats#/player/58121,58121,40891,,,,,,,2016
-16,Amanda Pelkey,F,1,0,1,2,0,3,0,0,0,1 - 1,0.5,0,0,3,0,1,1, Boston Pride,stats#/player/58124,58124,40891,,,,,,,2016
+16,Amanda Pelkey,F,1,0,1,2,0,3,0,0,0,1 - 1,0.5,0,0,3,0,1,1, Boston Pride,stats#/player/1194634,1194634,40891,,,,,,,2016
 22,Kacey Bellamy,D,0,1,1,0,0,2,0,0,0,0 - 0,0,0,0,2,0,0,0, Boston Pride,stats#/player/58128,58128,40891,,,,,,,2016
 2,Alyssa Gagliardi,D,0,0,0,0,0,2,0,0,0,0 - 0,0,0,0,2,0,0,0, Boston Pride,stats#/player/58115,58115,40891,,,,,,,2016
 3,Jillian Dempsey,F,0,0,0,0,0,4,0,0,0,7 - 8,0.467,0,0,4,0,7,8, Boston Pride,stats#/player/58116,58116,40891,,,,,,,2016
@@ -710,39 +710,39 @@ player_jersey,player_name,position,goals,assists,points,penalty_minutes,plus_min
 1,Kimberly Sass,G,0,0,,0,,,,,,,,,,,,,, Buffalo Beauts,,58083,40885,00:00,0,0,0,0,stats#/player/58083,2016
 29,Brianne McLaughlin,G,0,0,,0,,,,,,,,,,,,,, Buffalo Beauts,,58108,40885,00:00,0,0,0,0,stats#/player/58108,2016
 34,Amanda Makela,G,0,0,,0,,,,,,,,,,,,,, Buffalo Beauts,,58109,40885,59:52,42,5,37,0.881,stats#/player/58109,2016
-3,Jillian Dempsey,F,2,1,3,2,0,0,0,0,0,13 - 6,0.684,0,0,6,0,13,6, Boston Pride,stats#/player/58116,58116,40884,,,,,,,2016
-14,Brianna Decker,F,1,2,3,0,0,0,0,0,0,15 - 7,0.682,1,0,6,0,15,7, Boston Pride,stats#/player/58122,58122,40884,,,,,,,2016
-21,Hilary Knight,F,1,2,3,0,0,0,0,0,0,4 - 0,1,0,0,4,0,4,0, Boston Pride,stats#/player/58127,58127,40884,,,,,,,2016
-12,Marissa Gedman,D,0,2,2,0,0,0,0,0,0,0 - 0,0,0,0,1,0,0,0, Boston Pride,stats#/player/58121,58121,40884,,,,,,,2016
+3,Jillian Dempsey,F,2,1,3,2,0,6,0,0,0,13 - 6,0.684,0,0,6,0,13,6, Boston Pride,stats#/player/58116,58116,40884,,,,,,,2016
+14,Brianna Decker,F,1,2,3,0,0,6,0,0,0,15 - 7,0.682,1,0,6,0,15,7, Boston Pride,stats#/player/58122,58122,40884,,,,,,,2016
+21,Hilary Knight,F,1,2,3,0,0,4,0,0,0,4 - 0,1,0,0,4,0,4,0, Boston Pride,stats#/player/58127,58127,40884,,,,,,,2016
+12,Marissa Gedman,D,0,2,2,0,0,1,0,0,0,0 - 0,0,0,0,1,0,0,0, Boston Pride,stats#/player/58121,58121,40884,,,,,,,2016
 15,Emily Field,F,0,2,2,0,0,0,0,0,0,0 - 1,0,0,0,0,0,0,1, Boston Pride,stats#/player/58123,58123,40884,,,,,,,2016
-16,Amanda Pelkey,F,1,1,2,2,0,0,0,0,0,0 - 0,0,0,0,3,0,0,0, Boston Pride,stats#/player/58124,58124,40884,,,,,,,2016
-19,Gigi Marvin,D,0,2,2,0,0,0,0,0,0,0 - 0,0,0,0,2,0,0,0, Boston Pride,stats#/player/58126,58126,40884,,,,,,,2016
-23,Corinne Buie,F,1,1,2,0,0,0,0,0,0,0 - 0,0,0,0,4,0,0,0, Boston Pride,stats#/player/58129,58129,40884,,,,,,,2016
-10,Blake Bolden,D,0,1,1,0,0,0,0,0,0,0 - 0,0,0,0,1,0,0,0, Boston Pride,stats#/player/58119,58119,40884,,,,,,,2016
-11,Jordan Smelker,F,1,0,1,0,0,0,0,0,0,0 - 0,0,0,0,3,0,0,0, Boston Pride,stats#/player/58120,58120,40884,,,,,,,2016
-44,Zoe Hickel,F,0,1,1,0,0,0,0,0,0,0 - 0,0,0,0,4,0,0,0, Boston Pride,stats#/player/463308,463308,40884,,,,,,,2016
-91,Rachel Llanes,F,1,0,1,2,0,0,0,0,0,9 - 6,0.6,0,0,3,0,9,6, Boston Pride,stats#/player/58135,58135,40884,,,,,,,2016
-2,Alyssa Gagliardi,D,0,0,0,0,0,0,0,0,0,0 - 0,0,0,0,1,0,0,0, Boston Pride,stats#/player/58115,58115,40884,,,,,,,2016
-5,Kelly Cooke,F,0,0,0,0,0,0,0,0,0,0 - 0,0,0,0,1,0,0,0, Boston Pride,stats#/player/58117,58117,40884,,,,,,,2016
+16,Amanda Pelkey,F,1,1,2,2,0,3,0,0,0,0 - 0,0,0,0,3,0,0,0, Boston Pride,stats#/player/1194634,1194634,40884,,,,,,,2016
+19,Gigi Marvin,D,0,2,2,0,0,2,0,0,0,0 - 0,0,0,0,2,0,0,0, Boston Pride,stats#/player/58126,58126,40884,,,,,,,2016
+23,Corinne Buie,F,1,1,2,0,0,4,0,0,0,0 - 0,0,0,0,4,0,0,0, Boston Pride,stats#/player/58129,58129,40884,,,,,,,2016
+10,Blake Bolden,D,0,1,1,0,0,1,0,0,0,0 - 0,0,0,0,1,0,0,0, Boston Pride,stats#/player/58119,58119,40884,,,,,,,2016
+11,Jordan Smelker,F,1,0,1,0,0,3,0,0,0,0 - 0,0,0,0,3,0,0,0, Boston Pride,stats#/player/58120,58120,40884,,,,,,,2016
+44,Zoe Hickel,F,0,1,1,0,0,4,0,0,0,0 - 0,0,0,0,4,0,0,0, Boston Pride,stats#/player/463308,463308,40884,,,,,,,2016
+91,Rachel Llanes,F,1,0,1,2,0,3,0,0,0,9 - 6,0.6,0,0,3,0,9,6, Boston Pride,stats#/player/58135,58135,40884,,,,,,,2016
+2,Alyssa Gagliardi,D,0,0,0,0,0,1,0,0,0,0 - 0,0,0,0,1,0,0,0, Boston Pride,stats#/player/58115,58115,40884,,,,,,,2016
+5,Kelly Cooke,F,0,0,0,0,0,1,0,0,0,0 - 0,0,0,0,1,0,0,0, Boston Pride,stats#/player/58117,58117,40884,,,,,,,2016
 7,Casey Pickett,F,0,0,0,0,0,0,0,0,0,0 - 0,0,0,0,0,0,0,0, Boston Pride,stats#/player/58118,58118,40884,,,,,,,2016
 18,Cherie Hendrickson,D,0,0,0,0,0,0,0,0,0,0 - 0,0,0,0,0,0,0,0, Boston Pride,stats#/player/58125,58125,40884,,,,,,,2016
 22,Kacey Bellamy,D,0,0,0,0,0,0,0,0,0,0 - 0,0,0,0,0,0,0,0, Boston Pride,stats#/player/58128,58128,40884,,,,,,,2016
 57,Meagan Mangene,D,0,0,0,0,0,0,0,0,0,0 - 0,0,0,0,0,0,0,0, Boston Pride,stats#/player/58134,58134,40884,,,,,,,2016
-17,Bray Ketchum,F,1,0,1,0,0,0,0,0,0,0 - 1,0,0,0,3,0,0,1, New York Riveters,stats#/player/57716,57716,40884,,,,,,,2016
-20,Brooke Ammerman,F,0,1,1,0,0,0,0,0,0,2 - 8,0.2,0,0,2,0,2,8, New York Riveters,stats#/player/57718,57718,40884,,,,,,,2016
+17,Bray Ketchum,F,1,0,1,0,0,3,0,0,0,0 - 1,0,0,0,3,0,0,1, New York Riveters,stats#/player/57716,57716,40884,,,,,,,2016
+20,Brooke Ammerman,F,0,1,1,0,0,2,0,0,0,2 - 8,0.2,0,0,2,0,2,8, New York Riveters,stats#/player/57718,57718,40884,,,,,,,2016
 2,Amber Moore,D,0,0,0,0,0,0,0,0,0,0 - 0,0,0,0,0,0,0,0, New York Riveters,stats#/player/57697,57697,40884,,,,,,,2016
 4,Elena Orlando,D,0,0,0,0,0,0,0,0,0,0 - 0,0,0,0,0,0,0,0, New York Riveters,stats#/player/909127,909127,40884,,,,,,,2016
 8,Sydney Kidd,D,0,0,0,2,0,0,0,0,0,0 - 0,0,0,0,0,0,0,0, New York Riveters,stats#/player/57699,57699,40884,,,,,,,2016
-9,Ludmila Belyakova,F,0,0,0,0,0,0,0,0,0,4 - 9,0.308,0,0,4,0,4,9, New York Riveters,stats#/player/57700,57700,40884,,,,,,,2016
-11,Morgan Fritz-Ward,F,0,0,0,0,0,0,0,0,0,1 - 2,0.333,0,0,1,0,1,2, New York Riveters,stats#/player/57702,57702,40884,,,,,,,2016
-12,Janine Weber,F,0,0,0,0,0,0,0,0,0,9 - 11,0.45,0,0,1,0,9,11, New York Riveters,stats#/player/513300,513300,40884,,,,,,,2016
-13,Cherie Stewart,F,0,0,0,0,0,0,0,0,0,0 - 0,0,0,0,1,0,0,0, New York Riveters,stats#/player/57714,57714,40884,,,,,,,2016
-18,Meghan Fardelmann,F,0,0,0,2,0,0,0,0,0,2 - 1,0.667,0,0,1,0,2,1, New York Riveters,stats#/player/57636,57636,40884,,,,,,,2016
+9,Ludmila Belyakova,F,0,0,0,0,0,4,0,0,0,4 - 9,0.308,0,0,4,0,4,9, New York Riveters,stats#/player/57700,57700,40884,,,,,,,2016
+11,Morgan Fritz-Ward,F,0,0,0,0,0,1,0,0,0,1 - 2,0.333,0,0,1,0,1,2, New York Riveters,stats#/player/57702,57702,40884,,,,,,,2016
+12,Janine Weber,F,0,0,0,0,0,1,0,0,0,9 - 11,0.45,0,0,1,0,9,11, New York Riveters,stats#/player/513300,513300,40884,,,,,,,2016
+13,Cherie Stewart,F,0,0,0,0,0,1,0,0,0,0 - 0,0,0,0,1,0,0,0, New York Riveters,stats#/player/57714,57714,40884,,,,,,,2016
+18,Meghan Fardelmann,F,0,0,0,2,0,1,0,0,0,2 - 1,0.667,0,0,1,0,2,1, New York Riveters,stats#/player/57636,57636,40884,,,,,,,2016
 19,Margot Scharfe,F,0,0,0,0,0,0,0,0,0,0 - 0,0,0,0,0,0,0,0, New York Riveters,stats#/player/57717,57717,40884,,,,,,,2016
-21,Gabie Figueroa,D,0,0,0,0,0,0,0,0,0,0 - 0,0,0,0,4,0,0,0, New York Riveters,stats#/player/57719,57719,40884,,,,,,,2016
-24,Celeste Brown,F,0,0,0,2,0,0,0,0,0,3 - 8,0.273,0,0,3,0,3,8, New York Riveters,stats#/player/57721,57721,40884,,,,,,,2016
-26,Kiira Dosdall-Arena,D,0,0,0,4,0,0,0,0,0,0 - 0,0,0,0,2,0,0,0, New York Riveters,stats#/player/1066549,1066549,40884,,,,,,,2016
-28,Beth Hanrahan,F,0,0,0,0,0,0,0,0,0,0 - 0,0,0,0,7,0,0,0, New York Riveters,stats#/player/57723,57723,40884,,,,,,,2016
+21,Gabie Figueroa,D,0,0,0,0,0,4,0,0,0,0 - 0,0,0,0,4,0,0,0, New York Riveters,stats#/player/57719,57719,40884,,,,,,,2016
+24,Celeste Brown,F,0,0,0,2,0,3,0,0,0,3 - 8,0.273,0,0,3,0,3,8, New York Riveters,stats#/player/57721,57721,40884,,,,,,,2016
+26,Kiira Dosdall-Arena,D,0,0,0,4,0,2,0,0,0,0 - 0,0,0,0,2,0,0,0, New York Riveters,stats#/player/1066549,1066549,40884,,,,,,,2016
+28,Beth Hanrahan,F,0,0,0,0,0,7,0,0,0,0 - 0,0,0,0,7,0,0,0, New York Riveters,stats#/player/57723,57723,40884,,,,,,,2016
 1,Kelsie Fralick,G,0,0,,0,,,,,,,,,,,,,, Boston Pride,,58114,40884,08:28,3,0,3,1,stats#/player/58114,2016
 29,Brittany Ott,G,0,0,,0,,,,,,,,,,,,,, Boston Pride,,58131,40884,51:32,26,1,25,0.962,stats#/player/58131,2016
 30,Lauren Slebodnick,G,0,0,,0,,,,,,,,,,,,,, Boston Pride,,58132,40884,00:00,0,0,0,0,stats#/player/58132,2016
@@ -814,35 +814,35 @@ player_jersey,player_name,position,goals,assists,points,penalty_minutes,plus_min
 33,Nana Fujimoto,G,0,0,,0,,,,,,,,,,,,,, New York Riveters,,58266,40882,43:10,26,4,22,0.846,stats#/player/58266,2016
 24,Nicole Stock,G,0,0,,0,,,,,,,,,,,,,, Connecticut Whale,,57750,40882,60:00,36,1,35,0.972,stats#/player/57750,2016
 78,Chelsea Laden,G,0,0,,0,,,,,,,,,,,,,, Connecticut Whale,,57761,40882,00:00,0,0,0,0,stats#/player/57761,2016
-11,Jordan Smelker,F,1,1,2,0,0,0,0,0,0,0 - 0,0,0,0,2,0,0,0, Boston Pride,stats#/player/58120,58120,40883,,,,,,,2016
-14,Brianna Decker,F,1,1,2,4,0,0,0,0,0,10 - 8,0.556,0,0,9,0,10,8, Boston Pride,stats#/player/58122,58122,40883,,,,,,,2016
-21,Hilary Knight,F,1,1,2,0,0,0,0,0,0,1 - 1,0.5,0,0,10,0,1,1, Boston Pride,stats#/player/58127,58127,40883,,,,,,,2016
-3,Jillian Dempsey,F,0,1,1,0,0,0,0,0,0,12 - 4,0.75,0,0,3,0,12,4, Boston Pride,stats#/player/58116,58116,40883,,,,,,,2016
-12,Marissa Gedman,D,0,1,1,0,0,0,0,0,0,0 - 0,0,0,0,1,0,0,0, Boston Pride,stats#/player/58121,58121,40883,,,,,,,2016
-57,Meagan Mangene,D,0,1,1,0,0,0,0,0,0,0 - 0,0,0,0,1,0,0,0, Boston Pride,stats#/player/58134,58134,40883,,,,,,,2016
-2,Alyssa Gagliardi,D,0,0,0,0,0,0,0,0,0,0 - 0,0,0,0,1,0,0,0, Boston Pride,stats#/player/58115,58115,40883,,,,,,,2016
-5,Kelly Cooke,F,0,0,0,0,0,0,0,0,0,0 - 0,0,0,0,1,0,0,0, Boston Pride,stats#/player/58117,58117,40883,,,,,,,2016
+11,Jordan Smelker,F,1,1,2,0,0,2,0,0,0,0 - 0,0,0,0,2,0,0,0, Boston Pride,stats#/player/58120,58120,40883,,,,,,,2016
+14,Brianna Decker,F,1,1,2,4,0,9,0,0,0,10 - 8,0.556,0,0,9,0,10,8, Boston Pride,stats#/player/58122,58122,40883,,,,,,,2016
+21,Hilary Knight,F,1,1,2,0,0,10,0,0,0,1 - 1,0.5,0,0,10,0,1,1, Boston Pride,stats#/player/58127,58127,40883,,,,,,,2016
+3,Jillian Dempsey,F,0,1,1,0,0,3,0,0,0,12 - 4,0.75,0,0,3,0,12,4, Boston Pride,stats#/player/58116,58116,40883,,,,,,,2016
+12,Marissa Gedman,D,0,1,1,0,0,1,0,0,0,0 - 0,0,0,0,1,0,0,0, Boston Pride,stats#/player/58121,58121,40883,,,,,,,2016
+57,Meagan Mangene,D,0,1,1,0,0,1,0,0,0,0 - 0,0,0,0,1,0,0,0, Boston Pride,stats#/player/58134,58134,40883,,,,,,,2016
+2,Alyssa Gagliardi,D,0,0,0,0,0,1,0,0,0,0 - 0,0,0,0,1,0,0,0, Boston Pride,stats#/player/58115,58115,40883,,,,,,,2016
+5,Kelly Cooke,F,0,0,0,0,0,1,0,0,0,0 - 0,0,0,0,1,0,0,0, Boston Pride,stats#/player/58117,58117,40883,,,,,,,2016
 7,Casey Pickett,F,0,0,0,0,0,0,0,0,0,0 - 0,0,0,0,0,0,0,0, Boston Pride,stats#/player/58118,58118,40883,,,,,,,2016
-10,Blake Bolden,D,0,0,0,0,0,0,0,0,0,0 - 0,0,0,0,2,0,0,0, Boston Pride,stats#/player/58119,58119,40883,,,,,,,2016
-15,Emily Field,F,0,0,0,0,0,0,0,0,0,0 - 0,0,0,0,5,0,0,0, Boston Pride,stats#/player/58123,58123,40883,,,,,,,2016
-16,Amanda Pelkey,F,0,0,0,2,0,0,0,0,0,0 - 0,0,0,0,5,0,0,0, Boston Pride,stats#/player/58124,58124,40883,,,,,,,2016
-19,Gigi Marvin,D,0,0,0,2,0,0,0,0,0,0 - 0,0,0,0,1,0,0,0, Boston Pride,stats#/player/58126,58126,40883,,,,,,,2016
-23,Corinne Buie,F,0,0,0,2,0,0,0,0,0,0 - 0,0,0,0,2,0,0,0, Boston Pride,stats#/player/58129,58129,40883,,,,,,,2016
-91,Rachel Llanes,F,0,0,0,2,0,0,0,0,0,11 - 4,0.733,0,0,1,0,11,4, Boston Pride,stats#/player/58135,58135,40883,,,,,,,2016
+10,Blake Bolden,D,0,0,0,0,0,2,0,0,0,0 - 0,0,0,0,2,0,0,0, Boston Pride,stats#/player/58119,58119,40883,,,,,,,2016
+15,Emily Field,F,0,0,0,0,0,5,0,0,0,0 - 0,0,0,0,5,0,0,0, Boston Pride,stats#/player/58123,58123,40883,,,,,,,2016
+16,Amanda Pelkey,F,0,0,0,2,0,5,0,0,0,0 - 0,0,0,0,5,0,0,0, Boston Pride,stats#/player/1194634,1194634,40883,,,,,,,2016
+19,Gigi Marvin,D,0,0,0,2,0,1,0,0,0,0 - 0,0,0,0,1,0,0,0, Boston Pride,stats#/player/58126,58126,40883,,,,,,,2016
+23,Corinne Buie,F,0,0,0,2,0,2,0,0,0,0 - 0,0,0,0,2,0,0,0, Boston Pride,stats#/player/58129,58129,40883,,,,,,,2016
+91,Rachel Llanes,F,0,0,0,2,0,1,0,0,0,11 - 4,0.733,0,0,1,0,11,4, Boston Pride,stats#/player/58135,58135,40883,,,,,,,2016
 14,Kelly McDonald,D,0,3,3,0,0,0,0,0,0,0 - 0,0,0,0,0,0,0,0, Buffalo Beauts,stats#/player/58101,58101,40883,,,,,,,2016
-7,Emily Pfalzer,D,0,2,2,0,0,0,0,0,0,0 - 0,0,0,0,4,0,0,0, Buffalo Beauts,stats#/player/58088,58088,40883,,,,,,,2016
-24,Hailey Browne,F,2,0,2,2,0,0,0,0,0,0 - 3,0,1,1,4,0,0,3, Buffalo Beauts,stats#/player/58106,58106,40883,,,,,,,2016
-36,Kourtney Kunichika,F,0,2,2,0,0,0,0,0,0,6 - 10,0.375,0,0,1,0,6,10, Buffalo Beauts,stats#/player/58111,58111,40883,,,,,,,2016
-9,Megan Bozek,D,1,0,1,0,0,0,0,0,0,0 - 0,0,1,0,3,0,0,0, Buffalo Beauts,stats#/player/58091,58091,40883,,,,,,,2016
-21,Devon Skeats,F,1,0,1,2,0,0,0,0,0,0 - 0,0,1,0,3,0,0,0, Buffalo Beauts,stats#/player/58104,58104,40883,,,,,,,2016
+7,Emily Pfalzer,D,0,2,2,0,0,4,0,0,0,0 - 0,0,0,0,4,0,0,0, Buffalo Beauts,stats#/player/58088,58088,40883,,,,,,,2016
+24,Hailey Browne,F,2,0,2,2,0,4,0,0,0,0 - 3,0,1,1,4,0,0,3, Buffalo Beauts,stats#/player/58106,58106,40883,,,,,,,2016
+36,Kourtney Kunichika,F,0,2,2,0,0,1,0,0,0,6 - 10,0.375,0,0,1,0,6,10, Buffalo Beauts,stats#/player/58111,58111,40883,,,,,,,2016
+9,Megan Bozek,D,1,0,1,0,0,3,0,0,0,0 - 0,0,1,0,3,0,0,0, Buffalo Beauts,stats#/player/58091,58091,40883,,,,,,,2016
+21,Devon Skeats,F,1,0,1,2,0,3,0,0,0,0 - 0,0,1,0,3,0,0,0, Buffalo Beauts,stats#/player/58104,58104,40883,,,,,,,2016
 2,Paige Harrington,D,0,0,0,2,0,0,0,0,0,0 - 0,0,0,0,0,0,0,0, Buffalo Beauts,stats#/player/58084,58084,40883,,,,,,,2016
 6,Jessica Fickel,F,0,0,0,0,0,0,0,0,0,0 - 0,0,0,0,0,0,0,0, Buffalo Beauts,stats#/player/58087,58087,40883,,,,,,,2016
-10,Meghan Duggan,F,0,0,0,4,0,0,0,0,0,6 - 12,0.333,0,0,8,0,6,12, Buffalo Beauts,stats#/player/58098,58098,40883,,,,,,,2016
-12,Hannah McGowan,F,0,0,0,0,0,0,0,0,0,0 - 0,0,0,0,2,0,0,0, Buffalo Beauts,stats#/player/58099,58099,40883,,,,,,,2016
-20,Erin Zach,F,0,0,0,0,0,0,0,0,0,0 - 0,0,0,0,1,0,0,0, Buffalo Beauts,stats#/player/58103,58103,40883,,,,,,,2016
-23,Lindsay Grigg,D,0,0,0,0,0,0,0,0,0,0 - 0,0,0,0,1,0,0,0, Buffalo Beauts,stats#/player/58105,58105,40883,,,,,,,2016
-43,Tatiana Rafter,F,0,0,0,0,0,0,0,0,0,0 - 1,0,0,0,1,0,0,1, Buffalo Beauts,stats#/player/58112,58112,40883,,,,,,,2016
-77,Hayley Williams,F,0,0,0,0,0,0,0,0,0,5 - 8,0.385,0,0,1,0,5,8, Buffalo Beauts,stats#/player/58113,58113,40883,,,,,,,2016
+10,Meghan Duggan,F,0,0,0,4,0,8,0,0,0,6 - 12,0.333,0,0,8,0,6,12, Buffalo Beauts,stats#/player/58098,58098,40883,,,,,,,2016
+12,Hannah McGowan,F,0,0,0,0,0,2,0,0,0,0 - 0,0,0,0,2,0,0,0, Buffalo Beauts,stats#/player/58099,58099,40883,,,,,,,2016
+20,Erin Zach,F,0,0,0,0,0,1,0,0,0,0 - 0,0,0,0,1,0,0,0, Buffalo Beauts,stats#/player/58103,58103,40883,,,,,,,2016
+23,Lindsay Grigg,D,0,0,0,0,0,1,0,0,0,0 - 0,0,0,0,1,0,0,0, Buffalo Beauts,stats#/player/58105,58105,40883,,,,,,,2016
+43,Tatiana Rafter,F,0,0,0,0,0,1,0,0,0,0 - 1,0,0,0,1,0,0,1, Buffalo Beauts,stats#/player/58112,58112,40883,,,,,,,2016
+77,Hayley Williams,F,0,0,0,0,0,1,0,0,0,5 - 8,0.385,0,0,1,0,5,8, Buffalo Beauts,stats#/player/58113,58113,40883,,,,,,,2016
 1,Kelsie Fralick,G,0,0,,0,,,,,,,,,,,,,, Boston Pride,,58114,40883,00:00,0,0,0,0,stats#/player/58114,2016
 29,Brittany Ott,G,0,0,,0,,,,,,,,,,,,,, Boston Pride,,58131,40883,61:16,29,4,25,0.862,stats#/player/58131,2016
 30,Lauren Slebodnick,G,0,0,,0,,,,,,,,,,,,,, Boston Pride,,58132,40883,00:00,0,0,0,0,stats#/player/58132,2016
@@ -915,36 +915,36 @@ player_jersey,player_name,position,goals,assists,points,penalty_minutes,plus_min
 30,Jenny Scrivens,G,0,0,,0,,,,,,,,,,,,,, New York Riveters,,57724,40879,00:00,0,0,0,0,stats#/player/57724,2016
 31,Corinne Boyles,G,0,0,,0,,,,,,,,,,,,,, New York Riveters,,69126,40879,00:00,0,0,0,0,stats#/player/69126,2016
 33,Nana Fujimoto,G,0,0,,0,,,,,,,,,,,,,, New York Riveters,,58266,40879,60:00,28,3,25,0.893,stats#/player/58266,2016
-11,Jordan Smelker,F,0,1,1,0,0,0,0,0,0,0 - 0,0,0,0,2,0,0,0, Boston Pride,stats#/player/58120,58120,40877,,,,,,,2016
-21,Hilary Knight,F,1,0,1,0,0,0,0,0,0,11 - 8,0.579,0,0,13,0,11,8, Boston Pride,stats#/player/58127,58127,40877,,,,,,,2016
-2,Alyssa Gagliardi,D,0,0,0,0,0,0,0,0,0,0 - 0,0,0,0,1,0,0,0, Boston Pride,stats#/player/58115,58115,40877,,,,,,,2016
-3,Jillian Dempsey,F,0,0,0,0,0,0,0,0,0,0 - 0,0,0,0,3,0,0,0, Boston Pride,stats#/player/58116,58116,40877,,,,,,,2016
-5,Kelly Cooke,F,0,0,0,0,0,0,0,0,0,0 - 0,0,0,0,1,0,0,0, Boston Pride,stats#/player/58117,58117,40877,,,,,,,2016
-7,Casey Pickett,F,0,0,0,0,0,0,0,0,0,1 - 0,1,0,0,1,0,1,0, Boston Pride,stats#/player/58118,58118,40877,,,,,,,2016
-10,Blake Bolden,D,0,0,0,0,0,0,0,0,0,0 - 0,0,0,0,2,0,0,0, Boston Pride,stats#/player/58119,58119,40877,,,,,,,2016
-12,Marissa Gedman,D,0,0,0,0,0,0,0,0,0,0 - 0,0,0,0,3,0,0,0, Boston Pride,stats#/player/58121,58121,40877,,,,,,,2016
-14,Brianna Decker,F,0,0,0,0,0,0,0,0,0,14 - 9,0.609,0,0,7,0,14,9, Boston Pride,stats#/player/58122,58122,40877,,,,,,,2016
-15,Emily Field,F,0,0,0,0,0,0,0,0,0,0 - 0,0,0,0,3,0,0,0, Boston Pride,stats#/player/58123,58123,40877,,,,,,,2016
-16,Amanda Pelkey,F,0,0,0,2,0,0,0,0,0,0 - 0,0,0,0,2,0,0,0, Boston Pride,stats#/player/58124,58124,40877,,,,,,,2016
+11,Jordan Smelker,F,0,1,1,0,0,2,0,0,0,0 - 0,0,0,0,2,0,0,0, Boston Pride,stats#/player/58120,58120,40877,,,,,,,2016
+21,Hilary Knight,F,1,0,1,0,0,13,0,0,0,11 - 8,0.579,0,0,13,0,11,8, Boston Pride,stats#/player/58127,58127,40877,,,,,,,2016
+2,Alyssa Gagliardi,D,0,0,0,0,0,1,0,0,0,0 - 0,0,0,0,1,0,0,0, Boston Pride,stats#/player/58115,58115,40877,,,,,,,2016
+3,Jillian Dempsey,F,0,0,0,0,0,3,0,0,0,0 - 0,0,0,0,3,0,0,0, Boston Pride,stats#/player/58116,58116,40877,,,,,,,2016
+5,Kelly Cooke,F,0,0,0,0,0,1,0,0,0,0 - 0,0,0,0,1,0,0,0, Boston Pride,stats#/player/58117,58117,40877,,,,,,,2016
+7,Casey Pickett,F,0,0,0,0,0,1,0,0,0,1 - 0,1,0,0,1,0,1,0, Boston Pride,stats#/player/58118,58118,40877,,,,,,,2016
+10,Blake Bolden,D,0,0,0,0,0,2,0,0,0,0 - 0,0,0,0,2,0,0,0, Boston Pride,stats#/player/58119,58119,40877,,,,,,,2016
+12,Marissa Gedman,D,0,0,0,0,0,3,0,0,0,0 - 0,0,0,0,3,0,0,0, Boston Pride,stats#/player/58121,58121,40877,,,,,,,2016
+14,Brianna Decker,F,0,0,0,0,0,7,0,0,0,14 - 9,0.609,0,0,7,0,14,9, Boston Pride,stats#/player/58122,58122,40877,,,,,,,2016
+15,Emily Field,F,0,0,0,0,0,3,0,0,0,0 - 0,0,0,0,3,0,0,0, Boston Pride,stats#/player/58123,58123,40877,,,,,,,2016
+16,Amanda Pelkey,F,0,0,0,2,0,2,0,0,0,0 - 0,0,0,0,2,0,0,0, Boston Pride,stats#/player/1194634,1194634,40877,,,,,,,2016
 19,Gigi Marvin,D,0,0,0,0,0,0,0,0,0,0 - 0,0,0,0,0,0,0,0, Boston Pride,stats#/player/58126,58126,40877,,,,,,,2016
-22,Kacey Bellamy,D,0,0,0,0,0,0,0,0,0,0 - 0,0,0,0,4,0,0,0, Boston Pride,stats#/player/58128,58128,40877,,,,,,,2016
-23,Corinne Buie,F,0,0,0,0,0,0,0,0,0,0 - 0,0,0,0,1,0,0,0, Boston Pride,stats#/player/58129,58129,40877,,,,,,,2016
-91,Rachel Llanes,F,0,0,0,2,0,0,0,0,0,8 - 5,0.615,0,0,3,0,8,5, Boston Pride,stats#/player/58135,58135,40877,,,,,,,2016
+22,Kacey Bellamy,D,0,0,0,0,0,4,0,0,0,0 - 0,0,0,0,4,0,0,0, Boston Pride,stats#/player/58128,58128,40877,,,,,,,2016
+23,Corinne Buie,F,0,0,0,0,0,1,0,0,0,0 - 0,0,0,0,1,0,0,0, Boston Pride,stats#/player/58129,58129,40877,,,,,,,2016
+91,Rachel Llanes,F,0,0,0,2,0,3,0,0,0,8 - 5,0.615,0,0,3,0,8,5, Boston Pride,stats#/player/58135,58135,40877,,,,,,,2016
 2,Paige Harrington,D,0,0,0,0,0,0,0,0,0,0 - 0,0,0,0,0,0,0,0, Buffalo Beauts,stats#/player/58084,58084,40877,,,,,,,2016
 6,Jessica Fickel,F,0,0,0,0,0,0,0,0,0,0 - 0,0,0,0,0,0,0,0, Buffalo Beauts,stats#/player/58087,58087,40877,,,,,,,2016
-7,Emily Pfalzer,D,0,0,0,0,0,0,0,0,0,0 - 0,0,0,0,2,0,0,0, Buffalo Beauts,stats#/player/58088,58088,40877,,,,,,,2016
-9,Megan Bozek,D,0,0,0,0,0,0,0,0,0,0 - 0,0,0,0,2,0,0,0, Buffalo Beauts,stats#/player/58091,58091,40877,,,,,,,2016
-10,Meghan Duggan,F,0,0,0,0,0,0,0,0,0,1 - 6,0.143,0,0,3,0,1,6, Buffalo Beauts,stats#/player/58098,58098,40877,,,,,,,2016
+7,Emily Pfalzer,D,0,0,0,0,0,2,0,0,0,0 - 0,0,0,0,2,0,0,0, Buffalo Beauts,stats#/player/58088,58088,40877,,,,,,,2016
+9,Megan Bozek,D,0,0,0,0,0,2,0,0,0,0 - 0,0,0,0,2,0,0,0, Buffalo Beauts,stats#/player/58091,58091,40877,,,,,,,2016
+10,Meghan Duggan,F,0,0,0,0,0,3,0,0,0,1 - 6,0.143,0,0,3,0,1,6, Buffalo Beauts,stats#/player/58098,58098,40877,,,,,,,2016
 12,Hannah McGowan,F,0,0,0,0,0,0,0,0,0,0 - 0,0,0,0,0,0,0,0, Buffalo Beauts,stats#/player/58099,58099,40877,,,,,,,2016
-13,Shelby Bram,F,0,0,0,0,0,0,0,0,0,6 - 10,0.375,0,0,2,0,6,10, Buffalo Beauts,stats#/player/58100,58100,40877,,,,,,,2016
-14,Kelly McDonald,D,0,0,0,4,0,0,0,0,0,0 - 0,0,0,0,2,0,0,0, Buffalo Beauts,stats#/player/58101,58101,40877,,,,,,,2016
-20,Erin Zach,F,0,0,0,0,0,0,0,0,0,1 - 0,1,0,0,1,0,1,0, Buffalo Beauts,stats#/player/58103,58103,40877,,,,,,,2016
-21,Devon Skeats,F,0,0,0,0,0,0,0,0,0,0 - 0,0,0,0,5,0,0,0, Buffalo Beauts,stats#/player/58104,58104,40877,,,,,,,2016
-23,Lindsay Grigg,D,0,0,0,0,0,0,0,0,0,0 - 0,0,0,0,1,0,0,0, Buffalo Beauts,stats#/player/58105,58105,40877,,,,,,,2016
-24,Hailey Browne,F,0,0,0,2,0,0,0,0,0,0 - 1,0,0,0,2,0,0,1, Buffalo Beauts,stats#/player/58106,58106,40877,,,,,,,2016
-36,Kourtney Kunichika,F,0,0,0,0,0,0,0,0,0,6 - 8,0.429,0,0,3,0,6,8, Buffalo Beauts,stats#/player/58111,58111,40877,,,,,,,2016
+13,Shelby Bram,F,0,0,0,0,0,2,0,0,0,6 - 10,0.375,0,0,2,0,6,10, Buffalo Beauts,stats#/player/58100,58100,40877,,,,,,,2016
+14,Kelly McDonald,D,0,0,0,4,0,2,0,0,0,0 - 0,0,0,0,2,0,0,0, Buffalo Beauts,stats#/player/58101,58101,40877,,,,,,,2016
+20,Erin Zach,F,0,0,0,0,0,1,0,0,0,1 - 0,1,0,0,1,0,1,0, Buffalo Beauts,stats#/player/58103,58103,40877,,,,,,,2016
+21,Devon Skeats,F,0,0,0,0,0,5,0,0,0,0 - 0,0,0,0,5,0,0,0, Buffalo Beauts,stats#/player/58104,58104,40877,,,,,,,2016
+23,Lindsay Grigg,D,0,0,0,0,0,1,0,0,0,0 - 0,0,0,0,1,0,0,0, Buffalo Beauts,stats#/player/58105,58105,40877,,,,,,,2016
+24,Hailey Browne,F,0,0,0,2,0,2,0,0,0,0 - 1,0,0,0,2,0,0,1, Buffalo Beauts,stats#/player/58106,58106,40877,,,,,,,2016
+36,Kourtney Kunichika,F,0,0,0,0,0,3,0,0,0,6 - 8,0.429,0,0,3,0,6,8, Buffalo Beauts,stats#/player/58111,58111,40877,,,,,,,2016
 43,Tatiana Rafter,F,0,0,0,0,0,0,0,0,0,1 - 0,1,0,0,0,0,1,0, Buffalo Beauts,stats#/player/58112,58112,40877,,,,,,,2016
-77,Hayley Williams,F,0,0,0,0,0,0,0,0,0,7 - 9,0.438,0,0,1,0,7,9, Buffalo Beauts,stats#/player/58113,58113,40877,,,,,,,2016
+77,Hayley Williams,F,0,0,0,0,0,1,0,0,0,7 - 9,0.438,0,0,1,0,7,9, Buffalo Beauts,stats#/player/58113,58113,40877,,,,,,,2016
 1,Kelsie Fralick,G,0,0,,0,,,,,,,,,,,,,, Boston Pride,,58114,40877,00:00,0,0,0,0,stats#/player/58114,2016
 29,Brittany Ott,G,0,0,,0,,,,,,,,,,,,,, Boston Pride,,58131,40877,60:00,24,0,24,1,stats#/player/58131,2016
 30,Lauren Slebodnick,G,0,0,,0,,,,,,,,,,,,,, Boston Pride,,58132,40877,00:00,0,0,0,0,stats#/player/58132,2016
@@ -1019,70 +1019,70 @@ player_jersey,player_name,position,goals,assists,points,penalty_minutes,plus_min
 1,Kimberly Sass,G,0,0,,0,,,,,,,,,,,,,, Buffalo Beauts,,58083,40876,00:00,0,0,0,0,stats#/player/58083,2016
 29,Brianne McLaughlin,G,0,0,,0,,,,,,,,,,,,,, Buffalo Beauts,,58108,40876,00:00,0,0,0,0,stats#/player/58108,2016
 34,Amanda Makela,G,0,0,,0,,,,,,,,,,,,,, Buffalo Beauts,,58109,40876,80:00,24,2,22,0.917,stats#/player/58109,2016
-21,Hilary Knight,F,2,0,2,2,0,0,0,0,0,11 - 3,0.786,0,0,9,0,11,3, Boston Pride,stats#/player/58127,58127,40874,,,,,,,2016
-3,Jillian Dempsey,F,1,0,1,0,0,0,0,0,0,4 - 0,1,0,0,2,0,4,0, Boston Pride,stats#/player/58116,58116,40874,,,,,,,2016
-10,Blake Bolden,D,0,1,1,0,0,0,0,0,0,0 - 0,0,0,0,1,0,0,0, Boston Pride,stats#/player/58119,58119,40874,,,,,,,2016
-14,Brianna Decker,F,0,1,1,0,0,0,0,0,0,17 - 3,0.85,0,0,8,0,17,3, Boston Pride,stats#/player/58122,58122,40874,,,,,,,2016
-16,Amanda Pelkey,F,1,0,1,0,0,0,0,0,0,1 - 0,1,0,0,2,0,1,0, Boston Pride,stats#/player/58124,58124,40874,,,,,,,2016
-19,Gigi Marvin,D,0,1,1,2,0,0,0,0,0,0 - 0,0,0,0,5,0,0,0, Boston Pride,stats#/player/58126,58126,40874,,,,,,,2016
-23,Corinne Buie,F,0,1,1,0,0,0,0,0,0,1 - 1,0.5,0,0,1,0,1,1, Boston Pride,stats#/player/58129,58129,40874,,,,,,,2016
-2,Alyssa Gagliardi,D,0,0,0,0,0,0,0,0,0,0 - 0,0,0,0,2,0,0,0, Boston Pride,stats#/player/58115,58115,40874,,,,,,,2016
+21,Hilary Knight,F,2,0,2,2,0,9,0,0,0,11 - 3,0.786,0,0,9,0,11,3, Boston Pride,stats#/player/58127,58127,40874,,,,,,,2016
+3,Jillian Dempsey,F,1,0,1,0,0,2,0,0,0,4 - 0,1,0,0,2,0,4,0, Boston Pride,stats#/player/58116,58116,40874,,,,,,,2016
+10,Blake Bolden,D,0,1,1,0,0,1,0,0,0,0 - 0,0,0,0,1,0,0,0, Boston Pride,stats#/player/58119,58119,40874,,,,,,,2016
+14,Brianna Decker,F,0,1,1,0,0,8,0,0,0,17 - 3,0.85,0,0,8,0,17,3, Boston Pride,stats#/player/58122,58122,40874,,,,,,,2016
+16,Amanda Pelkey,F,1,0,1,0,0,2,0,0,0,1 - 0,1,0,0,2,0,1,0, Boston Pride,stats#/player/1194634,1194634,40874,,,,,,,2016
+19,Gigi Marvin,D,0,1,1,2,0,5,0,0,0,0 - 0,0,0,0,5,0,0,0, Boston Pride,stats#/player/58126,58126,40874,,,,,,,2016
+23,Corinne Buie,F,0,1,1,0,0,1,0,0,0,1 - 1,0.5,0,0,1,0,1,1, Boston Pride,stats#/player/58129,58129,40874,,,,,,,2016
+2,Alyssa Gagliardi,D,0,0,0,0,0,2,0,0,0,0 - 0,0,0,0,2,0,0,0, Boston Pride,stats#/player/58115,58115,40874,,,,,,,2016
 5,Kelly Cooke,F,0,0,0,0,0,0,0,0,0,0 - 0,0,0,0,0,0,0,0, Boston Pride,stats#/player/58117,58117,40874,,,,,,,2016
 11,Jordan Smelker,F,0,0,0,0,0,0,0,0,0,0 - 1,0,0,0,0,0,0,1, Boston Pride,stats#/player/58120,58120,40874,,,,,,,2016
-12,Marissa Gedman,D,0,0,0,0,0,0,0,0,0,0 - 0,0,0,0,2,0,0,0, Boston Pride,stats#/player/58121,58121,40874,,,,,,,2016
-15,Emily Field,F,0,0,0,2,0,0,0,0,0,0 - 0,0,0,0,1,0,0,0, Boston Pride,stats#/player/58123,58123,40874,,,,,,,2016
-22,Kacey Bellamy,D,0,0,0,4,0,0,0,0,0,0 - 0,0,0,0,3,0,0,0, Boston Pride,stats#/player/58128,58128,40874,,,,,,,2016
-44,Zoe Hickel,F,0,0,0,2,0,0,0,0,0,1 - 0,1,0,0,3,0,1,0, Boston Pride,stats#/player/463308,463308,40874,,,,,,,2016
-91,Rachel Llanes,F,0,0,0,2,0,0,0,0,0,11 - 5,0.688,0,0,1,0,11,5, Boston Pride,stats#/player/58135,58135,40874,,,,,,,2016
+12,Marissa Gedman,D,0,0,0,0,0,2,0,0,0,0 - 0,0,0,0,2,0,0,0, Boston Pride,stats#/player/58121,58121,40874,,,,,,,2016
+15,Emily Field,F,0,0,0,2,0,1,0,0,0,0 - 0,0,0,0,1,0,0,0, Boston Pride,stats#/player/58123,58123,40874,,,,,,,2016
+22,Kacey Bellamy,D,0,0,0,4,0,3,0,0,0,0 - 0,0,0,0,3,0,0,0, Boston Pride,stats#/player/58128,58128,40874,,,,,,,2016
+44,Zoe Hickel,F,0,0,0,2,0,3,0,0,0,1 - 0,1,0,0,3,0,1,0, Boston Pride,stats#/player/463308,463308,40874,,,,,,,2016
+91,Rachel Llanes,F,0,0,0,2,0,1,0,0,0,11 - 5,0.688,0,0,1,0,11,5, Boston Pride,stats#/player/58135,58135,40874,,,,,,,2016
 10,Ashley Johnston,D,0,1,1,0,0,0,0,0,0,0 - 0,0,0,0,0,0,0,0, New York Riveters,stats#/player/57701,57701,40874,,,,,,,2016
-12,Janine Weber,F,0,1,1,0,0,0,0,0,0,0 - 4,0,0,0,2,0,0,4, New York Riveters,stats#/player/513300,513300,40874,,,,,,,2016
-18,Meghan Fardelmann,F,1,0,1,0,0,0,0,0,0,2 - 5,0.286,0,0,3,0,2,5, New York Riveters,stats#/player/57636,57636,40874,,,,,,,2016
-4,Elena Orlando,D,0,0,0,0,0,0,0,0,0,0 - 0,0,0,0,2,0,0,0, New York Riveters,stats#/player/909127,909127,40874,,,,,,,2016
-8,Sydney Kidd,D,0,0,0,0,0,0,0,0,0,0 - 0,0,0,0,2,0,0,0, New York Riveters,stats#/player/57699,57699,40874,,,,,,,2016
+12,Janine Weber,F,0,1,1,0,0,2,0,0,0,0 - 4,0,0,0,2,0,0,4, New York Riveters,stats#/player/513300,513300,40874,,,,,,,2016
+18,Meghan Fardelmann,F,1,0,1,0,0,3,0,0,0,2 - 5,0.286,0,0,3,0,2,5, New York Riveters,stats#/player/57636,57636,40874,,,,,,,2016
+4,Elena Orlando,D,0,0,0,0,0,2,0,0,0,0 - 0,0,0,0,2,0,0,0, New York Riveters,stats#/player/909127,909127,40874,,,,,,,2016
+8,Sydney Kidd,D,0,0,0,0,0,2,0,0,0,0 - 0,0,0,0,2,0,0,0, New York Riveters,stats#/player/57699,57699,40874,,,,,,,2016
 9,Ludmila Belyakova,F,0,0,0,2,0,0,0,0,0,2 - 2,0.5,0,0,0,0,2,2, New York Riveters,stats#/player/57700,57700,40874,,,,,,,2016
-11,Morgan Fritz-Ward,F,0,0,0,0,0,0,0,0,0,0 - 2,0,0,0,3,0,0,2, New York Riveters,stats#/player/57702,57702,40874,,,,,,,2016
-14,Madison Packer,F,0,0,0,0,0,0,0,0,0,2 - 4,0.333,0,0,3,0,2,4, New York Riveters,stats#/player/966106,966106,40874,,,,,,,2016
-17,Bray Ketchum,F,0,0,0,0,0,0,0,0,0,0 - 1,0,0,0,2,0,0,1, New York Riveters,stats#/player/57716,57716,40874,,,,,,,2016
-20,Brooke Ammerman,F,0,0,0,0,0,0,0,0,0,4 - 16,0.2,0,0,3,0,4,16, New York Riveters,stats#/player/57718,57718,40874,,,,,,,2016
+11,Morgan Fritz-Ward,F,0,0,0,0,0,3,0,0,0,0 - 2,0,0,0,3,0,0,2, New York Riveters,stats#/player/57702,57702,40874,,,,,,,2016
+14,Madison Packer,F,0,0,0,0,0,3,0,0,0,2 - 4,0.333,0,0,3,0,2,4, New York Riveters,stats#/player/966106,966106,40874,,,,,,,2016
+17,Bray Ketchum,F,0,0,0,0,0,2,0,0,0,0 - 1,0,0,0,2,0,0,1, New York Riveters,stats#/player/57716,57716,40874,,,,,,,2016
+20,Brooke Ammerman,F,0,0,0,0,0,3,0,0,0,4 - 16,0.2,0,0,3,0,4,16, New York Riveters,stats#/player/57718,57718,40874,,,,,,,2016
 21,Gabie Figueroa,D,0,0,0,0,0,0,0,0,0,0 - 0,0,0,0,0,0,0,0, New York Riveters,stats#/player/57719,57719,40874,,,,,,,2016
-24,Celeste Brown,F,0,0,0,2,0,0,0,0,0,3 - 12,0.2,0,0,1,0,3,12, New York Riveters,stats#/player/57721,57721,40874,,,,,,,2016
-26,Kiira Dosdall-Arena,D,0,0,0,0,0,0,0,0,0,0 - 0,0,0,0,1,0,0,0, New York Riveters,stats#/player/1066549,1066549,40874,,,,,,,2016
-28,Beth Hanrahan,F,0,0,0,2,0,0,0,0,0,0 - 0,0,0,0,3,0,0,0, New York Riveters,stats#/player/57723,57723,40874,,,,,,,2016
+24,Celeste Brown,F,0,0,0,2,0,1,0,0,0,3 - 12,0.2,0,0,1,0,3,12, New York Riveters,stats#/player/57721,57721,40874,,,,,,,2016
+26,Kiira Dosdall-Arena,D,0,0,0,0,0,1,0,0,0,0 - 0,0,0,0,1,0,0,0, New York Riveters,stats#/player/1066549,1066549,40874,,,,,,,2016
+28,Beth Hanrahan,F,0,0,0,2,0,3,0,0,0,0 - 0,0,0,0,3,0,0,0, New York Riveters,stats#/player/57723,57723,40874,,,,,,,2016
 91,Taylor Holze,F,0,0,0,2,0,0,0,0,0,0 - 0,0,0,0,0,0,0,0, New York Riveters,stats#/player/57726,57726,40874,,,,,,,2016
 1,Kelsie Fralick,G,0,0,,0,,,,,,,,,,,,,, Boston Pride,,58114,40874,00:00,0,0,0,0,stats#/player/58114,2016
 29,Brittany Ott,G,0,0,,0,,,,,,,,,,,,,, Boston Pride,,58131,40874,60:00,25,1,24,0.96,stats#/player/58131,2016
 30,Lauren Slebodnick,G,0,0,,0,,,,,,,,,,,,,, Boston Pride,,58132,40874,00:00,0,0,0,0,stats#/player/58132,2016
 30,Jenny Scrivens,G,0,0,,0,,,,,,,,,,,,,, New York Riveters,,57724,40874,59:05,36,2,34,0.944,stats#/player/57724,2016
 31,Corinne Boyles,G,0,0,,0,,,,,,,,,,,,,, New York Riveters,,69126,40874,00:00,0,0,0,0,stats#/player/69126,2016
-21,Hilary Knight,F,1,2,3,2,0,0,0,0,0,21 - 3,0.875,0,0,5,0,21,3, Boston Pride,stats#/player/58127,58127,40875,,,,,,,2016
-91,Rachel Llanes,F,1,2,3,0,0,0,0,0,0,9 - 8,0.529,0,0,4,0,9,8, Boston Pride,stats#/player/58135,58135,40875,,,,,,,2016
-3,Jillian Dempsey,F,2,0,2,0,0,0,0,0,0,0 - 0,0,0,0,5,0,0,0, Boston Pride,stats#/player/58116,58116,40875,,,,,,,2016
+21,Hilary Knight,F,1,2,3,2,0,5,0,0,0,21 - 3,0.875,0,0,5,0,21,3, Boston Pride,stats#/player/58127,58127,40875,,,,,,,2016
+91,Rachel Llanes,F,1,2,3,0,0,4,0,0,0,9 - 8,0.529,0,0,4,0,9,8, Boston Pride,stats#/player/58135,58135,40875,,,,,,,2016
+3,Jillian Dempsey,F,2,0,2,0,0,5,0,0,0,0 - 0,0,0,0,5,0,0,0, Boston Pride,stats#/player/58116,58116,40875,,,,,,,2016
 5,Kelly Cooke,F,0,2,2,0,0,0,0,0,0,0 - 0,0,0,0,0,0,0,0, Boston Pride,stats#/player/58117,58117,40875,,,,,,,2016
-10,Blake Bolden,D,0,1,1,2,0,0,0,0,0,0 - 0,0,0,0,4,0,0,0, Boston Pride,stats#/player/58119,58119,40875,,,,,,,2016
-11,Jordan Smelker,F,1,0,1,0,0,0,0,0,0,0 - 0,0,0,0,1,0,0,0, Boston Pride,stats#/player/58120,58120,40875,,,,,,,2016
-14,Brianna Decker,F,0,1,1,2,0,0,0,0,0,14 - 7,0.667,0,0,6,0,14,7, Boston Pride,stats#/player/58122,58122,40875,,,,,,,2016
-15,Emily Field,F,1,0,1,0,0,0,0,0,0,0 - 0,0,0,0,3,0,0,0, Boston Pride,stats#/player/58123,58123,40875,,,,,,,2016
-16,Amanda Pelkey,F,1,0,1,0,0,0,0,0,0,0 - 0,0,0,0,2,0,0,0, Boston Pride,stats#/player/58124,58124,40875,,,,,,,2016
-22,Kacey Bellamy,D,0,1,1,2,0,0,0,0,0,0 - 0,0,0,0,4,0,0,0, Boston Pride,stats#/player/58128,58128,40875,,,,,,,2016
-2,Alyssa Gagliardi,D,0,0,0,2,0,0,0,0,0,0 - 0,0,0,0,2,0,0,0, Boston Pride,stats#/player/58115,58115,40875,,,,,,,2016
-12,Marissa Gedman,D,0,0,0,0,0,0,0,0,0,0 - 0,0,0,0,2,0,0,0, Boston Pride,stats#/player/58121,58121,40875,,,,,,,2016
+10,Blake Bolden,D,0,1,1,2,0,4,0,0,0,0 - 0,0,0,0,4,0,0,0, Boston Pride,stats#/player/58119,58119,40875,,,,,,,2016
+11,Jordan Smelker,F,1,0,1,0,0,1,0,0,0,0 - 0,0,0,0,1,0,0,0, Boston Pride,stats#/player/58120,58120,40875,,,,,,,2016
+14,Brianna Decker,F,0,1,1,2,0,6,0,0,0,14 - 7,0.667,0,0,6,0,14,7, Boston Pride,stats#/player/58122,58122,40875,,,,,,,2016
+15,Emily Field,F,1,0,1,0,0,3,0,0,0,0 - 0,0,0,0,3,0,0,0, Boston Pride,stats#/player/58123,58123,40875,,,,,,,2016
+16,Amanda Pelkey,F,1,0,1,0,0,2,0,0,0,0 - 0,0,0,0,2,0,0,0, Boston Pride,stats#/player/1194634,1194634,40875,,,,,,,2016
+22,Kacey Bellamy,D,0,1,1,2,0,4,0,0,0,0 - 0,0,0,0,4,0,0,0, Boston Pride,stats#/player/58128,58128,40875,,,,,,,2016
+2,Alyssa Gagliardi,D,0,0,0,2,0,2,0,0,0,0 - 0,0,0,0,2,0,0,0, Boston Pride,stats#/player/58115,58115,40875,,,,,,,2016
+12,Marissa Gedman,D,0,0,0,0,0,2,0,0,0,0 - 0,0,0,0,2,0,0,0, Boston Pride,stats#/player/58121,58121,40875,,,,,,,2016
 19,Gigi Marvin,D,0,0,0,0,0,0,0,0,0,0 - 0,0,0,0,0,0,0,0, Boston Pride,stats#/player/58126,58126,40875,,,,,,,2016
-23,Corinne Buie,F,0,0,0,2,0,0,0,0,0,0 - 0,0,0,0,4,0,0,0, Boston Pride,stats#/player/58129,58129,40875,,,,,,,2016
-44,Zoe Hickel,F,0,0,0,0,0,0,0,0,0,0 - 1,0,0,0,3,0,0,1, Boston Pride,stats#/player/463308,463308,40875,,,,,,,2016
-21,Devon Skeats,F,3,1,4,2,0,0,0,0,0,0 - 0,0,1,0,7,0,0,0, Buffalo Beauts,stats#/player/58104,58104,40875,,,,,,,2016
-24,Hailey Browne,F,1,3,4,2,0,0,0,0,0,1 - 2,0.333,1,0,5,0,1,2, Buffalo Beauts,stats#/player/58106,58106,40875,,,,,,,2016
-36,Kourtney Kunichika,F,1,3,4,0,0,0,0,0,0,6 - 19,0.24,0,0,2,0,6,19, Buffalo Beauts,stats#/player/58111,58111,40875,,,,,,,2016
-7,Emily Pfalzer,D,1,0,1,2,0,0,0,0,0,0 - 0,0,0,0,4,0,0,0, Buffalo Beauts,stats#/player/58088,58088,40875,,,,,,,2016
+23,Corinne Buie,F,0,0,0,2,0,4,0,0,0,0 - 0,0,0,0,4,0,0,0, Boston Pride,stats#/player/58129,58129,40875,,,,,,,2016
+44,Zoe Hickel,F,0,0,0,0,0,3,0,0,0,0 - 1,0,0,0,3,0,0,1, Boston Pride,stats#/player/463308,463308,40875,,,,,,,2016
+21,Devon Skeats,F,3,1,4,2,0,7,0,0,0,0 - 0,0,1,0,7,0,0,0, Buffalo Beauts,stats#/player/58104,58104,40875,,,,,,,2016
+24,Hailey Browne,F,1,3,4,2,0,5,0,0,0,1 - 2,0.333,1,0,5,0,1,2, Buffalo Beauts,stats#/player/58106,58106,40875,,,,,,,2016
+36,Kourtney Kunichika,F,1,3,4,0,0,2,0,0,0,6 - 19,0.24,0,0,2,0,6,19, Buffalo Beauts,stats#/player/58111,58111,40875,,,,,,,2016
+7,Emily Pfalzer,D,1,0,1,2,0,4,0,0,0,0 - 0,0,0,0,4,0,0,0, Buffalo Beauts,stats#/player/58088,58088,40875,,,,,,,2016
 9,Megan Bozek,D,0,1,1,0,0,0,0,0,0,0 - 0,0,0,0,0,0,0,0, Buffalo Beauts,stats#/player/58091,58091,40875,,,,,,,2016
-13,Shelby Bram,F,0,1,1,0,0,0,0,0,0,5 - 14,0.263,0,0,1,0,5,14, Buffalo Beauts,stats#/player/58100,58100,40875,,,,,,,2016
+13,Shelby Bram,F,0,1,1,0,0,1,0,0,0,5 - 14,0.263,0,0,1,0,5,14, Buffalo Beauts,stats#/player/58100,58100,40875,,,,,,,2016
 2,Paige Harrington,D,0,0,0,0,0,0,0,0,0,0 - 0,0,0,0,0,0,0,0, Buffalo Beauts,stats#/player/58084,58084,40875,,,,,,,2016
-6,Jessica Fickel,F,0,0,0,0,0,0,0,0,0,0 - 0,0,0,0,1,0,0,0, Buffalo Beauts,stats#/player/58087,58087,40875,,,,,,,2016
-12,Hannah McGowan,F,0,0,0,0,0,0,0,0,0,0 - 0,0,0,0,2,0,0,0, Buffalo Beauts,stats#/player/58099,58099,40875,,,,,,,2016
+6,Jessica Fickel,F,0,0,0,0,0,1,0,0,0,0 - 0,0,0,0,1,0,0,0, Buffalo Beauts,stats#/player/58087,58087,40875,,,,,,,2016
+12,Hannah McGowan,F,0,0,0,0,0,2,0,0,0,0 - 0,0,0,0,2,0,0,0, Buffalo Beauts,stats#/player/58099,58099,40875,,,,,,,2016
 14,Kelly McDonald,D,0,0,0,0,0,0,0,0,0,0 - 0,0,0,0,0,0,0,0, Buffalo Beauts,stats#/player/58101,58101,40875,,,,,,,2016
 20,Erin Zach,F,0,0,0,0,0,0,0,0,0,0 - 0,0,0,0,0,0,0,0, Buffalo Beauts,stats#/player/58103,58103,40875,,,,,,,2016
-23,Lindsay Grigg,D,0,0,0,0,0,0,0,0,0,0 - 0,0,0,0,1,0,0,0, Buffalo Beauts,stats#/player/58105,58105,40875,,,,,,,2016
+23,Lindsay Grigg,D,0,0,0,0,0,1,0,0,0,0 - 0,0,0,0,1,0,0,0, Buffalo Beauts,stats#/player/58105,58105,40875,,,,,,,2016
 26,Maggie Giamo,F,0,0,0,0,0,0,0,0,0,0 - 0,0,0,0,0,0,0,0, Buffalo Beauts,stats#/player/58107,58107,40875,,,,,,,2016
-43,Tatiana Rafter,F,0,0,0,0,0,0,0,0,0,0 - 0,0,0,0,2,0,0,0, Buffalo Beauts,stats#/player/58112,58112,40875,,,,,,,2016
+43,Tatiana Rafter,F,0,0,0,0,0,2,0,0,0,0 - 0,0,0,0,2,0,0,0, Buffalo Beauts,stats#/player/58112,58112,40875,,,,,,,2016
 77,Hayley Williams,F,0,0,0,0,0,0,0,0,0,7 - 9,0.438,0,0,0,0,7,9, Buffalo Beauts,stats#/player/58113,58113,40875,,,,,,,2016
 1,Kelsie Fralick,G,0,0,,0,,,,,,,,,,,,,, Boston Pride,,58114,40875,00:00,0,0,0,0,stats#/player/58114,2016
 29,Brittany Ott,G,0,0,,0,,,,,,,,,,,,,, Boston Pride,,58131,40875,14:28,8,1,7,0.875,stats#/player/58131,2016
@@ -1127,7 +1127,7 @@ player_jersey,player_name,position,goals,assists,points,penalty_minutes,plus_min
 34,Amanda Makela,G,0,0,,0,,,,,,,,,,,,,, Buffalo Beauts,,58109,40870,00:00,0,0,0,0,stats#/player/58109,2016
 14,Brianna Decker,F,0,2,2,6,0,9,0,0,0,13 - 6,0.684,0,0,9,0,13,6, Boston Pride,stats#/player/58122,58122,40872,,,,,,,2016
 22,Kacey Bellamy,D,1,1,2,0,0,4,0,0,0,0 - 0,0,1,0,4,0,0,0, Boston Pride,stats#/player/58128,58128,40872,,,,,,,2016
-16,Amanda Pelkey,F,1,0,1,0,0,4,0,0,0,0 - 0,0,1,0,4,0,0,0, Boston Pride,stats#/player/58124,58124,40872,,,,,,,2016
+16,Amanda Pelkey,F,1,0,1,0,0,4,0,0,0,0 - 0,0,1,0,4,0,0,0, Boston Pride,stats#/player/1194634,1194634,40872,,,,,,,2016
 19,Gigi Marvin,D,0,1,1,2,0,3,0,0,0,0 - 0,0,0,0,3,0,0,0, Boston Pride,stats#/player/58126,58126,40872,,,,,,,2016
 91,Rachel Llanes,F,1,0,1,0,0,3,0,0,0,6 - 10,0.375,0,0,3,0,6,10, Boston Pride,stats#/player/58135,58135,40872,,,,,,,2016
 2,Alyssa Gagliardi,D,0,0,0,2,0,2,0,0,0,0 - 0,0,0,0,2,0,0,0, Boston Pride,stats#/player/58115,58115,40872,,,,,,,2016
@@ -1195,35 +1195,35 @@ player_jersey,player_name,position,goals,assists,points,penalty_minutes,plus_min
 34,Amanda Makela,G,0,0,,0,,,,,,,,,,,,,, Buffalo Beauts,,58109,40871,60:00,14,1,13,0.929,stats#/player/58109,2016
 24,Nicole Stock,G,0,0,,0,,,,,,,,,,,,,, Connecticut Whale,,57750,40871,60:00,26,5,21,0.808,stats#/player/57750,2016
 32,Jaimie Leonoff,G,0,0,,0,,,,,,,,,,,,,, Connecticut Whale,,57754,40871,20:00,11,1,10,0.909,stats#/player/57754,2016
-21,Hilary Knight,F,1,1,2,0,0,0,0,0,0,9 - 4,0.692,1,0,5,0,9,4, Boston Pride,stats#/player/58127,58127,40873,,,,,,,2016
-3,Jillian Dempsey,F,0,1,1,0,0,0,0,0,0,4 - 1,0.8,0,0,5,0,4,1, Boston Pride,stats#/player/58116,58116,40873,,,,,,,2016
-14,Brianna Decker,F,0,1,1,2,0,0,0,0,0,21 - 7,0.75,0,0,7,0,21,7, Boston Pride,stats#/player/58122,58122,40873,,,,,,,2016
-16,Amanda Pelkey,F,1,0,1,2,0,0,0,0,0,2 - 0,1,1,0,7,0,2,0, Boston Pride,stats#/player/58124,58124,40873,,,,,,,2016
+21,Hilary Knight,F,1,1,2,0,0,5,0,0,0,9 - 4,0.692,1,0,5,0,9,4, Boston Pride,stats#/player/58127,58127,40873,,,,,,,2016
+3,Jillian Dempsey,F,0,1,1,0,0,5,0,0,0,4 - 1,0.8,0,0,5,0,4,1, Boston Pride,stats#/player/58116,58116,40873,,,,,,,2016
+14,Brianna Decker,F,0,1,1,2,0,7,0,0,0,21 - 7,0.75,0,0,7,0,21,7, Boston Pride,stats#/player/58122,58122,40873,,,,,,,2016
+16,Amanda Pelkey,F,1,0,1,2,0,7,0,0,0,2 - 0,1,1,0,7,0,2,0, Boston Pride,stats#/player/1194634,1194634,40873,,,,,,,2016
 22,Kacey Bellamy,D,0,1,1,0,0,0,0,0,0,0 - 0,0,0,0,0,0,0,0, Boston Pride,stats#/player/58128,58128,40873,,,,,,,2016
-2,Alyssa Gagliardi,D,0,0,0,0,0,0,0,0,0,0 - 0,0,0,0,3,0,0,0, Boston Pride,stats#/player/58115,58115,40873,,,,,,,2016
-5,Kelly Cooke,F,0,0,0,0,0,0,0,0,0,0 - 0,0,0,0,1,0,0,0, Boston Pride,stats#/player/58117,58117,40873,,,,,,,2016
-10,Blake Bolden,D,0,0,0,0,0,0,0,0,0,0 - 0,0,0,0,2,0,0,0, Boston Pride,stats#/player/58119,58119,40873,,,,,,,2016
-11,Jordan Smelker,F,0,0,0,2,0,0,0,0,0,0 - 0,0,0,0,4,0,0,0, Boston Pride,stats#/player/58120,58120,40873,,,,,,,2016
-12,Marissa Gedman,D,0,0,0,0,0,0,0,0,0,0 - 0,0,0,0,1,0,0,0, Boston Pride,stats#/player/58121,58121,40873,,,,,,,2016
-15,Emily Field,F,0,0,0,0,0,0,0,0,0,1 - 0,1,0,0,3,0,1,0, Boston Pride,stats#/player/58123,58123,40873,,,,,,,2016
-19,Gigi Marvin,D,0,0,0,2,0,0,0,0,0,0 - 0,0,0,0,3,0,0,0, Boston Pride,stats#/player/58126,58126,40873,,,,,,,2016
-23,Corinne Buie,F,0,0,0,0,0,0,0,0,0,0 - 0,0,0,0,2,0,0,0, Boston Pride,stats#/player/58129,58129,40873,,,,,,,2016
-44,Zoe Hickel,F,0,0,0,0,0,0,0,0,0,0 - 0,0,0,0,1,0,0,0, Boston Pride,stats#/player/463308,463308,40873,,,,,,,2016
-91,Rachel Llanes,F,0,0,0,0,0,0,0,0,0,3 - 3,0.5,0,0,1,0,3,3, Boston Pride,stats#/player/58135,58135,40873,,,,,,,2016
-10,Ashley Johnston,D,0,1,1,0,0,0,0,0,0,0 - 1,0,0,0,2,0,0,1, New York Riveters,stats#/player/57701,57701,40873,,,,,,,2016
-12,Janine Weber,F,0,1,1,2,0,0,0,0,0,4 - 9,0.308,0,0,1,0,4,9, New York Riveters,stats#/player/513300,513300,40873,,,,,,,2016
-14,Madison Packer,F,1,0,1,2,0,0,0,0,0,0 - 1,0,0,0,2,0,0,1, New York Riveters,stats#/player/966106,966106,40873,,,,,,,2016
-18,Meghan Fardelmann,F,1,0,1,2,0,0,0,0,0,5 - 6,0.455,0,0,4,0,5,6, New York Riveters,stats#/player/57636,57636,40873,,,,,,,2016
-20,Brooke Ammerman,F,1,0,1,0,0,0,0,0,0,3 - 6,0.333,0,0,3,0,3,6, New York Riveters,stats#/player/57718,57718,40873,,,,,,,2016
-91,Taylor Holze,F,0,1,1,0,0,0,0,0,0,0 - 0,0,0,0,1,0,0,0, New York Riveters,stats#/player/57726,57726,40873,,,,,,,2016
+2,Alyssa Gagliardi,D,0,0,0,0,0,3,0,0,0,0 - 0,0,0,0,3,0,0,0, Boston Pride,stats#/player/58115,58115,40873,,,,,,,2016
+5,Kelly Cooke,F,0,0,0,0,0,1,0,0,0,0 - 0,0,0,0,1,0,0,0, Boston Pride,stats#/player/58117,58117,40873,,,,,,,2016
+10,Blake Bolden,D,0,0,0,0,0,2,0,0,0,0 - 0,0,0,0,2,0,0,0, Boston Pride,stats#/player/58119,58119,40873,,,,,,,2016
+11,Jordan Smelker,F,0,0,0,2,0,4,0,0,0,0 - 0,0,0,0,4,0,0,0, Boston Pride,stats#/player/58120,58120,40873,,,,,,,2016
+12,Marissa Gedman,D,0,0,0,0,0,1,0,0,0,0 - 0,0,0,0,1,0,0,0, Boston Pride,stats#/player/58121,58121,40873,,,,,,,2016
+15,Emily Field,F,0,0,0,0,0,3,0,0,0,1 - 0,1,0,0,3,0,1,0, Boston Pride,stats#/player/58123,58123,40873,,,,,,,2016
+19,Gigi Marvin,D,0,0,0,2,0,3,0,0,0,0 - 0,0,0,0,3,0,0,0, Boston Pride,stats#/player/58126,58126,40873,,,,,,,2016
+23,Corinne Buie,F,0,0,0,0,0,2,0,0,0,0 - 0,0,0,0,2,0,0,0, Boston Pride,stats#/player/58129,58129,40873,,,,,,,2016
+44,Zoe Hickel,F,0,0,0,0,0,1,0,0,0,0 - 0,0,0,0,1,0,0,0, Boston Pride,stats#/player/463308,463308,40873,,,,,,,2016
+91,Rachel Llanes,F,0,0,0,0,0,1,0,0,0,3 - 3,0.5,0,0,1,0,3,3, Boston Pride,stats#/player/58135,58135,40873,,,,,,,2016
+10,Ashley Johnston,D,0,1,1,0,0,2,0,0,0,0 - 1,0,0,0,2,0,0,1, New York Riveters,stats#/player/57701,57701,40873,,,,,,,2016
+12,Janine Weber,F,0,1,1,2,0,1,0,0,0,4 - 9,0.308,0,0,1,0,4,9, New York Riveters,stats#/player/513300,513300,40873,,,,,,,2016
+14,Madison Packer,F,1,0,1,2,0,2,0,0,0,0 - 1,0,0,0,2,0,0,1, New York Riveters,stats#/player/966106,966106,40873,,,,,,,2016
+18,Meghan Fardelmann,F,1,0,1,2,0,4,0,0,0,5 - 6,0.455,0,0,4,0,5,6, New York Riveters,stats#/player/57636,57636,40873,,,,,,,2016
+20,Brooke Ammerman,F,1,0,1,0,0,3,0,0,0,3 - 6,0.333,0,0,3,0,3,6, New York Riveters,stats#/player/57718,57718,40873,,,,,,,2016
+91,Taylor Holze,F,0,1,1,0,0,1,0,0,0,0 - 0,0,0,0,1,0,0,0, New York Riveters,stats#/player/57726,57726,40873,,,,,,,2016
 4,Elena Orlando,D,0,0,0,2,0,0,0,0,0,0 - 0,0,0,0,0,0,0,0, New York Riveters,stats#/player/909127,909127,40873,,,,,,,2016
-8,Sydney Kidd,F,0,0,0,0,0,0,0,0,0,0 - 0,0,0,0,1,0,0,0, New York Riveters,stats#/player/57699,57699,40873,,,,,,,2016
-11,Morgan Fritz-Ward,F,0,0,0,0,0,0,0,0,0,0 - 0,0,0,0,2,0,0,0, New York Riveters,stats#/player/57702,57702,40873,,,,,,,2016
-17,Bray Ketchum,F,0,0,0,0,0,0,0,0,0,0 - 1,0,0,0,1,0,0,1, New York Riveters,stats#/player/57716,57716,40873,,,,,,,2016
-21,Gabie Figueroa,D,0,0,0,0,0,0,0,0,0,0 - 0,0,0,0,1,0,0,0, New York Riveters,stats#/player/57719,57719,40873,,,,,,,2016
+8,Sydney Kidd,F,0,0,0,0,0,1,0,0,0,0 - 0,0,0,0,1,0,0,0, New York Riveters,stats#/player/57699,57699,40873,,,,,,,2016
+11,Morgan Fritz-Ward,F,0,0,0,0,0,2,0,0,0,0 - 0,0,0,0,2,0,0,0, New York Riveters,stats#/player/57702,57702,40873,,,,,,,2016
+17,Bray Ketchum,F,0,0,0,0,0,1,0,0,0,0 - 1,0,0,0,1,0,0,1, New York Riveters,stats#/player/57716,57716,40873,,,,,,,2016
+21,Gabie Figueroa,D,0,0,0,0,0,1,0,0,0,0 - 0,0,0,0,1,0,0,0, New York Riveters,stats#/player/57719,57719,40873,,,,,,,2016
 24,Celeste Brown,F,0,0,0,2,0,0,0,0,0,5 - 13,0.278,0,0,0,0,5,13, New York Riveters,stats#/player/57721,57721,40873,,,,,,,2016
 26,Kiira Dosdall-Arena,D,0,0,0,2,0,0,0,0,0,0 - 0,0,0,0,0,0,0,0, New York Riveters,stats#/player/1066549,1066549,40873,,,,,,,2016
-28,Beth Hanrahan,F,0,0,0,0,0,0,0,0,0,0 - 0,0,0,0,2,0,0,0, New York Riveters,stats#/player/57723,57723,40873,,,,,,,2016
+28,Beth Hanrahan,F,0,0,0,0,0,2,0,0,0,0 - 0,0,0,0,2,0,0,0, New York Riveters,stats#/player/57723,57723,40873,,,,,,,2016
 1,Kelsie Fralick,G,0,0,,0,,,,,,,,,,,,,, Boston Pride,,58114,40873,00:00,0,0,0,0,stats#/player/58114,2016
 29,Brittany Ott,G,0,0,,0,,,,,,,,,,,,,, Boston Pride,,58131,40873,60:00,20,3,17,0.85,stats#/player/58131,2016
 30,Lauren Slebodnick,G,0,0,,0,,,,,,,,,,,,,, Boston Pride,,58132,40873,00:00,0,0,0,0,stats#/player/58132,2016
@@ -1336,71 +1336,71 @@ player_jersey,player_name,position,goals,assists,points,penalty_minutes,plus_min
 33,Nana Fujimoto,G,0,0,,0,,,,,,,,,,,,,, New York Riveters,,58266,40864,59:50,21,2,19,0.905,stats#/player/58266,2016
 24,Nicole Stock,G,0,0,,0,,,,,,,,,,,,,, Connecticut Whale,,57750,40864,60:00,26,1,25,0.962,stats#/player/57750,2016
 78,Chelsea Laden,G,0,0,,0,,,,,,,,,,,,,, Connecticut Whale,,57761,40864,00:00,0,0,0,0,stats#/player/57761,2016
-3,Kelley Steadman,F,2,0,2,2,0,0,0,0,0,0 - 0,0,0,1,11,0,0,0, Buffalo Beauts,stats#/player/58085,58085,40869,,,,,,,2016
-36,Kourtney Kunichika,F,1,1,2,2,0,0,0,0,0,3 - 10,0.231,1,0,3,0,3,10, Buffalo Beauts,stats#/player/58111,58111,40869,,,,,,,2016
-7,Emily Pfalzer,D,0,1,1,0,0,0,0,0,0,0 - 0,0,0,0,3,0,0,0, Buffalo Beauts,stats#/player/58088,58088,40869,,,,,,,2016
-9,Megan Bozek,D,0,1,1,0,0,0,0,0,0,0 - 0,0,0,0,3,0,0,0, Buffalo Beauts,stats#/player/58091,58091,40869,,,,,,,2016
-10,Meghan Duggan,F,0,1,1,2,0,0,0,0,0,7 - 6,0.539,0,0,4,0,7,6, Buffalo Beauts,stats#/player/58098,58098,40869,,,,,,,2016
-13,Shelby Bram,F,0,1,1,0,0,0,0,0,0,10 - 13,0.435,0,0,4,0,10,13, Buffalo Beauts,stats#/player/58100,58100,40869,,,,,,,2016
+3,Kelley Steadman,F,2,0,2,2,0,11,0,0,0,0 - 0,0,0,1,11,0,0,0, Buffalo Beauts,stats#/player/58085,58085,40869,,,,,,,2016
+36,Kourtney Kunichika,F,1,1,2,2,0,3,0,0,0,3 - 10,0.231,1,0,3,0,3,10, Buffalo Beauts,stats#/player/58111,58111,40869,,,,,,,2016
+7,Emily Pfalzer,D,0,1,1,0,0,3,0,0,0,0 - 0,0,0,0,3,0,0,0, Buffalo Beauts,stats#/player/58088,58088,40869,,,,,,,2016
+9,Megan Bozek,D,0,1,1,0,0,3,0,0,0,0 - 0,0,0,0,3,0,0,0, Buffalo Beauts,stats#/player/58091,58091,40869,,,,,,,2016
+10,Meghan Duggan,F,0,1,1,2,0,4,0,0,0,7 - 6,0.539,0,0,4,0,7,6, Buffalo Beauts,stats#/player/58098,58098,40869,,,,,,,2016
+13,Shelby Bram,F,0,1,1,0,0,4,0,0,0,10 - 13,0.435,0,0,4,0,10,13, Buffalo Beauts,stats#/player/58100,58100,40869,,,,,,,2016
 2,Paige Harrington,D,0,0,0,0,0,0,0,0,0,2 - 2,0.5,0,0,0,0,2,2, Buffalo Beauts,stats#/player/58084,58084,40869,,,,,,,2016
 5,Courtney Carnes,F,0,0,0,0,0,0,0,0,0,0 - 0,0,0,0,0,0,0,0, Buffalo Beauts,stats#/player/58086,58086,40869,,,,,,,2016
-12,Hannah McGowan,F,0,0,0,0,0,0,0,0,0,0 - 0,0,0,0,3,0,0,0, Buffalo Beauts,stats#/player/58099,58099,40869,,,,,,,2016
+12,Hannah McGowan,F,0,0,0,0,0,3,0,0,0,0 - 0,0,0,0,3,0,0,0, Buffalo Beauts,stats#/player/58099,58099,40869,,,,,,,2016
 14,Kelly McDonald,D,0,0,0,0,0,0,0,0,0,0 - 0,0,0,0,0,0,0,0, Buffalo Beauts,stats#/player/58101,58101,40869,,,,,,,2016
 15,Annmarie Cellino,F,0,0,0,0,0,0,0,0,0,0 - 0,0,0,0,0,0,0,0, Buffalo Beauts,stats#/player/58102,58102,40869,,,,,,,2016
-24,Hailey Browne,F,0,0,0,0,0,0,0,0,0,0 - 1,0,0,0,1,0,0,1, Buffalo Beauts,stats#/player/58106,58106,40869,,,,,,,2016
-26,Maggie Giamo,F,0,0,0,2,0,0,0,0,0,0 - 0,0,0,0,1,0,0,0, Buffalo Beauts,stats#/player/58107,58107,40869,,,,,,,2016
-43,Tatiana Rafter,F,0,0,0,0,0,0,0,0,0,4 - 12,0.25,0,0,1,0,4,12, Buffalo Beauts,stats#/player/58112,58112,40869,,,,,,,2016
+24,Hailey Browne,F,0,0,0,0,0,1,0,0,0,0 - 1,0,0,0,1,0,0,1, Buffalo Beauts,stats#/player/58106,58106,40869,,,,,,,2016
+26,Maggie Giamo,F,0,0,0,2,0,1,0,0,0,0 - 0,0,0,0,1,0,0,0, Buffalo Beauts,stats#/player/58107,58107,40869,,,,,,,2016
+43,Tatiana Rafter,F,0,0,0,0,0,1,0,0,0,4 - 12,0.25,0,0,1,0,4,12, Buffalo Beauts,stats#/player/58112,58112,40869,,,,,,,2016
 77,Hayley Williams,F,0,0,0,2,0,0,0,0,0,0 - 0,0,0,0,0,0,0,0, Buffalo Beauts,stats#/player/58113,58113,40869,,,,,,,2016
-14,Brianna Decker,F,3,0,3,4,0,0,0,0,0,13 - 6,0.684,1,0,7,0,13,6, Boston Pride,stats#/player/58122,58122,40869,,,,,,,2016
-11,Jordan Smelker,F,0,1,1,0,0,0,0,0,0,0 - 0,0,0,0,3,0,0,0, Boston Pride,stats#/player/58120,58120,40869,,,,,,,2016
-15,Emily Field,F,1,0,1,0,0,0,0,0,0,0 - 0,0,0,0,2,0,0,0, Boston Pride,stats#/player/58123,58123,40869,,,,,,,2016
-19,Gigi Marvin,D,1,0,1,0,0,0,0,0,0,0 - 1,0,1,0,4,0,0,1, Boston Pride,stats#/player/58126,58126,40869,,,,,,,2016
-21,Hilary Knight,F,0,1,1,0,0,0,0,0,0,15 - 9,0.625,0,0,6,0,15,9, Boston Pride,stats#/player/58127,58127,40869,,,,,,,2016
-22,Kacey Bellamy,D,0,1,1,0,0,0,0,0,0,0 - 0,0,0,0,1,0,0,0, Boston Pride,stats#/player/58128,58128,40869,,,,,,,2016
-23,Corinne Buie,F,0,1,1,0,0,0,0,0,0,1 - 0,1,0,0,3,0,1,0, Boston Pride,stats#/player/58129,58129,40869,,,,,,,2016
-91,Rachel Llanes,F,0,1,1,0,0,0,0,0,0,3 - 3,0.5,0,0,6,0,3,3, Boston Pride,stats#/player/58135,58135,40869,,,,,,,2016
-2,Alyssa Gagliardi,D,0,0,0,0,0,0,0,0,0,0 - 0,0,0,0,2,0,0,0, Boston Pride,stats#/player/58115,58115,40869,,,,,,,2016
-3,Jillian Dempsey,F,0,0,0,2,0,0,0,0,0,10 - 6,0.625,0,0,5,0,10,6, Boston Pride,stats#/player/58116,58116,40869,,,,,,,2016
-5,Kelly Cooke,F,0,0,0,0,0,0,0,0,0,0 - 0,0,0,0,1,0,0,0, Boston Pride,stats#/player/58117,58117,40869,,,,,,,2016
-10,Blake Bolden,D,0,0,0,2,0,0,0,0,0,0 - 0,0,0,0,3,0,0,0, Boston Pride,stats#/player/58119,58119,40869,,,,,,,2016
-12,Marissa Gedman,D,0,0,0,0,0,0,0,0,0,0 - 0,0,0,0,1,0,0,0, Boston Pride,stats#/player/58121,58121,40869,,,,,,,2016
-16,Amanda Pelkey,F,0,0,0,0,0,0,0,0,0,0 - 1,0,0,0,4,0,0,1, Boston Pride,stats#/player/58124,58124,40869,,,,,,,2016
-44,Zoe Hickel,F,0,0,0,0,0,0,0,0,0,0 - 0,0,0,0,2,0,0,0, Boston Pride,stats#/player/463308,463308,40869,,,,,,,2016
+14,Brianna Decker,F,3,0,3,4,0,7,0,0,0,13 - 6,0.684,1,0,7,0,13,6, Boston Pride,stats#/player/58122,58122,40869,,,,,,,2016
+11,Jordan Smelker,F,0,1,1,0,0,3,0,0,0,0 - 0,0,0,0,3,0,0,0, Boston Pride,stats#/player/58120,58120,40869,,,,,,,2016
+15,Emily Field,F,1,0,1,0,0,2,0,0,0,0 - 0,0,0,0,2,0,0,0, Boston Pride,stats#/player/58123,58123,40869,,,,,,,2016
+19,Gigi Marvin,D,1,0,1,0,0,4,0,0,0,0 - 1,0,1,0,4,0,0,1, Boston Pride,stats#/player/58126,58126,40869,,,,,,,2016
+21,Hilary Knight,F,0,1,1,0,0,6,0,0,0,15 - 9,0.625,0,0,6,0,15,9, Boston Pride,stats#/player/58127,58127,40869,,,,,,,2016
+22,Kacey Bellamy,D,0,1,1,0,0,1,0,0,0,0 - 0,0,0,0,1,0,0,0, Boston Pride,stats#/player/58128,58128,40869,,,,,,,2016
+23,Corinne Buie,F,0,1,1,0,0,3,0,0,0,1 - 0,1,0,0,3,0,1,0, Boston Pride,stats#/player/58129,58129,40869,,,,,,,2016
+91,Rachel Llanes,F,0,1,1,0,0,6,0,0,0,3 - 3,0.5,0,0,6,0,3,3, Boston Pride,stats#/player/58135,58135,40869,,,,,,,2016
+2,Alyssa Gagliardi,D,0,0,0,0,0,2,0,0,0,0 - 0,0,0,0,2,0,0,0, Boston Pride,stats#/player/58115,58115,40869,,,,,,,2016
+3,Jillian Dempsey,F,0,0,0,2,0,5,0,0,0,10 - 6,0.625,0,0,5,0,10,6, Boston Pride,stats#/player/58116,58116,40869,,,,,,,2016
+5,Kelly Cooke,F,0,0,0,0,0,1,0,0,0,0 - 0,0,0,0,1,0,0,0, Boston Pride,stats#/player/58117,58117,40869,,,,,,,2016
+10,Blake Bolden,D,0,0,0,2,0,3,0,0,0,0 - 0,0,0,0,3,0,0,0, Boston Pride,stats#/player/58119,58119,40869,,,,,,,2016
+12,Marissa Gedman,D,0,0,0,0,0,1,0,0,0,0 - 0,0,0,0,1,0,0,0, Boston Pride,stats#/player/58121,58121,40869,,,,,,,2016
+16,Amanda Pelkey,F,0,0,0,0,0,4,0,0,0,0 - 1,0,0,0,4,0,0,1, Boston Pride,stats#/player/1194634,1194634,40869,,,,,,,2016
+44,Zoe Hickel,F,0,0,0,0,0,2,0,0,0,0 - 0,0,0,0,2,0,0,0, Boston Pride,stats#/player/463308,463308,40869,,,,,,,2016
 1,Kimberly Sass,G,0,0,,0,,,,,,,,,,,,,, Buffalo Beauts,,58083,40869,00:00,0,0,0,0,stats#/player/58083,2016
 29,Brianne McLaughlin,G,0,0,,0,,,,,,,,,,,,,, Buffalo Beauts,,58108,40869,59:52,48,4,44,0.917,stats#/player/58108,2016
 1,Kelsie Fralick,G,0,0,,0,,,,,,,,,,,,,, Boston Pride,,58114,40869,00:00,0,0,0,0,stats#/player/58114,2016
 29,Brittany Ott,G,0,0,,0,,,,,,,,,,,,,, Boston Pride,,58131,40869,60:00,34,3,31,0.912,stats#/player/58131,2016
 30,Lauren Slebodnick,G,0,0,,0,,,,,,,,,,,,,, Boston Pride,,58132,40869,00:00,0,0,0,0,stats#/player/58132,2016
-21,Gabie Figueroa,D,1,0,1,0,0,0,0,0,0,1 - 0,1,0,0,3,0,1,0, New York Riveters,stats#/player/57719,57719,40865,,,,,,,2016
+21,Gabie Figueroa,D,1,0,1,0,0,3,0,0,0,1 - 0,1,0,0,3,0,1,0, New York Riveters,stats#/player/57719,57719,40865,,,,,,,2016
 2,Amber Moore,D,0,0,0,4,0,0,0,0,0,0 - 0,0,0,0,0,0,0,0, New York Riveters,stats#/player/57697,57697,40865,,,,,,,2016
 4,Elena Orlando,D,0,0,0,0,0,0,0,0,0,0 - 0,0,0,0,0,0,0,0, New York Riveters,stats#/player/909127,909127,40865,,,,,,,2016
 9,Ludmila Belyakova,F,0,0,0,2,0,0,0,0,0,6 - 7,0.462,0,0,0,0,6,7, New York Riveters,stats#/player/57700,57700,40865,,,,,,,2016
-10,Ashley Johnston,D,0,0,0,0,0,0,0,0,0,0 - 0,0,0,0,1,0,0,0, New York Riveters,stats#/player/57701,57701,40865,,,,,,,2016
+10,Ashley Johnston,D,0,0,0,0,0,1,0,0,0,0 - 0,0,0,0,1,0,0,0, New York Riveters,stats#/player/57701,57701,40865,,,,,,,2016
 11,Morgan Fritz-Ward,F,0,0,0,2,0,0,0,0,0,0 - 0,0,0,0,0,0,0,0, New York Riveters,stats#/player/57702,57702,40865,,,,,,,2016
-12,Janine Weber,F,0,0,0,0,0,0,0,0,0,4 - 8,0.333,0,0,4,0,4,8, New York Riveters,stats#/player/513300,513300,40865,,,,,,,2016
-14,Madison Packer,F,0,0,0,4,0,0,0,0,0,0 - 1,0,0,0,6,0,0,1, New York Riveters,stats#/player/966106,966106,40865,,,,,,,2016
-17,Bray Ketchum,F,0,0,0,0,0,0,0,0,0,2 - 0,1,0,0,3,0,2,0, New York Riveters,stats#/player/57716,57716,40865,,,,,,,2016
-18,Meghan Fardelmann,F,0,0,0,0,0,0,0,0,0,3 - 0,1,0,0,4,0,3,0, New York Riveters,stats#/player/57636,57636,40865,,,,,,,2016
+12,Janine Weber,F,0,0,0,0,0,4,0,0,0,4 - 8,0.333,0,0,4,0,4,8, New York Riveters,stats#/player/513300,513300,40865,,,,,,,2016
+14,Madison Packer,F,0,0,0,4,0,6,0,0,0,0 - 1,0,0,0,6,0,0,1, New York Riveters,stats#/player/966106,966106,40865,,,,,,,2016
+17,Bray Ketchum,F,0,0,0,0,0,3,0,0,0,2 - 0,1,0,0,3,0,2,0, New York Riveters,stats#/player/57716,57716,40865,,,,,,,2016
+18,Meghan Fardelmann,F,0,0,0,0,0,4,0,0,0,3 - 0,1,0,0,4,0,3,0, New York Riveters,stats#/player/57636,57636,40865,,,,,,,2016
 20,Brooke Ammerman,F,0,0,0,0,0,0,0,0,0,8 - 7,0.533,0,0,0,0,8,7, New York Riveters,stats#/player/57718,57718,40865,,,,,,,2016
 24,Celeste Brown,F,0,0,0,0,0,0,0,0,0,1 - 1,0.5,0,0,0,0,1,1, New York Riveters,stats#/player/57721,57721,40865,,,,,,,2016
-26,Kiira Dosdall-Arena,D,0,0,0,4,0,0,0,0,0,0 - 0,0,0,0,3,0,0,0, New York Riveters,stats#/player/1066549,1066549,40865,,,,,,,2016
-28,Beth Hanrahan,F,0,0,0,0,0,0,0,0,0,0 - 0,0,0,0,1,0,0,0, New York Riveters,stats#/player/57723,57723,40865,,,,,,,2016
+26,Kiira Dosdall-Arena,D,0,0,0,4,0,3,0,0,0,0 - 0,0,0,0,3,0,0,0, New York Riveters,stats#/player/1066549,1066549,40865,,,,,,,2016
+28,Beth Hanrahan,F,0,0,0,0,0,1,0,0,0,0 - 0,0,0,0,1,0,0,0, New York Riveters,stats#/player/57723,57723,40865,,,,,,,2016
 91,Taylor Holze,F,0,0,0,0,0,0,0,0,0,1 - 1,0.5,0,0,0,0,1,1, New York Riveters,stats#/player/57726,57726,40865,,,,,,,2016
-10,Blake Bolden,D,1,2,3,6,0,0,0,0,0,0 - 0,0,0,0,6,0,0,0, Boston Pride,stats#/player/58119,58119,40865,,,,,,,2016
-14,Brianna Decker,F,2,1,3,0,0,0,0,0,0,12 - 11,0.522,0,1,6,0,12,11, Boston Pride,stats#/player/58122,58122,40865,,,,,,,2016
-44,Zoe Hickel,F,2,1,3,2,0,0,0,0,0,0 - 0,0,0,0,6,0,0,0, Boston Pride,stats#/player/463308,463308,40865,,,,,,,2016
-11,Jordan Smelker,F,1,1,2,0,0,0,0,0,0,0 - 1,0,1,0,3,0,0,1, Boston Pride,stats#/player/58120,58120,40865,,,,,,,2016
-21,Hilary Knight,F,0,2,2,2,0,0,0,0,0,8 - 5,0.615,0,0,7,0,8,5, Boston Pride,stats#/player/58127,58127,40865,,,,,,,2016
-23,Corinne Buie,F,1,1,2,0,0,0,0,0,0,0 - 0,0,0,0,4,0,0,0, Boston Pride,stats#/player/58129,58129,40865,,,,,,,2016
-12,Marissa Gedman,D,0,1,1,2,0,0,0,0,0,0 - 0,0,0,0,6,0,0,0, Boston Pride,stats#/player/58121,58121,40865,,,,,,,2016
-16,Amanda Pelkey,F,0,1,1,0,0,0,0,0,0,0 - 1,0,0,0,3,0,0,1, Boston Pride,stats#/player/58124,58124,40865,,,,,,,2016
-2,Alyssa Gagliardi,D,0,0,0,0,0,0,0,0,0,0 - 0,0,0,0,3,0,0,0, Boston Pride,stats#/player/58115,58115,40865,,,,,,,2016
+10,Blake Bolden,D,1,2,3,6,0,6,0,0,0,0 - 0,0,0,0,6,0,0,0, Boston Pride,stats#/player/58119,58119,40865,,,,,,,2016
+14,Brianna Decker,F,2,1,3,0,0,6,0,0,0,12 - 11,0.522,0,1,6,0,12,11, Boston Pride,stats#/player/58122,58122,40865,,,,,,,2016
+44,Zoe Hickel,F,2,1,3,2,0,6,0,0,0,0 - 0,0,0,0,6,0,0,0, Boston Pride,stats#/player/463308,463308,40865,,,,,,,2016
+11,Jordan Smelker,F,1,1,2,0,0,3,0,0,0,0 - 1,0,1,0,3,0,0,1, Boston Pride,stats#/player/58120,58120,40865,,,,,,,2016
+21,Hilary Knight,F,0,2,2,2,0,7,0,0,0,8 - 5,0.615,0,0,7,0,8,5, Boston Pride,stats#/player/58127,58127,40865,,,,,,,2016
+23,Corinne Buie,F,1,1,2,0,0,4,0,0,0,0 - 0,0,0,0,4,0,0,0, Boston Pride,stats#/player/58129,58129,40865,,,,,,,2016
+12,Marissa Gedman,D,0,1,1,2,0,6,0,0,0,0 - 0,0,0,0,6,0,0,0, Boston Pride,stats#/player/58121,58121,40865,,,,,,,2016
+16,Amanda Pelkey,F,0,1,1,0,0,3,0,0,0,0 - 1,0,0,0,3,0,0,1, Boston Pride,stats#/player/1194634,1194634,40865,,,,,,,2016
+2,Alyssa Gagliardi,D,0,0,0,0,0,3,0,0,0,0 - 0,0,0,0,3,0,0,0, Boston Pride,stats#/player/58115,58115,40865,,,,,,,2016
 3,Jillian Dempsey,F,0,0,0,0,0,0,0,0,0,5 - 3,0.625,0,0,0,0,5,3, Boston Pride,stats#/player/58116,58116,40865,,,,,,,2016
 5,Kelly Cooke,F,0,0,0,0,0,0,0,0,0,1 - 0,1,0,0,0,0,1,0, Boston Pride,stats#/player/58117,58117,40865,,,,,,,2016
-15,Emily Field,F,0,0,0,0,0,0,0,0,0,0 - 0,0,0,0,1,0,0,0, Boston Pride,stats#/player/58123,58123,40865,,,,,,,2016
+15,Emily Field,F,0,0,0,0,0,1,0,0,0,0 - 0,0,0,0,1,0,0,0, Boston Pride,stats#/player/58123,58123,40865,,,,,,,2016
 18,Cherie Hendrickson,D,0,0,0,0,0,0,0,0,0,0 - 0,0,0,0,0,0,0,0, Boston Pride,stats#/player/58125,58125,40865,,,,,,,2016
-57,Meagan Mangene,D,0,0,0,0,0,0,0,0,0,0 - 0,0,0,0,2,0,0,0, Boston Pride,stats#/player/58134,58134,40865,,,,,,,2016
-91,Rachel Llanes,F,0,0,0,0,0,0,0,0,0,0 - 0,0,0,0,2,0,0,0, Boston Pride,stats#/player/58135,58135,40865,,,,,,,2016
+57,Meagan Mangene,D,0,0,0,0,0,2,0,0,0,0 - 0,0,0,0,2,0,0,0, Boston Pride,stats#/player/58134,58134,40865,,,,,,,2016
+91,Rachel Llanes,F,0,0,0,0,0,2,0,0,0,0 - 0,0,0,0,2,0,0,0, Boston Pride,stats#/player/58135,58135,40865,,,,,,,2016
 1,Shenae Lundberg,G,0,0,,0,,,,,,,,,,,,,, New York Riveters,,57696,40865,28:56,32,4,28,0.875,stats#/player/57696,2016
 30,Jenny Scrivens,G,0,0,,0,,,,,,,,,,,,,, New York Riveters,,57724,40865,00:00,0,0,0,0,stats#/player/57724,2016
 33,Nana Fujimoto,G,0,0,,0,,,,,,,,,,,,,, New York Riveters,,58266,40865,31:04,17,3,14,0.824,stats#/player/58266,2016
@@ -1442,35 +1442,35 @@ player_jersey,player_name,position,goals,assists,points,penalty_minutes,plus_min
 24,Nicole Stock,G,0,0,,0,,,,,,,,,,,,,, Connecticut Whale,,57750,40866,00:00,0,0,0,0,stats#/player/57750,2016
 32,Jaimie Leonoff,G,0,0,,0,,,,,,,,,,,,,, Connecticut Whale,,57754,40866,00:00,0,0,0,0,stats#/player/57754,2016
 78,Chelsea Laden,G,0,0,,0,,,,,,,,,,,,,, Connecticut Whale,,57761,40866,60:00,32,2,30,0.938,stats#/player/57761,2016
-3,Kelley Steadman,F,1,0,1,0,0,0,0,0,0,0 - 0,0,1,0,6,0,0,0, Buffalo Beauts,stats#/player/58085,58085,40863,,,,,,,2016
-7,Emily Pfalzer,D,0,1,1,0,0,0,0,0,0,0 - 0,0,0,0,3,0,0,0, Buffalo Beauts,stats#/player/58088,58088,40863,,,,,,,2016
-10,Meghan Duggan,F,0,1,1,2,0,0,0,0,0,0 - 0,0,0,0,4,0,0,0, Buffalo Beauts,stats#/player/58098,58098,40863,,,,,,,2016
+3,Kelley Steadman,F,1,0,1,0,0,6,0,0,0,0 - 0,0,1,0,6,0,0,0, Buffalo Beauts,stats#/player/58085,58085,40863,,,,,,,2016
+7,Emily Pfalzer,D,0,1,1,0,0,3,0,0,0,0 - 0,0,0,0,3,0,0,0, Buffalo Beauts,stats#/player/58088,58088,40863,,,,,,,2016
+10,Meghan Duggan,F,0,1,1,2,0,4,0,0,0,0 - 0,0,0,0,4,0,0,0, Buffalo Beauts,stats#/player/58098,58098,40863,,,,,,,2016
 2,Paige Harrington,D,0,0,0,0,0,0,0,0,0,0 - 0,0,0,0,0,0,0,0, Buffalo Beauts,stats#/player/58084,58084,40863,,,,,,,2016
 5,Courtney Carnes,F,0,0,0,0,0,0,0,0,0,0 - 0,0,0,0,0,0,0,0, Buffalo Beauts,stats#/player/58086,58086,40863,,,,,,,2016
-9,Megan Bozek,D,0,0,0,0,0,0,0,0,0,0 - 0,0,0,0,7,0,0,0, Buffalo Beauts,stats#/player/58091,58091,40863,,,,,,,2016
-12,Hannah McGowan,F,0,0,0,0,0,0,0,0,0,0 - 0,0,0,0,1,0,0,0, Buffalo Beauts,stats#/player/58099,58099,40863,,,,,,,2016
-13,Shelby Bram,F,0,0,0,0,0,0,0,0,0,0 - 0,0,0,0,1,0,0,0, Buffalo Beauts,stats#/player/58100,58100,40863,,,,,,,2016
+9,Megan Bozek,D,0,0,0,0,0,7,0,0,0,0 - 0,0,0,0,7,0,0,0, Buffalo Beauts,stats#/player/58091,58091,40863,,,,,,,2016
+12,Hannah McGowan,F,0,0,0,0,0,1,0,0,0,0 - 0,0,0,0,1,0,0,0, Buffalo Beauts,stats#/player/58099,58099,40863,,,,,,,2016
+13,Shelby Bram,F,0,0,0,0,0,1,0,0,0,0 - 0,0,0,0,1,0,0,0, Buffalo Beauts,stats#/player/58100,58100,40863,,,,,,,2016
 14,Kelly McDonald,D,0,0,0,0,0,0,0,0,0,0 - 0,0,0,0,0,0,0,0, Buffalo Beauts,stats#/player/58101,58101,40863,,,,,,,2016
 15,Annmarie Cellino,F,0,0,0,0,0,0,0,0,0,0 - 0,0,0,0,0,0,0,0, Buffalo Beauts,stats#/player/58102,58102,40863,,,,,,,2016
 24,Hailey Browne,F,0,0,0,0,0,0,0,0,0,0 - 0,0,0,0,0,0,0,0, Buffalo Beauts,stats#/player/58106,58106,40863,,,,,,,2016
-26,Maggie Giamo,F,0,0,0,0,0,0,0,0,0,0 - 0,0,0,0,2,0,0,0, Buffalo Beauts,stats#/player/58107,58107,40863,,,,,,,2016
-36,Kourtney Kunichika,F,0,0,0,0,0,0,0,0,0,0 - 0,0,0,0,6,0,0,0, Buffalo Beauts,stats#/player/58111,58111,40863,,,,,,,2016
-43,Tatiana Rafter,F,0,0,0,0,0,0,0,0,0,0 - 0,0,0,0,3,0,0,0, Buffalo Beauts,stats#/player/58112,58112,40863,,,,,,,2016
-77,Hayley Williams,F,0,0,0,0,0,0,0,0,0,0 - 0,0,0,0,2,0,0,0, Buffalo Beauts,stats#/player/58113,58113,40863,,,,,,,2016
-2,Alyssa Gagliardi,D,0,2,2,0,0,0,0,0,0,0 - 0,0,0,0,6,0,0,0, Boston Pride,stats#/player/58115,58115,40863,,,,,,,2016
-21,Hilary Knight,F,2,0,2,0,0,0,0,0,0,0 - 0,0,1,0,7,0,0,0, Boston Pride,stats#/player/58127,58127,40863,,,,,,,2016
-22,Kacey Bellamy,D,0,2,2,4,0,0,0,0,0,0 - 0,0,0,0,2,0,0,0, Boston Pride,stats#/player/58128,58128,40863,,,,,,,2016
-3,Jillian Dempsey,F,0,1,1,0,0,0,0,0,0,0 - 0,0,0,0,6,0,0,0, Boston Pride,stats#/player/58116,58116,40863,,,,,,,2016
-11,Jordan Smelker,F,1,0,1,0,0,0,0,0,0,0 - 0,0,0,0,3,0,0,0, Boston Pride,stats#/player/58120,58120,40863,,,,,,,2016
-14,Brianna Decker,F,0,1,1,0,0,0,0,0,0,0 - 0,0,0,0,3,0,0,0, Boston Pride,stats#/player/58122,58122,40863,,,,,,,2016
-16,Amanda Pelkey,F,1,0,1,0,0,0,0,0,0,0 - 0,0,0,0,3,0,0,0, Boston Pride,stats#/player/58124,58124,40863,,,,,,,2016
-44,Zoe Hickel,F,0,1,1,0,0,0,0,0,0,0 - 0,0,0,0,1,0,0,0, Boston Pride,stats#/player/463308,463308,40863,,,,,,,2016
-5,Kelly Cooke,F,0,0,0,0,0,0,0,0,0,0 - 0,0,0,0,1,0,0,0, Boston Pride,stats#/player/58117,58117,40863,,,,,,,2016
-10,Blake Bolden,D,0,0,0,0,0,0,0,0,0,0 - 0,0,0,0,3,0,0,0, Boston Pride,stats#/player/58119,58119,40863,,,,,,,2016
-12,Marissa Gedman,D,0,0,0,2,0,0,0,0,0,0 - 0,0,0,0,4,0,0,0, Boston Pride,stats#/player/58121,58121,40863,,,,,,,2016
-15,Emily Field,F,0,0,0,2,0,0,0,0,0,0 - 0,0,0,0,3,0,0,0, Boston Pride,stats#/player/58123,58123,40863,,,,,,,2016
+26,Maggie Giamo,F,0,0,0,0,0,2,0,0,0,0 - 0,0,0,0,2,0,0,0, Buffalo Beauts,stats#/player/58107,58107,40863,,,,,,,2016
+36,Kourtney Kunichika,F,0,0,0,0,0,6,0,0,0,0 - 0,0,0,0,6,0,0,0, Buffalo Beauts,stats#/player/58111,58111,40863,,,,,,,2016
+43,Tatiana Rafter,F,0,0,0,0,0,3,0,0,0,0 - 0,0,0,0,3,0,0,0, Buffalo Beauts,stats#/player/58112,58112,40863,,,,,,,2016
+77,Hayley Williams,F,0,0,0,0,0,2,0,0,0,0 - 0,0,0,0,2,0,0,0, Buffalo Beauts,stats#/player/58113,58113,40863,,,,,,,2016
+2,Alyssa Gagliardi,D,0,2,2,0,0,6,0,0,0,0 - 0,0,0,0,6,0,0,0, Boston Pride,stats#/player/58115,58115,40863,,,,,,,2016
+21,Hilary Knight,F,2,0,2,0,0,7,0,0,0,0 - 0,0,1,0,7,0,0,0, Boston Pride,stats#/player/58127,58127,40863,,,,,,,2016
+22,Kacey Bellamy,D,0,2,2,4,0,2,0,0,0,0 - 0,0,0,0,2,0,0,0, Boston Pride,stats#/player/58128,58128,40863,,,,,,,2016
+3,Jillian Dempsey,F,0,1,1,0,0,6,0,0,0,0 - 0,0,0,0,6,0,0,0, Boston Pride,stats#/player/58116,58116,40863,,,,,,,2016
+11,Jordan Smelker,F,1,0,1,0,0,3,0,0,0,0 - 0,0,0,0,3,0,0,0, Boston Pride,stats#/player/58120,58120,40863,,,,,,,2016
+14,Brianna Decker,F,0,1,1,0,0,3,0,0,0,0 - 0,0,0,0,3,0,0,0, Boston Pride,stats#/player/58122,58122,40863,,,,,,,2016
+16,Amanda Pelkey,F,1,0,1,0,0,3,0,0,0,0 - 0,0,0,0,3,0,0,0, Boston Pride,stats#/player/1194634,1194634,40863,,,,,,,2016
+44,Zoe Hickel,F,0,1,1,0,0,1,0,0,0,0 - 0,0,0,0,1,0,0,0, Boston Pride,stats#/player/463308,463308,40863,,,,,,,2016
+5,Kelly Cooke,F,0,0,0,0,0,1,0,0,0,0 - 0,0,0,0,1,0,0,0, Boston Pride,stats#/player/58117,58117,40863,,,,,,,2016
+10,Blake Bolden,D,0,0,0,0,0,3,0,0,0,0 - 0,0,0,0,3,0,0,0, Boston Pride,stats#/player/58119,58119,40863,,,,,,,2016
+12,Marissa Gedman,D,0,0,0,2,0,4,0,0,0,0 - 0,0,0,0,4,0,0,0, Boston Pride,stats#/player/58121,58121,40863,,,,,,,2016
+15,Emily Field,F,0,0,0,2,0,3,0,0,0,0 - 0,0,0,0,3,0,0,0, Boston Pride,stats#/player/58123,58123,40863,,,,,,,2016
 19,Gigi Marvin,D,0,0,0,0,0,0,0,0,0,0 - 0,0,0,0,0,0,0,0, Boston Pride,stats#/player/58126,58126,40863,,,,,,,2016
-23,Corinne Buie,F,0,0,0,0,0,0,0,0,0,0 - 0,0,0,0,7,0,0,0, Boston Pride,stats#/player/58129,58129,40863,,,,,,,2016
+23,Corinne Buie,F,0,0,0,0,0,7,0,0,0,0 - 0,0,0,0,7,0,0,0, Boston Pride,stats#/player/58129,58129,40863,,,,,,,2016
 91,Rachel Llanes,F,0,0,0,2,0,0,0,0,0,0 - 0,0,0,0,0,0,0,0, Boston Pride,stats#/player/58135,58135,40863,,,,,,,2016
 1,Kimberly Sass,G,0,0,,0,,,,,,,,,,,,,, Buffalo Beauts,,58083,40863,00:00,0,0,0,0,stats#/player/58083,2016
 29,Brianne McLaughlin,G,0,0,,0,,,,,,,,,,,,,, Buffalo Beauts,,58108,40863,60:00,49,4,45,0.918,stats#/player/58108,2016

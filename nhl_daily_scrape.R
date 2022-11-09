@@ -23,35 +23,38 @@ options(stringsAsFactors = FALSE)
 options(scipen = 999)
 
 season_vector <- opt$s:opt$e
-rebuild <- TRUE
+rebuild <- FALSE
 rebuild_from_existing_json <- FALSE
+scrape_schedules <- FALSE
 version <- packageVersion("fastRhockey")
 
 # Play-by-Play Data Pull --------------------------------------------------
 ### 1a) scrape season schedule
 ### 1b) save to disk
-season_schedules <- purrr::map_dfr(season_vector, function(x){
+if(scrape_schedules == TRUE){
+  season_schedules <- purrr::map_dfr(season_vector, function(x){
 
-  cli::cli_process_start("Starting scrape of {x} NHL season schedule...")
-  sched <- fastRhockey::nhl_schedule(season=x) %>%
-    dplyr::tibble() %>%
-    dplyr::mutate(season=x)
-  ifelse(!dir.exists(file.path("nhl/schedules")), dir.create(file.path("nhl/schedules")), FALSE)
-  ifelse(!dir.exists(file.path("nhl/schedules/csv")), dir.create(file.path("nhl/schedules/csv")), FALSE)
-  ifelse(!dir.exists(file.path("nhl/schedules/qs")), dir.create(file.path("nhl/schedules/qs")), FALSE)
-  ifelse(!dir.exists(file.path("nhl/schedules/rds")), dir.create(file.path("nhl/schedules/rds")), FALSE)
-  ifelse(!dir.exists(file.path("nhl/schedules/parquet")), dir.create(file.path("nhl/schedules/parquet")), FALSE)
-  sched <- sched %>%
-    fastRhockey:::make_fastRhockey_data("NHL Schedule Information from fastRhockey data repository",Sys.time())
-  data.table::fwrite(sched,paste0("nhl/schedules/csv/nhl_schedule_",x,".csv"))
-  qs::qsave(sched,glue::glue('nhl/schedules/qs/nhl_schedule_{x}.qs'))
-  saveRDS(sched, glue::glue('nhl/schedules/rds/nhl_schedule_{x}.rds'))
-  arrow::write_parquet(sched, glue::glue('nhl/schedules/parquet/nhl_schedule_{x}.parquet'))
+    cli::cli_process_start("Starting scrape of {x} NHL season schedule...")
+    sched <- fastRhockey::nhl_schedule(season=x) %>%
+      dplyr::tibble() %>%
+      dplyr::mutate(season=x)
+    ifelse(!dir.exists(file.path("nhl/schedules")), dir.create(file.path("nhl/schedules")), FALSE)
+    ifelse(!dir.exists(file.path("nhl/schedules/csv")), dir.create(file.path("nhl/schedules/csv")), FALSE)
+    ifelse(!dir.exists(file.path("nhl/schedules/qs")), dir.create(file.path("nhl/schedules/qs")), FALSE)
+    ifelse(!dir.exists(file.path("nhl/schedules/rds")), dir.create(file.path("nhl/schedules/rds")), FALSE)
+    ifelse(!dir.exists(file.path("nhl/schedules/parquet")), dir.create(file.path("nhl/schedules/parquet")), FALSE)
+    sched <- sched %>%
+      fastRhockey:::make_fastRhockey_data("NHL Schedule Information from fastRhockey data repository",Sys.time())
+    data.table::fwrite(sched,paste0("nhl/schedules/csv/nhl_schedule_",x,".csv"))
+    qs::qsave(sched,glue::glue('nhl/schedules/qs/nhl_schedule_{x}.qs'))
+    saveRDS(sched, glue::glue('nhl/schedules/rds/nhl_schedule_{x}.rds'))
+    arrow::write_parquet(sched, glue::glue('nhl/schedules/parquet/nhl_schedule_{x}.parquet'))
 
-  cli::cli_process_done(msg_done = "Finished scrape of {x} NHL season schedule!")
-  Sys.sleep(15)
-  return(sched)
-})
+    cli::cli_process_done(msg_done = "Finished scrape of {x} NHL season schedule!")
+    Sys.sleep(15)
+    return(sched)
+  })
+}
 season_schedules <- purrr::map_dfr(season_vector, function(x){
   sched <- data.table::fread(paste0("nhl/schedules/csv/nhl_schedule_",x,".csv"))
   return(sched)
@@ -234,6 +237,38 @@ season_player_box_compile <- purrr::map(season_vector,function(x){
   rm(sched)
   rm(final_sched)
   rm(season_player_box)
+})
+
+### 3d) Build team roster dataset
+season_team_roster_compile <- purrr::map(season_vector,function(x){
+  cli::cli_process_start("Starting NHL Team Roster compilation for {x} season...")
+  teams <- fastRhockey::nhl_teams(season = glue::glue("{x-1}{x}")) %>%
+    dplyr::mutate(first_year_of_play = as.integer(.data$first_year_of_play)) %>%
+    dplyr::filter(.data$first_year_of_play <= x)
+
+  season_team_roster <- purrr::map_dfr(teams$team_id, function(y){
+    try(fastRhockey::nhl_teams_roster(team_id = y, season = glue::glue("{x-1}{x}")))
+  })
+  if(nrow(season_team_roster)>1){
+    season_team_roster$season <- x
+    season_team_roster <- season_team_roster %>%
+      fastRhockey:::make_fastRhockey_data("NHL Team Roster Information from fastRhockey data repository",Sys.time())
+    ifelse(!dir.exists(file.path("nhl/rosters")), dir.create(file.path("nhl/rosters")), FALSE)
+    ifelse(!dir.exists(file.path("nhl/rosters/csv")), dir.create(file.path("nhl/rosters/csv")), FALSE)
+    data.table::fwrite(season_team_roster, file=paste0("nhl/rosters/csv/rosters_",x,".csv.gz"))
+
+    ifelse(!dir.exists(file.path("nhl/rosters/qs")), dir.create(file.path("nhl/rosters/qs")), FALSE)
+    qs::qsave(season_team_roster,glue::glue("nhl/rosters/qs/rosters_{x}.qs"))
+
+    ifelse(!dir.exists(file.path("nhl/rosters/rds")), dir.create(file.path("nhl/rosters/rds")), FALSE)
+    saveRDS(season_team_roster,glue::glue("nhl/rosters/rds/rosters_{x}.rds"))
+
+    ifelse(!dir.exists(file.path("nhl/rosters/parquet")), dir.create(file.path("nhl/rosters/parquet")), FALSE)
+    arrow::write_parquet(season_team_roster, glue::glue("nhl/rosters/parquet/rosters_{x}.parquet"))
+  }
+  cli::cli_process_done(msg_done = "Finished NHL Team Roster compilation for {x} season!")
+
+  rm(season_team_roster)
 })
 
 sched_list <- list.files(path = glue::glue('nhl/schedules/csv/'))

@@ -22,7 +22,7 @@ opt = parse_args(OptionParser(option_list=option_list))
 options(stringsAsFactors = FALSE)
 options(scipen = 999)
 season_vector <- opt$s:opt$e
-rebuild <- TRUE
+rebuild <- FALSE
 version = packageVersion("fastRhockey")
 
 
@@ -88,6 +88,7 @@ cli::cli_process_done(msg_done = "Finished scrape of {length(season_schedules$ga
 
 ###---- 3a) Build play-by-play dataset ----
 season_pbp_compile <- purrr::map(season_vector,function(x){
+  cli::cli_process_start("Starting PHF play-by-play compilation for {x} season...")
   sched <- data.table::fread(paste0("phf/schedules/csv/phf_schedule_",x,".csv"))
   sched_pull <- sched %>%
     dplyr::filter(.data$has_play_by_play == TRUE,
@@ -132,6 +133,7 @@ season_pbp_compile <- purrr::map(season_vector,function(x){
   qs::qsave(final_sched,glue::glue('phf/schedules/qs/phf_schedule_{x}.qs'))
   saveRDS(final_sched, glue::glue('phf/schedules/rds/phf_schedule_{x}.rds'))
   arrow::write_parquet(final_sched, glue::glue('phf/schedules/parquet/phf_schedule_{x}.parquet'))
+  cli::cli_process_done(msg_done = "Finished PHF play-by-play compilation for {x} season!")
   rm(sched)
   rm(final_sched)
   rm(season_pbp)
@@ -150,6 +152,7 @@ sched <- purrr::map_dfr(season_vector, function(x){
 
 ### 3b) Build team boxscore dataset
 season_team_box_compile <- purrr::map(season_vector,function(x){
+  cli::cli_process_start("Starting PHF team boxscore compilation for {x} season...")
   sched <- data.table::fread(paste0("phf/schedules/csv/phf_schedule_",x,".csv"))
   sched <- sched %>%
     dplyr::filter(.data$status == "Final",
@@ -201,6 +204,7 @@ season_team_box_compile <- purrr::map(season_vector,function(x){
   qs::qsave(final_sched,glue::glue('phf/schedules/qs/phf_schedule_{x}.qs'))
   saveRDS(final_sched, glue::glue('phf/schedules/rds/phf_schedule_{x}.rds'))
   arrow::write_parquet(final_sched, glue::glue('phf/schedules/parquet/phf_schedule_{x}.parquet'))
+  cli::cli_process_done(msg_done = "Finished PHF team boxscore compilation for {x} season!")
   rm(sched)
   rm(final_sched)
   rm(season_team_box)
@@ -209,6 +213,7 @@ season_team_box_compile <- purrr::map(season_vector,function(x){
 
 ### 3c) Build player boxscore dataset
 season_player_box_compile <- purrr::map(season_vector,function(x){
+  cli::cli_process_start("Starting PHF player boxscore compilation for {x} season...")
   sched <- data.table::fread(paste0("phf/schedules/csv/phf_schedule_",x,".csv"))
   sched <- sched %>%
     dplyr::filter(.data$status == "Final",
@@ -259,10 +264,45 @@ season_player_box_compile <- purrr::map(season_vector,function(x){
   qs::qsave(final_sched,glue::glue('phf/schedules/qs/phf_schedule_{x}.qs'))
   saveRDS(final_sched, glue::glue('phf/schedules/rds/phf_schedule_{x}.rds'))
   arrow::write_parquet(final_sched, glue::glue('phf/schedules/parquet/phf_schedule_{x}.parquet'))
+  cli::cli_process_done(msg_done = "Finished PHF player boxscore compilation for {x} season!")
   rm(sched)
   rm(final_sched)
   rm(season_player_box)
 })
+
+
+### 3d) Build team roster dataset
+season_team_roster_compile <- purrr::map(season_vector,function(x){
+  cli::cli_process_start("Starting PHF team roster compilation for {x} season...")
+  if (x >= 2021){
+    teams <- fastRhockey::phf_league_info(season = x)$teams
+
+    future::plan("multisession")
+    season_team_roster <- furrr::future_map_dfr(teams$name, function(y){
+      fastRhockey::phf_team_roster(team = y, season = x)$roster
+    })
+    if(nrow(season_team_roster)>1){
+      season_team_roster$season <- x
+      season_team_roster <- season_team_roster %>%
+        fastRhockey:::make_fastRhockey_data("PHF Team Roster Information from fastRhockey data repository",Sys.time())
+      ifelse(!dir.exists(file.path("phf/rosters")), dir.create(file.path("phf/rosters")), FALSE)
+      ifelse(!dir.exists(file.path("phf/rosters/csv")), dir.create(file.path("phf/rosters/csv")), FALSE)
+      data.table::fwrite(season_team_roster, file=paste0("phf/rosters/csv/rosters_",x,".csv.gz"))
+
+      ifelse(!dir.exists(file.path("phf/rosters/qs")), dir.create(file.path("phf/rosters/qs")), FALSE)
+      qs::qsave(season_team_roster,glue::glue("phf/rosters/qs/rosters_{x}.qs"))
+
+      ifelse(!dir.exists(file.path("phf/rosters/rds")), dir.create(file.path("phf/rosters/rds")), FALSE)
+      saveRDS(season_team_roster,glue::glue("phf/rosters/rds/rosters_{x}.rds"))
+
+      ifelse(!dir.exists(file.path("phf/rosters/parquet")), dir.create(file.path("phf/rosters/parquet")), FALSE)
+      arrow::write_parquet(season_team_roster, glue::glue("phf/rosters/parquet/rosters_{x}.parquet"))
+    }
+    rm(season_team_roster)
+  }
+  cli::cli_process_done(msg_done = "Finished PHF team roster compilation for {x} season!")
+})
+
 
 sched_list <- list.files(path = glue::glue('phf/schedules/csv/'))
 sched_g <-  purrr::map_dfr(sched_list, function(x){
