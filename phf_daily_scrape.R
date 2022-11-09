@@ -79,7 +79,7 @@ cli::cli_process_start("Starting scrape of {length(season_schedules$game_id)} ga
 future::plan("multisession")
 scrape_games <- furrr::future_map(season_schedules$game_id, function(x){
   game <- fastRhockey::phf_game_all(game_id = x)
-  jsonlite::write_json(jsonlite::toJSON(game), path = glue::glue("phf/json/{x}.json"))
+  jsonlite::write_json(game, path = glue::glue("phf/json/{x}.json"))
 })
 cli::cli_process_done(msg_done = "Finished scrape of {length(season_schedules$game_id)} games!")
 
@@ -95,7 +95,7 @@ season_pbp_compile <- purrr::map(season_vector,function(x){
                   !(.data$game_id %in% c(301699, 368721)))
 
   season_pbp <- purrr::map_dfr(sched_pull$game_id,function(y){
-    pbp <- jsonlite::fromJSON(paste0("phf/json/", y, ".json"))[["plays"]]
+    pbp <- jsonlite::fromJSON(paste0("phf/json/", y, ".json"))$plays
     if (length(pbp) > 1) {
       pbp$game_id <- y
       return(pbp)
