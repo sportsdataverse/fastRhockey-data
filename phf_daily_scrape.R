@@ -95,7 +95,7 @@ season_pbp_compile <- purrr::map(season_vector,function(x){
                   !(.data$game_id %in% c(301699, 368721)))
 
   season_pbp <- purrr::map_dfr(sched_pull$game_id,function(y){
-    pbp <- jsonlite::fromJSON(paste0("phf/json/", y, ".json"))$plays
+    pbp <- jsonlite::fromJSON(paste0("phf/json/", y, ".json"))[["plays"]]
     if (length(pbp) > 1) {
       pbp$game_id <- y
       return(pbp)

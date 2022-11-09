@@ -89,7 +89,7 @@ season_pbp_compile <- purrr::map(season_vector,function(x){
     dplyr::filter(.data$status_status_code == 7)
   future::plan("multisession")
   season_pbp <- furrr::future_map_dfr(sched$game_id,function(y){
-    pbp <- jsonlite::fromJSON(paste0("nhl/json/", y, ".json"))$all_plays
+    pbp <- jsonlite::fromJSON(paste0("nhl/json/", y, ".json"))[["all_plays"]]
     if (length(pbp) > 1) {
       pbp$game_id <- y
       return(pbp)
@@ -141,7 +141,7 @@ season_team_box_compile <- purrr::map(season_vector,function(x){
     dplyr::filter(.data$status_status_code == 7)
   future::plan("multisession")
   season_team_box <- furrr::future_map_dfr(sched$game_id,function(y){
-    team_box <- jsonlite::fromJSON(paste0("nhl/json/", y, ".json"))$team_box
+    team_box <- jsonlite::fromJSON(paste0("nhl/json/", y, ".json"))[["team_box"]]
     if (length(team_box) > 1) {
       team_box$game_id <- y
       return(team_box)
@@ -193,7 +193,7 @@ season_player_box_compile <- purrr::map(season_vector,function(x){
     dplyr::filter(.data$status_status_code == 7)
   future::plan("multisession")
   season_player_box <- furrr::future_map_dfr(sched$game_id,function(y){
-    player_box <- jsonlite::fromJSON(paste0("nhl/json/", y, ".json"))$player_box
+    player_box <- jsonlite::fromJSON(paste0("nhl/json/", y, ".json"))[["player_box"]]
     if (length(player_box) > 1) {
       player_box$game_id <- y
       return(player_box)
