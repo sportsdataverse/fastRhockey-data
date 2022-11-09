@@ -22,7 +22,7 @@ opt = parse_args(OptionParser(option_list=option_list))
 options(stringsAsFactors = FALSE)
 options(scipen = 999)
 season_vector <- opt$s:opt$e
-rebuild <- FALSE
+rebuild <- TRUE
 version = packageVersion("fastRhockey")
 
 
@@ -95,9 +95,11 @@ season_pbp_compile <- purrr::map(season_vector,function(x){
                   !(.data$game_id %in% c(301699, 368721)))
 
   season_pbp <- purrr::map_dfr(sched_pull$game_id,function(y){
-    game <- jsonlite::fromJSON(glue::glue("phf/json/{y}.json"))
-    pbp <- game$plays
-    return(pbp)
+    pbp <- jsonlite::fromJSON(paste0("phf/json/", y, ".json"))$plays
+    if (length(pbp) > 1) {
+      pbp$game_id <- y
+      return(pbp)
+    }
   })
   ifelse(!dir.exists(file.path("phf/pbp")), dir.create(file.path("phf/pbp")), FALSE)
   ifelse(!dir.exists(file.path("phf/pbp/csv")), dir.create(file.path("phf/pbp/csv")), FALSE)
