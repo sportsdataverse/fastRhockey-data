@@ -3,19 +3,5 @@ Already up to date.
 Ncells 273710 14.7     660900 35.3   451920 24.2
 Vcells 459112  3.6    8388608 64.0  1800272 13.8
           used (Mb) gc trigger  (Mb) max used  (Mb)
-Ncells 1426591 76.2    2298457 122.8  2298457 122.8
-Vcells 2501456 19.1    8388608  64.0  5177730  39.6
-Already up to date.
-[main 3549c9e3] PHF Play-by-Play and Schedules update (Start: 2023 End: 2023)
- 23 files changed, 23 insertions(+), 24 deletions(-)
- rewrite daily_phf.out (76%)
- rewrite phf/pbp/rds/play_by_play_2023.rds (83%)
- rewrite phf/player_box/qs/player_box_2023.qs (99%)
- rewrite phf/player_box/rds/player_box_2023.rds (100%)
- rewrite phf/rosters/csv/rosters_2023.csv.gz (97%)
- rewrite phf/rosters/qs/rosters_2023.qs (97%)
- rewrite phf/rosters/rds/rosters_2023.rds (100%)
- rewrite phf/schedules/rds/phf_schedule_2023.rds (99%)
- rewrite phf/team_box/qs/team_box_2023.qs (97%)
- rewrite phf/team_box/rds/team_box_2023.rds (100%)
-Already up to date.
+Ncells 1426072 76.2    2298462 122.8  2298462 122.8
+Vcells 2496128 19.1    8388608  64.0  4918401  37.6
