@@ -25,7 +25,7 @@ options(scipen = 999)
 season_vector <- opt$s:opt$e
 rebuild <- FALSE
 rebuild_from_existing_json <- FALSE
-scrape_schedules <- FALSE
+scrape_schedules <- TRUE
 version <- packageVersion("fastRhockey")
 
 # Play-by-Play Data Pull --------------------------------------------------
