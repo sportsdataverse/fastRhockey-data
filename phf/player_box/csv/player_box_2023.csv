@@ -1,4 +1,44 @@
 player_jersey,player_name,position,goals,assists,points,penalty_minutes,plus_minus,shots_on_goal,blocks,giveaways,takeaways,faceoffs_won_lost,faceoffs_win_pct,powerplay_goals,shorthanded_goals,shots,shots_blocked,faceoffs_won,faceoffs_lost,team,skaters_href,player_id,game_id,minutes_played,shots_against,goals_against,saves,save_percent,goalies_href,season
+16,Sarah Bujold,F,2,0,2,0,0,4,0,0,0,3 - 2,0.6,1,1,4,0,3,2,Metropolitan Riveters,stats#/player/1194637,1194637,585626,,,,,,,2023
+94,Fanni Garát-Gasparics,F,0,1,1,0,0,2,0,0,0,0 - 0,0,0,0,2,0,0,0,Metropolitan Riveters,stats#/player/1396884,1396884,585626,,,,,,,2023
+3,Sarah Forster,D,0,0,0,2,0,2,0,0,0,0 - 0,0,0,0,2,0,0,0,Metropolitan Riveters,stats#/player/1204421,1204421,585626,,,,,,,2023
+5,Anna Kilponen,D,0,0,0,2,0,0,0,0,0,0 - 0,0,0,0,0,0,0,0,Metropolitan Riveters,stats#/player/1194645,1194645,585626,,,,,,,2023
+8,Kelly Babstock,F,0,0,0,2,0,3,0,0,0,12 - 8,0.6,0,0,3,0,12,8,Metropolitan Riveters,stats#/player/699761,699761,585626,,,,,,,2023
+9,Kaycie Anderson,F,0,0,0,0,0,0,0,0,0,0 - 0,0,0,0,0,0,0,0,Metropolitan Riveters,stats#/player/1194646,1194646,585626,,,,,,,2023
+10,Kendall Cornine,F,0,0,0,0,0,3,0,0,0,9 - 4,0.692,0,0,3,0,9,4,Metropolitan Riveters,stats#/player/431650,431650,585626,,,,,,,2023
+12,Ebba Berglund,D,0,0,0,0,0,0,0,0,0,0 - 0,0,0,0,0,0,0,0,Metropolitan Riveters,stats#/player/1194638,1194638,585626,,,,,,,2023
+13,Reka Dabasi,F,0,0,0,0,0,0,0,0,0,0 - 0,0,0,0,0,0,0,0,Metropolitan Riveters,stats#/player/1194636,1194636,585626,,,,,,,2023
+14,Madison Packer,F,0,0,0,0,0,2,0,0,0,0 - 0,0,0,0,2,0,0,0,Metropolitan Riveters,stats#/player/966106,966106,585626,,,,,,,2023
+15,Minttu Tuominen,D,0,0,0,2,0,2,0,0,0,0 - 0,0,0,0,2,0,0,0,Metropolitan Riveters,stats#/player/1194641,1194641,585626,,,,,,,2023
+18,Reagan Rust,D,0,0,0,0,0,0,0,0,0,0 - 0,0,0,0,0,0,0,0,Metropolitan Riveters,stats#/player/1396886,1396886,585626,,,,,,,2023
+21,Amanda Pelkey,F,0,0,0,4,0,4,0,0,0,0 - 0,0,0,0,4,0,0,0,Metropolitan Riveters,stats#/player/1194634,1194634,585626,,,,,,,2023
+22,Emilie Harley,D,0,0,0,0,0,0,0,0,0,0 - 0,0,0,0,0,0,0,0,Metropolitan Riveters,stats#/player/1194650,1194650,585626,,,,,,,2023
+28,Leah Marino,F,0,0,0,0,0,0,0,0,0,0 - 0,0,0,0,0,0,0,0,Metropolitan Riveters,stats#/player/1220794,1220794,585626,,,,,,,2023
+44,Taylor Marchin,D,0,0,0,0,0,1,0,0,0,0 - 0,0,0,0,1,0,0,0,Metropolitan Riveters,stats#/player/1194642,1194642,585626,,,,,,,2023
+77,Kennedy Ganser,F,0,0,0,0,0,3,1,0,0,10 - 9,0.526,0,0,3,0,10,9,Metropolitan Riveters,stats#/player/1194649,1194649,585626,,,,,,,2023
+97,Catherine Crawley,F,0,0,0,0,0,1,0,0,0,0 - 0,0,0,0,1,0,0,0,Metropolitan Riveters,stats#/player/1220795,1220795,585626,,,,,,,2023
+8,Leah Lum,F,2,1,3,0,0,4,0,0,0,0 - 0,0,0,0,4,0,0,0,Toronto Six,stats#/player/1269506,1269506,585626,,,,,,,2023
+21,Tereza Vanišová,F,1,2,3,0,0,3,0,0,0,1 - 0,1,0,0,3,0,1,0,Toronto Six,stats#/player/627752,627752,585626,,,,,,,2023
+25,Emma Greco,D,0,2,2,2,0,1,0,0,0,0 - 0,0,0,0,1,0,0,0,Toronto Six,stats#/player/542420,542420,585626,,,,,,,2023
+96,Dominika Lásková,D,0,2,2,4,0,3,0,0,0,2 - 5,0.286,0,0,3,0,2,5,Toronto Six,stats#/player/1234871,1234871,585626,,,,,,,2023
+2,Taylor Woods,D,0,1,1,0,0,2,0,0,0,0 - 0,0,0,0,2,0,0,0,Toronto Six,stats#/player/542421,542421,585626,,,,,,,2023
+10,Lexi Templeman,F,0,1,1,0,0,3,0,0,0,1 - 0,1,0,0,3,0,1,0,Toronto Six,stats#/player/1220078,1220078,585626,,,,,,,2023
+41,Brittany Howard,F,1,0,1,4,0,3,0,0,0,1 - 0,1,0,0,3,0,1,0,Toronto Six,stats#/player/1220073,1220073,585626,,,,,,,2023
+67,Emma Woods,F,1,0,1,0,0,4,0,0,0,0 - 0,0,0,0,4,0,0,0,Toronto Six,stats#/player/630149,630149,585626,,,,,,,2023
+3,Nadine Edney,F,0,0,0,0,0,0,0,0,0,0 - 0,0,0,0,0,0,0,0,Toronto Six,stats#/player/1220796,1220796,585626,,,,,,,2023
+9,Kati Tabin,D,0,0,0,2,0,1,0,0,0,0 - 0,0,0,0,2,1,0,0,Toronto Six,stats#/player/1220085,1220085,585626,,,,,,,2023
+11,Breanne Wilson-Bennett,F,0,0,0,2,0,2,0,0,0,5 - 7,0.417,0,0,2,0,5,7,Toronto Six,stats#/player/630148,630148,585626,,,,,,,2023
+14,Courtney Gardiner,F,0,0,0,0,0,0,0,0,0,0 - 0,0,0,0,0,0,0,0,Toronto Six,stats#/player/1220094,1220094,585626,,,,,,,2023
+20,Taylor Davison,D,0,0,0,0,0,0,0,0,0,0 - 0,0,0,0,0,0,0,0,Toronto Six,stats#/player/881569,881569,585626,,,,,,,2023
+27,Shiann Darkangelo,F,0,0,0,0,0,2,0,0,0,12 - 19,0.387,0,0,2,0,12,19,Toronto Six,stats#/player/542419,542419,585626,,,,,,,2023
+44,Lindsay Eastwood,D,0,0,0,0,0,0,0,0,0,0 - 0,0,0,0,0,0,0,0,Toronto Six,stats#/player/630139,630139,585626,,,,,,,2023
+48,Alexis Woloschuk,D,0,0,0,0,0,0,0,0,0,0 - 0,0,0,0,0,0,0,0,Toronto Six,stats#/player/1220797,1220797,585626,,,,,,,2023
+71,Saroya Tinker,D,0,0,0,2,0,1,0,0,0,0 - 0,0,0,0,1,0,0,0,Toronto Six,stats#/player/879727,879727,585626,,,,,,,2023
+86,Michela Cava,F,0,0,0,0,0,1,0,0,0,1 - 3,0.25,0,0,1,0,1,3,Toronto Six,stats#/player/963636,963636,585626,,,,,,,2023
+1,Eveliina Makinen,G,0,0,,0,,,,,,,,,,,,,,Metropolitan Riveters,,1194640,585626,00:00,0,0,0,0,stats#/player/1194640,2023
+33,Rachel McQuigge,G,0,0,,0,,,,,,,,,,,,,,Metropolitan Riveters,,1194647,585626,60:00,30,5,25,0.833,stats#/player/1194647,2023
+29,Elaine Chuli,G,0,0,,0,,,,,,,,,,,,,,Toronto Six,,542418,585626,00:00,0,0,0,0,stats#/player/542418,2023
+70,Carly Jackson,G,0,0,,0,,,,,,,,,,,,,,Toronto Six,,1220081,585626,60:00,27,2,25,0.926,stats#/player/1220081,2023
 3,Jonna Albers,F,1,1,2,0,2,4,0,0,0,0 - 1,0,0,0,4,0,0,1,Minnesota Whitecaps,stats#/player/1373270,1373270,585625,,,,,,,2023
 14,Sydney Brodt,F,2,0,2,0,2,3,0,0,0,11 - 9,0.55,0,0,4,1,11,9,Minnesota Whitecaps,stats#/player/1373233,1373233,585625,,,,,,,2023
 21,Liz Schepers,F,0,2,2,0,0,5,0,0,0,4 - 4,0.5,0,0,5,0,4,4,Minnesota Whitecaps,stats#/player/1373235,1373235,585625,,,,,,,2023
