@@ -5,3 +5,28 @@ Vcells 459112  3.6    8388608 64.0  1800272 13.8
           used (Mb) gc trigger  (Mb) max used  (Mb)
 Ncells 1426667 76.2    2298505 122.8  2298505 122.8
 Vcells 2536104 19.4    8388608  64.0  6006369  45.9
+Already up to date.
+[main 98621963] PHF Play-by-Play and Schedules update (Start: 2023 End: 2023)
+ 29 files changed, 3514 insertions(+), 2622 deletions(-)
+ rewrite daily_phf.out (64%)
+ create mode 100644 phf/json/585632.json
+ create mode 100644 phf/json/585636.json
+ rewrite phf/pbp/parquet/play_by_play_2023.parquet (80%)
+ rewrite phf/pbp/qs/play_by_play_2023.qs (98%)
+ rewrite phf/pbp/rds/play_by_play_2023.rds (98%)
+ rewrite phf/phf_games_in_data_repo.parquet (62%)
+ rewrite phf/phf_games_in_data_repo.qs (99%)
+ rewrite phf/player_box/parquet/player_box_2023.parquet (78%)
+ rewrite phf/player_box/qs/player_box_2023.qs (99%)
+ rewrite phf/player_box/rds/player_box_2023.rds (99%)
+ rewrite phf/rosters/qs/rosters_2023.qs (80%)
+ rewrite phf/rosters/rds/rosters_2023.rds (100%)
+ rewrite phf/schedules/csv/phf_schedule_2023.csv (92%)
+ rewrite phf/schedules/parquet/phf_schedule_2023.parquet (88%)
+ rewrite phf/schedules/qs/phf_schedule_2023.qs (99%)
+ rewrite phf/schedules/rds/phf_schedule_2023.rds (100%)
+ rewrite phf/team_box/qs/team_box_2023.qs (99%)
+ rewrite phf/team_box/rds/team_box_2023.rds (100%)
+ rewrite phf_schedule_master.parquet (60%)
+ rewrite phf_schedule_master.qs (99%)
+Already up to date.
