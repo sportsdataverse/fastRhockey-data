@@ -2,14 +2,3 @@ Already up to date.
          used (Mb) gc trigger (Mb) max used (Mb)
 Ncells 273710 14.7     660900 35.3   451920 24.2
 Vcells 459112  3.6    8388608 64.0  1800272 13.8
-Already up to date.
-[main d5c925ef] PHF Play-by-Play and Schedules update (Start: 2023 End: 2023)
- 8 files changed, 123 insertions(+), 54 deletions(-)
- rewrite daily_phf.out (89%)
- create mode 100644 phf/json/585637.json
- create mode 100644 phf/json/585639.json
- rewrite phf/schedules/csv/phf_schedule_2023.csv (68%)
- rewrite phf/schedules/parquet/phf_schedule_2023.parquet (87%)
- rewrite phf/schedules/qs/phf_schedule_2023.qs (99%)
- rewrite phf/schedules/rds/phf_schedule_2023.rds (100%)
-Already up to date.
