@@ -5,3 +5,33 @@ Vcells 459112  3.6    8388608 64.0  1800272 13.8
           used (Mb) gc trigger  (Mb) max used  (Mb)
 Ncells 1322563 70.7    2339842 125.0  2339842 125.0
 Vcells 2842173 21.7   14708186 112.3 14697945 112.2
+Already up to date.
+[main 4ee5f53e] NHL Play-by-Play and Schedules update (Start: 2023 End: 2023)
+ 36 files changed, 40 insertions(+), 35 deletions(-)
+ rewrite daily_nhl.out (86%)
+ create mode 100644 nhl/json/2022020448.json
+ create mode 100644 nhl/json/2022020449.json
+ create mode 100644 nhl/json/2022020450.json
+ create mode 100644 nhl/json/2022020451.json
+ create mode 100644 nhl/json/2022020452.json
+ create mode 100644 nhl/json/2022020453.json
+ rewrite nhl/nhl_games_in_data_repo.qs (86%)
+ rewrite nhl/player_box/csv/player_box_2023.csv.gz (91%)
+ rewrite nhl/player_box/parquet/player_box_2023.parquet (90%)
+ rewrite nhl/player_box/qs/player_box_2023.qs (94%)
+ rewrite nhl/player_box/rds/player_box_2023.rds (93%)
+ rewrite nhl/rosters/csv/rosters_2023.csv.gz (99%)
+ rewrite nhl/rosters/parquet/rosters_2023.parquet (61%)
+ rewrite nhl/rosters/qs/rosters_2023.qs (99%)
+ rewrite nhl/rosters/rds/rosters_2023.rds (99%)
+ rewrite nhl/schedules/parquet/nhl_schedule_2023.parquet (62%)
+ rewrite nhl/schedules/qs/nhl_schedule_2023.qs (99%)
+ rewrite nhl/schedules/rds/nhl_schedule_2023.rds (93%)
+ rewrite nhl/team_box/csv/team_box_2023.csv.gz (96%)
+ rewrite nhl/team_box/parquet/team_box_2023.parquet (74%)
+ rewrite nhl/team_box/qs/team_box_2023.qs (97%)
+ rewrite nhl/team_box/rds/team_box_2023.rds (99%)
+ rewrite nhl_schedule_master.qs (89%)
+ create mode 100644 phf/json/585640.json
+ create mode 100644 phf/json/612252.json
+Already up to date.
