@@ -3,41 +3,5 @@ Already up to date.
 Ncells 273710 14.7     660900 35.3   451920 24.2
 Vcells 459112  3.6    8388608 64.0  1800272 13.8
           used (Mb) gc trigger  (Mb) max used  (Mb)
-Ncells 1325314 70.8    2933254 156.7  2933254 156.7
-Vcells 2882638 22.0   13317616 101.7 15734580 120.1
-Already up to date.
-[main bfa0d56e] NHL Play-by-Play and Schedules update (Start: 2023 End: 2023)
- 42 files changed, 67 insertions(+), 32 deletions(-)
- rewrite daily_nhl.out (85%)
- create mode 100644 nhl/json/2022020484.json
- create mode 100644 nhl/json/2022020485.json
- create mode 100644 nhl/json/2022020486.json
- create mode 100644 nhl/json/2022020487.json
- create mode 100644 nhl/json/2022020488.json
- create mode 100644 nhl/json/2022020489.json
- create mode 100644 nhl/json/2022020490.json
- create mode 100644 nhl/json/2022020491.json
- create mode 100644 nhl/json/2022020492.json
- create mode 100644 nhl/json/2022020493.json
- create mode 100644 nhl/json/2022020494.json
- create mode 100644 nhl/json/2022020495.json
- create mode 100644 nhl/json/2022020496.json
- rewrite nhl/nhl_games_in_data_repo.qs (88%)
- rewrite nhl/player_box/csv/player_box_2023.csv.gz (90%)
- rewrite nhl/player_box/parquet/player_box_2023.parquet (92%)
- rewrite nhl/player_box/qs/player_box_2023.qs (93%)
- rewrite nhl/player_box/rds/player_box_2023.rds (93%)
- rewrite nhl/rosters/csv/rosters_2023.csv.gz (99%)
- rewrite nhl/rosters/parquet/rosters_2023.parquet (71%)
- rewrite nhl/rosters/qs/rosters_2023.qs (99%)
- rewrite nhl/rosters/rds/rosters_2023.rds (99%)
- rewrite nhl/schedules/parquet/nhl_schedule_2023.parquet (61%)
- rewrite nhl/schedules/qs/nhl_schedule_2023.qs (99%)
- rewrite nhl/schedules/rds/nhl_schedule_2023.rds (100%)
- rewrite nhl/team_box/csv/team_box_2023.csv.gz (99%)
- rewrite nhl/team_box/parquet/team_box_2023.parquet (80%)
- rewrite nhl/team_box/qs/team_box_2023.qs (99%)
- rewrite nhl/team_box/rds/team_box_2023.rds (99%)
- rewrite nhl_schedule_master.qs (88%)
- create mode 100644 phf/json/585642.json
-Already up to date.
+Ncells 1324912 70.8    2931574 156.6  2931574 156.6
+Vcells 2752675 21.1   13403293 102.3 16749637 127.8
