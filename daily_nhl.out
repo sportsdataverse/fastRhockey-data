@@ -5,3 +5,14 @@ Vcells 459112  3.6    8388608 64.0  1800272 13.8
           used (Mb) gc trigger  (Mb) max used  (Mb)
 Ncells 1325086 70.8    2931375 156.6  2931375 156.6
 Vcells 2843409 21.7   13420324 102.4 15893698 121.3
+Already up to date.
+[main 7c47d627] NHL Play-by-Play and Schedules update (Start: 2023 End: 2023)
+ 22 files changed, 13 insertions(+), 39 deletions(-)
+ rewrite daily_nhl.out (88%)
+ rewrite nhl/rosters/csv/rosters_2023.csv.gz (98%)
+ rewrite nhl/rosters/parquet/rosters_2023.parquet (75%)
+ rewrite nhl/rosters/qs/rosters_2023.qs (99%)
+ rewrite nhl/rosters/rds/rosters_2023.rds (99%)
+ rewrite nhl/schedules/rds/nhl_schedule_2023.rds (99%)
+ rewrite nhl/team_box/rds/team_box_2023.rds (99%)
+Already up to date.
