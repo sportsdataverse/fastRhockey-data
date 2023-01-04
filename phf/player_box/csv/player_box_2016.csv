@@ -143,7 +143,7 @@ player_jersey,player_name,position,goals,assists,points,penalty_minutes,plus_min
 30,Jenny Scrivens,G,0,0,,0,,,,,,,,,,,,,, New York Riveters,,57724,63623,36:32,32,2,30,0.938,stats#/player/57724,2016
 33,Nana Fujimoto,G,0,0,,0,,,,,,,,,,,,,, New York Riveters,,58266,63623,20:51,18,4,14,0.778,stats#/player/58266,2016
 78,Chelsea Laden,G,0,0,,0,,,,,,,,,,,,,, New York Riveters,,57761,63623,00:00,0,0,0,0,stats#/player/57761,2016
-8,Kelly Babstock,F,1,0,1,2,0,0,0,0,0,5 - 7,0.417,0,0,2,0,5,7, Connecticut Whale,stats#/player/699761,699761,63626,,,,,,,2016
+8,Kelly Babstock,F,1,0,1,2,0,1,0,0,0,5 - 7,0.417,0,0,2,0,5,7, Connecticut Whale,stats#/player/699761,699761,63626,,,,,,,2016
 16,Micaela Long,F,0,1,1,0,0,0,0,0,0,0 - 0,0,0,0,4,0,0,0, Connecticut Whale,stats#/player/57736,57736,63626,,,,,,,2016
 28,Sam Faber,F,0,1,1,0,0,0,0,0,0,0 - 0,0,0,0,3,0,0,0, Connecticut Whale,stats#/player/57753,57753,63626,,,,,,,2016
 5,Kate Buesser,F,0,0,0,0,0,0,0,0,0,0 - 3,0,0,0,0,0,0,3, Connecticut Whale,stats#/player/64987,64987,63626,,,,,,,2016
@@ -158,12 +158,12 @@ player_jersey,player_name,position,goals,assists,points,penalty_minutes,plus_min
 44,Tara Tomimoto,D,0,0,0,0,0,0,0,0,0,0 - 0,0,0,0,1,0,0,0, Connecticut Whale,stats#/player/57728,57728,63626,,,,,,,2016
 56,Jessica Koizumi,F,0,0,0,0,0,0,0,0,0,13 - 6,0.684,0,0,6,0,13,6, Connecticut Whale,stats#/player/57757,57757,63626,,,,,,,2016
 61,Kelli Stack,F,0,0,0,2,0,0,0,0,0,16 - 7,0.696,0,0,6,0,16,7, Connecticut Whale,stats#/player/57760,57760,63626,,,,,,,2016
-3,Kelley Steadman,F,1,1,2,0,0,0,0,0,0,0 - 0,0,0,0,8,0,0,0, Buffalo Beauts,stats#/player/58085,58085,63626,,,,,,,2016
-9,Megan Bozek,D,1,1,2,4,0,0,0,0,0,0 - 0,0,1,0,2,0,0,0, Buffalo Beauts,stats#/player/58091,58091,63626,,,,,,,2016
-24,Hailey Browne,F,1,1,2,4,0,0,0,0,0,1 - 1,0.5,0,0,1,0,1,1, Buffalo Beauts,stats#/player/58106,58106,63626,,,,,,,2016
+3,Kelley Steadman,F,1,1,2,0,0,1,0,0,0,0 - 0,0,0,0,8,0,0,0, Buffalo Beauts,stats#/player/58085,58085,63626,,,,,,,2016
+9,Megan Bozek,D,1,1,2,4,0,1,0,0,0,0 - 0,0,1,0,2,0,0,0, Buffalo Beauts,stats#/player/58091,58091,63626,,,,,,,2016
+24,Hailey Browne,F,1,1,2,4,0,1,0,0,0,1 - 1,0.5,0,0,1,0,1,1, Buffalo Beauts,stats#/player/58106,58106,63626,,,,,,,2016
 13,Shelby Bram,F,0,1,1,0,0,0,0,0,0,14 - 13,0.519,0,0,1,0,14,13, Buffalo Beauts,stats#/player/58100,58100,63626,,,,,,,2016
 14,Kelly McDonald,D,0,1,1,0,0,0,0,0,0,0 - 0,0,0,0,2,0,0,0, Buffalo Beauts,stats#/player/58101,58101,63626,,,,,,,2016
-21,Devon Skeats,F,1,0,1,0,0,0,0,0,0,0 - 0,0,0,0,4,0,0,0, Buffalo Beauts,stats#/player/58104,58104,63626,,,,,,,2016
+21,Devon Skeats,F,1,0,1,0,0,1,0,0,0,0 - 0,0,0,0,4,0,0,0, Buffalo Beauts,stats#/player/58104,58104,63626,,,,,,,2016
 23,Lindsay Grigg,D,0,1,1,2,0,0,0,0,0,0 - 0,0,0,0,0,0,0,0, Buffalo Beauts,stats#/player/58105,58105,63626,,,,,,,2016
 2,Paige Harrington,D,0,0,0,0,0,0,0,0,0,0 - 0,0,0,0,0,0,0,0, Buffalo Beauts,stats#/player/58084,58084,63626,,,,,,,2016
 6,Jessica Fickel,F,0,0,0,0,0,0,0,0,0,0 - 0,0,0,0,1,0,0,0, Buffalo Beauts,stats#/player/58087,58087,63626,,,,,,,2016
@@ -181,12 +181,12 @@ player_jersey,player_name,position,goals,assists,points,penalty_minutes,plus_min
 34,Amanda Makela,G,0,0,,0,,,,,,,,,,,,,, Buffalo Beauts,,58109,63626,00:00,0,0,0,0,stats#/player/58109,2016
 5,Kate Buesser,F,0,1,1,0,0,0,0,0,0,1 - 3,0.25,0,0,0,0,1,3, Connecticut Whale,stats#/player/64987,64987,63624,,,,,,,2016
 6,Shannon Turner,D,0,1,1,2,0,0,0,0,0,0 - 0,0,0,0,0,0,0,0, Connecticut Whale,stats#/player/967608,967608,63624,,,,,,,2016
-8,Kelly Babstock,F,1,0,1,0,0,0,0,0,0,12 - 10,0.546,0,1,2,0,12,10, Connecticut Whale,stats#/player/699761,699761,63624,,,,,,,2016
+8,Kelly Babstock,F,1,0,1,0,0,1,0,0,0,12 - 10,0.546,0,1,2,0,12,10, Connecticut Whale,stats#/player/699761,699761,63624,,,,,,,2016
 22,Danielle Ward,F,0,1,1,2,0,0,0,0,0,1 - 0,1,0,0,1,0,1,0, Connecticut Whale,stats#/player/57743,57743,63624,,,,,,,2016
 27,Shiann Darkangelo,F,0,1,1,0,0,0,0,0,0,0 - 2,0,0,0,2,0,0,2, Connecticut Whale,stats#/player/542419,542419,63624,,,,,,,2016
-28,Sam Faber,F,1,0,1,0,0,0,0,0,0,1 - 1,0.5,1,0,1,0,1,1, Connecticut Whale,stats#/player/57753,57753,63624,,,,,,,2016
+28,Sam Faber,F,1,0,1,0,0,1,0,0,0,1 - 1,0.5,1,0,1,0,1,1, Connecticut Whale,stats#/player/57753,57753,63624,,,,,,,2016
 56,Jessica Koizumi,F,0,1,1,0,0,0,0,0,0,11 - 6,0.647,0,0,0,0,11,6, Connecticut Whale,stats#/player/57757,57757,63624,,,,,,,2016
-61,Kelli Stack,F,1,0,1,0,0,0,0,0,0,16 - 4,0.8,0,0,5,0,16,4, Connecticut Whale,stats#/player/57760,57760,63624,,,,,,,2016
+61,Kelli Stack,F,1,0,1,0,0,1,0,0,0,16 - 4,0.8,0,0,5,0,16,4, Connecticut Whale,stats#/player/57760,57760,63624,,,,,,,2016
 4,Anya Battaglino,D,0,0,0,2,0,0,0,0,0,0 - 0,0,0,0,0,0,0,0, Connecticut Whale,stats#/player/57730,57730,63624,,,,,,,2016
 9,Molly Engstrom,D,0,0,0,2,0,0,0,0,0,0 - 0,0,0,0,2,0,0,0, Connecticut Whale,stats#/player/57733,57733,63624,,,,,,,2016
 13,Kaleigh Fratkin,D,0,0,0,2,0,0,0,0,0,0 - 0,0,0,0,2,0,0,0, Connecticut Whale,stats#/player/57735,57735,63624,,,,,,,2016
@@ -569,12 +569,12 @@ player_jersey,player_name,position,goals,assists,points,penalty_minutes,plus_min
 1,Kelsie Fralick,G,0,0,,0,,,,,,,,,,,,,, Boston Pride,,58114,40888,00:00,0,0,0,0,stats#/player/58114,2016
 29,Brittany Ott,G,0,0,,0,,,,,,,,,,,,,, Boston Pride,,58131,40888,60:00,23,2,21,0.913,stats#/player/58131,2016
 30,Lauren Slebodnick,G,0,0,,0,,,,,,,,,,,,,, Boston Pride,,58132,40888,00:00,0,0,0,0,stats#/player/58132,2016
-3,Kelley Steadman,F,2,1,3,0,0,0,0,0,0,0 - 0,0,2,0,8,0,0,0, Buffalo Beauts,stats#/player/58085,58085,40890,,,,,,,2016
+3,Kelley Steadman,F,2,1,3,0,0,2,0,0,0,0 - 0,0,2,0,8,0,0,0, Buffalo Beauts,stats#/player/58085,58085,40890,,,,,,,2016
 10,Meghan Duggan,F,0,3,3,0,0,0,0,0,0,5 - 5,0.5,0,0,7,0,5,5, Buffalo Beauts,stats#/player/58098,58098,40890,,,,,,,2016
 9,Megan Bozek,D,0,2,2,0,0,0,0,0,0,0 - 0,0,0,0,5,0,0,0, Buffalo Beauts,stats#/player/58091,58091,40890,,,,,,,2016
 7,Emily Pfalzer,D,0,1,1,0,0,0,0,0,0,0 - 0,0,0,0,2,0,0,0, Buffalo Beauts,stats#/player/58088,58088,40890,,,,,,,2016
-13,Shelby Bram,F,1,0,1,0,0,0,0,0,0,9 - 10,0.474,0,0,5,0,9,10, Buffalo Beauts,stats#/player/58100,58100,40890,,,,,,,2016
-20,Erin Zach,F,1,0,1,2,0,0,0,0,0,0 - 0,0,0,0,3,0,0,0, Buffalo Beauts,stats#/player/58103,58103,40890,,,,,,,2016
+13,Shelby Bram,F,1,0,1,0,0,1,0,0,0,9 - 10,0.474,0,0,5,0,9,10, Buffalo Beauts,stats#/player/58100,58100,40890,,,,,,,2016
+20,Erin Zach,F,1,0,1,2,0,1,0,0,0,0 - 0,0,0,0,3,0,0,0, Buffalo Beauts,stats#/player/58103,58103,40890,,,,,,,2016
 2,Paige Harrington,D,0,0,0,2,0,0,0,0,0,0 - 0,0,0,0,0,0,0,0, Buffalo Beauts,stats#/player/58084,58084,40890,,,,,,,2016
 6,Jessica Fickel,F,0,0,0,0,0,0,0,0,0,0 - 0,0,0,0,1,0,0,0, Buffalo Beauts,stats#/player/58087,58087,40890,,,,,,,2016
 12,Hannah McGowan,F,0,0,0,0,0,0,0,0,0,0 - 0,0,0,0,1,0,0,0, Buffalo Beauts,stats#/player/58099,58099,40890,,,,,,,2016
@@ -584,11 +584,11 @@ player_jersey,player_name,position,goals,assists,points,penalty_minutes,plus_min
 24,Hailey Browne,F,0,0,0,2,0,0,0,0,0,3 - 0,1,0,0,3,0,3,0, Buffalo Beauts,stats#/player/58106,58106,40890,,,,,,,2016
 36,Kourtney Kunichika,F,0,0,0,0,0,0,0,0,0,12 - 7,0.632,0,0,1,0,12,7, Buffalo Beauts,stats#/player/58111,58111,40890,,,,,,,2016
 77,Hayley Williams,F,0,0,0,0,0,0,0,0,0,8 - 6,0.571,0,0,1,0,8,6, Buffalo Beauts,stats#/player/58113,58113,40890,,,,,,,2016
-17,Bray Ketchum,F,1,1,2,0,0,0,0,0,0,1 - 0,1,0,0,1,0,1,0, New York Riveters,stats#/player/57716,57716,40890,,,,,,,2016
+17,Bray Ketchum,F,1,1,2,0,0,1,0,0,0,1 - 0,1,0,0,1,0,1,0, New York Riveters,stats#/player/57716,57716,40890,,,,,,,2016
 9,Ludmila Belyakova,F,0,1,1,2,0,0,0,0,0,8 - 10,0.444,0,0,2,0,8,10, New York Riveters,stats#/player/57700,57700,40890,,,,,,,2016
 14,Madison Packer,F,0,1,1,2,0,0,0,0,0,0 - 0,0,0,0,3,0,0,0, New York Riveters,stats#/player/966106,966106,40890,,,,,,,2016
 20,Brooke Ammerman,F,0,1,1,0,0,0,0,0,0,11 - 10,0.524,0,0,2,0,11,10, New York Riveters,stats#/player/57718,57718,40890,,,,,,,2016
-28,Beth Hanrahan,F,1,0,1,0,0,0,0,0,0,0 - 1,0,0,0,5,0,0,1, New York Riveters,stats#/player/57723,57723,40890,,,,,,,2016
+28,Beth Hanrahan,F,1,0,1,0,0,1,0,0,0,0 - 1,0,0,0,5,0,0,1, New York Riveters,stats#/player/57723,57723,40890,,,,,,,2016
 2,Amber Moore,D,0,0,0,2,0,0,0,0,0,0 - 0,0,0,0,1,0,0,0, New York Riveters,stats#/player/57697,57697,40890,,,,,,,2016
 4,Elena Orlando,D,0,0,0,0,0,0,0,0,0,0 - 0,0,0,0,0,0,0,0, New York Riveters,stats#/player/909127,909127,40890,,,,,,,2016
 8,Sydney Kidd,D,0,0,0,0,0,0,0,0,0,0 - 0,0,0,0,0,0,0,0, New York Riveters,stats#/player/57699,57699,40890,,,,,,,2016
@@ -749,9 +749,9 @@ player_jersey,player_name,position,goals,assists,points,penalty_minutes,plus_min
 30,Jenny Scrivens,G,0,0,,0,,,,,,,,,,,,,, New York Riveters,,57724,40884,32:59,20,5,15,0.75,stats#/player/57724,2016
 33,Nana Fujimoto,G,0,0,,0,,,,,,,,,,,,,, New York Riveters,,58266,40884,27:01,19,3,16,0.842,stats#/player/58266,2016
 19,Brittany Dougherty,F,0,3,3,0,0,0,0,0,0,0 - 0,0,0,0,1,0,0,0, Connecticut Whale,stats#/player/57742,57742,40881,,,,,,,2016
-22,Danielle Ward,F,2,0,2,0,0,0,0,0,0,7 - 6,0.539,0,0,3,0,7,6, Connecticut Whale,stats#/player/57743,57743,40881,,,,,,,2016
-27,Shiann Darkangelo,F,1,1,2,0,0,0,0,0,0,3 - 2,0.6,0,0,5,0,3,2, Connecticut Whale,stats#/player/542419,542419,40881,,,,,,,2016
-61,Kelli Stack,F,1,1,2,2,0,0,0,0,0,22 - 3,0.88,0,0,6,0,22,3, Connecticut Whale,stats#/player/57760,57760,40881,,,,,,,2016
+22,Danielle Ward,F,2,0,2,0,0,2,0,0,0,7 - 6,0.539,0,0,3,0,7,6, Connecticut Whale,stats#/player/57743,57743,40881,,,,,,,2016
+27,Shiann Darkangelo,F,1,1,2,0,0,1,0,0,0,3 - 2,0.6,0,0,5,0,3,2, Connecticut Whale,stats#/player/542419,542419,40881,,,,,,,2016
+61,Kelli Stack,F,1,1,2,2,0,1,0,0,0,22 - 3,0.88,0,0,6,0,22,3, Connecticut Whale,stats#/player/57760,57760,40881,,,,,,,2016
 8,Kelly Babstock,F,0,1,1,0,0,0,0,0,0,1 - 1,0.5,0,0,3,0,1,1, Connecticut Whale,stats#/player/699761,699761,40881,,,,,,,2016
 13,Kaleigh Fratkin,D,0,1,1,4,0,0,0,0,0,0 - 0,0,0,0,3,0,0,0, Connecticut Whale,stats#/player/57735,57735,40881,,,,,,,2016
 17,Yekaterina Smolentseva,F,0,1,1,0,0,0,0,0,0,0 - 0,0,0,0,6,0,0,0, Connecticut Whale,stats#/player/57737,57737,40881,,,,,,,2016
@@ -762,10 +762,10 @@ player_jersey,player_name,position,goals,assists,points,penalty_minutes,plus_min
 44,Tara Tomimoto,D,0,0,0,2,0,0,0,0,0,0 - 0,0,0,0,0,0,0,0, Connecticut Whale,stats#/player/57728,57728,40881,,,,,,,2016
 56,Jessica Koizumi,F,0,0,0,0,0,0,0,0,0,0 - 0,0,0,0,0,0,0,0, Connecticut Whale,stats#/player/57757,57757,40881,,,,,,,2016
 88,Alyssa Wohlfeiler,F,0,0,0,4,0,0,0,0,0,0 - 0,0,0,0,0,0,0,0, Connecticut Whale,stats#/player/57768,57768,40881,,,,,,,2016
-20,Brooke Ammerman,F,2,0,2,0,0,0,0,0,0,5 - 9,0.357,1,0,6,0,5,9, New York Riveters,stats#/player/57718,57718,40881,,,,,,,2016
+20,Brooke Ammerman,F,2,0,2,0,0,2,0,0,0,5 - 9,0.357,1,0,6,0,5,9, New York Riveters,stats#/player/57718,57718,40881,,,,,,,2016
 2,Amber Moore,D,0,1,1,4,0,0,0,0,0,0 - 0,0,0,0,0,0,0,0, New York Riveters,stats#/player/57697,57697,40881,,,,,,,2016
 9,Ludmila Belyakova,F,0,1,1,0,0,0,0,0,0,5 - 11,0.313,0,0,4,0,5,11, New York Riveters,stats#/player/57700,57700,40881,,,,,,,2016
-12,Janine Weber,F,1,0,1,0,0,0,0,0,0,5 - 6,0.455,0,1,6,0,5,6, New York Riveters,stats#/player/513300,513300,40881,,,,,,,2016
+12,Janine Weber,F,1,0,1,0,0,1,0,0,0,5 - 6,0.455,0,1,6,0,5,6, New York Riveters,stats#/player/513300,513300,40881,,,,,,,2016
 17,Bray Ketchum,F,0,1,1,0,0,0,0,0,0,1 - 3,0.25,0,0,4,0,1,3, New York Riveters,stats#/player/57716,57716,40881,,,,,,,2016
 24,Celeste Brown,F,0,1,1,0,0,0,0,0,0,6 - 6,0.5,0,0,0,0,6,6, New York Riveters,stats#/player/57721,57721,40881,,,,,,,2016
 8,Sydney Kidd,D,0,0,0,0,0,0,0,0,0,0 - 0,0,0,0,2,0,0,0, New York Riveters,stats#/player/57699,57699,40881,,,,,,,2016
@@ -984,8 +984,8 @@ player_jersey,player_name,position,goals,assists,points,penalty_minutes,plus_min
 30,Jenny Scrivens,G,0,0,,0,,,,,,,,,,,,,, New York Riveters,,57724,40878,80:00,47,3,44,0.936,stats#/player/57724,2016
 24,Nicole Stock,G,0,0,,0,,,,,,,,,,,,,, Connecticut Whale,,57750,40878,00:00,0,0,0,0,stats#/player/57750,2016
 32,Jaimie Leonoff,G,0,0,,0,,,,,,,,,,,,,, Connecticut Whale,,57754,40878,78:14,38,3,35,0.921,stats#/player/57754,2016
-28,Sam Faber,F,1,1,2,2,0,0,0,0,0,0 - 0,0,1,0,2,0,0,0, Connecticut Whale,stats#/player/57753,57753,40876,,,,,,,2016
-13,Kaleigh Fratkin,D,1,0,1,4,0,0,0,0,0,0 - 0,0,0,0,2,0,0,0, Connecticut Whale,stats#/player/57735,57735,40876,,,,,,,2016
+28,Sam Faber,F,1,1,2,2,0,1,0,0,0,0 - 0,0,1,0,2,0,0,0, Connecticut Whale,stats#/player/57753,57753,40876,,,,,,,2016
+13,Kaleigh Fratkin,D,1,0,1,4,0,1,0,0,0,0 - 0,0,0,0,2,0,0,0, Connecticut Whale,stats#/player/57735,57735,40876,,,,,,,2016
 27,Shiann Darkangelo,F,0,1,1,0,0,0,0,0,0,3 - 4,0.429,0,0,2,0,3,4, Connecticut Whale,stats#/player/542419,542419,40876,,,,,,,2016
 5,Kate Buesser,F,0,0,0,0,0,0,0,0,0,0 - 0,0,0,0,0,0,0,0, Connecticut Whale,stats#/player/64987,64987,40876,,,,,,,2016
 6,Shannon Turner,D,0,0,0,0,0,0,0,0,0,0 - 0,0,0,0,3,0,0,0, Connecticut Whale,stats#/player/967608,967608,40876,,,,,,,2016
@@ -1000,8 +1000,8 @@ player_jersey,player_name,position,goals,assists,points,penalty_minutes,plus_min
 61,Kelli Stack,F,0,0,0,0,0,0,0,0,0,19 - 6,0.76,0,0,2,0,19,6, Connecticut Whale,stats#/player/57760,57760,40876,,,,,,,2016
 88,Alyssa Wohlfeiler,F,0,0,0,0,0,0,0,0,0,0 - 2,0,0,0,1,0,0,2, Connecticut Whale,stats#/player/57768,57768,40876,,,,,,,2016
 7,Emily Pfalzer,D,0,1,1,2,0,0,0,0,0,0 - 0,0,0,0,5,0,0,0, Buffalo Beauts,stats#/player/58088,58088,40876,,,,,,,2016
-10,Meghan Duggan,F,1,0,1,0,0,0,0,0,0,3 - 1,0.75,0,0,2,0,3,1, Buffalo Beauts,stats#/player/58098,58098,40876,,,,,,,2016
-13,Shelby Bram,F,1,0,1,0,0,0,0,0,0,9 - 6,0.6,1,0,3,0,9,6, Buffalo Beauts,stats#/player/58100,58100,40876,,,,,,,2016
+10,Meghan Duggan,F,1,0,1,0,0,1,0,0,0,3 - 1,0.75,0,0,2,0,3,1, Buffalo Beauts,stats#/player/58098,58098,40876,,,,,,,2016
+13,Shelby Bram,F,1,0,1,0,0,1,0,0,0,9 - 6,0.6,1,0,3,0,9,6, Buffalo Beauts,stats#/player/58100,58100,40876,,,,,,,2016
 14,Kelly McDonald,D,0,1,1,0,0,0,0,0,0,0 - 0,0,0,0,4,0,0,0, Buffalo Beauts,stats#/player/58101,58101,40876,,,,,,,2016
 20,Erin Zach,F,0,1,1,0,0,0,0,0,0,0 - 0,0,0,0,3,0,0,0, Buffalo Beauts,stats#/player/58103,58103,40876,,,,,,,2016
 36,Kourtney Kunichika,F,0,1,1,0,0,0,0,0,0,4 - 15,0.211,0,0,3,0,4,15, Buffalo Beauts,stats#/player/58111,58111,40876,,,,,,,2016
@@ -1090,7 +1090,7 @@ player_jersey,player_name,position,goals,assists,points,penalty_minutes,plus_min
 1,Kimberly Sass,G,0,0,,0,,,,,,,,,,,,,, Buffalo Beauts,,58083,40875,00:00,0,0,0,0,stats#/player/58083,2016
 29,Brianne McLaughlin,G,0,0,,0,,,,,,,,,,,,,, Buffalo Beauts,,58108,40875,17:58,19,5,14,0.737,stats#/player/58108,2016
 34,Amanda Makela,G,0,0,,0,,,,,,,,,,,,,, Buffalo Beauts,,58109,40875,42:02,26,2,24,0.923,stats#/player/58109,2016
-14,Madison Packer,F,1,0,1,0,0,0,0,0,0,2 - 5,0.286,0,0,4,0,2,5, New York Riveters,stats#/player/966106,966106,40870,,,,,,,2016
+14,Madison Packer,F,1,0,1,0,0,1,0,0,0,2 - 5,0.286,0,0,4,0,2,5, New York Riveters,stats#/player/966106,966106,40870,,,,,,,2016
 2,Amber Moore,D,0,0,0,0,0,0,0,0,0,0 - 0,0,0,0,0,0,0,0, New York Riveters,stats#/player/57697,57697,40870,,,,,,,2016
 4,Elena Orlando,D,0,0,0,0,0,0,0,0,0,0 - 0,0,0,0,1,0,0,0, New York Riveters,stats#/player/909127,909127,40870,,,,,,,2016
 8,Sydney Kidd,D,0,0,0,0,0,0,0,0,0,0 - 0,0,0,0,0,0,0,0, New York Riveters,stats#/player/57699,57699,40870,,,,,,,2016
@@ -1105,10 +1105,10 @@ player_jersey,player_name,position,goals,assists,points,penalty_minutes,plus_min
 26,Kiira Dosdall-Arena,D,0,0,0,2,0,0,0,0,0,0 - 0,0,0,0,1,0,0,0, New York Riveters,stats#/player/1066549,1066549,40870,,,,,,,2016
 28,Beth Hanrahan,F,0,0,0,0,0,0,0,0,0,0 - 0,0,0,0,6,0,0,0, New York Riveters,stats#/player/57723,57723,40870,,,,,,,2016
 91,Taylor Holze,F,0,0,0,0,0,0,0,0,0,1 - 2,0.333,0,0,2,0,1,2, New York Riveters,stats#/player/57726,57726,40870,,,,,,,2016
-21,Devon Skeats,F,2,0,2,0,0,0,0,0,0,0 - 0,0,0,0,6,0,0,0, Buffalo Beauts,stats#/player/58104,58104,40870,,,,,,,2016
+21,Devon Skeats,F,2,0,2,0,0,2,0,0,0,0 - 0,0,0,0,6,0,0,0, Buffalo Beauts,stats#/player/58104,58104,40870,,,,,,,2016
 9,Megan Bozek,D,0,1,1,0,0,0,0,0,0,0 - 0,0,0,0,2,0,0,0, Buffalo Beauts,stats#/player/58091,58091,40870,,,,,,,2016
 14,Kelly McDonald,D,0,1,1,0,0,0,0,0,0,0 - 0,0,0,0,0,0,0,0, Buffalo Beauts,stats#/player/58101,58101,40870,,,,,,,2016
-24,Hailey Browne,F,1,0,1,0,0,0,0,0,0,1 - 0,1,0,0,9,0,1,0, Buffalo Beauts,stats#/player/58106,58106,40870,,,,,,,2016
+24,Hailey Browne,F,1,0,1,0,0,1,0,0,0,1 - 0,1,0,0,9,0,1,0, Buffalo Beauts,stats#/player/58106,58106,40870,,,,,,,2016
 36,Kourtney Kunichika,F,0,1,1,2,0,0,0,0,0,11 - 4,0.733,0,0,0,0,11,4, Buffalo Beauts,stats#/player/58111,58111,40870,,,,,,,2016
 2,Paige Harrington,D,0,0,0,0,0,0,0,0,0,0 - 0,0,0,0,0,0,0,0, Buffalo Beauts,stats#/player/58084,58084,40870,,,,,,,2016
 3,Kelley Steadman,F,0,0,0,0,0,0,0,0,0,1 - 0,1,0,0,8,0,1,0, Buffalo Beauts,stats#/player/58085,58085,40870,,,,,,,2016
@@ -1160,13 +1160,13 @@ player_jersey,player_name,position,goals,assists,points,penalty_minutes,plus_min
 30,Lauren Slebodnick,G,0,0,,0,,,,,,,,,,,,,, Boston Pride,,58132,40872,26:59,10,1,9,0.9,stats#/player/58132,2016
 24,Nicole Stock,G,0,0,,0,,,,,,,,,,,,,, Connecticut Whale,,57750,40872,00:00,0,0,0,0,stats#/player/57750,2016
 32,Jaimie Leonoff,G,0,0,,0,,,,,,,,,,,,,, Connecticut Whale,,57754,40872,60:00,51,3,48,0.941,stats#/player/57754,2016
-3,Kelley Steadman,F,2,2,4,0,0,0,0,0,0,2 - 1,0.667,1,1,7,0,2,1, Buffalo Beauts,stats#/player/58085,58085,40871,,,,,,,2016
+3,Kelley Steadman,F,2,2,4,0,0,2,0,0,0,2 - 1,0.667,1,1,7,0,2,1, Buffalo Beauts,stats#/player/58085,58085,40871,,,,,,,2016
 7,Emily Pfalzer,D,0,4,4,0,0,0,0,0,0,0 - 0,0,0,0,5,0,0,0, Buffalo Beauts,stats#/player/58088,58088,40871,,,,,,,2016
-10,Meghan Duggan,F,1,2,3,0,0,0,0,0,0,9 - 10,0.474,0,0,1,0,9,10, Buffalo Beauts,stats#/player/58098,58098,40871,,,,,,,2016
+10,Meghan Duggan,F,1,2,3,0,0,1,0,0,0,9 - 10,0.474,0,0,1,0,9,10, Buffalo Beauts,stats#/player/58098,58098,40871,,,,,,,2016
 13,Shelby Bram,F,0,2,2,0,0,0,0,0,0,7 - 8,0.467,0,0,1,0,7,8, Buffalo Beauts,stats#/player/58100,58100,40871,,,,,,,2016
 14,Kelly McDonald,D,0,2,2,0,0,0,0,0,0,0 - 0,0,0,0,4,0,0,0, Buffalo Beauts,stats#/player/58101,58101,40871,,,,,,,2016
-36,Kourtney Kunichika,F,2,0,2,0,0,0,0,0,0,3 - 14,0.177,2,0,4,0,3,14, Buffalo Beauts,stats#/player/58111,58111,40871,,,,,,,2016
-77,Hayley Williams,F,1,0,1,4,0,0,0,0,0,0 - 0,0,0,0,1,0,0,0, Buffalo Beauts,stats#/player/58113,58113,40871,,,,,,,2016
+36,Kourtney Kunichika,F,2,0,2,0,0,2,0,0,0,3 - 14,0.177,2,0,4,0,3,14, Buffalo Beauts,stats#/player/58111,58111,40871,,,,,,,2016
+77,Hayley Williams,F,1,0,1,4,0,1,0,0,0,0 - 0,0,0,0,1,0,0,0, Buffalo Beauts,stats#/player/58113,58113,40871,,,,,,,2016
 2,Paige Harrington,D,0,0,0,2,0,0,0,0,0,0 - 0,0,0,0,1,0,0,0, Buffalo Beauts,stats#/player/58084,58084,40871,,,,,,,2016
 6,Jessica Fickel,F,0,0,0,0,0,0,0,0,0,0 - 2,0,0,0,0,0,0,2, Buffalo Beauts,stats#/player/58087,58087,40871,,,,,,,2016
 9,Megan Bozek,D,0,0,0,5,0,0,0,0,0,0 - 0,0,0,0,2,0,0,0, Buffalo Beauts,stats#/player/58091,58091,40871,,,,,,,2016
@@ -1175,15 +1175,15 @@ player_jersey,player_name,position,goals,assists,points,penalty_minutes,plus_min
 23,Lindsay Grigg,D,0,0,0,0,0,0,0,0,0,0 - 0,0,0,0,0,0,0,0, Buffalo Beauts,stats#/player/58105,58105,40871,,,,,,,2016
 24,Hailey Browne,F,0,0,0,0,0,0,0,0,0,0 - 0,0,0,0,2,0,0,0, Buffalo Beauts,stats#/player/58106,58106,40871,,,,,,,2016
 43,Tatiana Rafter,F,0,0,0,0,0,0,0,0,0,0 - 1,0,0,0,0,0,0,1, Buffalo Beauts,stats#/player/58112,58112,40871,,,,,,,2016
-13,Kaleigh Fratkin,D,2,2,4,2,0,0,0,0,0,0 - 0,0,2,0,4,0,0,0, Connecticut Whale,stats#/player/57735,57735,40871,,,,,,,2016
+13,Kaleigh Fratkin,D,2,2,4,2,0,2,0,0,0,0 - 0,0,2,0,4,0,0,0, Connecticut Whale,stats#/player/57735,57735,40871,,,,,,,2016
 26,Jordan Brickner,D,0,3,3,0,0,0,0,0,0,0 - 0,0,0,0,0,0,0,0, Connecticut Whale,stats#/player/57751,57751,40871,,,,,,,2016
-8,Kelly Babstock,F,1,1,2,0,0,0,0,0,0,10 - 5,0.667,1,0,2,0,10,5, Connecticut Whale,stats#/player/699761,699761,40871,,,,,,,2016
-56,Jessica Koizumi,F,1,1,2,0,0,0,0,0,0,0 - 0,0,1,0,2,0,0,0, Connecticut Whale,stats#/player/57757,57757,40871,,,,,,,2016
+8,Kelly Babstock,F,1,1,2,0,0,1,0,0,0,10 - 5,0.667,1,0,2,0,10,5, Connecticut Whale,stats#/player/699761,699761,40871,,,,,,,2016
+56,Jessica Koizumi,F,1,1,2,0,0,1,0,0,0,0 - 0,0,1,0,2,0,0,0, Connecticut Whale,stats#/player/57757,57757,40871,,,,,,,2016
 6,Shannon Turner,D,0,1,1,0,0,0,0,0,0,0 - 0,0,0,0,4,0,0,0, Connecticut Whale,stats#/player/967608,967608,40871,,,,,,,2016
 16,Micaela Long,F,0,1,1,0,0,0,0,0,0,0 - 0,0,0,0,3,0,0,0, Connecticut Whale,stats#/player/57736,57736,40871,,,,,,,2016
 22,Danielle Ward,F,0,1,1,4,0,0,0,0,0,5 - 5,0.5,0,0,1,0,5,5, Connecticut Whale,stats#/player/57743,57743,40871,,,,,,,2016
-27,Shiann Darkangelo,F,1,0,1,0,0,0,0,0,0,3 - 1,0.75,0,0,4,0,3,1, Connecticut Whale,stats#/player/542419,542419,40871,,,,,,,2016
-28,Sam Faber,F,1,0,1,2,0,0,0,0,0,1 - 0,1,0,0,2,0,1,0, Connecticut Whale,stats#/player/57753,57753,40871,,,,,,,2016
+27,Shiann Darkangelo,F,1,0,1,0,0,1,0,0,0,3 - 1,0.75,0,0,4,0,3,1, Connecticut Whale,stats#/player/542419,542419,40871,,,,,,,2016
+28,Sam Faber,F,1,0,1,2,0,1,0,0,0,1 - 0,1,0,0,2,0,1,0, Connecticut Whale,stats#/player/57753,57753,40871,,,,,,,2016
 61,Kelli Stack,F,0,1,1,0,0,0,0,0,0,18 - 12,0.6,0,0,3,0,18,12, Connecticut Whale,stats#/player/57760,57760,40871,,,,,,,2016
 88,Alyssa Wohlfeiler,F,0,1,1,0,0,0,0,0,0,0 - 0,0,0,0,0,0,0,0, Connecticut Whale,stats#/player/57768,57768,40871,,,,,,,2016
 3,Mary Rose Morrison,F,0,0,0,0,0,0,0,0,0,0 - 0,0,0,0,0,0,0,0, Connecticut Whale,stats#/player/57729,57729,40871,,,,,,,2016
@@ -1234,10 +1234,10 @@ player_jersey,player_name,position,goals,assists,points,penalty_minutes,plus_min
 2,Amber Moore,D,0,1,1,0,0,0,0,0,0,0 - 0,0,0,0,0,0,0,0, New York Riveters,stats#/player/57697,57697,40867,,,,,,,2016
 8,Sydney Kidd,F,0,1,1,0,0,0,0,0,0,0 - 0,0,0,0,1,0,0,0, New York Riveters,stats#/player/57699,57699,40867,,,,,,,2016
 11,Morgan Fritz-Ward,F,0,1,1,0,0,0,0,0,0,0 - 0,0,0,0,5,0,0,0, New York Riveters,stats#/player/57702,57702,40867,,,,,,,2016
-14,Madison Packer,F,1,0,1,0,0,0,0,0,0,0 - 0,0,0,0,5,0,0,0, New York Riveters,stats#/player/966106,966106,40867,,,,,,,2016
-17,Bray Ketchum,F,1,0,1,0,0,0,0,0,0,0 - 1,0,1,0,4,0,0,1, New York Riveters,stats#/player/57716,57716,40867,,,,,,,2016
+14,Madison Packer,F,1,0,1,0,0,1,0,0,0,0 - 0,0,0,0,5,0,0,0, New York Riveters,stats#/player/966106,966106,40867,,,,,,,2016
+17,Bray Ketchum,F,1,0,1,0,0,1,0,0,0,0 - 1,0,1,0,4,0,0,1, New York Riveters,stats#/player/57716,57716,40867,,,,,,,2016
 20,Brooke Ammerman,F,0,1,1,0,0,0,0,0,0,3 - 2,0.6,0,0,4,0,3,2, New York Riveters,stats#/player/57718,57718,40867,,,,,,,2016
-28,Beth Hanrahan,F,1,0,1,2,0,0,0,0,0,0 - 1,0,0,0,4,0,0,1, New York Riveters,stats#/player/57723,57723,40867,,,,,,,2016
+28,Beth Hanrahan,F,1,0,1,2,0,1,0,0,0,0 - 1,0,0,0,4,0,0,1, New York Riveters,stats#/player/57723,57723,40867,,,,,,,2016
 4,Elena Orlando,D,0,0,0,0,0,0,0,0,0,0 - 0,0,0,0,0,0,0,0, New York Riveters,stats#/player/909127,909127,40867,,,,,,,2016
 12,Janine Weber,F,0,0,0,0,0,0,0,0,0,3 - 2,0.6,0,0,2,0,3,2, New York Riveters,stats#/player/513300,513300,40867,,,,,,,2016
 18,Meghan Fardelmann,F,0,0,0,0,0,0,0,0,0,4 - 2,0.667,0,0,2,0,4,2, New York Riveters,stats#/player/57636,57636,40867,,,,,,,2016
@@ -1245,10 +1245,10 @@ player_jersey,player_name,position,goals,assists,points,penalty_minutes,plus_min
 24,Celeste Brown,F,0,0,0,4,0,0,0,0,0,3 - 0,1,0,0,2,0,3,0, New York Riveters,stats#/player/57721,57721,40867,,,,,,,2016
 26,Kiira Dosdall-Arena,D,0,0,0,2,0,0,0,0,0,0 - 0,0,0,0,2,0,0,0, New York Riveters,stats#/player/1066549,1066549,40867,,,,,,,2016
 91,Taylor Holze,F,0,0,0,0,0,0,0,0,0,0 - 1,0,0,0,0,0,0,1, New York Riveters,stats#/player/57726,57726,40867,,,,,,,2016
-21,Hilary Knight,F,1,1,2,0,0,0,0,0,0,5 - 5,0.5,0,0,16,0,5,5, Boston Pride,stats#/player/58127,58127,40867,,,,,,,2016
+21,Hilary Knight,F,1,1,2,0,0,1,0,0,0,5 - 5,0.5,0,0,16,0,5,5, Boston Pride,stats#/player/58127,58127,40867,,,,,,,2016
 15,Emily Field,F,0,1,1,2,0,0,0,0,0,0 - 0,0,0,0,4,0,0,0, Boston Pride,stats#/player/58123,58123,40867,,,,,,,2016
 19,Gigi Marvin,D,0,1,1,0,0,0,0,0,0,0 - 0,0,0,0,3,0,0,0, Boston Pride,stats#/player/58126,58126,40867,,,,,,,2016
-22,Kacey Bellamy,D,1,0,1,0,0,0,0,0,0,0 - 0,0,1,0,8,0,0,0, Boston Pride,stats#/player/58128,58128,40867,,,,,,,2016
+22,Kacey Bellamy,D,1,0,1,0,0,1,0,0,0,0 - 0,0,1,0,8,0,0,0, Boston Pride,stats#/player/58128,58128,40867,,,,,,,2016
 2,Alyssa Gagliardi,D,0,0,0,0,0,0,0,0,0,0 - 0,0,0,0,1,0,0,0, Boston Pride,stats#/player/58115,58115,40867,,,,,,,2016
 3,Jillian Dempsey,F,0,0,0,0,0,0,0,0,0,0 - 0,0,0,0,4,0,0,0, Boston Pride,stats#/player/58116,58116,40867,,,,,,,2016
 5,Kelly Cooke,F,0,0,0,0,0,0,0,0,0,0 - 0,0,0,0,1,0,0,0, Boston Pride,stats#/player/58117,58117,40867,,,,,,,2016
@@ -1269,9 +1269,9 @@ player_jersey,player_name,position,goals,assists,points,penalty_minutes,plus_min
 2,Paige Harrington,D,0,1,1,0,0,0,0,0,0,0 - 0,0,0,0,0,0,0,0, Buffalo Beauts,stats#/player/58084,58084,40868,,,,,,,2016
 6,Jessica Fickel,F,0,1,1,0,0,0,0,0,0,0 - 0,0,0,0,1,0,0,0, Buffalo Beauts,stats#/player/58087,58087,40868,,,,,,,2016
 13,Shelby Bram,F,0,1,1,0,0,0,0,0,0,11 - 7,0.611,0,0,4,0,11,7, Buffalo Beauts,stats#/player/58100,58100,40868,,,,,,,2016
-21,Devon Skeats,F,1,0,1,4,0,0,0,0,0,0 - 0,0,0,0,1,0,0,0, Buffalo Beauts,stats#/player/58104,58104,40868,,,,,,,2016
+21,Devon Skeats,F,1,0,1,4,0,1,0,0,0,0 - 0,0,0,0,1,0,0,0, Buffalo Beauts,stats#/player/58104,58104,40868,,,,,,,2016
 24,Hailey Browne,F,0,1,1,0,0,0,0,0,0,0 - 1,0,0,0,1,0,0,1, Buffalo Beauts,stats#/player/58106,58106,40868,,,,,,,2016
-36,Kourtney Kunichika,F,1,0,1,0,0,0,0,0,0,4 - 12,0.25,0,0,3,0,4,12, Buffalo Beauts,stats#/player/58111,58111,40868,,,,,,,2016
+36,Kourtney Kunichika,F,1,0,1,0,0,1,0,0,0,4 - 12,0.25,0,0,3,0,4,12, Buffalo Beauts,stats#/player/58111,58111,40868,,,,,,,2016
 7,Emily Pfalzer,D,0,0,0,0,0,0,0,0,0,0 - 0,0,0,0,3,0,0,0, Buffalo Beauts,stats#/player/58088,58088,40868,,,,,,,2016
 9,Megan Bozek,D,0,0,0,0,0,0,0,0,0,0 - 0,0,0,0,5,0,0,0, Buffalo Beauts,stats#/player/58091,58091,40868,,,,,,,2016
 10,Meghan Duggan,F,0,0,0,2,0,0,0,0,0,10 - 4,0.714,0,0,5,0,10,4, Buffalo Beauts,stats#/player/58098,58098,40868,,,,,,,2016
@@ -1281,12 +1281,12 @@ player_jersey,player_name,position,goals,assists,points,penalty_minutes,plus_min
 23,Lindsay Grigg,D,0,0,0,0,0,0,0,0,0,0 - 0,0,0,0,1,0,0,0, Buffalo Beauts,stats#/player/58105,58105,40868,,,,,,,2016
 43,Tatiana Rafter,F,0,0,0,0,0,0,0,0,0,0 - 3,0,0,0,5,0,0,3, Buffalo Beauts,stats#/player/58112,58112,40868,,,,,,,2016
 77,Hayley Williams,F,0,0,0,2,0,0,0,0,0,0 - 0,0,0,0,1,0,0,0, Buffalo Beauts,stats#/player/58113,58113,40868,,,,,,,2016
-8,Kelly Babstock,F,1,0,1,6,0,0,0,0,0,10 - 6,0.625,0,1,4,0,10,6, Connecticut Whale,stats#/player/699761,699761,40868,,,,,,,2016
+8,Kelly Babstock,F,1,0,1,6,0,1,0,0,0,10 - 6,0.625,0,1,4,0,10,6, Connecticut Whale,stats#/player/699761,699761,40868,,,,,,,2016
 16,Micaela Long,F,0,1,1,0,0,0,0,0,0,1 - 0,1,0,0,4,0,1,0, Connecticut Whale,stats#/player/57736,57736,40868,,,,,,,2016
-22,Danielle Ward,F,1,0,1,2,0,0,0,0,0,4 - 4,0.5,0,0,2,0,4,4, Connecticut Whale,stats#/player/57743,57743,40868,,,,,,,2016
+22,Danielle Ward,F,1,0,1,2,0,1,0,0,0,4 - 4,0.5,0,0,2,0,4,4, Connecticut Whale,stats#/player/57743,57743,40868,,,,,,,2016
 26,Jordan Brickner,D,0,1,1,0,0,0,0,0,0,0 - 0,0,0,0,0,0,0,0, Connecticut Whale,stats#/player/57751,57751,40868,,,,,,,2016
 56,Jessica Koizumi,F,0,1,1,0,0,0,0,0,0,2 - 3,0.4,0,0,2,0,2,3, Connecticut Whale,stats#/player/57757,57757,40868,,,,,,,2016
-61,Kelli Stack,F,1,0,1,2,0,0,0,0,0,15 - 8,0.652,0,0,4,0,15,8, Connecticut Whale,stats#/player/57760,57760,40868,,,,,,,2016
+61,Kelli Stack,F,1,0,1,2,0,1,0,0,0,15 - 8,0.652,0,0,4,0,15,8, Connecticut Whale,stats#/player/57760,57760,40868,,,,,,,2016
 88,Alyssa Wohlfeiler,F,0,1,1,0,0,0,0,0,0,0 - 2,0,0,0,1,0,0,2, Connecticut Whale,stats#/player/57768,57768,40868,,,,,,,2016
 5,Kate Buesser,F,0,0,0,0,0,0,0,0,0,0 - 0,0,0,0,0,0,0,0, Connecticut Whale,stats#/player/64987,64987,40868,,,,,,,2016
 6,Shannon Turner,D,0,0,0,2,0,0,0,0,0,0 - 0,0,0,0,3,0,0,0, Connecticut Whale,stats#/player/967608,967608,40868,,,,,,,2016
@@ -1302,7 +1302,7 @@ player_jersey,player_name,position,goals,assists,points,penalty_minutes,plus_min
 24,Nicole Stock,G,0,0,,0,,,,,,,,,,,,,, Connecticut Whale,,57750,40868,00:00,0,0,0,0,stats#/player/57750,2016
 32,Jaimie Leonoff,G,0,0,,0,,,,,,,,,,,,,, Connecticut Whale,,57754,40868,60:00,37,2,35,0.946,stats#/player/57754,2016
 78,Chelsea Laden,G,0,0,,0,,,,,,,,,,,,,, Connecticut Whale,,57761,40868,00:00,0,0,0,0,stats#/player/57761,2016
-10,Ashley Johnston,D,1,0,1,0,0,0,0,0,0,0 - 0,0,1,0,2,0,0,0, New York Riveters,stats#/player/57701,57701,40864,,,,,,,2016
+10,Ashley Johnston,D,1,0,1,0,0,1,0,0,0,0 - 0,0,1,0,2,0,0,0, New York Riveters,stats#/player/57701,57701,40864,,,,,,,2016
 12,Janine Weber,F,0,1,1,2,0,0,0,0,0,4 - 4,0.5,0,0,2,0,4,4, New York Riveters,stats#/player/513300,513300,40864,,,,,,,2016
 18,Meghan Fardelmann,F,0,1,1,0,0,0,0,0,0,1 - 5,0.167,0,0,1,0,1,5, New York Riveters,stats#/player/57636,57636,40864,,,,,,,2016
 4,Elena Orlando,D,0,0,0,0,0,0,0,0,0,0 - 0,0,0,0,0,0,0,0, New York Riveters,stats#/player/909127,909127,40864,,,,,,,2016
@@ -1316,12 +1316,12 @@ player_jersey,player_name,position,goals,assists,points,penalty_minutes,plus_min
 26,Kiira Dosdall-Arena,D,0,0,0,0,0,0,0,0,0,0 - 1,0,0,0,3,0,0,1, New York Riveters,stats#/player/1066549,1066549,40864,,,,,,,2016
 28,Beth Hanrahan,F,0,0,0,0,0,0,0,0,0,0 - 0,0,0,0,3,0,0,0, New York Riveters,stats#/player/57723,57723,40864,,,,,,,2016
 91,Taylor Holze,F,0,0,0,0,0,0,0,0,0,0 - 0,0,0,0,0,0,0,0, New York Riveters,stats#/player/57726,57726,40864,,,,,,,2016
-13,Kaleigh Fratkin,D,1,1,2,2,0,0,0,0,0,0 - 0,0,1,0,1,0,0,0, Connecticut Whale,stats#/player/57735,57735,40864,,,,,,,2016
-8,Kelly Babstock,F,1,0,1,0,0,0,0,0,0,11 - 3,0.786,0,0,3,0,11,3, Connecticut Whale,stats#/player/699761,699761,40864,,,,,,,2016
+13,Kaleigh Fratkin,D,1,1,2,2,0,1,0,0,0,0 - 0,0,1,0,1,0,0,0, Connecticut Whale,stats#/player/57735,57735,40864,,,,,,,2016
+8,Kelly Babstock,F,1,0,1,0,0,1,0,0,0,11 - 3,0.786,0,0,3,0,11,3, Connecticut Whale,stats#/player/699761,699761,40864,,,,,,,2016
 22,Danielle Ward,F,0,1,1,0,0,0,0,0,0,6 - 1,0.857,0,0,0,0,6,1, Connecticut Whale,stats#/player/57743,57743,40864,,,,,,,2016
 56,Jessica Koizumi,F,0,1,1,0,0,0,0,0,0,2 - 2,0.5,0,0,3,0,2,2, Connecticut Whale,stats#/player/57757,57757,40864,,,,,,,2016
 61,Kelli Stack,F,0,1,1,2,0,0,0,0,0,6 - 6,0.5,0,0,4,0,6,6, Connecticut Whale,stats#/player/57760,57760,40864,,,,,,,2016
-88,Alyssa Wohlfeiler,F,1,0,1,0,0,0,0,0,0,2 - 0,1,1,0,3,0,2,0, Connecticut Whale,stats#/player/57768,57768,40864,,,,,,,2016
+88,Alyssa Wohlfeiler,F,1,0,1,0,0,1,0,0,0,2 - 0,1,1,0,3,0,2,0, Connecticut Whale,stats#/player/57768,57768,40864,,,,,,,2016
 4,Anya Battaglino,D,0,0,0,0,0,0,0,0,0,0 - 0,0,0,0,0,0,0,0, Connecticut Whale,stats#/player/57730,57730,40864,,,,,,,2016
 6,Shannon Turner,D,0,0,0,0,0,0,0,0,0,0 - 0,0,0,0,0,0,0,0, Connecticut Whale,stats#/player/967608,967608,40864,,,,,,,2016
 9,Molly Engstrom,D,0,0,0,0,0,0,0,0,0,0 - 0,0,0,0,1,0,0,0, Connecticut Whale,stats#/player/57733,57733,40864,,,,,,,2016
@@ -1407,8 +1407,8 @@ player_jersey,player_name,position,goals,assists,points,penalty_minutes,plus_min
 1,Kelsie Fralick,G,0,0,,0,,,,,,,,,,,,,, Boston Pride,,58114,40865,00:00,0,0,0,0,stats#/player/58114,2016
 29,Brittany Ott,G,0,0,,0,,,,,,,,,,,,,, Boston Pride,,58131,40865,28:56,10,1,9,0.9,stats#/player/58131,2016
 30,Lauren Slebodnick,G,0,0,,0,,,,,,,,,,,,,, Boston Pride,,58132,40865,31:04,15,0,15,1,stats#/player/58132,2016
-3,Kelley Steadman,F,1,1,2,2,0,0,0,0,0,0 - 1,0,0,0,5,0,0,1, Buffalo Beauts,stats#/player/58085,58085,40866,,,,,,,2016
-10,Meghan Duggan,F,1,1,2,2,0,0,0,0,0,3 - 2,0.6,0,1,6,0,3,2, Buffalo Beauts,stats#/player/58098,58098,40866,,,,,,,2016
+3,Kelley Steadman,F,1,1,2,2,0,1,0,0,0,0 - 1,0,0,0,5,0,0,1, Buffalo Beauts,stats#/player/58085,58085,40866,,,,,,,2016
+10,Meghan Duggan,F,1,1,2,2,0,1,0,0,0,3 - 2,0.6,0,1,6,0,3,2, Buffalo Beauts,stats#/player/58098,58098,40866,,,,,,,2016
 15,Annmarie Cellino,F,0,1,1,0,0,0,0,0,0,0 - 0,0,0,0,0,0,0,0, Buffalo Beauts,stats#/player/58102,58102,40866,,,,,,,2016
 2,Paige Harrington,D,0,0,0,0,0,0,0,0,0,0 - 0,0,0,0,0,0,0,0, Buffalo Beauts,stats#/player/58084,58084,40866,,,,,,,2016
 5,Courtney Carnes,F,0,0,0,0,0,0,0,0,0,0 - 0,0,0,0,0,0,0,0, Buffalo Beauts,stats#/player/58086,58086,40866,,,,,,,2016
@@ -1422,16 +1422,16 @@ player_jersey,player_name,position,goals,assists,points,penalty_minutes,plus_min
 36,Kourtney Kunichika,F,0,0,0,0,0,0,0,0,0,0 - 0,0,0,0,4,0,0,0, Buffalo Beauts,stats#/player/58111,58111,40866,,,,,,,2016
 43,Tatiana Rafter,F,0,0,0,4,0,0,0,0,0,3 - 2,0.6,0,0,1,0,3,2, Buffalo Beauts,stats#/player/58112,58112,40866,,,,,,,2016
 77,Hayley Williams,F,0,0,0,0,0,0,0,0,0,0 - 0,0,0,0,1,0,0,0, Buffalo Beauts,stats#/player/58113,58113,40866,,,,,,,2016
-13,Kaleigh Fratkin,D,1,2,3,4,0,0,0,0,0,0 - 0,0,0,0,6,0,0,0, Connecticut Whale,stats#/player/57735,57735,40866,,,,,,,2016
+13,Kaleigh Fratkin,D,1,2,3,4,0,1,0,0,0,0 - 0,0,0,0,6,0,0,0, Connecticut Whale,stats#/player/57735,57735,40866,,,,,,,2016
 8,Kelly Babstock,F,0,2,2,0,0,0,0,0,0,0 - 0,0,0,0,3,0,0,0, Connecticut Whale,stats#/player/699761,699761,40866,,,,,,,2016
-28,Sam Faber,F,1,1,2,0,0,0,0,0,0,0 - 0,0,1,0,4,0,0,0, Connecticut Whale,stats#/player/57753,57753,40866,,,,,,,2016
-5,Kate Buesser,F,1,0,1,0,0,0,0,0,0,7 - 11,0.389,0,0,5,0,7,11, Connecticut Whale,stats#/player/64987,64987,40866,,,,,,,2016
-9,Molly Engstrom,D,1,0,1,0,0,0,0,0,0,0 - 0,0,1,0,6,0,0,0, Connecticut Whale,stats#/player/57733,57733,40866,,,,,,,2016
+28,Sam Faber,F,1,1,2,0,0,1,0,0,0,0 - 0,0,1,0,4,0,0,0, Connecticut Whale,stats#/player/57753,57753,40866,,,,,,,2016
+5,Kate Buesser,F,1,0,1,0,0,1,0,0,0,7 - 11,0.389,0,0,5,0,7,11, Connecticut Whale,stats#/player/64987,64987,40866,,,,,,,2016
+9,Molly Engstrom,D,1,0,1,0,0,1,0,0,0,0 - 0,0,1,0,6,0,0,0, Connecticut Whale,stats#/player/57733,57733,40866,,,,,,,2016
 10,Lindsay Berman,D,0,1,1,0,0,0,0,0,0,0 - 0,0,0,0,1,0,0,0, Connecticut Whale,stats#/player/57734,57734,40866,,,,,,,2016
 26,Jordan Brickner,D,0,1,1,0,0,0,0,0,0,0 - 0,0,0,0,0,0,0,0, Connecticut Whale,stats#/player/57751,57751,40866,,,,,,,2016
 27,Shiann Darkangelo,F,0,1,1,0,0,0,0,0,0,0 - 1,0,0,0,2,0,0,1, Connecticut Whale,stats#/player/542419,542419,40866,,,,,,,2016
 61,Kelli Stack,F,0,1,1,2,0,0,0,0,0,11 - 14,0.44,0,0,10,0,11,14, Connecticut Whale,stats#/player/57760,57760,40866,,,,,,,2016
-88,Alyssa Wohlfeiler,F,1,0,1,2,0,0,0,0,0,0 - 0,0,0,0,1,0,0,0, Connecticut Whale,stats#/player/57768,57768,40866,,,,,,,2016
+88,Alyssa Wohlfeiler,F,1,0,1,2,0,1,0,0,0,0 - 0,0,0,0,1,0,0,0, Connecticut Whale,stats#/player/57768,57768,40866,,,,,,,2016
 4,Anya Battaglino,D,0,0,0,4,0,0,0,0,0,0 - 0,0,0,0,0,0,0,0, Connecticut Whale,stats#/player/57730,57730,40866,,,,,,,2016
 6,Shannon Turner,D,0,0,0,0,0,0,0,0,0,0 - 0,0,0,0,5,0,0,0, Connecticut Whale,stats#/player/967608,967608,40866,,,,,,,2016
 16,Micaela Long,F,0,0,0,2,0,0,0,0,0,0 - 1,0,0,0,2,0,0,1, Connecticut Whale,stats#/player/57736,57736,40866,,,,,,,2016
@@ -1478,13 +1478,13 @@ player_jersey,player_name,position,goals,assists,points,penalty_minutes,plus_min
 1,Kelsie Fralick,G,0,0,,0,,,,,,,,,,,,,, Boston Pride,,58114,40863,00:00,0,0,0,0,stats#/player/58114,2016
 29,Brittany Ott,G,0,0,,0,,,,,,,,,,,,,, Boston Pride,,58131,40863,60:00,35,1,34,0.971,stats#/player/58131,2016
 30,Lauren Slebodnick,G,0,0,,0,,,,,,,,,,,,,, Boston Pride,,58132,40863,00:00,0,0,0,0,stats#/player/58132,2016
-61,Kelli Stack,F,1,2,3,2,0,0,0,0,0,17 - 6,0.739,0,0,4,0,17,6, Connecticut Whale,stats#/player/57760,57760,40862,,,,,,,2016
-8,Kelly Babstock,F,1,1,2,0,0,0,0,0,0,2 - 1,0.667,0,0,6,0,2,1, Connecticut Whale,stats#/player/699761,699761,40862,,,,,,,2016
+61,Kelli Stack,F,1,2,3,2,0,1,0,0,0,17 - 6,0.739,0,0,4,0,17,6, Connecticut Whale,stats#/player/57760,57760,40862,,,,,,,2016
+8,Kelly Babstock,F,1,1,2,0,0,1,0,0,0,2 - 1,0.667,0,0,6,0,2,1, Connecticut Whale,stats#/player/699761,699761,40862,,,,,,,2016
 13,Kaleigh Fratkin,D,0,1,1,0,0,0,0,0,0,0 - 0,0,0,0,2,0,0,0, Connecticut Whale,stats#/player/57735,57735,40862,,,,,,,2016
 16,Micaela Long,F,0,1,1,0,0,0,0,0,0,0 - 0,0,0,0,1,0,0,0, Connecticut Whale,stats#/player/57736,57736,40862,,,,,,,2016
 26,Jordan Brickner,D,0,1,1,0,0,0,0,0,0,0 - 0,0,0,0,2,0,0,0, Connecticut Whale,stats#/player/57751,57751,40862,,,,,,,2016
-27,Shiann Darkangelo,F,1,0,1,0,0,0,0,0,0,2 - 1,0.667,0,0,4,0,2,1, Connecticut Whale,stats#/player/542419,542419,40862,,,,,,,2016
-56,Jessica Koizumi,F,1,0,1,0,0,0,0,0,0,0 - 1,0,0,0,3,0,0,1, Connecticut Whale,stats#/player/57757,57757,40862,,,,,,,2016
+27,Shiann Darkangelo,F,1,0,1,0,0,1,0,0,0,2 - 1,0.667,0,0,4,0,2,1, Connecticut Whale,stats#/player/542419,542419,40862,,,,,,,2016
+56,Jessica Koizumi,F,1,0,1,0,0,1,0,0,0,0 - 1,0,0,0,3,0,0,1, Connecticut Whale,stats#/player/57757,57757,40862,,,,,,,2016
 6,Shannon Turner,D,0,0,0,0,0,0,0,0,0,0 - 0,0,0,0,3,0,0,0, Connecticut Whale,stats#/player/967608,967608,40862,,,,,,,2016
 9,Molly Engstrom,D,0,0,0,2,0,0,0,0,0,0 - 0,0,0,0,0,0,0,0, Connecticut Whale,stats#/player/57733,57733,40862,,,,,,,2016
 10,Lindsay Berman,D,0,0,0,0,0,0,0,0,0,0 - 0,0,0,0,1,0,0,0, Connecticut Whale,stats#/player/57734,57734,40862,,,,,,,2016
@@ -1494,7 +1494,7 @@ player_jersey,player_name,position,goals,assists,points,penalty_minutes,plus_min
 28,Sam Faber,F,0,0,0,0,0,0,0,0,0,4 - 2,0.667,0,0,0,0,4,2, Connecticut Whale,stats#/player/57753,57753,40862,,,,,,,2016
 88,Alyssa Wohlfeiler,F,0,0,0,0,0,0,0,0,0,0 - 0,0,0,0,1,0,0,0, Connecticut Whale,stats#/player/57768,57768,40862,,,,,,,2016
 9,Ludmila Belyakova,F,0,1,1,0,0,0,0,0,0,4 - 8,0.333,0,0,4,0,4,8, New York Riveters,stats#/player/57700,57700,40862,,,,,,,2016
-20,Brooke Ammerman,F,1,0,1,0,0,0,0,0,0,1 - 1,0.5,0,0,3,0,1,1, New York Riveters,stats#/player/57718,57718,40862,,,,,,,2016
+20,Brooke Ammerman,F,1,0,1,0,0,1,0,0,0,1 - 1,0.5,0,0,3,0,1,1, New York Riveters,stats#/player/57718,57718,40862,,,,,,,2016
 2,Amber Moore,D,0,0,0,0,0,0,0,0,0,0 - 0,0,0,0,0,0,0,0, New York Riveters,stats#/player/57697,57697,40862,,,,,,,2016
 4,Elena Orlando,D,0,0,0,2,0,0,0,0,0,0 - 0,0,0,0,0,0,0,0, New York Riveters,stats#/player/909127,909127,40862,,,,,,,2016
 10,Ashley Johnston,D,0,0,0,2,0,0,0,0,0,0 - 0,0,0,0,2,0,0,0, New York Riveters,stats#/player/57701,57701,40862,,,,,,,2016
