@@ -21,8 +21,8 @@ option_list = list(
 opt = parse_args(OptionParser(option_list=option_list))
 options(stringsAsFactors = FALSE)
 options(scipen = 999)
-season_vector <- opt$s:opt$e
-rebuild <- FALSE
+season_vector <- 2016:2022
+rebuild <- TRUE
 version = packageVersion("fastRhockey")
 
 
@@ -76,8 +76,8 @@ if(rebuild == FALSE){
 ### 2b) save json to disk
 cli::cli_process_start("Starting scrape of {length(season_schedules$game_id)} games...")
 
-future::plan("multisession")
-scrape_games <- furrr::future_map(season_schedules$game_id, function(x){
+
+scrape_games <- purrr::map(season_schedules$game_id, function(x){
   game <- fastRhockey::phf_game_all(game_id = x)
   jsonlite::write_json(game, path = glue::glue("phf/json/{x}.json"))
 })
