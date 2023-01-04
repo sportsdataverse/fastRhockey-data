@@ -274,7 +274,7 @@ season_player_box_compile <- purrr::map(season_vector,function(x){
 ### 3d) Build team roster dataset
 season_team_roster_compile <- purrr::map(season_vector,function(x){
   cli::cli_process_start("Starting PHF team roster compilation for {x} season...")
-  if (x >= 2021){
+  if (x >= 2015){
     teams <- fastRhockey::phf_league_info(season = x)$teams
 
     future::plan("multisession")
