@@ -21,7 +21,7 @@ option_list = list(
 opt = parse_args(OptionParser(option_list=option_list))
 options(stringsAsFactors = FALSE)
 options(scipen = 999)
-season_vector <- 2016:2022
+season_vector <- opt$s:opt$e
 rebuild <- TRUE
 version = packageVersion("fastRhockey")
 
