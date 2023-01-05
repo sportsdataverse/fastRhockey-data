@@ -1,5 +1,5 @@
-rm(list = ls())
-gc()
+gc <- rm(list = ls())
+gc <- gc()
 lib_path <- Sys.getenv("R_LIBS")
 if (!requireNamespace('pacman', quietly = TRUE)){
   install.packages('pacman',lib=Sys.getenv("R_LIBS"), repos='http://cran.us.r-project.org')
@@ -16,7 +16,7 @@ suppressPackageStartupMessages(suppressMessages(library(glue, lib.loc=lib_path))
 suppressPackageStartupMessages(suppressMessages(library(optparse, lib.loc=lib_path)))
 option_list = list(
   make_option(c("-s", "--start_year"), action="store", default=fastRhockey:::most_recent_nhl_season(), type='integer', help="Start year of the seasons to process"),
-  make_option(c("-e", "--end_year"), action="store", default=fastRhockey:::most_recent_nhl_season(), type='integer', help="End year of the seasons to process")
+  make_option(c("-e", "--end_year"), action="store", default=fastRhockey:::most_recent_nhl_season(), type='integer', help="End year of the seasons to process"),
   make_option(c("-r", "--rescrape"), action="store", default=FALSE, type='logical', help="Rescrape the raw JSON files from web api")
 
 )
@@ -289,7 +289,7 @@ arrow::write_parquet(sched_g %>% dplyr::arrange(desc(.data$game_date)),glue::glu
 arrow::write_parquet(sched_g %>% dplyr::filter(.data$PBP == TRUE) %>% dplyr::arrange(desc(.data$game_date)), 'nhl/nhl_games_in_data_repo.parquet')
 
 
-rm(sched_g)
-rm(sched_list)
-rm(season_vector)
-gc()
+gc <- rm(sched_g)
+gc <- rm(sched_list)
+gc <- rm(season_vector)
+gc <- gc()

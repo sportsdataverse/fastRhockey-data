@@ -1,5 +1,5 @@
-rm(list = ls())
-gc()
+gc <- rm(list = ls())
+gc <- gc()
 lib_path <- Sys.getenv("R_LIBS")
 if (!requireNamespace('pacman', quietly = TRUE)){
   install.packages('pacman',lib=Sys.getenv("R_LIBS"), repos='http://cran.us.r-project.org')
@@ -319,7 +319,7 @@ arrow::write_parquet(sched_g %>% dplyr::arrange(desc(.data$datetime)),glue::glue
 arrow::write_parquet(sched_g %>% dplyr::filter(.data$PBP == TRUE) %>% dplyr::arrange(desc(.data$datetime)), 'phf/phf_games_in_data_repo.parquet')
 
 
-rm(sched_g)
-rm(sched_list)
-rm(season_vector)
-gc()
+gc <- rm(sched_g)
+gc <- rm(sched_list)
+gc <- rm(season_vector)
+gc <- gc()
