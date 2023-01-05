@@ -7,11 +7,11 @@ do
         r) RESCRAPE=${OPTARG};;
     esac
 done
-git pull
-git add .
+git pull > /dev/null
+git add . > /dev/null
 Rscript nhl_daily_scrape.R -s $START_YEAR -e $END_YEAR -r $RESCRAPE
-git add .
-git pull
-git commit -m "NHL Play-by-Play and Schedules update (Start: $START_YEAR End: $END_YEAR)" || echo "No changes to commit"
-git pull
-git push
+git add . > /dev/null
+git pull > /dev/null
+git commit -m "NHL Play-by-Play and Schedules update (Start: $START_YEAR End: $END_YEAR)" > /dev/null || echo "No changes to commit"
+git pull > /dev/null
+git push > /dev/null
