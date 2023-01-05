@@ -17,13 +17,15 @@ suppressPackageStartupMessages(suppressMessages(library(optparse, lib.loc=lib_pa
 option_list = list(
   make_option(c("-s", "--start_year"), action="store", default=fastRhockey:::most_recent_nhl_season(), type='integer', help="Start year of the seasons to process"),
   make_option(c("-e", "--end_year"), action="store", default=fastRhockey:::most_recent_nhl_season(), type='integer', help="End year of the seasons to process")
+  make_option(c("-r", "--rescrape"), action="store", default=FALSE, type='logical', help="Rescrape the raw JSON files from web api")
+
 )
 opt = parse_args(OptionParser(option_list=option_list))
 options(stringsAsFactors = FALSE)
 options(scipen = 999)
 
 season_vector <- opt$s:opt$e
-rebuild <- FALSE
+rebuild <- opt$r
 rebuild_from_existing_json <- FALSE
 scrape_schedules <- TRUE
 version <- packageVersion("fastRhockey")

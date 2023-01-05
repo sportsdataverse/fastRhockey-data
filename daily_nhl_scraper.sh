@@ -9,7 +9,7 @@ do
 done
 git pull
 git add .
-Rscript nhl_daily_scrape.R -s $START_YEAR -e $END_YEAR
+Rscript nhl_daily_scrape.R -s $START_YEAR -e $END_YEAR -r $RESCRAPE
 git add .
 git pull
 git commit -m "NHL Play-by-Play and Schedules update (Start: $START_YEAR End: $END_YEAR)" || echo "No changes to commit"
