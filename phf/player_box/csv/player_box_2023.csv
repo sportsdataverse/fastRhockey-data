@@ -1,4 +1,44 @@
 player_jersey,player_name,position,goals,assists,points,penalty_minutes,plus_minus,shots_on_goal,blocks,giveaways,takeaways,faceoffs_won_lost,faceoffs_win_pct,powerplay_goals,shorthanded_goals,shots,shots_blocked,faceoffs_won,faceoffs_lost,team,skaters_href,player_id,game_id,minutes_played,shots_against,goals_against,saves,save_percent,goalies_href,season
+16,Katerina Mrazova,F,1,1,2,0,2,3,2,0,0,8 - 4,0.667,0,0,3,0,8,4,Connecticut Whale,stats#/player/1231943,1231943,627167,,,,,,,2023
+5,Tori Howran,D,0,1,1,2,3,3,0,0,0,0 - 0,0,0,0,3,0,0,0,Connecticut Whale,stats#/player/1034126,1034126,627167,,,,,,,2023
+6,Shannon Turner,D,0,1,1,0,0,2,3,0,0,0 - 0,0,0,0,2,0,0,0,Connecticut Whale,stats#/player/967608,967608,627167,,,,,,,2023
+14,Justine Reyes,F,1,0,1,0,2,2,0,0,0,0 - 0,0,0,0,2,0,0,0,Connecticut Whale,stats#/player/1231942,1231942,627167,,,,,,,2023
+17,Taylor Girard,F,0,1,1,2,2,2,0,0,0,0 - 0,0,0,0,4,2,0,0,Connecticut Whale,stats#/player/966983,966983,627167,,,,,,,2023
+22,Kennedy Marchment,F,1,0,1,0,1,2,0,0,0,10 - 10,0.5,0,0,3,1,10,10,Connecticut Whale,stats#/player/966985,966985,627167,,,,,,,2023
+8,Alyssa Wohlfeiler,F,0,0,0,0,0,0,0,0,0,0 - 0,0,0,0,0,0,0,0,Connecticut Whale,stats#/player/57768,57768,627167,,,,,,,2023
+9,Tori Sullivan,F,0,0,0,0,0,2,0,0,0,0 - 0,0,0,0,2,0,0,0,Connecticut Whale,stats#/player/431622,431622,627167,,,,,,,2023
+11,Melissa Samoskevich,F,0,0,0,0,1,3,0,0,0,0 - 0,0,0,0,4,1,0,0,Connecticut Whale,stats#/player/1041703,1041703,627167,,,,,,,2023
+12,Allie Munroe,D,0,0,0,0,1,3,0,0,0,0 - 1,0,0,0,3,0,0,1,Connecticut Whale,stats#/player/966982,966982,627167,,,,,,,2023
+15,Emma Vlasic,F,0,0,0,0,0,0,0,0,0,2 - 4,0.333,0,0,0,0,2,4,Connecticut Whale,stats#/player/431646,431646,627167,,,,,,,2023
+18,Hannah Bates,D,0,0,0,2,2,0,0,0,0,0 - 0,0,0,0,0,0,0,0,Connecticut Whale,stats#/player/966984,966984,627167,,,,,,,2023
+21,Emma Keenan,D,0,0,0,0,0,0,1,0,0,0 - 0,0,0,0,0,0,0,0,Connecticut Whale,stats#/player/788423,788423,627167,,,,,,,2023
+24,Janine Weber,F,0,0,0,2,0,1,0,0,0,0 - 0,0,0,0,1,0,0,0,Connecticut Whale,stats#/player/513300,513300,627167,,,,,,,2023
+27,Janka Hlinka,F,0,0,0,0,0,3,0,0,0,0 - 0,0,0,0,4,1,0,0,Connecticut Whale,stats#/player/966992,966992,627167,,,,,,,2023
+47,Lenka Serdar,F,0,0,0,0,0,2,0,0,0,8 - 1,0.889,0,0,2,0,8,1,Connecticut Whale,stats#/player/1231944,1231944,627167,,,,,,,2023
+88,Amanda Conway,F,0,0,0,0,0,0,0,0,0,0 - 0,0,0,0,0,0,0,0,Connecticut Whale,stats#/player/707073,707073,627167,,,,,,,2023
+97,Caitrin Lonergan,F,0,0,0,0,1,3,0,0,0,3 - 2,0.6,0,0,3,0,3,2,Connecticut Whale,stats#/player/1231901,1231901,627167,,,,,,,2023
+2,Samantha Fieseler,D,0,0,0,0,0,0,0,0,0,0 - 0,0,0,0,0,0,0,0,Buffalo Beauts,stats#/player/814845,814845,627167,,,,,,,2023
+8,Iveta Klimášová,F,0,0,0,0,0,1,0,0,0,4 - 2,0.667,0,0,1,0,4,2,Buffalo Beauts,stats#/player/431629,431629,627167,,,,,,,2023
+11,Madi Nichols,F,0,0,0,0,0,0,0,0,0,0 - 0,0,0,0,0,0,0,0,Buffalo Beauts,stats#/player/1259838,1259838,627167,,,,,,,2023
+13,Dominique Kremer,D,0,0,0,0,-1,1,1,0,0,0 - 0,0,0,0,1,0,0,0,Buffalo Beauts,stats#/player/632881,632881,627167,,,,,,,2023
+14,Allison Attea,D,0,0,0,0,-2,0,3,0,0,0 - 0,0,0,0,1,1,0,0,Buffalo Beauts,stats#/player/825330,825330,627167,,,,,,,2023
+16,Emma Nuutinen,F,0,0,0,0,-2,3,0,0,0,0 - 0,0,0,0,4,1,0,0,Buffalo Beauts,stats#/player/1179125,1179125,627167,,,,,,,2023
+17,Cassidy MacPherson,F,0,0,0,0,-2,0,0,0,0,8 - 12,0.4,0,0,1,1,8,12,Buffalo Beauts,stats#/player/431630,431630,627167,,,,,,,2023
+23,Antonia Matzka,D,0,0,0,0,0,0,0,0,0,0 - 0,0,0,0,0,0,0,0,Buffalo Beauts,stats#/player/1179126,1179126,627167,,,,,,,2023
+24,Anjelica Diffendal,F,0,0,0,0,0,0,0,0,0,0 - 0,0,0,0,0,0,0,0,Buffalo Beauts,stats#/player/811831,811831,627167,,,,,,,2023
+34,Claudia Kepler,F,0,0,0,0,-2,0,0,0,0,0 - 0,0,0,0,0,0,0,0,Buffalo Beauts,stats#/player/1020524,1020524,627167,,,,,,,2023
+42,Courtney Maud,F,0,0,0,0,-1,2,0,0,0,1 - 1,0.5,0,0,2,0,1,1,Buffalo Beauts,stats#/player/1159200,1159200,627167,,,,,,,2023
+44,Jenna Suokko,F,0,0,0,0,0,0,0,0,0,0 - 0,0,0,0,0,0,0,0,Buffalo Beauts,stats#/player/828439,828439,627167,,,,,,,2023
+47,Jessica Healey,D,0,0,0,0,0,2,0,0,0,0 - 0,0,0,0,2,0,0,0,Buffalo Beauts,stats#/player/1159201,1159201,627167,,,,,,,2023
+59,Mikyla Grant-Mentis,F,0,0,0,2,0,3,1,0,0,7 - 13,0.35,0,0,3,0,7,13,Buffalo Beauts,stats#/player/532475,532475,627167,,,,,,,2023
+61,Michaela Boyle,F,0,0,0,0,0,1,0,0,0,2 - 2,0.5,0,0,1,0,2,2,Buffalo Beauts,stats#/player/1259840,1259840,627167,,,,,,,2023
+67,Summer-Rae Dobson,F,0,0,0,2,-1,2,0,0,0,0 - 0,0,0,0,3,1,0,0,Buffalo Beauts,stats#/player/1259841,1259841,627167,,,,,,,2023
+77,Whitney Dove,D,0,0,0,0,-2,2,0,0,0,0 - 0,0,0,0,4,2,0,0,Buffalo Beauts,stats#/player/632942,632942,627167,,,,,,,2023
+94,Grace Klienbach,F,0,0,0,2,0,0,0,0,0,0 - 1,0,0,0,0,0,0,1,Buffalo Beauts,stats#/player/827706,827706,627167,,,,,,,2023
+35,Abbie Ives,G,0,0,,0,,,,,,,,,,,,,,Connecticut Whale,,707072,627167,60:00,17,0,17,1,stats#/player/707072,2023
+81,Meeri Raisanen,G,0,0,,0,,,,,,,,,,,,,,Connecticut Whale,,468605,627167,00:00,0,0,0,0,stats#/player/468605,2023
+31,Tera Hofmann,G,0,0,,0,,,,,,,,,,,,,,Buffalo Beauts,,881597,627167,00:00,0,0,0,0,stats#/player/881597,2023
+88,Lovisa Berndtsson,G,0,0,,0,,,,,,,,,,,,,,Buffalo Beauts,,824067,627167,60:00,31,3,28,0.903,stats#/player/824067,2023
 8,Kelly Babstock,F,0,1,1,0,1,6,0,0,0,3 - 5,0.375,0,0,6,0,3,5,Metropolitan Riveters,stats#/player/699761,699761,585659,,,,,,,2023
 12,Ebba Berglund,D,0,1,1,0,0,1,0,0,0,0 - 0,0,0,0,1,0,0,0,Metropolitan Riveters,stats#/player/1194638,1194638,585659,,,,,,,2023
 16,Sarah Bujold,F,1,0,1,4,0,8,0,0,0,4 - 6,0.4,0,0,8,0,4,6,Metropolitan Riveters,stats#/player/1194637,1194637,585659,,,,,,,2023
@@ -110,8 +150,8 @@ player_jersey,player_name,position,goals,assists,points,penalty_minutes,plus_min
 94,Grace Klienbach,F,0,0,0,0,0,0,0,0,0,2 - 3,0.4,0,0,0,0,2,3,Buffalo Beauts,stats#/player/827706,827706,585656,,,,,,,2023
 30,Corinne Schroeder,G,0,0,,0,,,,,,,,,,,,,,Boston Pride,,1389104,585656,60:00,19,0,19,1,stats#/player/1389104,2023
 35,Lovisa Selander,G,0,0,,0,,,,,,,,,,,,,,Boston Pride,,431620,585656,00:00,0,0,0,0,stats#/player/431620,2023
-31,Tera Hofmann,G,0,0,,0,,,,,,,,,,,,,,Buffalo Beauts,,881597,585656,00:00,0,0,0,0,stats#/player/881597,2023
-88,Lovisa Berndtsson,G,0,0,,0,,,,,,,,,,,,,,Buffalo Beauts,,824067,585656,60:00,47,8,39,0.83,stats#/player/824067,2023
+31,Tera Hofmann,G,0,0,,0,,,,,,,,,,,,,,Buffalo Beauts,,881597,585656,12:59,12,2,10,0.833,stats#/player/881597,2023
+88,Lovisa Berndtsson,G,0,0,,0,,,,,,,,,,,,,,Buffalo Beauts,,824067,585656,47:01,35,6,29,0.829,stats#/player/824067,2023
 3,Sarah Forster,D,1,0,1,0,1,1,0,0,0,0 - 0,0,0,0,1,0,0,0,Metropolitan Riveters,stats#/player/1204421,1204421,585655,,,,,,,2023
 8,Kelly Babstock,F,1,0,1,0,-2,3,0,0,0,3 - 2,0.6,0,0,3,0,3,2,Metropolitan Riveters,stats#/player/699761,699761,585655,,,,,,,2023
 15,Minttu Tuominen,D,0,1,1,0,0,3,0,0,0,0 - 0,0,0,0,3,0,0,0,Metropolitan Riveters,stats#/player/1194641,1194641,585655,,,,,,,2023
