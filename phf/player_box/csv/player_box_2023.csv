@@ -116,10 +116,12 @@ player_jersey,player_name,position,goals,assists,points,penalty_minutes,plus_min
 88,Lovisa Berndtsson,G,0,0,,0,,,,,,,,,,,,,,Buffalo Beauts,,824067,585663,00:00,0,0,0,0,stats#/player/824067,2023
 1,Eveliina Makinen,G,0,0,,0,,,,,,,,,,,,,,Metropolitan Riveters,,1194640,585663,00:00,0,0,0,0,stats#/player/1194640,2023
 88,Katie Burt,G,0,0,,0,,,,,,,,,,,,,,Metropolitan Riveters,,1440284,585663,60:00,20,2,18,0.9,stats#/player/1440284,2023
-47,Jessica Healey,D,1,1,2,0,1,3,0,0,0,0 - 0,0,0,0,4,1,0,0,Buffalo Beauts,stats#/player/1159201,1159201,585662,,,,,,,2023
+13,Dominique Kremer,D,0,1,1,0,2,0,3,0,0,0 - 0,0,0,0,0,0,0,0,Buffalo Beauts,stats#/player/632881,632881,585662,,,,,,,2023
 23,Antonia Matzka,D,0,1,1,0,1,0,0,0,0,0 - 0,0,0,0,0,0,0,0,Buffalo Beauts,stats#/player/1179126,1179126,585662,,,,,,,2023
 34,Claudia Kepler,F,1,0,1,0,1,3,0,0,0,0 - 0,0,0,0,3,0,0,0,Buffalo Beauts,stats#/player/1020524,1020524,585662,,,,,,,2023
 42,Courtney Maud,F,1,0,1,2,2,2,0,0,0,0 - 0,0,0,1,2,0,0,0,Buffalo Beauts,stats#/player/1159200,1159200,585662,,,,,,,2023
+44,Jenna Suokko,F,0,1,1,2,1,0,0,0,0,0 - 1,0,0,0,0,0,0,1,Buffalo Beauts,stats#/player/828439,828439,585662,,,,,,,2023
+47,Jessica Healey,D,1,0,1,0,1,3,0,0,0,0 - 0,0,0,0,4,1,0,0,Buffalo Beauts,stats#/player/1159201,1159201,585662,,,,,,,2023
 59,Mikyla Grant-Mentis,F,0,1,1,0,1,1,1,0,0,6 - 11,0.353,0,0,1,0,6,11,Buffalo Beauts,stats#/player/532475,532475,585662,,,,,,,2023
 67,Summer-Rae Dobson,F,0,1,1,0,0,0,0,0,0,0 - 1,0,0,0,0,0,0,1,Buffalo Beauts,stats#/player/1259841,1259841,585662,,,,,,,2023
 77,Whitney Dove,D,1,0,1,2,0,3,1,0,0,0 - 0,0,1,0,3,0,0,0,Buffalo Beauts,stats#/player/632942,632942,585662,,,,,,,2023
@@ -127,12 +129,10 @@ player_jersey,player_name,position,goals,assists,points,penalty_minutes,plus_min
 2,Samantha Fieseler,D,0,0,0,0,0,1,0,0,0,0 - 0,0,0,0,1,0,0,0,Buffalo Beauts,stats#/player/814845,814845,585662,,,,,,,2023
 8,Iveta Klimášová,F,0,0,0,0,-1,0,0,0,0,1 - 4,0.2,0,0,0,0,1,4,Buffalo Beauts,stats#/player/431629,431629,585662,,,,,,,2023
 11,Madi Nichols,F,0,0,0,0,1,0,0,0,0,0 - 0,0,0,0,0,0,0,0,Buffalo Beauts,stats#/player/1259838,1259838,585662,,,,,,,2023
-13,Dominique Kremer,D,0,0,0,0,2,0,3,0,0,0 - 0,0,0,0,0,0,0,0,Buffalo Beauts,stats#/player/632881,632881,585662,,,,,,,2023
 14,Allison Attea,D,0,0,0,2,0,0,1,0,0,0 - 0,0,0,0,0,0,0,0,Buffalo Beauts,stats#/player/825330,825330,585662,,,,,,,2023
 16,Emma Nuutinen,F,0,0,0,0,0,1,0,0,0,0 - 0,0,0,0,2,1,0,0,Buffalo Beauts,stats#/player/1179125,1179125,585662,,,,,,,2023
 17,Cassidy MacPherson,F,0,0,0,0,1,1,2,0,0,11 - 17,0.393,0,0,1,0,11,17,Buffalo Beauts,stats#/player/431630,431630,585662,,,,,,,2023
 24,Anjelica Diffendal,F,0,0,0,0,-1,0,0,0,0,0 - 0,0,0,0,0,0,0,0,Buffalo Beauts,stats#/player/811831,811831,585662,,,,,,,2023
-44,Jenna Suokko,F,0,0,0,2,1,0,0,0,0,0 - 1,0,0,0,0,0,0,1,Buffalo Beauts,stats#/player/828439,828439,585662,,,,,,,2023
 61,Michaela Boyle,F,0,0,0,0,-1,1,2,0,0,0 - 1,0,0,0,1,0,0,1,Buffalo Beauts,stats#/player/1259840,1259840,585662,,,,,,,2023
 8,Kelly Babstock,F,0,1,1,0,1,4,0,0,0,13 - 3,0.813,0,0,5,1,13,3,Metropolitan Riveters,stats#/player/699761,699761,585662,,,,,,,2023
 15,Minttu Tuominen,D,1,0,1,0,0,10,0,0,0,0 - 0,0,0,0,12,2,0,0,Metropolitan Riveters,stats#/player/1194641,1194641,585662,,,,,,,2023
