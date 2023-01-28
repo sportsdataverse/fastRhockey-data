@@ -1,4 +1,6 @@
 team,game_id,winner,total_scoring,successful_power_play,power_play_opportunities,power_play_percent,penalty_minutes,faceoff_percent,blocked_opponent_shots,takeaways,giveaways,period_1_shots,period_2_shots,period_3_shots,overtime_shots,shootout_made_shots,shootout_missed_shots,total_shots,period_1_scoring,period_2_scoring,period_3_scoring,overtime_scoring,shootout_made_scoring,shootout_missed_scoring,season
+mon,585666,FALSE,1,0,2,0,14,0.456,5,0,0,6,4,12,,,,22,0,0,1,,,,2023
+ctw,585666,TRUE,4,2,3,0.667,4,0.544,5,0,0,12,12,9,,,,33,0,2,2,,,,2023
 ctw,612256,TRUE,4,1,5,0.2,12,0.483,12,5,3,10,11,11,,,,32,1,2,1,,,,2023
 tor,612256,FALSE,1,0,6,0,10,0.517,9,3,5,7,11,14,,,,32,0,0,1,,,,2023
 bos,585664,FALSE,1,0,2,0,6,0.353,11,0,0,15,10,8,4,,,37,0,0,1,0,,,2023

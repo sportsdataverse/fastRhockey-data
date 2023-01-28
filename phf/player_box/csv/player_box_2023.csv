@@ -1,4 +1,43 @@
 player_jersey,player_name,position,goals,assists,points,penalty_minutes,plus_minus,shots_on_goal,blocks,giveaways,takeaways,faceoffs_won_lost,faceoffs_win_pct,powerplay_goals,shorthanded_goals,shots,shots_blocked,faceoffs_won,faceoffs_lost,team,skaters_href,player_id,game_id,minutes_played,shots_against,goals_against,saves,save_percent,goalies_href,season
+16,Katerina Mrazova,F,1,1,2,2,2,3,0,0,0,15 - 4,0.79,0,0,4,1,15,4,Connecticut Whale,stats#/player/1231943,1231943,585666,,,,,,,2023
+8,Alyssa Wohlfeiler,F,0,1,1,0,0,3,0,0,0,0 - 0,0,0,0,3,0,0,0,Connecticut Whale,stats#/player/57768,57768,585666,,,,,,,2023
+11,Melissa Samoskevich,F,1,0,1,0,2,5,0,0,0,0 - 0,0,1,0,6,1,0,0,Connecticut Whale,stats#/player/1041703,1041703,585666,,,,,,,2023
+14,Justine Reyes,F,0,1,1,0,2,1,0,0,0,0 - 0,0,0,0,1,0,0,0,Connecticut Whale,stats#/player/1231942,1231942,585666,,,,,,,2023
+17,Taylor Girard,F,0,1,1,2,2,2,0,0,0,0 - 0,0,0,0,3,1,0,0,Connecticut Whale,stats#/player/966983,966983,585666,,,,,,,2023
+22,Kennedy Marchment,F,0,1,1,0,2,5,0,0,0,6 - 10,0.375,0,0,5,0,6,10,Connecticut Whale,stats#/player/966985,966985,585666,,,,,,,2023
+47,Lenka Serdar,F,1,0,1,0,0,3,2,0,0,3 - 6,0.333,1,0,3,0,3,6,Connecticut Whale,stats#/player/1231944,1231944,585666,,,,,,,2023
+97,Caitrin Lonergan,F,1,0,1,0,2,6,0,0,0,6 - 6,0.5,0,0,6,0,6,6,Connecticut Whale,stats#/player/1231901,1231901,585666,,,,,,,2023
+5,Tori Howran,D,0,0,0,0,0,1,2,0,0,0 - 0,0,0,0,2,1,0,0,Connecticut Whale,stats#/player/1478285,1478285,585666,,,,,,,2023
+6,Shannon Turner,D,0,0,0,0,2,0,1,0,0,0 - 0,0,0,0,0,0,0,0,Connecticut Whale,stats#/player/967608,967608,585666,,,,,,,2023
+9,Tori Sullivan,F,0,0,0,0,-1,0,0,0,0,0 - 0,0,0,0,0,0,0,0,Connecticut Whale,stats#/player/431622,431622,585666,,,,,,,2023
+12,Allie Munroe,D,0,0,0,0,2,3,0,0,0,0 - 0,0,0,0,3,0,0,0,Connecticut Whale,stats#/player/966982,966982,585666,,,,,,,2023
+15,Emma Vlasic,F,0,0,0,0,0,0,0,0,0,1 - 0,1,0,0,0,0,1,0,Connecticut Whale,stats#/player/431646,431646,585666,,,,,,,2023
+18,Hannah Bates,D,0,0,0,0,-1,1,0,0,0,0 - 0,0,0,0,1,0,0,0,Connecticut Whale,stats#/player/966984,966984,585666,,,,,,,2023
+21,Emma Keenan,D,0,0,0,0,1,0,0,0,0,0 - 0,0,0,0,1,1,0,0,Connecticut Whale,stats#/player/788423,788423,585666,,,,,,,2023
+24,Janine Weber,F,0,0,0,0,0,0,0,0,0,0 - 0,0,0,0,0,0,0,0,Connecticut Whale,stats#/player/513300,513300,585666,,,,,,,2023
+27,Janka Hlinka,F,0,0,0,0,0,0,0,0,0,0 - 0,0,0,0,0,0,0,0,Connecticut Whale,stats#/player/966992,966992,585666,,,,,,,2023
+88,Amanda Conway,F,0,0,0,0,0,0,0,0,0,0 - 0,0,0,0,0,0,0,0,Connecticut Whale,stats#/player/707073,707073,585666,,,,,,,2023
+13,Alexandra Labelle,F,1,0,1,0,-1,3,0,0,0,10 - 8,0.556,0,0,3,0,10,8,Montreal Force,stats#/player/1262659,1262659,585666,,,,,,,2023
+90,Autumn MacDougall,F,0,1,1,0,0,3,0,0,0,0 - 0,0,0,0,3,0,0,0,Montreal Force,stats#/player/632861,632861,585666,,,,,,,2023
+3,Brooke Stacey,F,0,0,0,0,-1,0,0,0,0,0 - 0,0,0,0,0,0,0,0,Montreal Force,stats#/player/1262495,1262495,585666,,,,,,,2023
+4,Taylor Baker,D,0,0,0,0,-2,1,0,0,0,0 - 0,0,0,0,1,0,0,0,Montreal Force,stats#/player/1405323,1405323,585666,,,,,,,2023
+5,Samantha Isbell,F,0,0,0,0,-1,2,0,0,0,0 - 0,0,0,0,2,0,0,0,Montreal Force,stats#/player/1262492,1262492,585666,,,,,,,2023
+7,Kristina Shanahan,F,0,0,0,2,0,1,0,0,0,0 - 0,0,0,0,1,0,0,0,Montreal Force,stats#/player/1262661,1262661,585666,,,,,,,2023
+8,Kaity Howarth,D,0,0,0,2,-1,0,1,0,0,0 - 0,0,0,0,0,0,0,0,Montreal Force,stats#/player/1262488,1262488,585666,,,,,,,2023
+12,Catherine Daoust,D,0,0,0,0,-3,0,0,0,0,0 - 0,0,0,0,0,0,0,0,Montreal Force,stats#/player/1262664,1262664,585666,,,,,,,2023
+18,Deziray De Sousa,F,0,0,0,5,-1,1,0,0,0,0 - 0,0,0,0,2,1,0,0,Montreal Force,stats#/player/1405445,1405445,585666,,,,,,,2023
+23,Gabrielle De Serres,D,0,0,0,0,1,1,2,0,0,0 - 0,0,0,0,1,0,0,0,Montreal Force,stats#/player/1405324,1405324,585666,,,,,,,2023
+25,Alyssa Holmes,F,0,0,0,0,-2,0,0,0,0,2 - 4,0.333,0,0,0,0,2,4,Montreal Force,stats#/player/1262490,1262490,585666,,,,,,,2023
+26,Brigitte Laganière,D,0,0,0,5,0,2,1,0,0,0 - 0,0,0,0,4,2,0,0,Montreal Force,stats#/player/1262662,1262662,585666,,,,,,,2023
+27,Jade Downie-Landry,F,0,0,0,0,-2,4,0,0,0,14 - 18,0.438,0,0,6,2,14,18,Montreal Force,stats#/player/1262658,1262658,585666,,,,,,,2023
+28,Catherine Dubois,F,0,0,0,0,-1,2,0,0,0,0 - 1,0,0,0,2,0,0,1,Montreal Force,stats#/player/1262663,1262663,585666,,,,,,,2023
+29,Laura Jardin,F,0,0,0,0,0,2,0,0,0,0 - 0,0,0,0,2,0,0,0,Montreal Force,stats#/player/1405447,1405447,585666,,,,,,,2023
+60,Sally Hoerr,D,0,0,0,0,0,0,0,0,0,0 - 0,0,0,0,0,0,0,0,Montreal Force,stats#/player/1405322,1405322,585666,,,,,,,2023
+64,Maude Gelina,F,0,0,0,0,0,0,1,0,0,0 - 0,0,0,0,0,0,0,0,Montreal Force,stats#/player/1426157,1426157,585666,,,,,,,2023
+35,Abbie Ives,G,0,0,,0,,,,,,,,,,,,,,Connecticut Whale,,707072,585666,60:00,22,1,21,0.955,stats#/player/707072,2023
+81,Meeri Raisanen,G,0,0,,0,,,,,,,,,,,,,,Connecticut Whale,,468605,585666,00:00,0,0,0,0,stats#/player/468605,2023
+33,Tricia Deguire,G,0,0,,0,,,,,,,,,,,,,,Montreal Force,,1262666,585666,00:00,0,0,0,0,stats#/player/1262666,2023
+39,Marie-Soleil Deschênes,G,0,0,,0,,,,,,,,,,,,,,Montreal Force,,1262486,585666,58:00,31,2,29,0.935,stats#/player/1262486,2023
 9,Kati Tabin,D,0,1,1,0,1,2,0,0,0,0 - 0,0,0,0,4,2,0,0,Toronto Six,stats#/player/1220085,1220085,612256,,,,,,,2023
 41,Brittany Howard,F,1,0,1,0,0,5,0,0,0,0 - 0,0,0,0,5,0,0,0,Toronto Six,stats#/player/1220073,1220073,612256,,,,,,,2023
 44,Lindsay Eastwood,D,0,1,1,2,0,0,2,0,0,0 - 0,0,0,0,2,2,0,0,Toronto Six,stats#/player/630139,630139,612256,,,,,,,2023
