@@ -1,15 +1,836 @@
 player_jersey,player_name,position,goals,assists,points,penalty_minutes,plus_minus,shots_on_goal,blocks,giveaways,takeaways,faceoffs_won_lost,faceoffs_win_pct,powerplay_goals,shorthanded_goals,shots,shots_blocked,faceoffs_won,faceoffs_lost,team,skaters_href,player_id,game_id,minutes_played,shots_against,goals_against,saves,save_percent,goalies_href,season
+14,Justine Reyes,F,3,0,3,0,2,4,0,0,0,0 - 0,0,1,0,4,0,0,0,Connecticut Whale,stats#/player/1231942,1231942,585687,,,,,,,2023
+17,Taylor Girard,F,2,1,3,2,2,4,1,0,0,1 - 0,1,0,0,5,1,1,0,Connecticut Whale,stats#/player/966983,966983,585687,,,,,,,2023
+11,Melissa Samoskevich,F,0,2,2,0,2,2,0,0,0,0 - 0,0,0,0,2,0,0,0,Connecticut Whale,stats#/player/1041703,1041703,585687,,,,,,,2023
+97,Caitrin Lonergan,F,1,1,2,0,4,7,0,0,0,4 - 7,0.364,0,0,8,1,4,7,Connecticut Whale,stats#/player/1231901,1231901,585687,,,,,,,2023
+21,Emma Keenan,D,0,1,1,5,2,2,0,0,0,0 - 0,0,0,0,3,1,0,0,Connecticut Whale,stats#/player/788423,788423,585687,,,,,,,2023
+22,Kennedy Marchment,F,0,1,1,0,-1,2,0,0,0,1 - 3,0.25,0,0,2,0,1,3,Connecticut Whale,stats#/player/966985,966985,585687,,,,,,,2023
+47,Lenka Serdar,F,0,1,1,0,1,1,0,0,0,4 - 11,0.267,0,0,1,0,4,11,Connecticut Whale,stats#/player/1231944,1231944,585687,,,,,,,2023
+5,Tori Howran,D,0,0,0,2,1,1,0,0,0,0 - 0,0,0,0,2,1,0,0,Connecticut Whale,stats#/player/1478285,1478285,585687,,,,,,,2023
+6,Shannon Turner,D,0,0,0,0,1,0,0,0,0,0 - 0,0,0,0,0,0,0,0,Connecticut Whale,stats#/player/967608,967608,585687,,,,,,,2023
+7,Rachel Ade,F,0,0,0,0,2,0,0,0,0,0 - 0,0,0,0,1,1,0,0,Connecticut Whale,stats#/player/468608,468608,585687,,,,,,,2023
+8,Alyssa Wohlfeiler,F,0,0,0,2,2,3,0,0,0,8 - 9,0.471,0,0,3,0,8,9,Connecticut Whale,stats#/player/57768,57768,585687,,,,,,,2023
+9,Tori Sullivan,F,0,0,0,0,0,1,0,0,0,0 - 0,0,0,0,1,0,0,0,Connecticut Whale,stats#/player/431622,431622,585687,,,,,,,2023
+12,Allie Munroe,D,0,0,0,0,0,0,0,0,0,0 - 0,0,0,0,2,2,0,0,Connecticut Whale,stats#/player/966982,966982,585687,,,,,,,2023
+15,Emma Vlasic,F,0,0,0,0,0,1,1,0,0,4 - 4,0.5,0,0,1,0,4,4,Connecticut Whale,stats#/player/431646,431646,585687,,,,,,,2023
+18,Hannah Bates,D,0,0,0,0,0,0,0,0,0,0 - 0,0,0,0,2,2,0,0,Connecticut Whale,stats#/player/966984,966984,585687,,,,,,,2023
+24,Janine Weber,F,0,0,0,0,0,0,0,0,0,0 - 0,0,0,0,0,0,0,0,Connecticut Whale,stats#/player/513300,513300,585687,,,,,,,2023
+27,Janka Hlinka,F,0,0,0,2,0,0,1,0,0,0 - 0,0,0,0,0,0,0,0,Connecticut Whale,stats#/player/966992,966992,585687,,,,,,,2023
+88,Amanda Conway,F,0,0,0,0,0,2,0,0,0,0 - 0,0,0,0,2,0,0,0,Connecticut Whale,stats#/player/707073,707073,585687,,,,,,,2023
+14,Madison Packer,F,1,1,2,0,0,5,0,0,0,0 - 0,0,1,0,5,0,0,0,Metropolitan Riveters,stats#/player/966106,966106,585687,,,,,,,2023
+15,Minttu Tuominen,D,1,1,2,0,0,2,0,0,0,0 - 0,0,0,0,3,1,0,0,Metropolitan Riveters,stats#/player/1194641,1194641,585687,,,,,,,2023
+16,Sarah Bujold,F,0,1,1,2,0,3,1,0,0,16 - 2,0.889,0,0,3,0,16,2,Metropolitan Riveters,stats#/player/1194637,1194637,585687,,,,,,,2023
+21,Amanda Pelkey,F,0,1,1,0,1,4,1,0,0,3 - 3,0.5,0,0,4,0,3,3,Metropolitan Riveters,stats#/player/1194634,1194634,585687,,,,,,,2023
+22,Emilie Harley,D,1,0,1,0,-1,2,1,0,0,0 - 0,0,1,0,3,1,0,0,Metropolitan Riveters,stats#/player/1194650,1194650,585687,,,,,,,2023
+77,Kennedy Ganser,F,0,1,1,0,1,3,2,0,0,7 - 8,0.467,0,0,3,0,7,8,Metropolitan Riveters,stats#/player/1194649,1194649,585687,,,,,,,2023
+94,Fanni Garát-Gasparics,F,0,1,1,0,-1,2,0,0,0,0 - 0,0,0,0,2,0,0,0,Metropolitan Riveters,stats#/player/1396884,1396884,585687,,,,,,,2023
+3,Sarah Forster,D,0,0,0,0,-3,0,0,0,0,0 - 0,0,0,0,0,0,0,0,Metropolitan Riveters,stats#/player/1204421,1204421,585687,,,,,,,2023
+5,Anna Kilponen,D,0,0,0,0,0,0,0,0,0,0 - 0,0,0,0,0,0,0,0,Metropolitan Riveters,stats#/player/1194645,1194645,585687,,,,,,,2023
+8,Kelly Babstock,F,0,0,0,4,0,1,0,0,0,2 - 2,0.5,0,0,1,0,2,2,Metropolitan Riveters,stats#/player/699761,699761,585687,,,,,,,2023
+9,Kaycie Anderson,F,0,0,0,0,-1,0,0,0,0,0 - 0,0,0,0,0,0,0,0,Metropolitan Riveters,stats#/player/1194646,1194646,585687,,,,,,,2023
+10,Kendall Cornine,F,0,0,0,0,-2,0,0,0,0,0 - 0,0,0,0,0,0,0,0,Metropolitan Riveters,stats#/player/431650,431650,585687,,,,,,,2023
+12,Ebba Berglund,D,0,0,0,0,-2,0,1,0,0,0 - 0,0,0,0,1,1,0,0,Metropolitan Riveters,stats#/player/1194638,1194638,585687,,,,,,,2023
+13,Hayley Lunny,F,0,0,0,0,-1,3,0,0,0,0 - 0,0,0,0,3,0,0,0,Metropolitan Riveters,stats#/player/1509093,1509093,585687,,,,,,,2023
+18,Reagan Rust,D,0,0,0,2,-2,0,1,0,0,6 - 6,0.5,0,0,0,0,6,6,Metropolitan Riveters,stats#/player/1396886,1396886,585687,,,,,,,2023
+28,Leah Marino,F,0,0,0,0,0,0,1,0,0,0 - 0,0,0,0,0,0,0,0,Metropolitan Riveters,stats#/player/1220794,1220794,585687,,,,,,,2023
+44,Taylor Marchin,D,0,0,0,0,-3,1,0,0,0,0 - 0,0,0,0,1,0,0,0,Metropolitan Riveters,stats#/player/1194642,1194642,585687,,,,,,,2023
+97,Catherine Crawley,F,0,0,0,0,0,0,1,0,0,0 - 1,0,0,0,0,0,0,1,Metropolitan Riveters,stats#/player/1220795,1220795,585687,,,,,,,2023
+35,Abbie Ives,G,0,0,,0,,,,,,,,,,,,,,Connecticut Whale,,707072,585687,60:00,26,3,23,0.885,stats#/player/707072,2023
+81,Meeri Raisanen,G,0,0,,0,,,,,,,,,,,,,,Connecticut Whale,,468605,585687,00:00,0,0,0,0,stats#/player/468605,2023
+33,Rachel McQuigge,G,0,0,,0,,,,,,,,,,,,,,Metropolitan Riveters,,1194647,585687,60:00,30,6,24,0.8,stats#/player/1194647,2023
+88,Katie Burt,G,0,0,,0,,,,,,,,,,,,,,Metropolitan Riveters,,1440284,585687,00:00,0,0,0,0,stats#/player/1440284,2023
+5,Sidney Morin,D,0,1,1,0,-2,2,1,0,0,0 - 0,0,0,0,2,0,0,0,Minnesota Whitecaps,stats#/player/1373227,1373227,585686,,,,,,,2023
+8,Natalie Snodgrass,F,1,0,1,0,-1,3,0,0,0,0 - 0,0,0,0,4,1,0,0,Minnesota Whitecaps,stats#/player/1373230,1373230,585686,,,,,,,2023
+21,Liz Schepers,F,0,1,1,0,-3,2,0,0,0,13 - 7,0.65,0,0,2,0,13,7,Minnesota Whitecaps,stats#/player/1373235,1373235,585686,,,,,,,2023
+3,Jonna Albers,F,0,0,0,0,-1,2,0,0,0,0 - 2,0,0,0,2,0,0,2,Minnesota Whitecaps,stats#/player/1373270,1373270,585686,,,,,,,2023
+6,Brooke Madsen,F,0,0,0,0,0,2,0,0,0,0 - 0,0,0,0,2,0,0,0,Minnesota Whitecaps,stats#/player/1373228,1373228,585686,,,,,,,2023
+9,Sydney Baldwin,D,0,0,0,4,1,2,1,0,0,0 - 0,0,0,0,2,0,0,0,Minnesota Whitecaps,stats#/player/1086275,1086275,585686,,,,,,,2023
+10,Ronja Mogren,F,0,0,0,0,0,0,0,0,0,0 - 1,0,0,0,0,0,0,1,Minnesota Whitecaps,stats#/player/1373231,1373231,585686,,,,,,,2023
+11,Brittyn Fleming,F,0,0,0,0,-1,2,0,0,0,3 - 4,0.429,0,0,2,0,3,4,Minnesota Whitecaps,stats#/player/1373232,1373232,585686,,,,,,,2023
+13,Ashleigh Brykaliuk,F,0,0,0,0,-3,1,0,0,0,5 - 13,0.278,0,0,1,0,5,13,Minnesota Whitecaps,stats#/player/949961,949961,585686,,,,,,,2023
+14,Sydney Brodt,F,0,0,0,0,-3,3,0,0,0,1 - 3,0.25,0,0,3,0,1,3,Minnesota Whitecaps,stats#/player/1445700,1445700,585686,,,,,,,2023
+16,Taylor Wente,F,0,0,0,0,0,1,0,0,0,7 - 2,0.778,0,0,1,0,7,2,Minnesota Whitecaps,stats#/player/1513122,1513122,585686,,,,,,,2023
+18,Stephanie Anderson,F,0,0,0,0,-2,1,1,0,0,1 - 1,0.5,0,0,1,0,1,1,Minnesota Whitecaps,stats#/player/431659,431659,585686,,,,,,,2023
+19,Anna Klein,F,0,0,0,0,-3,0,0,0,0,0 - 0,0,0,0,0,0,0,0,Minnesota Whitecaps,stats#/player/1373234,1373234,585686,,,,,,,2023
+24,Olivia Knowles,D,0,0,0,0,-2,0,0,0,0,0 - 0,0,0,0,0,0,0,0,Minnesota Whitecaps,stats#/player/1373236,1373236,585686,,,,,,,2023
+27,Patti Marshall,D,0,0,0,0,-4,0,0,0,0,0 - 0,0,0,0,0,0,0,0,Minnesota Whitecaps,stats#/player/949970,949970,585686,,,,,,,2023
+28,Amanda Boulier,D,0,0,0,0,-4,0,1,0,0,0 - 0,0,0,0,1,1,0,0,Minnesota Whitecaps,stats#/player/431662,431662,585686,,,,,,,2023
+33,Maddie Rowe,D,0,0,0,2,-1,0,0,0,0,0 - 0,0,0,0,0,0,0,0,Minnesota Whitecaps,stats#/player/707198,707198,585686,,,,,,,2023
+41,Denisa Krizova,F,0,0,0,2,-1,2,0,0,0,0 - 1,0,0,0,2,0,0,1,Minnesota Whitecaps,stats#/player/1373245,1373245,585686,,,,,,,2023
+86,Michela Cava,F,1,2,3,0,4,2,0,0,0,0 - 0,0,0,0,2,0,0,0,Toronto Six,stats#/player/963636,963636,585686,,,,,,,2023
+4,Daryl Watts,F,0,2,2,0,2,2,0,0,0,0 - 0,0,0,0,2,0,0,0,Toronto Six,stats#/player/1478103,1478103,585686,,,,,,,2023
+21,Tereza Vanišová,F,2,0,2,2,1,6,0,0,0,0 - 0,0,0,0,6,0,0,0,Toronto Six,stats#/player/627752,627752,585686,,,,,,,2023
+27,Shiann Darkangelo,F,2,0,2,0,2,6,0,0,0,11 - 7,0.611,0,0,6,0,11,7,Toronto Six,stats#/player/542419,542419,585686,,,,,,,2023
+44,Lindsay Eastwood,D,0,2,2,2,3,1,0,0,0,0 - 0,0,0,0,1,0,0,0,Toronto Six,stats#/player/630139,630139,585686,,,,,,,2023
+2,Taylor Woods,D,0,1,1,0,2,0,0,0,0,0 - 0,0,0,0,0,0,0,0,Toronto Six,stats#/player/542421,542421,585686,,,,,,,2023
+8,Leah Lum,F,0,1,1,0,1,1,0,0,0,0 - 0,0,0,0,1,0,0,0,Toronto Six,stats#/player/1269506,1269506,585686,,,,,,,2023
+9,Kati Tabin,D,0,1,1,0,4,1,0,0,0,0 - 0,0,0,0,1,0,0,0,Toronto Six,stats#/player/1220085,1220085,585686,,,,,,,2023
+10,Lexi Templeman,F,1,0,1,0,1,1,0,0,0,5 - 8,0.385,0,0,1,0,5,8,Toronto Six,stats#/player/1220078,1220078,585686,,,,,,,2023
+20,Taylor Davison,D,0,1,1,2,1,4,0,0,0,0 - 0,0,0,0,4,0,0,0,Toronto Six,stats#/player/881569,881569,585686,,,,,,,2023
+41,Brittany Howard,F,0,1,1,0,3,5,0,0,0,1 - 0,1,0,0,7,2,1,0,Toronto Six,stats#/player/1220073,1220073,585686,,,,,,,2023
+67,Emma Woods,F,0,1,1,0,1,3,0,0,0,0 - 0,0,0,0,3,0,0,0,Toronto Six,stats#/player/630149,630149,585686,,,,,,,2023
+71,Saroya Tinker,D,0,1,1,0,2,0,1,0,0,0 - 0,0,0,0,0,0,0,0,Toronto Six,stats#/player/879727,879727,585686,,,,,,,2023
+96,Dominika Lásková,D,1,0,1,0,1,2,0,0,0,7 - 6,0.539,0,0,3,1,7,6,Toronto Six,stats#/player/1234871,1234871,585686,,,,,,,2023
+11,Breanne Wilson-Bennett,F,0,0,0,0,1,0,0,0,0,10 - 9,0.526,0,0,0,0,10,9,Toronto Six,stats#/player/630148,630148,585686,,,,,,,2023
+14,Courtney Gardiner,F,0,0,0,2,0,2,0,0,0,0 - 0,0,0,0,2,0,0,0,Toronto Six,stats#/player/1220094,1220094,585686,,,,,,,2023
+19,Brooke Boquist,F,0,0,0,0,0,0,0,0,0,0 - 0,0,0,0,0,0,0,0,Toronto Six,stats#/player/543984,543984,585686,,,,,,,2023
+25,Emma Greco,D,0,0,0,2,1,4,1,0,0,0 - 0,0,0,0,5,1,0,0,Toronto Six,stats#/player/542420,542420,585686,,,,,,,2023
+35,Jenna Brenneman,G,0,0,,2,,,,,,,,,,,,,,Minnesota Whitecaps,,977772,585686,60:00,40,7,33,0.825,stats#/player/977772,2023
+39,Chantal Burke,G,0,0,,0,,,,,,,,,,,,,,Minnesota Whitecaps,,1513123,585686,00:00,0,0,0,0,stats#/player/1513123,2023
+29,Elaine Chuli,G,0,0,,0,,,,,,,,,,,,,,Toronto Six,,542418,585686,00:00,0,0,0,0,stats#/player/542418,2023
+70,Carly Jackson,G,0,0,,0,,,,,,,,,,,,,,Toronto Six,,1220081,585686,60:00,23,1,22,0.957,stats#/player/1220081,2023
+7,Kristina Shanahan,F,1,1,2,0,0,3,0,0,0,0 - 0,0,0,0,3,0,0,0,Montreal Force,stats#/player/1262661,1262661,585685,,,,,,,2023
+13,Alexandra Labelle,F,0,2,2,0,0,3,0,0,0,12 - 4,0.75,0,0,3,0,12,4,Montreal Force,stats#/player/1262659,1262659,585685,,,,,,,2023
+16,Sarah Lefort,F,2,0,2,2,0,4,0,0,0,0 - 0,0,0,0,4,0,0,0,Montreal Force,stats#/player/1262660,1262660,585685,,,,,,,2023
+24,Ann-Sophie Bettez,F,0,2,2,0,0,1,0,0,0,0 - 0,0,0,0,1,0,0,0,Montreal Force,stats#/player/1492453,1492453,585685,,,,,,,2023
+27,Jade Downie-Landry,F,2,0,2,0,0,5,0,0,0,9 - 9,0.5,0,0,5,0,9,9,Montreal Force,stats#/player/1262658,1262658,585685,,,,,,,2023
+4,Taylor Baker,D,0,1,1,2,0,2,0,0,0,0 - 0,0,0,0,2,0,0,0,Montreal Force,stats#/player/1405323,1405323,585685,,,,,,,2023
+5,Samantha Isbell,F,0,1,1,2,0,2,0,0,0,0 - 0,0,0,0,3,1,0,0,Montreal Force,stats#/player/1262492,1262492,585685,,,,,,,2023
+23,Gabrielle De Serres,D,0,1,1,0,0,4,1,0,0,0 - 0,0,0,0,4,0,0,0,Montreal Force,stats#/player/1405324,1405324,585685,,,,,,,2023
+25,Alyssa Holmes,F,1,0,1,0,0,1,0,0,0,5 - 7,0.417,0,0,1,0,5,7,Montreal Force,stats#/player/1262490,1262490,585685,,,,,,,2023
+29,Laura Jardin,F,0,1,1,0,0,0,0,0,0,0 - 0,0,0,0,0,0,0,0,Montreal Force,stats#/player/1405447,1405447,585685,,,,,,,2023
+3,Brooke Stacey,F,0,0,0,0,0,1,0,0,0,0 - 0,0,0,0,1,0,0,0,Montreal Force,stats#/player/1262495,1262495,585685,,,,,,,2023
+9,Kim Deschênes,F,0,0,0,0,0,2,1,0,0,0 - 0,0,0,0,2,0,0,0,Montreal Force,stats#/player/1262657,1262657,585685,,,,,,,2023
+12,Catherine Daoust,D,0,0,0,0,0,3,1,0,0,0 - 0,0,0,0,3,0,0,0,Montreal Force,stats#/player/1262664,1262664,585685,,,,,,,2023
+17,Christine Deaudelin,D,0,0,0,0,0,3,0,0,0,0 - 0,0,0,0,5,2,0,0,Montreal Force,stats#/player/1262665,1262665,585685,,,,,,,2023
+26,Brigitte Laganière,D,0,0,0,2,0,4,0,0,0,0 - 0,0,0,0,4,0,0,0,Montreal Force,stats#/player/1262662,1262662,585685,,,,,,,2023
+28,Catherine Dubois,F,0,0,0,0,0,1,0,0,0,7 - 10,0.412,0,0,1,0,7,10,Montreal Force,stats#/player/1262663,1262663,585685,,,,,,,2023
+60,Sally Hoerr,D,0,0,0,0,0,0,0,0,0,0 - 0,0,0,0,0,0,0,0,Montreal Force,stats#/player/1405322,1405322,585685,,,,,,,2023
+90,Autumn MacDougall,F,0,0,0,0,0,0,0,0,0,0 - 0,0,0,0,0,0,0,0,Montreal Force,stats#/player/632861,632861,585685,,,,,,,2023
+4,Maggie Knott,F,0,1,1,0,0,0,0,0,0,1 - 0,1,0,0,0,0,1,0,Buffalo Beauts,stats#/player/1499233,1499233,585685,,,,,,,2023
+9,Kristina Schuler,F,0,1,1,0,0,0,0,0,0,0 - 0,0,0,0,0,0,0,0,Buffalo Beauts,stats#/player/1522428,1522428,585685,,,,,,,2023
+42,Courtney Maud,F,0,1,1,0,0,2,0,0,0,0 - 0,0,0,0,3,1,0,0,Buffalo Beauts,stats#/player/1159200,1159200,585685,,,,,,,2023
+59,Mikyla Grant-Mentis,F,1,0,1,2,0,5,0,0,0,14 - 11,0.56,0,0,5,0,14,11,Buffalo Beauts,stats#/player/532475,532475,585685,,,,,,,2023
+77,Whitney Dove,D,1,0,1,0,0,3,0,0,0,0 - 0,0,0,0,3,0,0,0,Buffalo Beauts,stats#/player/632942,632942,585685,,,,,,,2023
+2,Samantha Fieseler,D,0,0,0,0,0,1,0,0,0,0 - 0,0,0,0,1,0,0,0,Buffalo Beauts,stats#/player/814845,814845,585685,,,,,,,2023
+10,Maddie Truax,D,0,0,0,0,0,1,0,0,0,0 - 0,0,0,0,1,0,0,0,Buffalo Beauts,stats#/player/1259837,1259837,585685,,,,,,,2023
+11,Madi Nichols,F,0,0,0,0,0,1,0,0,0,0 - 0,0,0,0,1,0,0,0,Buffalo Beauts,stats#/player/1259838,1259838,585685,,,,,,,2023
+13,Dominique Kremer,D,0,0,0,2,0,1,2,0,0,0 - 0,0,0,0,1,0,0,0,Buffalo Beauts,stats#/player/632881,632881,585685,,,,,,,2023
+16,Emma Nuutinen,F,0,0,0,2,0,4,1,0,0,0 - 0,0,0,0,4,0,0,0,Buffalo Beauts,stats#/player/1179125,1179125,585685,,,,,,,2023
+17,Cassidy MacPherson,F,0,0,0,0,0,1,0,0,0,11 - 16,0.407,0,0,2,1,11,16,Buffalo Beauts,stats#/player/431630,431630,585685,,,,,,,2023
+23,Antonia Matzka,D,0,0,0,0,0,1,0,0,0,0 - 0,0,0,0,2,1,0,0,Buffalo Beauts,stats#/player/1179126,1179126,585685,,,,,,,2023
+24,Anjelica Diffendal,F,0,0,0,0,0,0,0,0,0,0 - 0,0,0,0,0,0,0,0,Buffalo Beauts,stats#/player/811831,811831,585685,,,,,,,2023
+34,Claudia Kepler,F,0,0,0,0,0,1,0,0,0,0 - 0,0,0,0,1,0,0,0,Buffalo Beauts,stats#/player/1020524,1020524,585685,,,,,,,2023
+44,Jenna Suokko,F,0,0,0,0,0,0,0,0,0,0 - 1,0,0,0,0,0,0,1,Buffalo Beauts,stats#/player/828439,828439,585685,,,,,,,2023
+47,Jessica Healey,D,0,0,0,0,0,3,0,0,0,0 - 0,0,0,0,3,0,0,0,Buffalo Beauts,stats#/player/1159201,1159201,585685,,,,,,,2023
+67,Summer-Rae Dobson,F,0,0,0,2,0,4,0,0,0,2 - 2,0.5,0,0,4,0,2,2,Buffalo Beauts,stats#/player/1259841,1259841,585685,,,,,,,2023
+94,Grace Klienbach,F,0,0,0,0,0,0,0,0,0,2 - 3,0.4,0,0,0,0,2,3,Buffalo Beauts,stats#/player/827706,827706,585685,,,,,,,2023
+33,Tricia Deguire,G,0,1,,0,,,,,,,,,,,,,,Montreal Force,,1262666,585685,60:00,28,2,26,0.929,stats#/player/1262666,2023
+39,Marie-Soleil Deschênes,G,0,0,,0,,,,,,,,,,,,,,Montreal Force,,1262486,585685,00:00,0,0,0,0,stats#/player/1262486,2023
+35,Samantha Ridgewell,G,0,0,,0,,,,,,,,,,,,,,Buffalo Beauts,,543985,585685,60:00,39,6,33,0.846,stats#/player/543985,2023
+88,Lovisa Berndtsson,G,0,0,,0,,,,,,,,,,,,,,Buffalo Beauts,,824067,585685,00:00,0,0,0,0,stats#/player/824067,2023
+9,Kim Deschênes,F,0,1,1,0,0,4,0,0,0,0 - 0,0,0,0,4,0,0,0,Montreal Force,stats#/player/1262657,1262657,585683,,,,,,,2023
+24,Ann-Sophie Bettez,F,0,1,1,0,0,2,0,0,0,0 - 0,0,0,0,2,0,0,0,Montreal Force,stats#/player/1492453,1492453,585683,,,,,,,2023
+27,Jade Downie-Landry,F,1,0,1,0,0,3,1,0,0,13 - 9,0.591,1,0,3,0,13,9,Montreal Force,stats#/player/1262658,1262658,585683,,,,,,,2023
+3,Brooke Stacey,F,0,0,0,0,0,0,0,0,0,0 - 0,0,0,0,0,0,0,0,Montreal Force,stats#/player/1262495,1262495,585683,,,,,,,2023
+4,Taylor Baker,D,0,0,0,0,0,2,0,0,0,0 - 0,0,0,0,2,0,0,0,Montreal Force,stats#/player/1405323,1405323,585683,,,,,,,2023
+5,Samantha Isbell,F,0,0,0,2,0,2,0,0,0,0 - 0,0,0,0,2,0,0,0,Montreal Force,stats#/player/1262492,1262492,585683,,,,,,,2023
+7,Kristina Shanahan,F,0,0,0,0,0,1,1,0,0,0 - 0,0,0,0,1,0,0,0,Montreal Force,stats#/player/1262661,1262661,585683,,,,,,,2023
+12,Catherine Daoust,D,0,0,0,0,0,1,1,0,0,0 - 0,0,0,0,2,1,0,0,Montreal Force,stats#/player/1262664,1262664,585683,,,,,,,2023
+13,Alexandra Labelle,F,0,0,0,4,0,3,1,0,0,13 - 10,0.565,0,0,4,1,13,10,Montreal Force,stats#/player/1262659,1262659,585683,,,,,,,2023
+16,Sarah Lefort,F,0,0,0,2,0,2,0,0,0,0 - 0,0,0,0,2,0,0,0,Montreal Force,stats#/player/1262660,1262660,585683,,,,,,,2023
+17,Christine Deaudelin,D,0,0,0,0,0,7,0,0,0,0 - 0,0,0,0,11,4,0,0,Montreal Force,stats#/player/1262665,1262665,585683,,,,,,,2023
+23,Gabrielle De Serres,D,0,0,0,0,0,0,0,0,0,0 - 0,0,0,0,1,1,0,0,Montreal Force,stats#/player/1405324,1405324,585683,,,,,,,2023
+25,Alyssa Holmes,F,0,0,0,0,0,1,0,0,0,2 - 4,0.333,0,0,1,0,2,4,Montreal Force,stats#/player/1262490,1262490,585683,,,,,,,2023
+26,Brigitte Laganière,D,0,0,0,2,0,2,3,0,0,0 - 0,0,0,0,3,1,0,0,Montreal Force,stats#/player/1262662,1262662,585683,,,,,,,2023
+28,Catherine Dubois,F,0,0,0,2,0,2,0,0,0,9 - 6,0.6,0,0,3,1,9,6,Montreal Force,stats#/player/1262663,1262663,585683,,,,,,,2023
+29,Laura Jardin,F,0,0,0,0,0,1,0,0,0,0 - 0,0,0,0,1,0,0,0,Montreal Force,stats#/player/1405447,1405447,585683,,,,,,,2023
+60,Sally Hoerr,D,0,0,0,0,0,0,0,0,0,0 - 0,0,0,0,0,0,0,0,Montreal Force,stats#/player/1405322,1405322,585683,,,,,,,2023
+90,Autumn MacDougall,F,0,0,0,0,0,0,0,0,0,0 - 0,0,0,0,0,0,0,0,Montreal Force,stats#/player/632861,632861,585683,,,,,,,2023
+59,Mikyla Grant-Mentis,F,2,0,2,0,0,5,1,0,0,10 - 13,0.435,0,1,5,0,10,13,Buffalo Beauts,stats#/player/532475,532475,585683,,,,,,,2023
+9,Kristina Schuler,F,1,0,1,2,0,1,0,0,0,0 - 0,0,0,0,2,1,0,0,Buffalo Beauts,stats#/player/1522428,1522428,585683,,,,,,,2023
+11,Madi Nichols,F,0,1,1,0,0,1,1,0,0,0 - 0,0,0,0,1,0,0,0,Buffalo Beauts,stats#/player/1259838,1259838,585683,,,,,,,2023
+13,Dominique Kremer,D,0,1,1,0,0,1,1,0,0,0 - 0,0,0,0,1,0,0,0,Buffalo Beauts,stats#/player/632881,632881,585683,,,,,,,2023
+42,Courtney Maud,F,0,1,1,0,0,2,0,0,0,0 - 0,0,0,0,2,0,0,0,Buffalo Beauts,stats#/player/1159200,1159200,585683,,,,,,,2023
+47,Jessica Healey,D,0,1,1,0,0,2,0,0,0,3 - 2,0.6,0,0,2,0,3,2,Buffalo Beauts,stats#/player/1159201,1159201,585683,,,,,,,2023
+67,Summer-Rae Dobson,F,0,1,1,0,0,2,0,0,0,1 - 1,0.5,0,0,2,0,1,1,Buffalo Beauts,stats#/player/1259841,1259841,585683,,,,,,,2023
+2,Samantha Fieseler,D,0,0,0,0,0,0,1,0,0,0 - 0,0,0,0,0,0,0,0,Buffalo Beauts,stats#/player/814845,814845,585683,,,,,,,2023
+4,Maggie Knott,F,0,0,0,0,0,0,1,0,0,2 - 4,0.333,0,0,0,0,2,4,Buffalo Beauts,stats#/player/1499233,1499233,585683,,,,,,,2023
+10,Maddie Truax,D,0,0,0,4,0,1,0,0,0,0 - 0,0,0,0,2,1,0,0,Buffalo Beauts,stats#/player/1259837,1259837,585683,,,,,,,2023
+16,Emma Nuutinen,F,0,0,0,0,0,1,1,0,0,0 - 0,0,0,0,1,0,0,0,Buffalo Beauts,stats#/player/1179125,1179125,585683,,,,,,,2023
+17,Cassidy MacPherson,F,0,0,0,2,0,2,0,0,0,9 - 13,0.409,0,0,2,0,9,13,Buffalo Beauts,stats#/player/431630,431630,585683,,,,,,,2023
+23,Antonia Matzka,D,0,0,0,0,0,1,1,0,0,0 - 0,0,0,0,2,1,0,0,Buffalo Beauts,stats#/player/1179126,1179126,585683,,,,,,,2023
+24,Anjelica Diffendal,F,0,0,0,0,0,2,0,0,0,0 - 1,0,0,0,2,0,0,1,Buffalo Beauts,stats#/player/811831,811831,585683,,,,,,,2023
+34,Claudia Kepler,F,0,0,0,2,0,3,0,0,0,0 - 0,0,0,0,4,1,0,0,Buffalo Beauts,stats#/player/1020524,1020524,585683,,,,,,,2023
+44,Jenna Suokko,F,0,0,0,0,0,0,0,0,0,0 - 0,0,0,0,0,0,0,0,Buffalo Beauts,stats#/player/828439,828439,585683,,,,,,,2023
+77,Whitney Dove,D,0,0,0,2,0,2,1,0,0,0 - 0,0,0,0,6,4,0,0,Buffalo Beauts,stats#/player/632942,632942,585683,,,,,,,2023
+94,Grace Klienbach,F,0,0,0,0,0,1,0,0,0,4 - 3,0.571,0,0,1,0,4,3,Buffalo Beauts,stats#/player/827706,827706,585683,,,,,,,2023
+33,Tricia Deguire,G,0,0,,0,,,,,,,,,,,,,,Montreal Force,,1262666,585683,60:00,27,3,24,0.889,stats#/player/1262666,2023
+39,Marie-Soleil Deschênes,G,0,0,,0,,,,,,,,,,,,,,Montreal Force,,1262486,585683,00:00,0,0,0,0,stats#/player/1262486,2023
+35,Samantha Ridgewell,G,0,0,,0,,,,,,,,,,,,,,Buffalo Beauts,,543985,585683,60:00,33,1,32,0.97,stats#/player/543985,2023
+88,Lovisa Berndtsson,G,0,0,,0,,,,,,,,,,,,,,Buffalo Beauts,,824067,585683,00:00,0,0,0,0,stats#/player/824067,2023
+3,Jonna Albers,F,0,0,0,0,0,5,0,0,0,0 - 1,0,0,0,5,0,0,1,Minnesota Whitecaps,stats#/player/1373270,1373270,585684,,,,,,,2023
+5,Sidney Morin,D,0,0,0,0,-1,3,1,0,0,0 - 0,0,0,0,4,1,0,0,Minnesota Whitecaps,stats#/player/1373227,1373227,585684,,,,,,,2023
+6,Brooke Madsen,F,0,0,0,0,0,1,0,0,0,0 - 0,0,0,0,2,1,0,0,Minnesota Whitecaps,stats#/player/1373228,1373228,585684,,,,,,,2023
+8,Natalie Snodgrass,F,0,0,0,0,0,6,0,0,0,0 - 0,0,0,0,6,0,0,0,Minnesota Whitecaps,stats#/player/1373230,1373230,585684,,,,,,,2023
+9,Sydney Baldwin,D,0,0,0,0,0,4,0,0,0,0 - 0,0,0,0,4,0,0,0,Minnesota Whitecaps,stats#/player/1086275,1086275,585684,,,,,,,2023
+10,Ronja Mogren,F,0,0,0,0,0,1,0,0,0,0 - 0,0,0,0,1,0,0,0,Minnesota Whitecaps,stats#/player/1373231,1373231,585684,,,,,,,2023
+11,Brittyn Fleming,F,0,0,0,0,0,3,0,0,0,8 - 7,0.533,0,0,3,0,8,7,Minnesota Whitecaps,stats#/player/1373232,1373232,585684,,,,,,,2023
+13,Ashleigh Brykaliuk,F,0,0,0,0,0,0,0,0,0,0 - 0,0,0,0,0,0,0,0,Minnesota Whitecaps,stats#/player/949961,949961,585684,,,,,,,2023
+14,Sydney Brodt,F,0,0,0,0,-1,2,0,0,0,3 - 16,0.158,0,0,2,0,3,16,Minnesota Whitecaps,stats#/player/1445700,1445700,585684,,,,,,,2023
+16,Taylor Wente,F,0,0,0,2,0,1,0,0,0,1 - 0,1,0,0,1,0,1,0,Minnesota Whitecaps,stats#/player/1513122,1513122,585684,,,,,,,2023
+18,Stephanie Anderson,F,0,0,0,0,-1,3,0,0,0,0 - 0,0,0,0,3,0,0,0,Minnesota Whitecaps,stats#/player/431659,431659,585684,,,,,,,2023
+19,Anna Klein,F,0,0,0,0,-1,1,0,0,0,0 - 0,0,0,0,1,0,0,0,Minnesota Whitecaps,stats#/player/1373234,1373234,585684,,,,,,,2023
+21,Liz Schepers,F,0,0,0,0,0,2,0,0,0,12 - 13,0.48,0,0,2,0,12,13,Minnesota Whitecaps,stats#/player/1373235,1373235,585684,,,,,,,2023
+24,Olivia Knowles,D,0,0,0,0,-1,1,0,0,0,0 - 0,0,0,0,1,0,0,0,Minnesota Whitecaps,stats#/player/1373236,1373236,585684,,,,,,,2023
+27,Patti Marshall,D,0,0,0,0,0,1,0,0,0,0 - 0,0,0,0,1,0,0,0,Minnesota Whitecaps,stats#/player/949970,949970,585684,,,,,,,2023
+28,Amanda Boulier,D,0,0,0,0,0,0,0,0,0,0 - 0,0,0,0,0,0,0,0,Minnesota Whitecaps,stats#/player/431662,431662,585684,,,,,,,2023
+33,Maddie Rowe,D,0,0,0,0,0,1,0,0,0,0 - 0,0,0,0,1,0,0,0,Minnesota Whitecaps,stats#/player/707198,707198,585684,,,,,,,2023
+41,Denisa Krizova,F,0,0,0,0,0,1,0,0,0,0 - 0,0,0,0,1,0,0,0,Minnesota Whitecaps,stats#/player/1373245,1373245,585684,,,,,,,2023
+21,Tereza Vanišová,F,1,0,1,0,1,5,0,0,0,0 - 0,0,0,0,5,0,0,0,Toronto Six,stats#/player/627752,627752,585684,,,,,,,2023
+27,Shiann Darkangelo,F,0,1,1,0,1,3,0,0,0,16 - 8,0.667,0,0,3,0,16,8,Toronto Six,stats#/player/542419,542419,585684,,,,,,,2023
+44,Lindsay Eastwood,D,0,1,1,2,1,0,0,0,0,0 - 0,0,0,0,0,0,0,0,Toronto Six,stats#/player/630139,630139,585684,,,,,,,2023
+2,Taylor Woods,D,0,0,0,2,0,1,0,0,0,0 - 0,0,0,0,1,0,0,0,Toronto Six,stats#/player/542421,542421,585684,,,,,,,2023
+4,Daryl Watts,F,0,0,0,0,0,0,0,0,0,0 - 0,0,0,0,0,0,0,0,Toronto Six,stats#/player/1478103,1478103,585684,,,,,,,2023
+8,Leah Lum,F,0,0,0,0,0,2,0,0,0,0 - 0,0,0,0,3,1,0,0,Toronto Six,stats#/player/1269506,1269506,585684,,,,,,,2023
+9,Kati Tabin,D,0,0,0,0,1,1,1,0,0,0 - 0,0,0,0,1,0,0,0,Toronto Six,stats#/player/1220085,1220085,585684,,,,,,,2023
+10,Lexi Templeman,F,0,0,0,0,0,2,0,0,0,0 - 4,0,0,0,2,0,0,4,Toronto Six,stats#/player/1220078,1220078,585684,,,,,,,2023
+11,Breanne Wilson-Bennett,F,0,0,0,0,0,2,1,0,0,15 - 3,0.833,0,0,2,0,15,3,Toronto Six,stats#/player/630148,630148,585684,,,,,,,2023
+14,Courtney Gardiner,F,0,0,0,0,0,0,0,0,0,0 - 0,0,0,0,0,0,0,0,Toronto Six,stats#/player/1220094,1220094,585684,,,,,,,2023
+19,Brooke Boquist,F,0,0,0,0,0,0,0,0,0,0 - 0,0,0,0,0,0,0,0,Toronto Six,stats#/player/543984,543984,585684,,,,,,,2023
+20,Taylor Davison,D,0,0,0,0,0,0,0,0,0,0 - 0,0,0,0,0,0,0,0,Toronto Six,stats#/player/881569,881569,585684,,,,,,,2023
+25,Emma Greco,D,0,0,0,0,0,1,0,0,0,0 - 0,0,0,0,1,0,0,0,Toronto Six,stats#/player/542420,542420,585684,,,,,,,2023
+41,Brittany Howard,F,0,0,0,0,0,0,0,0,0,0 - 0,0,0,0,0,0,0,0,Toronto Six,stats#/player/1220073,1220073,585684,,,,,,,2023
+67,Emma Woods,F,0,0,0,0,1,5,0,0,0,0 - 0,0,0,0,5,0,0,0,Toronto Six,stats#/player/630149,630149,585684,,,,,,,2023
+71,Saroya Tinker,D,0,0,0,0,0,2,0,0,0,0 - 0,0,0,0,2,0,0,0,Toronto Six,stats#/player/879727,879727,585684,,,,,,,2023
+86,Michela Cava,F,0,0,0,2,0,2,0,0,0,1 - 0,1,0,0,2,0,1,0,Toronto Six,stats#/player/963636,963636,585684,,,,,,,2023
+96,Dominika Lásková,D,0,0,0,0,0,5,0,0,0,5 - 9,0.357,0,0,5,0,5,9,Toronto Six,stats#/player/1234871,1234871,585684,,,,,,,2023
+35,Jenna Brenneman,G,0,0,,0,,,,,,,,,,,,,,Minnesota Whitecaps,,977772,585684,57:18,31,1,30,0.968,stats#/player/977772,2023
+39,Chantal Burke,G,0,0,,0,,,,,,,,,,,,,,Minnesota Whitecaps,,1513123,585684,00:00,0,0,0,0,stats#/player/1513123,2023
+29,Elaine Chuli,G,0,0,,0,,,,,,,,,,,,,,Toronto Six,,542418,585684,60:00,36,0,36,1,stats#/player/542418,2023
+70,Carly Jackson,G,0,0,,0,,,,,,,,,,,,,,Toronto Six,,1220081,585684,00:00,0,0,0,0,stats#/player/1220081,2023
+8,Kelly Babstock,F,2,1,3,2,2,3,0,0,0,3 - 3,0.5,0,0,3,0,3,3,Metropolitan Riveters,stats#/player/699761,699761,585682,,,,,,,2023
+5,Anna Kilponen,D,0,2,2,0,2,0,0,0,0,0 - 0,0,0,0,0,0,0,0,Metropolitan Riveters,stats#/player/1194645,1194645,585682,,,,,,,2023
+14,Madison Packer,F,1,1,2,0,0,4,0,0,0,0 - 0,0,0,0,4,0,0,0,Metropolitan Riveters,stats#/player/966106,966106,585682,,,,,,,2023
+77,Kennedy Ganser,F,0,2,2,0,2,2,0,0,0,9 - 5,0.643,0,0,2,0,9,5,Metropolitan Riveters,stats#/player/1194649,1194649,585682,,,,,,,2023
+10,Kendall Cornine,F,1,0,1,2,1,2,0,0,0,1 - 0,1,0,0,2,0,1,0,Metropolitan Riveters,stats#/player/431650,431650,585682,,,,,,,2023
+15,Minttu Tuominen,D,1,0,1,0,0,3,0,0,0,0 - 0,0,1,0,3,0,0,0,Metropolitan Riveters,stats#/player/1194641,1194641,585682,,,,,,,2023
+18,Reagan Rust,D,0,1,1,0,1,2,0,0,0,5 - 3,0.625,0,0,2,0,5,3,Metropolitan Riveters,stats#/player/1396886,1396886,585682,,,,,,,2023
+21,Amanda Pelkey,F,0,1,1,0,1,2,0,0,0,3 - 1,0.75,0,0,2,0,3,1,Metropolitan Riveters,stats#/player/1194634,1194634,585682,,,,,,,2023
+22,Emilie Harley,D,0,1,1,0,4,1,0,0,0,0 - 0,0,0,0,1,0,0,0,Metropolitan Riveters,stats#/player/1194650,1194650,585682,,,,,,,2023
+24,Hayley Lunny,F,0,1,1,0,0,1,0,0,0,0 - 0,0,0,0,1,0,0,0,Metropolitan Riveters,stats#/player/1509093,1509093,585682,,,,,,,2023
+94,Fanni Garát-Gasparics,F,1,0,1,4,2,3,0,0,0,0 - 0,0,0,0,3,0,0,0,Metropolitan Riveters,stats#/player/1396884,1396884,585682,,,,,,,2023
+3,Sarah Forster,D,0,0,0,0,2,0,0,0,0,0 - 0,0,0,0,0,0,0,0,Metropolitan Riveters,stats#/player/1204421,1204421,585682,,,,,,,2023
+9,Kaycie Anderson,F,0,0,0,0,0,0,0,0,0,0 - 0,0,0,0,0,0,0,0,Metropolitan Riveters,stats#/player/1194646,1194646,585682,,,,,,,2023
+12,Ebba Berglund,D,0,0,0,2,-2,1,0,0,0,0 - 0,0,0,0,1,0,0,0,Metropolitan Riveters,stats#/player/1194638,1194638,585682,,,,,,,2023
+16,Sarah Bujold,F,0,0,0,0,3,2,0,0,0,7 - 7,0.5,0,0,2,0,7,7,Metropolitan Riveters,stats#/player/1194637,1194637,585682,,,,,,,2023
+28,Leah Marino,F,0,0,0,0,0,0,0,0,0,0 - 0,0,0,0,0,0,0,0,Metropolitan Riveters,stats#/player/1220794,1220794,585682,,,,,,,2023
+44,Taylor Marchin,D,0,0,0,0,2,0,0,0,0,0 - 0,0,0,0,0,0,0,0,Metropolitan Riveters,stats#/player/1194642,1194642,585682,,,,,,,2023
+97,Catherine Crawley,F,0,0,0,0,1,0,0,0,0,0 - 0,0,0,0,0,0,0,0,Metropolitan Riveters,stats#/player/1220795,1220795,585682,,,,,,,2023
+3,Olivia Zafuto,D,0,1,1,0,-1,1,0,0,0,0 - 0,0,0,0,1,0,0,0,Boston Pride,stats#/player/1389093,1389093,585682,,,,,,,2023
+13,Kaleigh Fratkin,D,0,1,1,0,-1,3,0,0,0,0 - 0,0,0,0,3,0,0,0,Boston Pride,stats#/player/57735,57735,585682,,,,,,,2023
+19,Sammy Davis,F,1,0,1,0,0,4,0,0,0,0 - 0,0,1,0,4,0,0,0,Boston Pride,stats#/player/627751,627751,585682,,,,,,,2023
+21,Christina Putigna,F,0,1,1,0,-2,1,0,0,0,0 - 0,0,0,0,1,0,0,0,Boston Pride,stats#/player/431616,431616,585682,,,,,,,2023
+36,Loren Gabel,F,1,0,1,2,-2,4,0,0,0,0 - 2,0,0,0,4,0,0,2,Boston Pride,stats#/player/1389103,1389103,585682,,,,,,,2023
+6,Kali Flanagan,D,0,0,0,0,-3,2,0,0,0,0 - 0,0,0,0,2,0,0,0,Boston Pride,stats#/player/1034117,1034117,585682,,,,,,,2023
+8,Élizabeth Giguère,F,0,0,0,0,-1,1,0,0,0,0 - 0,0,0,0,1,0,0,0,Boston Pride,stats#/player/1389100,1389100,585682,,,,,,,2023
+9,Allie Thunstrom,F,0,0,0,0,-3,1,0,0,0,0 - 0,0,0,0,1,0,0,0,Boston Pride,stats#/player/431677,431677,585682,,,,,,,2023
+10,Taylor House,F,0,0,0,2,-3,0,0,0,0,5 - 9,0.357,0,0,0,0,5,9,Boston Pride,stats#/player/1389101,1389101,585682,,,,,,,2023
+12,Jenna Rheault,D,0,0,0,0,-1,0,0,0,0,0 - 0,0,0,0,0,0,0,0,Boston Pride,stats#/player/431619,431619,585682,,,,,,,2023
+14,Jillian Dempsey,F,0,0,0,0,-3,1,0,0,0,8 - 6,0.571,0,0,1,0,8,6,Boston Pride,stats#/player/58116,58116,585682,,,,,,,2023
+17,McKenna Brand,F,0,0,0,0,1,2,0,0,0,3 - 7,0.3,0,0,2,0,3,7,Boston Pride,stats#/player/431610,431610,585682,,,,,,,2023
+18,Taylor Wenczkowski,F,0,0,0,0,0,3,0,0,0,3 - 4,0.429,0,0,3,0,3,4,Boston Pride,stats#/player/627747,627747,585682,,,,,,,2023
+29,Kayla Friesen,F,0,0,0,0,1,1,0,0,0,0 - 0,0,0,0,1,0,0,0,Boston Pride,stats#/player/856779,856779,585682,,,,,,,2023
+37,Aneta Tejralová,D,0,0,0,0,-3,0,0,0,0,0 - 0,0,0,0,0,0,0,0,Boston Pride,stats#/player/1389102,1389102,585682,,,,,,,2023
+42,Meghara McManus,F,0,0,0,0,1,1,0,0,0,0 - 0,0,0,0,1,0,0,0,Boston Pride,stats#/player/627750,627750,585682,,,,,,,2023
+33,Rachel McQuigge,G,0,0,,0,,,,,,,,,,,,,,Metropolitan Riveters,,1194647,585682,60:00,25,2,23,0.92,stats#/player/1194647,2023
+88,Katie Burt,G,0,0,,0,,,,,,,,,,,,,,Metropolitan Riveters,,1440284,585682,00:00,0,0,0,0,stats#/player/1440284,2023
+30,Corinne Schroeder,G,0,0,,0,,,,,,,,,,,,,,Boston Pride,,1389104,585682,00:00,0,0,0,0,stats#/player/1389104,2023
+35,Lovisa Selander,G,0,0,,0,,,,,,,,,,,,,,Boston Pride,,431620,585682,60:00,26,6,20,0.769,stats#/player/431620,2023
+13,Kaleigh Fratkin,D,1,0,1,4,1,2,1,0,0,0 - 0,0,0,0,4,2,0,0,Boston Pride,stats#/player/57735,57735,585680,,,,,,,2023
+14,Jillian Dempsey,F,1,0,1,0,0,6,3,1,1,15 - 10,0.6,0,0,6,0,15,10,Boston Pride,stats#/player/58116,58116,585680,,,,,,,2023
+36,Loren Gabel,F,0,1,1,2,0,6,0,3,1,0 - 1,0,0,0,9,3,0,1,Boston Pride,stats#/player/1389103,1389103,585680,,,,,,,2023
+3,Olivia Zafuto,D,0,0,0,2,0,2,0,1,0,0 - 0,0,0,0,2,0,0,0,Boston Pride,stats#/player/1389093,1389093,585680,,,,,,,2023
+7,Chloe Gonsalves,D,0,0,0,0,1,1,1,0,0,0 - 0,0,0,0,1,0,0,0,Boston Pride,stats#/player/1522341,1522341,585680,,,,,,,2023
+9,Allie Thunstrom,F,0,0,0,2,0,7,1,0,0,0 - 0,0,0,0,7,0,0,0,Boston Pride,stats#/player/431677,431677,585680,,,,,,,2023
+10,Taylor House,F,0,0,0,0,-1,3,0,0,0,5 - 8,0.385,0,0,4,1,5,8,Boston Pride,stats#/player/1389101,1389101,585680,,,,,,,2023
+12,Jenna Rheault,D,0,0,0,0,-1,2,3,1,0,0 - 0,0,0,0,2,0,0,0,Boston Pride,stats#/player/431619,431619,585680,,,,,,,2023
+16,Lexie Laing,F,0,0,0,0,0,1,0,0,0,0 - 0,0,0,0,1,0,0,0,Boston Pride,stats#/player/1457199,1457199,585680,,,,,,,2023
+17,McKenna Brand,F,0,0,0,0,1,3,2,1,0,2 - 17,0.105,0,0,3,0,2,17,Boston Pride,stats#/player/431610,431610,585680,,,,,,,2023
+18,Taylor Wenczkowski,F,0,0,0,0,-1,4,1,0,0,1 - 1,0.5,0,0,4,0,1,1,Boston Pride,stats#/player/627747,627747,585680,,,,,,,2023
+19,Sammy Davis,F,0,0,0,2,1,3,2,0,0,0 - 0,0,0,0,4,1,0,0,Boston Pride,stats#/player/627751,627751,585680,,,,,,,2023
+21,Christina Putigna,F,0,0,0,2,0,2,0,1,0,0 - 0,0,0,0,2,0,0,0,Boston Pride,stats#/player/431616,431616,585680,,,,,,,2023
+29,Kayla Friesen,F,0,0,0,0,-1,1,0,0,0,0 - 1,0,0,0,1,0,0,1,Boston Pride,stats#/player/856779,856779,585680,,,,,,,2023
+37,Aneta Tejralová,D,0,0,0,0,0,1,5,0,0,0 - 0,0,0,0,2,1,0,0,Boston Pride,stats#/player/1389102,1389102,585680,,,,,,,2023
+42,Meghara McManus,F,0,0,0,0,0,2,0,0,0,0 - 0,0,0,0,2,0,0,0,Boston Pride,stats#/player/627750,627750,585680,,,,,,,2023
+27,Jade Downie-Landry,F,1,0,1,4,0,7,2,0,0,14 - 13,0.519,0,0,10,3,14,13,Montreal Force,stats#/player/1262658,1262658,585680,,,,,,,2023
+3,Brooke Stacey,F,0,0,0,0,0,3,0,0,0,1 - 0,1,0,0,3,0,1,0,Montreal Force,stats#/player/1262495,1262495,585680,,,,,,,2023
+4,Taylor Baker,D,0,0,0,0,0,4,1,0,1,0 - 0,0,0,0,6,2,0,0,Montreal Force,stats#/player/1405323,1405323,585680,,,,,,,2023
+5,Samantha Isbell,F,0,0,0,0,0,2,0,0,0,0 - 0,0,0,0,3,1,0,0,Montreal Force,stats#/player/1262492,1262492,585680,,,,,,,2023
+7,Kristina Shanahan,F,0,0,0,0,0,0,0,0,1,0 - 0,0,0,0,0,0,0,0,Montreal Force,stats#/player/1262661,1262661,585680,,,,,,,2023
+8,Kaity Howarth,D,0,0,0,0,1,0,0,0,1,0 - 0,0,0,0,1,1,0,0,Montreal Force,stats#/player/1262488,1262488,585680,,,,,,,2023
+9,Kim Deschênes,F,0,0,0,2,0,3,0,0,2,0 - 0,0,0,0,4,1,0,0,Montreal Force,stats#/player/1262657,1262657,585680,,,,,,,2023
+12,Catherine Daoust,D,0,0,0,0,0,2,0,0,0,0 - 0,0,0,0,3,1,0,0,Montreal Force,stats#/player/1262664,1262664,585680,,,,,,,2023
+13,Alexandra Labelle,F,0,0,0,2,0,6,1,0,0,15 - 6,0.714,0,0,7,1,15,6,Montreal Force,stats#/player/1262659,1262659,585680,,,,,,,2023
+16,Sarah Lefort,F,0,0,0,0,0,6,1,0,0,0 - 0,0,0,0,8,2,0,0,Montreal Force,stats#/player/1262660,1262660,585680,,,,,,,2023
+17,Christine Deaudelin,D,0,0,0,2,-1,2,1,0,1,0 - 0,0,0,0,3,1,0,0,Montreal Force,stats#/player/1262665,1262665,585680,,,,,,,2023
+18,Deziray De Sousa,F,0,0,0,0,0,0,0,1,0,0 - 0,0,0,0,0,0,0,0,Montreal Force,stats#/player/1405445,1405445,585680,,,,,,,2023
+23,Gabrielle De Serres,D,0,0,0,0,1,1,0,0,0,0 - 0,0,0,0,2,1,0,0,Montreal Force,stats#/player/1405324,1405324,585680,,,,,,,2023
+24,Ann-Sophie Bettez,F,0,0,0,0,1,6,1,0,1,0 - 0,0,0,0,7,1,0,0,Montreal Force,stats#/player/1492453,1492453,585680,,,,,,,2023
+25,Alyssa Holmes,F,0,0,0,0,0,0,0,0,0,2 - 1,0.667,0,0,0,0,2,1,Montreal Force,stats#/player/1262490,1262490,585680,,,,,,,2023
+26,Brigitte Laganière,D,0,0,0,0,-1,3,1,1,0,0 - 0,0,0,0,4,1,0,0,Montreal Force,stats#/player/1262662,1262662,585680,,,,,,,2023
+28,Catherine Dubois,F,0,0,0,0,0,4,0,0,0,6 - 3,0.667,0,0,6,2,6,3,Montreal Force,stats#/player/1262663,1262663,585680,,,,,,,2023
+90,Autumn MacDougall,F,0,0,0,0,0,1,0,0,1,0 - 0,0,0,0,2,1,0,0,Montreal Force,stats#/player/632861,632861,585680,,,,,,,2023
+30,Corinne Schroeder,G,0,0,,0,,,,,,,,,,,,,,Boston Pride,,1389104,585680,60:00,50,1,49,0.98,stats#/player/1389104,2023
+35,Lovisa Selander,G,0,0,,0,,,,,,,,,,,,,,Boston Pride,,431620,585680,00:00,0,0,0,0,stats#/player/431620,2023
+33,Tricia Deguire,G,0,0,,0,,,,,,,,,,,,,,Montreal Force,,1262666,585680,58:50,46,2,44,0.957,stats#/player/1262666,2023
+39,Marie-Soleil Deschênes,G,0,0,,0,,,,,,,,,,,,,,Montreal Force,,1262486,585680,00:00,0,0,0,0,stats#/player/1262486,2023
+3,Jonna Albers,F,0,0,0,0,0,5,0,0,0,0 - 0,0,0,0,5,0,0,0,Minnesota Whitecaps,stats#/player/1373270,1373270,585681,,,,,,,2023
+5,Sidney Morin,D,0,0,0,0,0,4,0,0,0,2 - 9,0.182,0,0,4,0,2,9,Minnesota Whitecaps,stats#/player/1373227,1373227,585681,,,,,,,2023
+6,Brooke Madsen,F,0,0,0,0,0,1,0,0,0,0 - 2,0,0,0,1,0,0,2,Minnesota Whitecaps,stats#/player/1373228,1373228,585681,,,,,,,2023
+7,Emma Stauber,D,0,0,0,0,0,1,0,0,0,0 - 0,0,0,0,1,0,0,0,Minnesota Whitecaps,stats#/player/968364,968364,585681,,,,,,,2023
+9,Sydney Baldwin,D,0,0,0,0,-1,0,0,0,0,0 - 0,0,0,0,2,2,0,0,Minnesota Whitecaps,stats#/player/1086275,1086275,585681,,,,,,,2023
+10,Ronja Mogren,F,0,0,0,0,0,4,0,0,0,0 - 0,0,0,0,5,1,0,0,Minnesota Whitecaps,stats#/player/1373231,1373231,585681,,,,,,,2023
+11,Brittyn Fleming,F,0,0,0,0,0,0,0,0,0,8 - 13,0.381,0,0,0,0,8,13,Minnesota Whitecaps,stats#/player/1373232,1373232,585681,,,,,,,2023
+13,Ashleigh Brykaliuk,F,0,0,0,0,-1,0,0,0,0,9 - 8,0.529,0,0,0,0,9,8,Minnesota Whitecaps,stats#/player/949961,949961,585681,,,,,,,2023
+16,Taylor Wente,F,0,0,0,0,0,1,0,0,0,0 - 0,0,0,0,1,0,0,0,Minnesota Whitecaps,stats#/player/1513122,1513122,585681,,,,,,,2023
+18,Stephanie Anderson,F,0,0,0,0,-1,4,0,0,0,0 - 0,0,0,0,5,1,0,0,Minnesota Whitecaps,stats#/player/431659,431659,585681,,,,,,,2023
+19,Anna Klein,F,0,0,0,0,0,1,0,0,0,0 - 0,0,0,0,1,0,0,0,Minnesota Whitecaps,stats#/player/1373234,1373234,585681,,,,,,,2023
+24,Olivia Knowles,D,0,0,0,2,-1,5,0,0,0,0 - 0,0,0,0,5,0,0,0,Minnesota Whitecaps,stats#/player/1373236,1373236,585681,,,,,,,2023
+27,Patti Marshall,D,0,0,0,0,0,1,0,0,0,0 - 0,0,0,0,2,1,0,0,Minnesota Whitecaps,stats#/player/949970,949970,585681,,,,,,,2023
+28,Amanda Boulier,D,0,0,0,0,0,3,1,0,0,0 - 0,0,0,0,3,0,0,0,Minnesota Whitecaps,stats#/player/431662,431662,585681,,,,,,,2023
+33,Maddie Rowe,D,0,0,0,0,0,0,0,0,0,0 - 0,0,0,0,0,0,0,0,Minnesota Whitecaps,stats#/player/707198,707198,585681,,,,,,,2023
+41,Denisa Krizova,F,0,0,0,0,-1,1,0,0,0,0 - 1,0,0,0,1,0,0,1,Minnesota Whitecaps,stats#/player/1373245,1373245,585681,,,,,,,2023
+23,Antonia Matzka,D,0,1,1,0,1,1,0,0,0,0 - 0,0,0,0,1,0,0,0,Buffalo Beauts,stats#/player/1179126,1179126,585681,,,,,,,2023
+24,Anjelica Diffendal,F,0,1,1,0,1,1,0,0,0,0 - 0,0,0,0,1,0,0,0,Buffalo Beauts,stats#/player/811831,811831,585681,,,,,,,2023
+44,Jenna Suokko,F,1,0,1,0,1,5,0,0,0,0 - 0,0,0,0,5,0,0,0,Buffalo Beauts,stats#/player/828439,828439,585681,,,,,,,2023
+2,Samantha Fieseler,D,0,0,0,0,0,0,0,0,0,0 - 0,0,0,0,0,0,0,0,Buffalo Beauts,stats#/player/814845,814845,585681,,,,,,,2023
+4,Maggie Knott,F,0,0,0,0,0,1,0,0,0,9 - 2,0.818,0,0,1,0,9,2,Buffalo Beauts,stats#/player/1499233,1499233,585681,,,,,,,2023
+9,Kristina Schuler,F,0,0,0,0,0,0,0,0,0,0 - 0,0,0,0,0,0,0,0,Buffalo Beauts,stats#/player/1522428,1522428,585681,,,,,,,2023
+10,Maddie Truax,D,0,0,0,0,0,1,0,0,0,0 - 0,0,0,0,1,0,0,0,Buffalo Beauts,stats#/player/1259837,1259837,585681,,,,,,,2023
+11,Madi Nichols,F,0,0,0,0,0,2,0,0,0,0 - 0,0,0,0,2,0,0,0,Buffalo Beauts,stats#/player/1259838,1259838,585681,,,,,,,2023
+13,Dominique Kremer,D,0,0,0,2,0,1,1,0,0,0 - 0,0,0,0,1,0,0,0,Buffalo Beauts,stats#/player/632881,632881,585681,,,,,,,2023
+16,Emma Nuutinen,F,0,0,0,0,0,3,0,0,0,0 - 0,0,0,0,3,0,0,0,Buffalo Beauts,stats#/player/1179125,1179125,585681,,,,,,,2023
+17,Cassidy MacPherson,F,0,0,0,0,0,0,0,0,0,11 - 8,0.579,0,0,0,0,11,8,Buffalo Beauts,stats#/player/431630,431630,585681,,,,,,,2023
+34,Claudia Kepler,F,0,0,0,0,0,1,0,0,0,0 - 0,0,0,0,1,0,0,0,Buffalo Beauts,stats#/player/1020524,1020524,585681,,,,,,,2023
+42,Courtney Maud,F,0,0,0,2,0,1,0,0,0,0 - 0,0,0,0,1,0,0,0,Buffalo Beauts,stats#/player/1159200,1159200,585681,,,,,,,2023
+47,Jessica Healey,D,0,0,0,0,0,1,2,0,0,0 - 0,0,0,0,1,0,0,0,Buffalo Beauts,stats#/player/1159201,1159201,585681,,,,,,,2023
+59,Mikyla Grant-Mentis,F,0,0,0,0,0,2,1,0,0,8 - 5,0.615,0,0,3,1,8,5,Buffalo Beauts,stats#/player/532475,532475,585681,,,,,,,2023
+67,Summer-Rae Dobson,F,0,0,0,0,0,1,0,0,0,0 - 0,0,0,0,1,0,0,0,Buffalo Beauts,stats#/player/1259841,1259841,585681,,,,,,,2023
+77,Whitney Dove,D,0,0,0,0,1,3,1,0,0,0 - 0,0,0,0,3,0,0,0,Buffalo Beauts,stats#/player/632942,632942,585681,,,,,,,2023
+94,Grace Klienbach,F,0,0,0,0,1,1,0,0,0,5 - 4,0.556,0,0,1,0,5,4,Buffalo Beauts,stats#/player/827706,827706,585681,,,,,,,2023
+35,Jenna Brenneman,G,0,0,,0,,,,,,,,,,,,,,Minnesota Whitecaps,,977772,585681,57:39,25,1,24,0.96,stats#/player/977772,2023
+39,Chantal Burke,G,0,0,,0,,,,,,,,,,,,,,Minnesota Whitecaps,,1513123,585681,00:00,0,0,0,0,stats#/player/1513123,2023
+35,Samantha Ridgewell,G,0,0,,0,,,,,,,,,,,,,,Buffalo Beauts,,543985,585681,60:00,31,0,31,1,stats#/player/543985,2023
+88,Lovisa Berndtsson,G,0,0,,0,,,,,,,,,,,,,,Buffalo Beauts,,824067,585681,00:00,0,0,0,0,stats#/player/824067,2023
+17,Taylor Girard,F,1,2,3,0,2,6,0,0,0,0 - 0,0,0,1,6,0,0,0,Connecticut Whale,stats#/player/966983,966983,585679,,,,,,,2023
+22,Kennedy Marchment,F,0,3,3,0,1,5,0,0,0,19 - 11,0.633,0,0,5,0,19,11,Connecticut Whale,stats#/player/966985,966985,585679,,,,,,,2023
+11,Melissa Samoskevich,F,2,0,2,0,2,3,0,0,0,0 - 0,0,1,0,4,1,0,0,Connecticut Whale,stats#/player/1041703,1041703,585679,,,,,,,2023
+97,Caitrin Lonergan,F,1,1,2,2,0,4,1,0,0,7 - 8,0.467,0,1,4,0,7,8,Connecticut Whale,stats#/player/1231901,1231901,585679,,,,,,,2023
+8,Alyssa Wohlfeiler,F,0,1,1,2,1,1,0,0,0,0 - 0,0,0,0,1,0,0,0,Connecticut Whale,stats#/player/57768,57768,585679,,,,,,,2023
+12,Allie Munroe,D,1,0,1,0,2,2,0,0,0,0 - 0,0,1,0,2,0,0,0,Connecticut Whale,stats#/player/966982,966982,585679,,,,,,,2023
+24,Janine Weber,F,0,1,1,0,1,1,0,0,0,0 - 0,0,0,0,1,0,0,0,Connecticut Whale,stats#/player/513300,513300,585679,,,,,,,2023
+88,Amanda Conway,F,1,0,1,0,1,1,0,0,0,0 - 0,0,0,0,2,1,0,0,Connecticut Whale,stats#/player/707073,707073,585679,,,,,,,2023
+5,Tori Howran,D,0,0,0,0,1,0,1,0,0,0 - 0,0,0,0,0,0,0,0,Connecticut Whale,stats#/player/1478285,1478285,585679,,,,,,,2023
+6,Shannon Turner,D,0,0,0,0,3,1,0,0,0,0 - 0,0,0,0,2,1,0,0,Connecticut Whale,stats#/player/967608,967608,585679,,,,,,,2023
+7,Rachel Ade,F,0,0,0,0,0,0,0,0,0,0 - 0,0,0,0,1,1,0,0,Connecticut Whale,stats#/player/468608,468608,585679,,,,,,,2023
+9,Tori Sullivan,F,0,0,0,0,0,1,0,0,0,0 - 0,0,0,0,1,0,0,0,Connecticut Whale,stats#/player/431622,431622,585679,,,,,,,2023
+14,Justine Reyes,F,0,0,0,0,-1,5,2,0,0,0 - 0,0,0,0,5,0,0,0,Connecticut Whale,stats#/player/1231942,1231942,585679,,,,,,,2023
+15,Emma Vlasic,F,0,0,0,0,-1,3,0,0,0,2 - 0,1,0,0,3,0,2,0,Connecticut Whale,stats#/player/431646,431646,585679,,,,,,,2023
+18,Hannah Bates,D,0,0,0,4,0,1,0,0,0,0 - 0,0,0,0,2,1,0,0,Connecticut Whale,stats#/player/966984,966984,585679,,,,,,,2023
+21,Emma Keenan,D,0,0,0,0,-2,2,0,0,0,0 - 0,0,0,0,3,1,0,0,Connecticut Whale,stats#/player/788423,788423,585679,,,,,,,2023
+27,Janka Hlinka,F,0,0,0,0,-1,2,0,0,0,0 - 0,0,0,0,2,0,0,0,Connecticut Whale,stats#/player/966992,966992,585679,,,,,,,2023
+47,Lenka Serdar,F,0,0,0,0,2,1,0,0,0,9 - 6,0.6,0,0,1,0,9,6,Connecticut Whale,stats#/player/1231944,1231944,585679,,,,,,,2023
+27,Shiann Darkangelo,F,0,2,2,0,1,2,0,0,0,9 - 13,0.409,0,0,2,0,9,13,Toronto Six,stats#/player/542419,542419,585679,,,,,,,2023
+86,Michela Cava,F,1,1,2,0,0,3,0,0,0,0 - 3,0,0,0,3,0,0,3,Toronto Six,stats#/player/963636,963636,585679,,,,,,,2023
+8,Leah Lum,F,1,0,1,0,0,4,1,0,0,0 - 0,0,0,0,4,0,0,0,Toronto Six,stats#/player/1269506,1269506,585679,,,,,,,2023
+9,Kati Tabin,D,1,0,1,2,1,4,0,0,0,0 - 0,0,1,0,4,0,0,0,Toronto Six,stats#/player/1220085,1220085,585679,,,,,,,2023
+10,Lexi Templeman,F,0,1,1,0,-1,0,0,0,0,0 - 2,0,0,0,0,0,0,2,Toronto Six,stats#/player/1220078,1220078,585679,,,,,,,2023
+67,Emma Woods,F,1,0,1,0,-3,3,0,0,0,0 - 0,0,0,0,3,0,0,0,Toronto Six,stats#/player/630149,630149,585679,,,,,,,2023
+2,Taylor Woods,D,0,0,0,0,-2,0,0,0,0,0 - 0,0,0,0,2,2,0,0,Toronto Six,stats#/player/542421,542421,585679,,,,,,,2023
+3,Nadine Edney,F,0,0,0,0,0,0,0,0,0,0 - 0,0,0,0,0,0,0,0,Toronto Six,stats#/player/1220796,1220796,585679,,,,,,,2023
+4,Daryl Watts,F,0,0,0,0,1,0,0,0,0,0 - 0,0,0,0,0,0,0,0,Toronto Six,stats#/player/1478103,1478103,585679,,,,,,,2023
+11,Breanne Wilson-Bennett,F,0,0,0,0,-3,3,1,0,0,9 - 9,0.5,0,0,3,0,9,9,Toronto Six,stats#/player/630148,630148,585679,,,,,,,2023
+14,Courtney Gardiner,F,0,0,0,0,0,3,0,0,0,0 - 1,0,0,0,3,0,0,1,Toronto Six,stats#/player/1220094,1220094,585679,,,,,,,2023
+19,Brooke Boquist,F,0,0,0,0,-1,0,0,0,0,0 - 0,0,0,0,0,0,0,0,Toronto Six,stats#/player/543984,543984,585679,,,,,,,2023
+20,Taylor Davison,D,0,0,0,0,0,0,0,0,0,0 - 0,0,0,0,0,0,0,0,Toronto Six,stats#/player/881569,881569,585679,,,,,,,2023
+25,Emma Greco,D,0,0,0,0,0,0,0,0,0,0 - 0,0,0,0,1,1,0,0,Toronto Six,stats#/player/542420,542420,585679,,,,,,,2023
+44,Lindsay Eastwood,D,0,0,0,2,0,1,0,0,0,0 - 0,0,0,0,1,0,0,0,Toronto Six,stats#/player/630139,630139,585679,,,,,,,2023
+48,Alexis Woloschuk,D,0,0,0,0,1,0,0,0,0,0 - 0,0,0,0,0,0,0,0,Toronto Six,stats#/player/1220797,1220797,585679,,,,,,,2023
+71,Saroya Tinker,D,0,0,0,0,-2,0,4,0,0,0 - 0,0,0,0,1,1,0,0,Toronto Six,stats#/player/879727,879727,585679,,,,,,,2023
+96,Dominika Lásková,D,0,0,0,2,-1,2,0,0,0,7 - 9,0.438,0,0,2,0,7,9,Toronto Six,stats#/player/1234871,1234871,585679,,,,,,,2023
+35,Abbie Ives,G,0,0,,0,,,,,,,,,,,,,,Connecticut Whale,,707072,585679,00:00,0,0,0,0,stats#/player/707072,2023
+81,Meeri Raisanen,G,0,0,,0,,,,,,,,,,,,,,Connecticut Whale,,468605,585679,60:00,25,4,21,0.84,stats#/player/468605,2023
+29,Elaine Chuli,G,0,0,,2,,,,,,,,,,,,,,Toronto Six,,542418,585679,59:00,38,5,33,0.868,stats#/player/542418,2023
+70,Carly Jackson,G,0,0,,0,,,,,,,,,,,,,,Toronto Six,,1220081,585679,00:00,0,0,0,0,stats#/player/1220081,2023
+19,Sammy Davis,F,1,1,2,2,0,1,1,0,0,1 - 0,1,0,1,1,0,1,0,Boston Pride,stats#/player/627751,627751,585677,,,,,,,2023
+36,Loren Gabel,F,1,1,2,0,0,8,0,0,0,0 - 0,0,0,0,8,0,0,0,Boston Pride,stats#/player/1389103,1389103,585677,,,,,,,2023
+9,Allie Thunstrom,F,1,0,1,0,0,6,0,0,0,0 - 0,0,0,0,6,0,0,0,Boston Pride,stats#/player/431677,431677,585677,,,,,,,2023
+14,Jillian Dempsey,F,0,1,1,2,0,0,1,0,0,10 - 5,0.667,0,0,0,0,10,5,Boston Pride,stats#/player/58116,58116,585677,,,,,,,2023
+21,Christina Putigna,F,1,0,1,0,0,5,0,0,0,1 - 1,0.5,0,0,5,0,1,1,Boston Pride,stats#/player/431616,431616,585677,,,,,,,2023
+3,Olivia Zafuto,D,0,0,0,0,0,2,0,0,0,0 - 0,0,0,0,3,1,0,0,Boston Pride,stats#/player/1389093,1389093,585677,,,,,,,2023
+7,Chloe Gonsalves,D,0,0,0,2,0,0,7,0,0,0 - 0,0,0,0,0,0,0,0,Boston Pride,stats#/player/1522341,1522341,585677,,,,,,,2023
+10,Taylor House,F,0,0,0,0,0,0,1,0,0,3 - 3,0.5,0,0,0,0,3,3,Boston Pride,stats#/player/1389101,1389101,585677,,,,,,,2023
+12,Jenna Rheault,D,0,0,0,0,0,1,1,1,0,0 - 0,0,0,0,1,0,0,0,Boston Pride,stats#/player/431619,431619,585677,,,,,,,2023
+13,Kaleigh Fratkin,D,0,0,0,0,0,4,0,0,0,0 - 1,0,0,0,5,1,0,1,Boston Pride,stats#/player/57735,57735,585677,,,,,,,2023
+16,Lexie Laing,F,0,0,0,0,0,1,0,0,0,2 - 3,0.4,0,0,1,0,2,3,Boston Pride,stats#/player/1457199,1457199,585677,,,,,,,2023
+17,McKenna Brand,F,0,0,0,0,0,0,0,0,0,5 - 13,0.278,0,0,0,0,5,13,Boston Pride,stats#/player/431610,431610,585677,,,,,,,2023
+18,Taylor Wenczkowski,F,0,0,0,0,0,1,0,0,0,1 - 1,0.5,0,0,1,0,1,1,Boston Pride,stats#/player/627747,627747,585677,,,,,,,2023
+29,Kayla Friesen,F,0,0,0,0,0,1,0,0,0,0 - 0,0,0,0,1,0,0,0,Boston Pride,stats#/player/856779,856779,585677,,,,,,,2023
+37,Aneta Tejralová,D,0,0,0,2,0,0,4,0,0,0 - 0,0,0,0,0,0,0,0,Boston Pride,stats#/player/1389102,1389102,585677,,,,,,,2023
+42,Meghara McManus,F,0,0,0,0,0,1,0,0,0,0 - 0,0,0,0,1,0,0,0,Boston Pride,stats#/player/627750,627750,585677,,,,,,,2023
+9,Kim Deschênes,F,0,1,1,0,0,2,0,0,0,0 - 0,0,0,0,3,1,0,0,Montreal Force,stats#/player/1262657,1262657,585677,,,,,,,2023
+24,Ann-Sophie Bettez,F,1,0,1,0,0,6,0,0,0,0 - 1,0,0,0,7,1,0,1,Montreal Force,stats#/player/1492453,1492453,585677,,,,,,,2023
+27,Jade Downie-Landry,F,0,1,1,0,0,3,0,0,0,6 - 8,0.429,0,0,7,4,6,8,Montreal Force,stats#/player/1262658,1262658,585677,,,,,,,2023
+3,Brooke Stacey,F,0,0,0,2,0,3,0,0,0,0 - 0,0,0,0,3,0,0,0,Montreal Force,stats#/player/1262495,1262495,585677,,,,,,,2023
+4,Taylor Baker,D,0,0,0,0,0,0,0,0,0,0 - 0,0,0,0,1,1,0,0,Montreal Force,stats#/player/1405323,1405323,585677,,,,,,,2023
+5,Samantha Isbell,F,0,0,0,0,0,3,0,0,0,0 - 0,0,0,0,3,0,0,0,Montreal Force,stats#/player/1262492,1262492,585677,,,,,,,2023
+7,Kristina Shanahan,F,0,0,0,2,0,0,0,0,0,0 - 0,0,0,0,2,2,0,0,Montreal Force,stats#/player/1262661,1262661,585677,,,,,,,2023
+8,Kaity Howarth,D,0,0,0,0,0,0,0,0,0,0 - 0,0,0,0,0,0,0,0,Montreal Force,stats#/player/1262488,1262488,585677,,,,,,,2023
+12,Catherine Daoust,D,0,0,0,0,0,0,0,0,0,0 - 0,0,0,0,0,0,0,0,Montreal Force,stats#/player/1262664,1262664,585677,,,,,,,2023
+13,Alexandra Labelle,F,0,0,0,0,0,4,0,0,0,15 - 7,0.682,0,0,5,1,15,7,Montreal Force,stats#/player/1262659,1262659,585677,,,,,,,2023
+16,Sarah Lefort,F,0,0,0,2,0,7,0,0,0,0 - 0,0,0,0,7,0,0,0,Montreal Force,stats#/player/1262660,1262660,585677,,,,,,,2023
+17,Christine Deaudelin,D,0,0,0,0,0,1,0,0,0,0 - 0,0,0,0,2,1,0,0,Montreal Force,stats#/player/1262665,1262665,585677,,,,,,,2023
+18,Deziray De Sousa,F,0,0,0,2,0,1,0,0,0,0 - 0,0,0,0,1,0,0,0,Montreal Force,stats#/player/1405445,1405445,585677,,,,,,,2023
+23,Gabrielle De Serres,D,0,0,0,0,0,2,0,0,0,0 - 0,0,0,0,3,1,0,0,Montreal Force,stats#/player/1405324,1405324,585677,,,,,,,2023
+25,Alyssa Holmes,F,0,0,0,0,0,2,1,0,0,1 - 3,0.25,0,0,2,0,1,3,Montreal Force,stats#/player/1262490,1262490,585677,,,,,,,2023
+26,Brigitte Laganière,D,0,0,0,2,0,2,1,0,0,0 - 0,0,0,0,3,1,0,0,Montreal Force,stats#/player/1262662,1262662,585677,,,,,,,2023
+28,Catherine Dubois,F,0,0,0,0,0,3,0,0,0,5 - 4,0.556,0,0,5,2,5,4,Montreal Force,stats#/player/1262663,1262663,585677,,,,,,,2023
+90,Autumn MacDougall,F,0,0,0,0,0,1,0,0,0,0 - 0,0,0,0,1,0,0,0,Montreal Force,stats#/player/632861,632861,585677,,,,,,,2023
+30,Corinne Schroeder,G,0,0,,0,,,,,,,,,,,,,,Boston Pride,,1389104,585677,60:00,40,1,39,0.975,stats#/player/1389104,2023
+35,Lovisa Selander,G,0,0,,0,,,,,,,,,,,,,,Boston Pride,,431620,585677,00:00,0,0,0,0,stats#/player/431620,2023
+33,Tricia Deguire,G,0,0,,0,,,,,,,,,,,,,,Montreal Force,,1262666,585677,58:49,30,3,27,0.9,stats#/player/1262666,2023
+39,Marie-Soleil Deschênes,G,0,0,,0,,,,,,,,,,,,,,Montreal Force,,1262486,585677,00:00,0,0,0,0,stats#/player/1262486,2023
+9,Sydney Baldwin,D,2,0,2,2,0,2,1,0,0,0 - 0,0,1,0,3,1,0,0,Minnesota Whitecaps,stats#/player/1086275,1086275,585678,,,,,,,2023
+3,Jonna Curtis,F,0,1,1,2,0,1,0,0,0,1 - 0,1,0,0,1,0,1,0,Minnesota Whitecaps,stats#/player/1522429,1522429,585678,,,,,,,2023
+13,Ashleigh Brykaliuk,F,0,1,1,0,0,0,0,0,0,13 - 12,0.52,0,0,0,0,13,12,Minnesota Whitecaps,stats#/player/949961,949961,585678,,,,,,,2023
+5,Sidney Morin,D,0,0,0,0,0,8,0,0,0,1 - 4,0.2,0,0,9,1,1,4,Minnesota Whitecaps,stats#/player/1373227,1373227,585678,,,,,,,2023
+6,Brooke Madsen,F,0,0,0,0,0,4,0,0,0,0 - 0,0,0,0,4,0,0,0,Minnesota Whitecaps,stats#/player/1373228,1373228,585678,,,,,,,2023
+7,Emma Stauber,D,0,0,0,0,0,0,0,0,0,0 - 0,0,0,0,0,0,0,0,Minnesota Whitecaps,stats#/player/968364,968364,585678,,,,,,,2023
+10,Ronja Mogren,F,0,0,0,0,0,2,0,0,0,0 - 0,0,0,0,2,0,0,0,Minnesota Whitecaps,stats#/player/1373231,1373231,585678,,,,,,,2023
+11,Brittyn Fleming,F,0,0,0,0,0,3,0,0,0,11 - 3,0.786,0,0,3,0,11,3,Minnesota Whitecaps,stats#/player/1373232,1373232,585678,,,,,,,2023
+16,Taylor Wente,F,0,0,0,2,0,0,0,0,0,2 - 2,0.5,0,0,0,0,2,2,Minnesota Whitecaps,stats#/player/1513122,1513122,585678,,,,,,,2023
+18,Stephanie Anderson,F,0,0,0,0,0,1,0,0,0,0 - 2,0,0,0,1,0,0,2,Minnesota Whitecaps,stats#/player/431659,431659,585678,,,,,,,2023
+19,Anna Klein,F,0,0,0,0,0,0,1,0,0,0 - 2,0,0,0,0,0,0,2,Minnesota Whitecaps,stats#/player/1373234,1373234,585678,,,,,,,2023
+24,Olivia Knowles,D,0,0,0,2,0,1,1,0,0,0 - 0,0,0,0,1,0,0,0,Minnesota Whitecaps,stats#/player/1373236,1373236,585678,,,,,,,2023
+27,Patti Marshall,D,0,0,0,0,0,2,0,0,0,0 - 0,0,0,0,2,0,0,0,Minnesota Whitecaps,stats#/player/949970,949970,585678,,,,,,,2023
+28,Amanda Boulier,D,0,0,0,2,0,0,0,0,0,0 - 0,0,0,0,0,0,0,0,Minnesota Whitecaps,stats#/player/431662,431662,585678,,,,,,,2023
+33,Maddie Rowe,D,0,0,0,0,0,0,0,0,0,0 - 0,0,0,0,0,0,0,0,Minnesota Whitecaps,stats#/player/707198,707198,585678,,,,,,,2023
+41,Denisa Krizova,F,0,0,0,0,0,5,1,0,0,1 - 1,0.5,0,0,5,0,1,1,Minnesota Whitecaps,stats#/player/1373245,1373245,585678,,,,,,,2023
+59,Mikyla Grant-Mentis,F,2,1,3,2,0,5,0,0,0,1 - 12,0.077,0,0,5,0,1,12,Buffalo Beauts,stats#/player/532475,532475,585678,,,,,,,2023
+16,Emma Nuutinen,F,2,0,2,2,0,2,0,0,0,0 - 1,0,1,0,2,0,0,1,Buffalo Beauts,stats#/player/1179125,1179125,585678,,,,,,,2023
+23,Antonia Matzka,D,0,1,1,0,0,0,0,0,0,0 - 0,0,0,0,0,0,0,0,Buffalo Beauts,stats#/player/1179126,1179126,585678,,,,,,,2023
+42,Courtney Maud,F,0,1,1,0,0,3,0,0,0,0 - 3,0,0,0,3,0,0,3,Buffalo Beauts,stats#/player/1159200,1159200,585678,,,,,,,2023
+67,Summer-Rae Dobson,F,0,1,1,0,0,0,0,0,0,2 - 2,0.5,0,0,0,0,2,2,Buffalo Beauts,stats#/player/1259841,1259841,585678,,,,,,,2023
+77,Whitney Dove,D,0,1,1,0,0,6,0,0,0,0 - 0,0,0,0,7,1,0,0,Buffalo Beauts,stats#/player/632942,632942,585678,,,,,,,2023
+2,Samantha Fieseler,D,0,0,0,2,0,0,0,0,0,0 - 0,0,0,0,1,1,0,0,Buffalo Beauts,stats#/player/814845,814845,585678,,,,,,,2023
+4,Maggie Knott,F,0,0,0,0,0,1,0,0,0,5 - 4,0.556,0,0,1,0,5,4,Buffalo Beauts,stats#/player/1499233,1499233,585678,,,,,,,2023
+9,Kristina Schuler,F,0,0,0,0,0,0,0,0,0,0 - 0,0,0,0,0,0,0,0,Buffalo Beauts,stats#/player/1522428,1522428,585678,,,,,,,2023
+10,Maddie Truax,D,0,0,0,0,0,2,0,0,0,0 - 0,0,0,0,2,0,0,0,Buffalo Beauts,stats#/player/1259837,1259837,585678,,,,,,,2023
+11,Madi Nichols,F,0,0,0,0,0,3,0,0,0,0 - 0,0,0,0,3,0,0,0,Buffalo Beauts,stats#/player/1259838,1259838,585678,,,,,,,2023
+13,Dominique Kremer,D,0,0,0,0,0,1,2,0,0,0 - 0,0,0,0,2,1,0,0,Buffalo Beauts,stats#/player/632881,632881,585678,,,,,,,2023
+17,Cassidy MacPherson,F,0,0,0,2,0,2,0,0,0,12 - 3,0.8,0,0,2,0,12,3,Buffalo Beauts,stats#/player/431630,431630,585678,,,,,,,2023
+24,Anjelica Diffendal,F,0,0,0,0,0,1,0,0,0,0 - 0,0,0,0,1,0,0,0,Buffalo Beauts,stats#/player/811831,811831,585678,,,,,,,2023
+34,Claudia Kepler,F,0,0,0,0,0,2,0,0,0,0 - 0,0,0,0,3,1,0,0,Buffalo Beauts,stats#/player/1020524,1020524,585678,,,,,,,2023
+44,Jenna Suokko,F,0,0,0,0,0,1,0,0,0,0 - 0,0,0,0,1,0,0,0,Buffalo Beauts,stats#/player/828439,828439,585678,,,,,,,2023
+47,Jessica Healey,D,0,0,0,0,0,2,0,0,0,0 - 0,0,0,0,2,0,0,0,Buffalo Beauts,stats#/player/1159201,1159201,585678,,,,,,,2023
+94,Grace Klienbach,F,0,0,0,0,0,0,0,0,0,6 - 4,0.6,0,0,0,0,6,4,Buffalo Beauts,stats#/player/827706,827706,585678,,,,,,,2023
+35,Jenna Brenneman,G,0,0,,0,,,,,,,,,,,,,,Minnesota Whitecaps,,977772,585678,58:03,31,4,27,0.871,stats#/player/977772,2023
+39,Chantal Burke,G,0,0,,0,,,,,,,,,,,,,,Minnesota Whitecaps,,1513123,585678,00:00,0,0,0,0,stats#/player/1513123,2023
+35,Samantha Ridgewell,G,0,0,,0,,,,,,,,,,,,,,Buffalo Beauts,,543985,585678,00:00,0,0,0,0,stats#/player/543985,2023
+88,Lovisa Berndtsson,G,0,0,,0,,,,,,,,,,,,,,Buffalo Beauts,,824067,585678,60:00,29,2,27,0.931,stats#/player/824067,2023
+8,Alyssa Wohlfeiler,F,1,1,2,0,0,2,0,0,0,0 - 0,0,1,0,2,0,0,0,Connecticut Whale,stats#/player/57768,57768,585676,,,,,,,2023
+12,Allie Munroe,D,0,1,1,0,0,2,2,0,0,0 - 0,0,0,0,3,1,0,0,Connecticut Whale,stats#/player/966982,966982,585676,,,,,,,2023
+17,Taylor Girard,F,1,0,1,0,0,2,0,0,0,0 - 0,0,1,0,2,0,0,0,Connecticut Whale,stats#/player/966983,966983,585676,,,,,,,2023
+22,Kennedy Marchment,F,0,1,1,0,0,6,2,0,0,6 - 17,0.261,0,0,7,1,6,17,Connecticut Whale,stats#/player/966985,966985,585676,,,,,,,2023
+97,Caitrin Lonergan,F,1,0,1,2,0,3,0,0,0,6 - 8,0.429,0,0,3,0,6,8,Connecticut Whale,stats#/player/1231901,1231901,585676,,,,,,,2023
+5,Tori Howran,D,0,0,0,2,0,0,1,0,0,0 - 0,0,0,0,0,0,0,0,Connecticut Whale,stats#/player/1478285,1478285,585676,,,,,,,2023
+6,Shannon Turner,D,0,0,0,2,0,0,0,0,0,0 - 0,0,0,0,3,3,0,0,Connecticut Whale,stats#/player/967608,967608,585676,,,,,,,2023
+7,Rachel Ade,F,0,0,0,0,0,1,0,0,0,0 - 0,0,0,0,1,0,0,0,Connecticut Whale,stats#/player/468608,468608,585676,,,,,,,2023
+9,Tori Sullivan,F,0,0,0,0,0,1,0,0,0,0 - 0,0,0,0,1,0,0,0,Connecticut Whale,stats#/player/431622,431622,585676,,,,,,,2023
+11,Melissa Samoskevich,F,0,0,0,0,0,1,0,0,0,0 - 0,0,0,0,1,0,0,0,Connecticut Whale,stats#/player/1041703,1041703,585676,,,,,,,2023
+14,Justine Reyes,F,0,0,0,0,0,5,0,0,0,0 - 0,0,0,0,7,2,0,0,Connecticut Whale,stats#/player/1231942,1231942,585676,,,,,,,2023
+15,Emma Vlasic,F,0,0,0,0,0,1,0,0,0,4 - 2,0.667,0,0,1,0,4,2,Connecticut Whale,stats#/player/431646,431646,585676,,,,,,,2023
+18,Hannah Bates,D,0,0,0,0,0,2,0,0,0,0 - 0,0,0,0,3,1,0,0,Connecticut Whale,stats#/player/966984,966984,585676,,,,,,,2023
+21,Emma Keenan,D,0,0,0,0,0,2,0,0,0,0 - 0,0,0,0,2,0,0,0,Connecticut Whale,stats#/player/788423,788423,585676,,,,,,,2023
+24,Janine Weber,F,0,0,0,0,0,2,0,0,0,0 - 0,0,0,0,3,1,0,0,Connecticut Whale,stats#/player/513300,513300,585676,,,,,,,2023
+27,Janka Hlinka,F,0,0,0,0,0,3,0,0,0,0 - 0,0,0,0,3,0,0,0,Connecticut Whale,stats#/player/966992,966992,585676,,,,,,,2023
+47,Lenka Serdar,F,0,0,0,0,0,0,0,0,0,4 - 8,0.333,0,0,0,0,4,8,Connecticut Whale,stats#/player/1231944,1231944,585676,,,,,,,2023
+88,Amanda Conway,F,0,0,0,0,0,3,0,0,0,0 - 0,0,0,0,3,0,0,0,Connecticut Whale,stats#/player/707073,707073,585676,,,,,,,2023
+67,Emma Woods,F,1,1,2,0,0,2,0,0,0,0 - 0,0,0,0,2,0,0,0,Toronto Six,stats#/player/630149,630149,585676,,,,,,,2023
+86,Michela Cava,F,0,2,2,0,0,2,1,0,0,0 - 0,0,0,0,2,0,0,0,Toronto Six,stats#/player/963636,963636,585676,,,,,,,2023
+96,Dominika Lásková,D,0,2,2,2,0,0,0,0,0,6 - 2,0.75,0,0,0,0,6,2,Toronto Six,stats#/player/1234871,1234871,585676,,,,,,,2023
+8,Leah Lum,F,1,0,1,0,0,3,0,0,0,0 - 0,0,1,0,4,1,0,0,Toronto Six,stats#/player/1269506,1269506,585676,,,,,,,2023
+10,Lexi Templeman,F,1,0,1,0,0,1,0,0,0,4 - 3,0.571,1,0,1,0,4,3,Toronto Six,stats#/player/1220078,1220078,585676,,,,,,,2023
+14,Courtney Gardiner,F,1,0,1,0,0,2,0,0,0,0 - 0,0,0,0,3,1,0,0,Toronto Six,stats#/player/1220094,1220094,585676,,,,,,,2023
+19,Brooke Boquist,F,0,1,1,0,0,2,0,0,0,0 - 0,0,0,0,2,0,0,0,Toronto Six,stats#/player/543984,543984,585676,,,,,,,2023
+27,Shiann Darkangelo,F,1,0,1,0,0,4,0,0,0,16 - 6,0.727,0,0,4,0,16,6,Toronto Six,stats#/player/542419,542419,585676,,,,,,,2023
+44,Lindsay Eastwood,D,0,1,1,0,0,0,1,0,0,0 - 0,0,0,0,0,0,0,0,Toronto Six,stats#/player/630139,630139,585676,,,,,,,2023
+2,Taylor Woods,D,0,0,0,0,0,1,1,0,0,0 - 0,0,0,0,1,0,0,0,Toronto Six,stats#/player/542421,542421,585676,,,,,,,2023
+3,Nadine Edney,F,0,0,0,0,0,2,0,0,0,0 - 0,0,0,0,2,0,0,0,Toronto Six,stats#/player/1220796,1220796,585676,,,,,,,2023
+4,Daryl Watts,F,0,0,0,0,0,0,1,0,0,0 - 0,0,0,0,0,0,0,0,Toronto Six,stats#/player/1478103,1478103,585676,,,,,,,2023
+9,Kati Tabin,D,0,0,0,0,0,2,0,0,0,0 - 0,0,0,0,3,1,0,0,Toronto Six,stats#/player/1220085,1220085,585676,,,,,,,2023
+11,Breanne Wilson-Bennett,F,0,0,0,2,0,2,1,0,0,9 - 9,0.5,0,0,3,1,9,9,Toronto Six,stats#/player/630148,630148,585676,,,,,,,2023
+20,Taylor Davison,D,0,0,0,0,0,1,0,0,0,0 - 0,0,0,0,1,0,0,0,Toronto Six,stats#/player/881569,881569,585676,,,,,,,2023
+25,Emma Greco,D,0,0,0,2,0,1,2,0,0,0 - 0,0,0,0,1,0,0,0,Toronto Six,stats#/player/542420,542420,585676,,,,,,,2023
+48,Alexis Woloschuk,D,0,0,0,0,0,0,0,0,0,0 - 0,0,0,0,0,0,0,0,Toronto Six,stats#/player/1220797,1220797,585676,,,,,,,2023
+71,Saroya Tinker,D,0,0,0,0,0,0,2,0,0,0 - 0,0,0,0,1,1,0,0,Toronto Six,stats#/player/879727,879727,585676,,,,,,,2023
+35,Abbie Ives,G,0,0,,0,,,,,,,,,,,,,,Connecticut Whale,,707072,585676,60:00,25,5,20,0.8,stats#/player/707072,2023
+81,Meeri Raisanen,G,0,0,,0,,,,,,,,,,,,,,Connecticut Whale,,468605,585676,00:00,0,0,0,0,stats#/player/468605,2023
+29,Elaine Chuli,G,0,0,,0,,,,,,,,,,,,,,Toronto Six,,542418,585676,60:00,36,3,33,0.917,stats#/player/542418,2023
+70,Carly Jackson,G,0,0,,0,,,,,,,,,,,,,,Toronto Six,,1220081,585676,00:00,0,0,0,0,stats#/player/1220081,2023
+11,Breanne Wilson-Bennett,F,1,0,1,0,0,1,0,1,0,8 - 5,0.615,0,0,1,0,8,5,Toronto Six,stats#/player/630148,630148,612260,,,,,,,2023
+14,Courtney Gardiner,F,0,1,1,0,0,0,0,0,1,0 - 0,0,0,0,1,1,0,0,Toronto Six,stats#/player/1220094,1220094,612260,,,,,,,2023
+21,Tereza Vanišová,F,0,1,1,0,0,3,0,0,1,0 - 1,0,0,0,3,0,0,1,Toronto Six,stats#/player/627752,627752,612260,,,,,,,2023
+27,Shiann Darkangelo,F,1,0,1,0,0,5,1,0,0,16 - 10,0.615,0,0,5,0,16,10,Toronto Six,stats#/player/542419,542419,612260,,,,,,,2023
+86,Michela Cava,F,0,1,1,0,0,4,0,0,0,0 - 2,0,0,0,6,2,0,2,Toronto Six,stats#/player/963636,963636,612260,,,,,,,2023
+2,Taylor Woods,D,0,0,0,0,0,0,0,0,0,0 - 0,0,0,0,1,1,0,0,Toronto Six,stats#/player/542421,542421,612260,,,,,,,2023
+3,Nadine Edney,F,0,0,0,0,0,0,0,0,0,0 - 0,0,0,0,0,0,0,0,Toronto Six,stats#/player/1220796,1220796,612260,,,,,,,2023
+4,Daryl Watts,F,0,0,0,4,0,2,0,0,0,0 - 0,0,0,0,3,1,0,0,Toronto Six,stats#/player/1478103,1478103,612260,,,,,,,2023
+8,Leah Lum,F,0,0,0,0,0,0,0,1,1,0 - 0,0,0,0,0,0,0,0,Toronto Six,stats#/player/1269506,1269506,612260,,,,,,,2023
+9,Kati Tabin,D,0,0,0,0,0,2,0,0,0,0 - 0,0,0,0,4,2,0,0,Toronto Six,stats#/player/1220085,1220085,612260,,,,,,,2023
+10,Lexi Templeman,F,0,0,0,0,0,0,0,0,0,2 - 0,1,0,0,0,0,2,0,Toronto Six,stats#/player/1220078,1220078,612260,,,,,,,2023
+19,Brooke Boquist,F,0,0,0,0,0,1,0,0,1,0 - 0,0,0,0,1,0,0,0,Toronto Six,stats#/player/543984,543984,612260,,,,,,,2023
+20,Taylor Davison,D,0,0,0,4,0,1,0,0,0,0 - 0,0,0,0,1,0,0,0,Toronto Six,stats#/player/881569,881569,612260,,,,,,,2023
+25,Emma Greco,D,0,0,0,0,0,0,0,0,0,0 - 0,0,0,0,1,1,0,0,Toronto Six,stats#/player/542420,542420,612260,,,,,,,2023
+44,Lindsay Eastwood,D,0,0,0,2,0,1,1,2,0,0 - 0,0,0,0,2,1,0,0,Toronto Six,stats#/player/630139,630139,612260,,,,,,,2023
+67,Emma Woods,F,0,0,0,0,0,2,0,1,0,0 - 0,0,0,0,3,1,0,0,Toronto Six,stats#/player/630149,630149,612260,,,,,,,2023
+71,Saroya Tinker,D,0,0,0,0,0,2,1,0,0,0 - 0,0,0,0,2,0,0,0,Toronto Six,stats#/player/879727,879727,612260,,,,,,,2023
+96,Dominika Lásková,D,0,0,0,0,0,0,0,1,0,2 - 7,0.222,0,0,0,0,2,7,Toronto Six,stats#/player/1234871,1234871,612260,,,,,,,2023
+9,Kim Deschênes,F,0,1,1,4,0,3,0,1,0,0 - 0,0,0,0,3,0,0,0,Montreal Force,stats#/player/1262657,1262657,612260,,,,,,,2023
+13,Alexandra Labelle,F,1,0,1,2,0,2,1,0,1,6 - 7,0.462,0,0,2,0,6,7,Montreal Force,stats#/player/1262659,1262659,612260,,,,,,,2023
+17,Christine Deaudelin,D,0,1,1,0,0,3,1,0,0,0 - 0,0,0,0,4,1,0,0,Montreal Force,stats#/player/1262665,1262665,612260,,,,,,,2023
+3,Brooke Stacey,F,0,0,0,0,0,1,0,1,0,0 - 0,0,0,0,1,0,0,0,Montreal Force,stats#/player/1262495,1262495,612260,,,,,,,2023
+4,Taylor Baker,D,0,0,0,2,0,2,2,0,0,0 - 0,0,0,0,2,0,0,0,Montreal Force,stats#/player/1405323,1405323,612260,,,,,,,2023
+5,Samantha Isbell,F,0,0,0,0,0,2,0,0,0,0 - 0,0,0,0,2,0,0,0,Montreal Force,stats#/player/1262492,1262492,612260,,,,,,,2023
+7,Kristina Shanahan,F,0,0,0,0,0,1,0,0,0,0 - 0,0,0,0,1,0,0,0,Montreal Force,stats#/player/1262661,1262661,612260,,,,,,,2023
+8,Kaity Howarth,D,0,0,0,2,0,0,0,0,0,0 - 0,0,0,0,0,0,0,0,Montreal Force,stats#/player/1262488,1262488,612260,,,,,,,2023
+12,Catherine Daoust,D,0,0,0,0,0,0,0,0,2,1 - 0,1,0,0,1,1,1,0,Montreal Force,stats#/player/1262664,1262664,612260,,,,,,,2023
+16,Sarah Lefort,F,0,0,0,0,0,0,1,0,0,0 - 0,0,0,0,0,0,0,0,Montreal Force,stats#/player/1262660,1262660,612260,,,,,,,2023
+18,Deziray De Sousa,F,0,0,0,0,0,1,0,0,0,0 - 0,0,0,0,1,0,0,0,Montreal Force,stats#/player/1405445,1405445,612260,,,,,,,2023
+23,Gabrielle De Serres,D,0,0,0,2,0,0,1,0,1,0 - 0,0,0,0,0,0,0,0,Montreal Force,stats#/player/1405324,1405324,612260,,,,,,,2023
+24,Ann-Sophie Bettez,F,0,0,0,2,0,3,1,0,0,0 - 0,0,0,0,3,0,0,0,Montreal Force,stats#/player/1492453,1492453,612260,,,,,,,2023
+25,Alyssa Holmes,F,0,0,0,0,0,3,1,0,1,4 - 3,0.571,0,0,3,0,4,3,Montreal Force,stats#/player/1262490,1262490,612260,,,,,,,2023
+26,Brigitte Laganière,D,0,0,0,0,0,1,1,1,0,0 - 0,0,0,0,2,1,0,0,Montreal Force,stats#/player/1262662,1262662,612260,,,,,,,2023
+27,Jade Downie-Landry,F,0,0,0,0,0,1,0,1,0,9 - 13,0.409,0,0,1,0,9,13,Montreal Force,stats#/player/1262658,1262658,612260,,,,,,,2023
+28,Catherine Dubois,F,0,0,0,0,0,0,1,0,1,5 - 5,0.5,0,0,0,0,5,5,Montreal Force,stats#/player/1262663,1262663,612260,,,,,,,2023
+90,Autumn MacDougall,F,0,0,0,0,0,1,0,0,0,0 - 0,0,0,0,1,0,0,0,Montreal Force,stats#/player/632861,632861,612260,,,,,,,2023
+29,Elaine Chuli,G,0,0,,0,,,,,,,,,,,,,,Toronto Six,,542418,612260,60:00,24,1,23,0.958,stats#/player/542418,2023
+70,Carly Jackson,G,0,0,,0,,,,,,,,,,,,,,Toronto Six,,1220081,612260,00:00,0,0,0,0,stats#/player/1220081,2023
+33,Tricia Deguire,G,0,0,,0,,,,,,,,,,,,,,Montreal Force,,1262666,612260,58:19,24,2,22,0.917,stats#/player/1262666,2023
+39,Marie-Soleil Deschênes,G,0,0,,0,,,,,,,,,,,,,,Montreal Force,,1262486,612260,00:00,0,0,0,0,stats#/player/1262486,2023
+2,Taylor Woods,D,0,0,0,0,0,2,0,1,1,0 - 0,0,0,0,2,0,0,0,Toronto Six,stats#/player/542421,542421,585674,,,,,,,2023
+3,Nadine Edney,F,0,0,0,0,0,0,0,0,0,0 - 0,0,0,0,0,0,0,0,Toronto Six,stats#/player/1220796,1220796,585674,,,,,,,2023
+4,Daryl Watts,F,0,0,0,0,0,0,0,0,0,0 - 0,0,0,0,2,2,0,0,Toronto Six,stats#/player/1478103,1478103,585674,,,,,,,2023
+8,Leah Lum,F,0,0,0,0,0,2,0,0,0,0 - 0,0,0,0,3,1,0,0,Toronto Six,stats#/player/1269506,1269506,585674,,,,,,,2023
+9,Kati Tabin,D,0,0,0,0,0,7,0,1,0,0 - 0,0,0,0,8,1,0,0,Toronto Six,stats#/player/1220085,1220085,585674,,,,,,,2023
+10,Lexi Templeman,F,0,0,0,0,0,2,1,0,1,6 - 8,0.429,0,0,3,1,6,8,Toronto Six,stats#/player/1220078,1220078,585674,,,,,,,2023
+11,Breanne Wilson-Bennett,F,0,0,0,0,0,2,0,0,0,13 - 8,0.619,0,0,2,0,13,8,Toronto Six,stats#/player/630148,630148,585674,,,,,,,2023
+14,Courtney Gardiner,F,0,0,0,2,0,0,0,1,0,0 - 0,0,0,0,0,0,0,0,Toronto Six,stats#/player/1220094,1220094,585674,,,,,,,2023
+19,Brooke Boquist,F,0,0,0,0,0,1,0,0,0,0 - 0,0,0,0,1,0,0,0,Toronto Six,stats#/player/543984,543984,585674,,,,,,,2023
+20,Taylor Davison,D,0,0,0,0,0,2,1,0,0,0 - 1,0,0,0,2,0,0,1,Toronto Six,stats#/player/881569,881569,585674,,,,,,,2023
+21,Tereza Vanišová,F,0,0,0,0,0,3,0,0,0,0 - 0,0,0,0,3,0,0,0,Toronto Six,stats#/player/627752,627752,585674,,,,,,,2023
+25,Emma Greco,D,0,0,0,0,0,0,1,1,0,0 - 0,0,0,0,1,1,0,0,Toronto Six,stats#/player/542420,542420,585674,,,,,,,2023
+27,Shiann Darkangelo,F,0,0,0,0,0,3,0,2,1,18 - 8,0.692,0,0,3,0,18,8,Toronto Six,stats#/player/542419,542419,585674,,,,,,,2023
+44,Lindsay Eastwood,D,0,0,0,2,0,2,1,0,0,0 - 0,0,0,0,2,0,0,0,Toronto Six,stats#/player/630139,630139,585674,,,,,,,2023
+67,Emma Woods,F,0,0,0,0,0,3,1,0,0,0 - 0,0,0,0,5,2,0,0,Toronto Six,stats#/player/630149,630149,585674,,,,,,,2023
+71,Saroya Tinker,D,0,0,0,0,0,2,2,0,0,0 - 0,0,0,0,2,0,0,0,Toronto Six,stats#/player/879727,879727,585674,,,,,,,2023
+86,Michela Cava,F,0,0,0,2,0,7,0,1,0,1 - 0,1,0,0,8,1,1,0,Toronto Six,stats#/player/963636,963636,585674,,,,,,,2023
+96,Dominika Lásková,D,0,0,0,0,0,1,0,1,1,2 - 2,0.5,0,0,1,0,2,2,Toronto Six,stats#/player/1234871,1234871,585674,,,,,,,2023
+16,Sarah Lefort,F,1,1,2,0,0,11,1,0,0,0 - 0,0,1,0,11,0,0,0,Montreal Force,stats#/player/1262660,1262660,585674,,,,,,,2023
+5,Samantha Isbell,F,1,0,1,2,0,1,0,0,0,0 - 0,0,0,0,2,1,0,0,Montreal Force,stats#/player/1262492,1262492,585674,,,,,,,2023
+12,Catherine Daoust,D,0,1,1,0,0,0,2,0,0,0 - 0,0,0,0,0,0,0,0,Montreal Force,stats#/player/1262664,1262664,585674,,,,,,,2023
+13,Alexandra Labelle,F,0,1,1,0,0,2,0,0,0,10 - 20,0.333,0,0,3,1,10,20,Montreal Force,stats#/player/1262659,1262659,585674,,,,,,,2023
+23,Gabrielle De Serres,D,0,1,1,0,0,0,1,0,0,0 - 1,0,0,0,0,0,0,1,Montreal Force,stats#/player/1405324,1405324,585674,,,,,,,2023
+24,Ann-Sophie Bettez,F,1,0,1,0,0,5,1,1,1,0 - 0,0,0,0,5,0,0,0,Montreal Force,stats#/player/1492453,1492453,585674,,,,,,,2023
+27,Jade Downie-Landry,F,0,1,1,2,0,3,1,0,1,7 - 8,0.467,0,0,4,1,7,8,Montreal Force,stats#/player/1262658,1262658,585674,,,,,,,2023
+3,Brooke Stacey,F,0,0,0,0,0,0,0,0,0,0 - 0,0,0,0,0,0,0,0,Montreal Force,stats#/player/1262495,1262495,585674,,,,,,,2023
+4,Taylor Baker,D,0,0,0,0,0,0,1,0,0,0 - 0,0,0,0,1,1,0,0,Montreal Force,stats#/player/1405323,1405323,585674,,,,,,,2023
+7,Kristina Shanahan,F,0,0,0,0,0,1,0,0,0,0 - 0,0,0,0,1,0,0,0,Montreal Force,stats#/player/1262661,1262661,585674,,,,,,,2023
+8,Kaity Howarth,D,0,0,0,0,0,0,0,0,0,0 - 0,0,0,0,0,0,0,0,Montreal Force,stats#/player/1262488,1262488,585674,,,,,,,2023
+9,Kim Deschênes,F,0,0,0,0,0,0,1,2,2,0 - 0,0,0,0,1,1,0,0,Montreal Force,stats#/player/1262657,1262657,585674,,,,,,,2023
+17,Christine Deaudelin,D,0,0,0,0,0,3,0,0,0,0 - 0,0,0,0,3,0,0,0,Montreal Force,stats#/player/1262665,1262665,585674,,,,,,,2023
+18,Deziray De Sousa,F,0,0,0,0,0,4,0,0,0,0 - 0,0,0,0,4,0,0,0,Montreal Force,stats#/player/1405445,1405445,585674,,,,,,,2023
+25,Alyssa Holmes,F,0,0,0,0,0,1,0,0,0,1 - 5,0.167,0,0,1,0,1,5,Montreal Force,stats#/player/1262490,1262490,585674,,,,,,,2023
+26,Brigitte Laganière,D,0,0,0,0,0,1,1,0,3,0 - 0,0,0,0,2,1,0,0,Montreal Force,stats#/player/1262662,1262662,585674,,,,,,,2023
+28,Catherine Dubois,F,0,0,0,0,0,1,0,0,0,9 - 6,0.6,0,0,1,0,9,6,Montreal Force,stats#/player/1262663,1262663,585674,,,,,,,2023
+90,Autumn MacDougall,F,0,0,0,0,0,1,0,0,1,0 - 0,0,0,0,2,1,0,0,Montreal Force,stats#/player/632861,632861,585674,,,,,,,2023
+29,Elaine Chuli,G,0,0,,0,,,,,,,,,,,,,,Toronto Six,,542418,585674,58:14,33,2,31,0.939,stats#/player/542418,2023
+70,Carly Jackson,G,0,0,,0,,,,,,,,,,,,,,Toronto Six,,1220081,585674,00:00,0,0,0,0,stats#/player/1220081,2023
+33,Tricia Deguire,G,0,0,,0,,,,,,,,,,,,,,Montreal Force,,1262666,585674,60:00,39,0,39,1,stats#/player/1262666,2023
+39,Marie-Soleil Deschênes,G,0,0,,0,,,,,,,,,,,,,,Montreal Force,,1262486,585674,00:00,0,0,0,0,stats#/player/1262486,2023
+8,Kaity Howarth,D,0,1,1,0,0,2,1,0,0,0 - 0,0,0,0,2,0,0,0,Montreal Force,stats#/player/1262488,1262488,585668,,,,,,,2023
+13,Alexandra Labelle,F,1,0,1,0,0,3,0,0,0,10 - 5,0.667,0,0,4,1,10,5,Montreal Force,stats#/player/1262659,1262659,585668,,,,,,,2023
+17,Christine Deaudelin,D,0,1,1,2,0,2,0,0,0,0 - 0,0,0,0,2,0,0,0,Montreal Force,stats#/player/1262665,1262665,585668,,,,,,,2023
+24,Ann-Sophie Bettez,F,1,0,1,0,0,4,0,0,0,1 - 0,1,0,0,4,0,1,0,Montreal Force,stats#/player/1492453,1492453,585668,,,,,,,2023
+26,Brigitte Laganière,D,0,1,1,0,0,0,0,0,0,0 - 0,0,0,0,2,2,0,0,Montreal Force,stats#/player/1262662,1262662,585668,,,,,,,2023
+90,Autumn MacDougall,F,0,1,1,0,0,2,0,0,0,0 - 0,0,0,0,2,0,0,0,Montreal Force,stats#/player/632861,632861,585668,,,,,,,2023
+3,Brooke Stacey,F,0,0,0,0,0,2,0,0,0,0 - 0,0,0,0,2,0,0,0,Montreal Force,stats#/player/1262495,1262495,585668,,,,,,,2023
+4,Taylor Baker,D,0,0,0,0,0,1,2,0,0,0 - 0,0,0,0,3,2,0,0,Montreal Force,stats#/player/1405323,1405323,585668,,,,,,,2023
+5,Samantha Isbell,F,0,0,0,0,0,1,0,0,0,0 - 0,0,0,0,1,0,0,0,Montreal Force,stats#/player/1262492,1262492,585668,,,,,,,2023
+7,Kristina Shanahan,F,0,0,0,0,0,0,0,0,0,0 - 0,0,0,0,0,0,0,0,Montreal Force,stats#/player/1262661,1262661,585668,,,,,,,2023
+9,Kim Deschênes,F,0,0,0,0,0,1,0,0,0,0 - 0,0,0,0,2,1,0,0,Montreal Force,stats#/player/1262657,1262657,585668,,,,,,,2023
+12,Catherine Daoust,D,0,0,0,0,0,1,1,0,0,0 - 0,0,0,0,2,1,0,0,Montreal Force,stats#/player/1262664,1262664,585668,,,,,,,2023
+18,Deziray De Sousa,F,0,0,0,0,0,1,0,0,0,0 - 0,0,0,0,1,0,0,0,Montreal Force,stats#/player/1405445,1405445,585668,,,,,,,2023
+25,Alyssa Holmes,F,0,0,0,0,0,0,0,0,0,2 - 4,0.333,0,0,1,1,2,4,Montreal Force,stats#/player/1262490,1262490,585668,,,,,,,2023
+27,Jade Downie-Landry,F,0,0,0,0,0,5,0,0,0,5 - 11,0.313,0,0,6,1,5,11,Montreal Force,stats#/player/1262658,1262658,585668,,,,,,,2023
+28,Catherine Dubois,F,0,0,0,2,0,3,1,0,0,8 - 6,0.571,0,0,4,1,8,6,Montreal Force,stats#/player/1262663,1262663,585668,,,,,,,2023
+29,Laura Jardin,F,0,0,0,0,0,0,1,0,0,0 - 0,0,0,0,0,0,0,0,Montreal Force,stats#/player/1405447,1405447,585668,,,,,,,2023
+60,Sally Hoerr,D,0,0,0,0,0,1,1,0,0,0 - 0,0,0,0,1,0,0,0,Montreal Force,stats#/player/1405322,1405322,585668,,,,,,,2023
+28,Amanda Boulier,D,0,2,2,0,0,1,0,0,0,0 - 0,0,0,0,2,1,0,0,Minnesota Whitecaps,stats#/player/431662,431662,585668,,,,,,,2023
+41,Denisa Krizova,F,1,1,2,0,0,4,1,0,0,0 - 0,0,0,0,4,0,0,0,Minnesota Whitecaps,stats#/player/1373245,1373245,585668,,,,,,,2023
+11,Brittyn Fleming,F,1,0,1,0,0,5,0,0,0,2 - 5,0.286,0,0,5,0,2,5,Minnesota Whitecaps,stats#/player/1373232,1373232,585668,,,,,,,2023
+13,Ashleigh Brykaliuk,F,1,0,1,2,0,3,1,0,0,8 - 6,0.571,0,0,3,0,8,6,Minnesota Whitecaps,stats#/player/949961,949961,585668,,,,,,,2023
+14,Sydney Brodt,F,0,1,1,2,0,2,1,0,0,2 - 0,1,0,0,4,2,2,0,Minnesota Whitecaps,stats#/player/1445700,1445700,585668,,,,,,,2023
+18,Stephanie Anderson,F,0,1,1,2,0,1,0,0,0,2 - 1,0.667,0,0,1,0,2,1,Minnesota Whitecaps,stats#/player/431659,431659,585668,,,,,,,2023
+3,Jonna Albers,F,0,0,0,4,0,2,0,0,0,1 - 0,1,0,0,3,1,1,0,Minnesota Whitecaps,stats#/player/1373270,1373270,585668,,,,,,,2023
+5,Sidney Morin,D,0,0,0,0,0,3,2,0,0,0 - 0,0,0,0,4,1,0,0,Minnesota Whitecaps,stats#/player/1373227,1373227,585668,,,,,,,2023
+6,Brooke Madsen,F,0,0,0,0,0,0,0,0,0,0 - 0,0,0,0,0,0,0,0,Minnesota Whitecaps,stats#/player/1373228,1373228,585668,,,,,,,2023
+8,Natalie Snodgrass,F,0,0,0,0,0,3,1,0,0,0 - 0,0,0,0,3,0,0,0,Minnesota Whitecaps,stats#/player/1373230,1373230,585668,,,,,,,2023
+9,Sydney Baldwin,D,0,0,0,0,0,0,0,0,0,0 - 0,0,0,0,1,1,0,0,Minnesota Whitecaps,stats#/player/1086275,1086275,585668,,,,,,,2023
+10,Ronja Mogren,F,0,0,0,0,0,0,0,0,0,0 - 0,0,0,0,0,0,0,0,Minnesota Whitecaps,stats#/player/1373231,1373231,585668,,,,,,,2023
+21,Liz Schepers,F,0,0,0,0,0,6,0,0,0,11 - 14,0.44,0,0,6,0,11,14,Minnesota Whitecaps,stats#/player/1373235,1373235,585668,,,,,,,2023
+24,Olivia Knowles,D,0,0,0,0,0,1,2,0,0,0 - 0,0,0,0,2,1,0,0,Minnesota Whitecaps,stats#/player/1373236,1373236,585668,,,,,,,2023
+27,Patti Marshall,D,0,0,0,0,0,0,0,0,0,0 - 0,0,0,0,0,0,0,0,Minnesota Whitecaps,stats#/player/949970,949970,585668,,,,,,,2023
+33,Maddie Rowe,D,0,0,0,2,0,0,2,0,0,0 - 0,0,0,0,0,0,0,0,Minnesota Whitecaps,stats#/player/707198,707198,585668,,,,,,,2023
+33,Tricia Deguire,G,0,0,,0,,,,,,,,,,,,,,Montreal Force,,1262666,585668,58:31,31,3,28,0.903,stats#/player/1262666,2023
+39,Marie-Soleil Deschênes,G,0,0,,0,,,,,,,,,,,,,,Montreal Force,,1262486,585668,00:00,0,0,0,0,stats#/player/1262486,2023
+29,Amanda Leveille,G,0,0,,0,,,,,,,,,,,,,,Minnesota Whitecaps,,967811,585668,60:00,29,2,27,0.931,stats#/player/967811,2023
+35,Jenna Brenneman,G,0,0,,0,,,,,,,,,,,,,,Minnesota Whitecaps,,977772,585668,00:00,0,0,0,0,stats#/player/977772,2023
+67,Emma Woods,F,1,3,4,0,4,2,1,0,0,1 - 0,1,0,0,3,1,1,0,Toronto Six,stats#/player/630149,630149,585672,,,,,,,2023
+10,Lexi Templeman,F,1,2,3,0,1,1,0,1,0,4 - 8,0.333,1,0,1,0,4,8,Toronto Six,stats#/player/1220078,1220078,585672,,,,,,,2023
+8,Leah Lum,F,0,2,2,0,2,0,0,1,0,0 - 0,0,0,0,0,0,0,0,Toronto Six,stats#/player/1269506,1269506,585672,,,,,,,2023
+9,Kati Tabin,D,0,2,2,4,4,1,0,0,2,0 - 0,0,0,0,1,0,0,0,Toronto Six,stats#/player/1220085,1220085,585672,,,,,,,2023
+11,Breanne Wilson-Bennett,F,1,1,2,2,3,2,0,0,0,11 - 5,0.688,0,0,2,0,11,5,Toronto Six,stats#/player/630148,630148,585672,,,,,,,2023
+21,Tereza Vanišová,F,0,2,2,0,3,0,0,0,0,0 - 0,0,0,0,1,1,0,0,Toronto Six,stats#/player/627752,627752,585672,,,,,,,2023
+27,Shiann Darkangelo,F,1,1,2,0,3,1,0,0,1,13 - 4,0.765,0,0,1,0,13,4,Toronto Six,stats#/player/542419,542419,585672,,,,,,,2023
+4,Daryl Watts,F,1,0,1,0,1,2,0,0,0,0 - 0,0,0,0,2,0,0,0,Toronto Six,stats#/player/1478103,1478103,585672,,,,,,,2023
+19,Brooke Boquist,F,1,0,1,0,1,1,0,0,0,0 - 1,0,0,0,1,0,0,1,Toronto Six,stats#/player/543984,543984,585672,,,,,,,2023
+41,Brittany Howard,F,0,1,1,0,1,4,1,0,0,0 - 1,0,0,0,5,1,0,1,Toronto Six,stats#/player/1220073,1220073,585672,,,,,,,2023
+86,Michela Cava,F,1,0,1,0,1,3,1,0,0,0 - 0,0,1,0,4,1,0,0,Toronto Six,stats#/player/963636,963636,585672,,,,,,,2023
+2,Taylor Woods,D,0,0,0,2,0,0,0,0,0,0 - 0,0,0,0,0,0,0,0,Toronto Six,stats#/player/542421,542421,585672,,,,,,,2023
+14,Courtney Gardiner,F,0,0,0,2,0,1,0,0,0,1 - 0,1,0,0,1,0,1,0,Toronto Six,stats#/player/1220094,1220094,585672,,,,,,,2023
+20,Taylor Davison,D,0,0,0,0,-1,1,0,0,0,0 - 0,0,0,0,2,1,0,0,Toronto Six,stats#/player/881569,881569,585672,,,,,,,2023
+25,Emma Greco,D,0,0,0,2,-1,3,1,0,0,0 - 0,0,0,0,3,0,0,0,Toronto Six,stats#/player/542420,542420,585672,,,,,,,2023
+44,Lindsay Eastwood,D,0,0,0,2,2,0,0,0,0,0 - 0,0,0,0,0,0,0,0,Toronto Six,stats#/player/630139,630139,585672,,,,,,,2023
+71,Saroya Tinker,D,0,0,0,2,0,0,3,1,1,0 - 0,0,0,0,1,1,0,0,Toronto Six,stats#/player/879727,879727,585672,,,,,,,2023
+96,Dominika Lásková,D,0,0,0,0,1,4,0,0,0,5 - 4,0.556,0,0,4,0,5,4,Toronto Six,stats#/player/1234871,1234871,585672,,,,,,,2023
+4,Maggie Knott,F,0,1,1,2,0,2,0,0,0,4 - 4,0.5,0,0,3,1,4,4,Buffalo Beauts,stats#/player/1499233,1499233,585672,,,,,,,2023
+11,Madi Nichols,F,1,0,1,0,-1,1,0,0,0,0 - 0,0,0,0,1,0,0,0,Buffalo Beauts,stats#/player/1259838,1259838,585672,,,,,,,2023
+16,Emma Nuutinen,F,1,0,1,0,0,3,0,1,0,0 - 0,0,0,0,3,0,0,0,Buffalo Beauts,stats#/player/1179125,1179125,585672,,,,,,,2023
+34,Claudia Kepler,F,0,1,1,2,0,2,0,0,0,0 - 0,0,0,0,2,0,0,0,Buffalo Beauts,stats#/player/1020524,1020524,585672,,,,,,,2023
+67,Summer-Rae Dobson,F,0,1,1,2,0,1,0,0,0,0 - 4,0,0,0,1,0,0,4,Buffalo Beauts,stats#/player/1259841,1259841,585672,,,,,,,2023
+10,Maddie Truax,D,0,0,0,0,-2,1,0,0,0,0 - 0,0,0,0,2,1,0,0,Buffalo Beauts,stats#/player/1259837,1259837,585672,,,,,,,2023
+13,Dominique Kremer,D,0,0,0,0,-1,2,0,1,1,1 - 0,1,0,0,3,1,1,0,Buffalo Beauts,stats#/player/632881,632881,585672,,,,,,,2023
+14,Allison Attea,D,0,0,0,0,-2,0,2,0,0,0 - 0,0,0,0,0,0,0,0,Buffalo Beauts,stats#/player/825330,825330,585672,,,,,,,2023
+17,Cassidy MacPherson,F,0,0,0,0,-1,2,0,0,0,4 - 9,0.308,0,0,2,0,4,9,Buffalo Beauts,stats#/player/431630,431630,585672,,,,,,,2023
+23,Antonia Matzka,D,0,0,0,0,-2,0,2,0,0,0 - 0,0,0,0,1,1,0,0,Buffalo Beauts,stats#/player/1179126,1179126,585672,,,,,,,2023
+24,Anjelica Diffendal,F,0,0,0,0,-2,1,0,0,0,0 - 0,0,0,0,2,1,0,0,Buffalo Beauts,stats#/player/811831,811831,585672,,,,,,,2023
+42,Courtney Maud,F,0,0,0,0,-4,1,0,0,1,1 - 0,1,0,0,3,2,1,0,Buffalo Beauts,stats#/player/1159200,1159200,585672,,,,,,,2023
+44,Jenna Suokko,F,0,0,0,0,0,0,0,1,1,0 - 0,0,0,0,0,0,0,0,Buffalo Beauts,stats#/player/828439,828439,585672,,,,,,,2023
+47,Jessica Healey,D,0,0,0,0,-3,0,0,0,0,2 - 2,0.5,0,0,0,0,2,2,Buffalo Beauts,stats#/player/1159201,1159201,585672,,,,,,,2023
+59,Mikyla Grant-Mentis,F,0,0,0,0,-3,1,0,0,0,6 - 13,0.316,0,0,1,0,6,13,Buffalo Beauts,stats#/player/532475,532475,585672,,,,,,,2023
+61,Michaela Boyle,F,0,0,0,2,0,0,2,0,0,0 - 0,0,0,0,0,0,0,0,Buffalo Beauts,stats#/player/1259840,1259840,585672,,,,,,,2023
+77,Whitney Dove,D,0,0,0,0,-1,0,0,1,0,1 - 0,1,0,0,0,0,1,0,Buffalo Beauts,stats#/player/632942,632942,585672,,,,,,,2023
+94,Grace Klienbach,F,0,0,0,0,-1,0,0,0,0,4 - 3,0.571,0,0,0,0,4,3,Buffalo Beauts,stats#/player/827706,827706,585672,,,,,,,2023
+29,Elaine Chuli,G,0,0,,0,,,,,,,,,,,,,,Toronto Six,,542418,585672,00:00,0,0,0,0,stats#/player/542418,2023
+70,Carly Jackson,G,0,0,,0,,,,,,,,,,,,,,Toronto Six,,1220081,585672,60:00,17,2,15,0.882,stats#/player/1220081,2023
+35,Samantha Ridgewell,G,0,0,,0,,,,,,,,,,,,,,Buffalo Beauts,,543985,585672,14:31,2,0,2,1,stats#/player/543985,2023
+88,Lovisa Berndtsson,G,0,0,,0,,,,,,,,,,,,,,Buffalo Beauts,,824067,585672,45:29,24,7,17,0.708,stats#/player/824067,2023
+36,Loren Gabel,F,2,2,4,0,0,6,0,0,0,0 - 1,0,0,0,6,0,0,1,Boston Pride,stats#/player/1389103,1389103,585673,,,,,,,2023
+6,Kali Flanagan,D,0,2,2,2,0,2,0,0,0,0 - 0,0,0,0,2,0,0,0,Boston Pride,stats#/player/1034117,1034117,585673,,,,,,,2023
+8,Élizabeth Giguère,F,1,1,2,0,0,5,0,0,0,0 - 0,0,0,0,6,1,0,0,Boston Pride,stats#/player/1389100,1389100,585673,,,,,,,2023
+3,Olivia Zafuto,D,0,1,1,0,0,0,1,0,0,0 - 0,0,0,0,1,1,0,0,Boston Pride,stats#/player/1389093,1389093,585673,,,,,,,2023
+9,Allie Thunstrom,F,0,1,1,0,0,6,1,0,0,0 - 0,0,0,0,6,0,0,0,Boston Pride,stats#/player/431677,431677,585673,,,,,,,2023
+10,Taylor House,F,1,0,1,0,0,1,0,0,0,4 - 4,0.5,0,0,1,0,4,4,Boston Pride,stats#/player/1389101,1389101,585673,,,,,,,2023
+12,Jenna Rheault,D,0,1,1,0,0,1,1,0,0,0 - 0,0,0,0,2,1,0,0,Boston Pride,stats#/player/431619,431619,585673,,,,,,,2023
+14,Jillian Dempsey,F,1,0,1,0,0,4,1,0,0,16 - 10,0.615,1,0,4,0,16,10,Boston Pride,stats#/player/58116,58116,585673,,,,,,,2023
+21,Christina Putigna,F,0,1,1,0,0,2,1,0,0,0 - 0,0,0,0,2,0,0,0,Boston Pride,stats#/player/431616,431616,585673,,,,,,,2023
+13,Kaleigh Fratkin,D,0,0,0,2,0,1,0,0,0,0 - 0,0,0,0,2,1,0,0,Boston Pride,stats#/player/57735,57735,585673,,,,,,,2023
+17,McKenna Brand,F,0,0,0,0,0,3,0,0,0,5 - 8,0.385,0,0,4,1,5,8,Boston Pride,stats#/player/431610,431610,585673,,,,,,,2023
+18,Taylor Wenczkowski,F,0,0,0,0,0,2,0,0,0,1 - 0,1,0,0,3,1,1,0,Boston Pride,stats#/player/627747,627747,585673,,,,,,,2023
+19,Sammy Davis,F,0,0,0,0,0,0,0,0,0,0 - 0,0,0,0,1,1,0,0,Boston Pride,stats#/player/627751,627751,585673,,,,,,,2023
+29,Kayla Friesen,F,0,0,0,0,0,0,0,0,0,1 - 1,0.5,0,0,0,0,1,1,Boston Pride,stats#/player/856779,856779,585673,,,,,,,2023
+37,Aneta Tejralová,D,0,0,0,0,0,0,2,0,0,0 - 0,0,0,0,0,0,0,0,Boston Pride,stats#/player/1389102,1389102,585673,,,,,,,2023
+42,Meghara McManus,F,0,0,0,0,0,0,0,0,0,0 - 0,0,0,0,0,0,0,0,Boston Pride,stats#/player/627750,627750,585673,,,,,,,2023
+6,Shannon Turner,D,0,1,1,0,0,2,2,0,0,0 - 0,0,0,0,2,0,0,0,Connecticut Whale,stats#/player/967608,967608,585673,,,,,,,2023
+8,Alyssa Wohlfeiler,F,1,0,1,0,0,2,0,0,0,0 - 0,0,0,0,3,1,0,0,Connecticut Whale,stats#/player/57768,57768,585673,,,,,,,2023
+22,Kennedy Marchment,F,0,1,1,0,0,8,0,0,0,4 - 7,0.364,0,0,10,2,4,7,Connecticut Whale,stats#/player/966985,966985,585673,,,,,,,2023
+24,Janine Weber,F,0,1,1,0,0,4,1,0,0,0 - 0,0,0,0,4,0,0,0,Connecticut Whale,stats#/player/513300,513300,585673,,,,,,,2023
+47,Lenka Serdar,F,0,1,1,0,0,4,0,0,0,9 - 3,0.75,0,0,4,0,9,3,Connecticut Whale,stats#/player/1231944,1231944,585673,,,,,,,2023
+97,Caitrin Lonergan,F,1,0,1,0,0,5,0,0,0,4 - 9,0.308,0,0,6,1,4,9,Connecticut Whale,stats#/player/1231901,1231901,585673,,,,,,,2023
+5,Tori Howran,D,0,0,0,0,0,2,0,0,0,0 - 0,0,0,0,2,0,0,0,Connecticut Whale,stats#/player/1478285,1478285,585673,,,,,,,2023
+9,Tori Sullivan,F,0,0,0,0,0,4,0,0,0,0 - 0,0,0,0,4,0,0,0,Connecticut Whale,stats#/player/431622,431622,585673,,,,,,,2023
+11,Melissa Samoskevich,F,0,0,0,2,0,0,0,0,0,0 - 0,0,0,0,0,0,0,0,Connecticut Whale,stats#/player/1041703,1041703,585673,,,,,,,2023
+12,Allie Munroe,D,0,0,0,0,0,6,2,0,0,0 - 0,0,0,0,7,1,0,0,Connecticut Whale,stats#/player/966982,966982,585673,,,,,,,2023
+14,Justine Reyes,F,0,0,0,0,0,3,1,0,0,0 - 0,0,0,0,4,1,0,0,Connecticut Whale,stats#/player/1231942,1231942,585673,,,,,,,2023
+15,Emma Vlasic,F,0,0,0,0,0,2,0,0,0,5 - 4,0.556,0,0,2,0,5,4,Connecticut Whale,stats#/player/431646,431646,585673,,,,,,,2023
+17,Taylor Girard,F,0,0,0,0,0,5,0,0,0,0 - 0,0,0,0,5,0,0,0,Connecticut Whale,stats#/player/966983,966983,585673,,,,,,,2023
+18,Hannah Bates,D,0,0,0,2,0,1,1,0,0,0 - 0,0,0,0,1,0,0,0,Connecticut Whale,stats#/player/966984,966984,585673,,,,,,,2023
+21,Emma Keenan,D,0,0,0,0,0,1,0,0,0,0 - 0,0,0,0,2,1,0,0,Connecticut Whale,stats#/player/788423,788423,585673,,,,,,,2023
+27,Janka Hlinka,F,0,0,0,0,0,0,0,0,0,2 - 4,0.333,0,0,0,0,2,4,Connecticut Whale,stats#/player/966992,966992,585673,,,,,,,2023
+88,Amanda Conway,F,0,0,0,0,0,1,0,0,0,0 - 0,0,0,0,1,0,0,0,Connecticut Whale,stats#/player/707073,707073,585673,,,,,,,2023
+30,Corinne Schroeder,G,0,0,,0,,,,,,,,,,,,,,Boston Pride,,1389104,585673,60:00,50,2,48,0.96,stats#/player/1389104,2023
+35,Lovisa Selander,G,0,0,,0,,,,,,,,,,,,,,Boston Pride,,431620,585673,00:00,0,0,0,0,stats#/player/431620,2023
+35,Abbie Ives,G,0,0,,0,,,,,,,,,,,,,,Connecticut Whale,,707072,585673,60:00,33,5,28,0.848,stats#/player/707072,2023
+81,Meeri Raisanen,G,0,0,,0,,,,,,,,,,,,,,Connecticut Whale,,468605,585673,00:00,0,0,0,0,stats#/player/468605,2023
+3,Brooke Stacey,F,0,1,1,0,0,3,0,0,0,0 - 0,0,0,0,3,0,0,0,Montreal Force,stats#/player/1262495,1262495,585671,,,,,,,2023
+12,Catherine Daoust,D,1,0,1,4,0,4,0,0,0,0 - 0,0,0,0,4,0,0,0,Montreal Force,stats#/player/1262664,1262664,585671,,,,,,,2023
+18,Deziray De Sousa,F,0,1,1,0,0,1,0,0,0,0 - 0,0,0,0,1,0,0,0,Montreal Force,stats#/player/1405445,1405445,585671,,,,,,,2023
+4,Taylor Baker,D,0,0,0,0,0,3,2,0,0,0 - 0,0,0,0,4,1,0,0,Montreal Force,stats#/player/1405323,1405323,585671,,,,,,,2023
+5,Samantha Isbell,F,0,0,0,0,0,1,0,0,0,0 - 0,0,0,0,1,0,0,0,Montreal Force,stats#/player/1262492,1262492,585671,,,,,,,2023
+7,Kristina Shanahan,F,0,0,0,0,0,0,0,0,0,0 - 0,0,0,0,0,0,0,0,Montreal Force,stats#/player/1262661,1262661,585671,,,,,,,2023
+8,Kaity Howarth,D,0,0,0,4,0,0,0,0,0,0 - 0,0,0,0,2,2,0,0,Montreal Force,stats#/player/1262488,1262488,585671,,,,,,,2023
+9,Kim Deschênes,F,0,0,0,0,0,0,0,0,0,0 - 0,0,0,0,0,0,0,0,Montreal Force,stats#/player/1262657,1262657,585671,,,,,,,2023
+13,Alexandra Labelle,F,0,0,0,0,0,2,0,0,0,10 - 6,0.625,0,0,3,1,10,6,Montreal Force,stats#/player/1262659,1262659,585671,,,,,,,2023
+17,Christine Deaudelin,D,0,0,0,0,0,2,2,0,0,0 - 0,0,0,0,2,0,0,0,Montreal Force,stats#/player/1262665,1262665,585671,,,,,,,2023
+23,Gabrielle De Serres,D,0,0,0,0,0,1,0,0,0,0 - 0,0,0,0,1,0,0,0,Montreal Force,stats#/player/1405324,1405324,585671,,,,,,,2023
+24,Ann-Sophie Bettez,F,0,0,0,0,0,4,0,0,0,0 - 0,0,0,0,4,0,0,0,Montreal Force,stats#/player/1492453,1492453,585671,,,,,,,2023
+25,Alyssa Holmes,F,0,0,0,0,0,1,2,0,0,8 - 2,0.8,0,0,1,0,8,2,Montreal Force,stats#/player/1262490,1262490,585671,,,,,,,2023
+26,Brigitte Laganière,D,0,0,0,0,0,4,3,0,0,0 - 0,0,0,0,5,1,0,0,Montreal Force,stats#/player/1262662,1262662,585671,,,,,,,2023
+27,Jade Downie-Landry,F,0,0,0,2,0,2,0,0,0,7 - 14,0.333,0,0,6,4,7,14,Montreal Force,stats#/player/1262658,1262658,585671,,,,,,,2023
+28,Catherine Dubois,F,0,0,0,2,0,0,0,0,0,8 - 4,0.667,0,0,0,0,8,4,Montreal Force,stats#/player/1262663,1262663,585671,,,,,,,2023
+29,Laura Jardin,F,0,0,0,0,0,1,0,0,0,3 - 4,0.429,0,0,1,0,3,4,Montreal Force,stats#/player/1405447,1405447,585671,,,,,,,2023
+90,Autumn MacDougall,F,0,0,0,0,0,0,1,0,0,0 - 0,0,0,0,0,0,0,0,Montreal Force,stats#/player/632861,632861,585671,,,,,,,2023
+3,Jonna Albers,F,1,1,2,0,0,6,0,0,0,0 - 1,0,1,0,7,1,0,1,Minnesota Whitecaps,stats#/player/1373270,1373270,585671,,,,,,,2023
+5,Sidney Morin,D,1,1,2,0,0,6,1,0,0,0 - 0,0,0,0,8,2,0,0,Minnesota Whitecaps,stats#/player/1373227,1373227,585671,,,,,,,2023
+21,Liz Schepers,F,1,1,2,0,0,2,0,0,0,11 - 9,0.55,1,0,2,0,11,9,Minnesota Whitecaps,stats#/player/1373235,1373235,585671,,,,,,,2023
+8,Natalie Snodgrass,F,0,1,1,0,0,6,0,0,0,1 - 1,0.5,0,0,6,0,1,1,Minnesota Whitecaps,stats#/player/1373230,1373230,585671,,,,,,,2023
+11,Brittyn Fleming,F,1,0,1,0,0,3,0,0,0,4 - 6,0.4,0,0,4,1,4,6,Minnesota Whitecaps,stats#/player/1373232,1373232,585671,,,,,,,2023
+27,Patti Marshall,D,0,1,1,0,0,2,1,0,0,2 - 0,1,0,0,2,0,2,0,Minnesota Whitecaps,stats#/player/949970,949970,585671,,,,,,,2023
+6,Brooke Madsen,F,0,0,0,0,0,0,0,0,0,0 - 0,0,0,0,0,0,0,0,Minnesota Whitecaps,stats#/player/1373228,1373228,585671,,,,,,,2023
+9,Sydney Baldwin,D,0,0,0,0,0,2,1,0,0,0 - 2,0,0,0,3,1,0,2,Minnesota Whitecaps,stats#/player/1086275,1086275,585671,,,,,,,2023
+10,Ronja Mogren,F,0,0,0,0,0,0,0,0,0,0 - 0,0,0,0,0,0,0,0,Minnesota Whitecaps,stats#/player/1373231,1373231,585671,,,,,,,2023
+13,Ashleigh Brykaliuk,F,0,0,0,0,0,2,2,0,0,6 - 13,0.316,0,0,3,1,6,13,Minnesota Whitecaps,stats#/player/949961,949961,585671,,,,,,,2023
+14,Sydney Brodt,F,0,0,0,0,0,5,1,0,0,6 - 2,0.75,0,0,5,0,6,2,Minnesota Whitecaps,stats#/player/1445700,1445700,585671,,,,,,,2023
+18,Stephanie Anderson,F,0,0,0,0,0,1,1,0,0,0 - 2,0,0,0,1,0,0,2,Minnesota Whitecaps,stats#/player/431659,431659,585671,,,,,,,2023
+19,Anna Klein,F,0,0,0,0,0,0,1,0,0,0 - 0,0,0,0,1,1,0,0,Minnesota Whitecaps,stats#/player/1373234,1373234,585671,,,,,,,2023
+24,Olivia Knowles,D,0,0,0,6,0,2,0,0,0,0 - 0,0,0,0,2,0,0,0,Minnesota Whitecaps,stats#/player/1373236,1373236,585671,,,,,,,2023
+28,Amanda Boulier,D,0,0,0,0,0,4,1,0,0,0 - 0,0,0,0,7,3,0,0,Minnesota Whitecaps,stats#/player/431662,431662,585671,,,,,,,2023
+33,Maddie Rowe,D,0,0,0,0,0,0,0,0,0,0 - 0,0,0,0,0,0,0,0,Minnesota Whitecaps,stats#/player/707198,707198,585671,,,,,,,2023
+41,Denisa Krizova,F,0,0,0,2,0,1,0,0,0,0 - 0,0,0,0,1,0,0,0,Minnesota Whitecaps,stats#/player/1373245,1373245,585671,,,,,,,2023
+33,Tricia Deguire,G,0,0,,0,,,,,,,,,,,,,,Montreal Force,,1262666,585671,58:55,40,2,38,0.95,stats#/player/1262666,2023
+39,Marie-Soleil Deschênes,G,0,0,,0,,,,,,,,,,,,,,Montreal Force,,1262486,585671,00:00,0,0,0,0,stats#/player/1262486,2023
+29,Amanda Leveille,G,0,0,,0,,,,,,,,,,,,,,Minnesota Whitecaps,,967811,585671,60:00,29,1,28,0.966,stats#/player/967811,2023
+35,Jenna Brenneman,G,0,0,,0,,,,,,,,,,,,,,Minnesota Whitecaps,,977772,585671,00:00,0,0,0,0,stats#/player/977772,2023
+14,Jillian Dempsey,F,1,2,3,2,0,4,0,0,0,11 - 6,0.647,1,0,4,0,11,6,Boston Pride,stats#/player/58116,58116,585670,,,,,,,2023
+36,Loren Gabel,F,1,2,3,0,0,7,0,0,0,3 - 3,0.5,0,0,7,0,3,3,Boston Pride,stats#/player/1389103,1389103,585670,,,,,,,2023
+8,Élizabeth Giguère,F,0,2,2,0,0,3,0,0,0,0 - 0,0,0,0,3,0,0,0,Boston Pride,stats#/player/1389100,1389100,585670,,,,,,,2023
+9,Allie Thunstrom,F,1,0,1,0,0,4,0,0,0,0 - 0,0,0,0,4,0,0,0,Boston Pride,stats#/player/431677,431677,585670,,,,,,,2023
+13,Kaleigh Fratkin,D,1,0,1,0,0,2,1,0,0,0 - 0,0,1,0,2,0,0,0,Boston Pride,stats#/player/57735,57735,585670,,,,,,,2023
+19,Sammy Davis,F,1,0,1,0,0,2,0,0,0,0 - 0,0,0,0,2,0,0,0,Boston Pride,stats#/player/627751,627751,585670,,,,,,,2023
+21,Christina Putigna,F,0,1,1,0,0,0,0,0,0,0 - 0,0,0,0,0,0,0,0,Boston Pride,stats#/player/431616,431616,585670,,,,,,,2023
+3,Olivia Zafuto,D,0,0,0,0,0,2,0,0,0,0 - 0,0,0,0,2,0,0,0,Boston Pride,stats#/player/1389093,1389093,585670,,,,,,,2023
+6,Kali Flanagan,D,0,0,0,0,0,0,0,0,0,0 - 0,0,0,0,0,0,0,0,Boston Pride,stats#/player/1034117,1034117,585670,,,,,,,2023
+10,Taylor House,F,0,0,0,2,0,1,0,0,0,5 - 7,0.417,0,0,1,0,5,7,Boston Pride,stats#/player/1389101,1389101,585670,,,,,,,2023
+12,Jenna Rheault,D,0,0,0,0,0,0,0,0,0,1 - 0,1,0,0,0,0,1,0,Boston Pride,stats#/player/431619,431619,585670,,,,,,,2023
+17,McKenna Brand,F,0,0,0,0,0,0,0,0,0,7 - 9,0.438,0,0,0,0,7,9,Boston Pride,stats#/player/431610,431610,585670,,,,,,,2023
+18,Taylor Wenczkowski,F,0,0,0,2,0,5,0,0,0,5 - 3,0.625,0,0,5,0,5,3,Boston Pride,stats#/player/627747,627747,585670,,,,,,,2023
+29,Kayla Friesen,F,0,0,0,0,0,1,0,0,0,2 - 0,1,0,0,1,0,2,0,Boston Pride,stats#/player/856779,856779,585670,,,,,,,2023
+37,Aneta Tejralová,D,0,0,0,0,0,1,2,0,0,0 - 0,0,0,0,1,0,0,0,Boston Pride,stats#/player/1389102,1389102,585670,,,,,,,2023
+42,Meghara McManus,F,0,0,0,2,0,0,0,0,0,0 - 0,0,0,0,0,0,0,0,Boston Pride,stats#/player/627750,627750,585670,,,,,,,2023
+3,Sarah Forster,D,0,0,0,0,0,1,0,0,0,0 - 0,0,0,0,1,0,0,0,Metropolitan Riveters,stats#/player/1204421,1204421,585670,,,,,,,2023
+5,Anna Kilponen,D,0,0,0,0,0,0,0,0,0,0 - 0,0,0,0,0,0,0,0,Metropolitan Riveters,stats#/player/1194645,1194645,585670,,,,,,,2023
+8,Kelly Babstock,F,0,0,0,2,0,3,0,0,0,3 - 6,0.333,0,0,3,0,3,6,Metropolitan Riveters,stats#/player/699761,699761,585670,,,,,,,2023
+10,Kendall Cornine,F,0,0,0,0,0,5,0,0,0,2 - 1,0.667,0,0,5,0,2,1,Metropolitan Riveters,stats#/player/431650,431650,585670,,,,,,,2023
+12,Ebba Berglund,D,0,0,0,4,0,0,0,0,0,0 - 0,0,0,0,0,0,0,0,Metropolitan Riveters,stats#/player/1194638,1194638,585670,,,,,,,2023
+13,Reka Dabasi,F,0,0,0,0,0,0,0,0,0,0 - 2,0,0,0,0,0,0,2,Metropolitan Riveters,stats#/player/1194636,1194636,585670,,,,,,,2023
+14,Madison Packer,F,0,0,0,0,0,4,0,0,0,0 - 0,0,0,0,4,0,0,0,Metropolitan Riveters,stats#/player/966106,966106,585670,,,,,,,2023
+15,Minttu Tuominen,D,0,0,0,2,0,3,0,0,0,0 - 1,0,0,0,3,0,0,1,Metropolitan Riveters,stats#/player/1194641,1194641,585670,,,,,,,2023
+16,Sarah Bujold,F,0,0,0,0,0,2,0,0,0,13 - 5,0.722,0,0,3,1,13,5,Metropolitan Riveters,stats#/player/1194637,1194637,585670,,,,,,,2023
+18,Reagan Rust,D,0,0,0,0,0,4,0,0,0,3 - 13,0.188,0,0,5,1,3,13,Metropolitan Riveters,stats#/player/1396886,1396886,585670,,,,,,,2023
+21,Amanda Pelkey,F,0,0,0,2,0,4,0,0,0,1 - 0,1,0,0,5,1,1,0,Metropolitan Riveters,stats#/player/1194634,1194634,585670,,,,,,,2023
+22,Emilie Harley,D,0,0,0,0,0,0,0,0,0,0 - 0,0,0,0,0,0,0,0,Metropolitan Riveters,stats#/player/1194650,1194650,585670,,,,,,,2023
+24,Hayley Lunny,F,0,0,0,0,0,0,0,0,0,0 - 0,0,0,0,0,0,0,0,Metropolitan Riveters,stats#/player/1509093,1509093,585670,,,,,,,2023
+28,Leah Marino,F,0,0,0,0,0,1,0,0,0,0 - 0,0,0,0,1,0,0,0,Metropolitan Riveters,stats#/player/1220794,1220794,585670,,,,,,,2023
+44,Taylor Marchin,D,0,0,0,0,0,1,0,0,0,0 - 0,0,0,0,1,0,0,0,Metropolitan Riveters,stats#/player/1194642,1194642,585670,,,,,,,2023
+77,Kennedy Ganser,F,0,0,0,0,0,4,0,0,0,6 - 5,0.546,0,0,4,0,6,5,Metropolitan Riveters,stats#/player/1194649,1194649,585670,,,,,,,2023
+94,Fanni Garát-Gasparics,F,0,0,0,0,0,2,0,0,0,0 - 1,0,0,0,2,0,0,1,Metropolitan Riveters,stats#/player/1396884,1396884,585670,,,,,,,2023
+97,Catherine Crawley,F,0,0,0,0,0,0,0,0,0,0 - 0,0,0,0,0,0,0,0,Metropolitan Riveters,stats#/player/1220795,1220795,585670,,,,,,,2023
+30,Corinne Schroeder,G,0,0,,0,,,,,,,,,,,,,,Boston Pride,,1389104,585670,60:00,34,0,34,1,stats#/player/1389104,2023
+35,Lovisa Selander,G,0,0,,0,,,,,,,,,,,,,,Boston Pride,,431620,585670,00:00,0,0,0,0,stats#/player/431620,2023
+1,Eveliina Makinen,G,0,0,,0,,,,,,,,,,,,,,Metropolitan Riveters,,1194640,585670,00:00,0,0,0,0,stats#/player/1194640,2023
+88,Katie Burt,G,0,0,,0,,,,,,,,,,,,,,Metropolitan Riveters,,1440284,585670,58:57,31,4,27,0.871,stats#/player/1440284,2023
+27,Shiann Darkangelo,F,2,0,2,4,2,9,1,0,0,19 - 6,0.76,0,0,9,0,19,6,Toronto Six,stats#/player/542419,542419,612258,,,,,,,2023
+44,Lindsay Eastwood,D,0,2,2,0,1,0,0,0,0,0 - 0,0,0,0,0,0,0,0,Toronto Six,stats#/player/630139,630139,612258,,,,,,,2023
+86,Michela Cava,F,1,1,2,2,2,4,0,1,0,0 - 0,0,0,0,4,0,0,0,Toronto Six,stats#/player/963636,963636,612258,,,,,,,2023
+2,Taylor Woods,D,0,0,0,0,1,0,0,0,0,0 - 0,0,0,0,0,0,0,0,Toronto Six,stats#/player/542421,542421,612258,,,,,,,2023
+4,Daryl Watts,F,0,0,0,0,0,2,0,0,0,0 - 0,0,0,0,2,0,0,0,Toronto Six,stats#/player/1478103,1478103,612258,,,,,,,2023
+8,Leah Lum,F,0,0,0,0,3,3,1,0,0,0 - 0,0,0,0,4,1,0,0,Toronto Six,stats#/player/1269506,1269506,612258,,,,,,,2023
+9,Kati Tabin,D,0,0,0,2,1,3,0,1,0,0 - 0,0,0,0,4,1,0,0,Toronto Six,stats#/player/1220085,1220085,612258,,,,,,,2023
+10,Lexi Templeman,F,0,0,0,0,0,0,0,1,0,8 - 3,0.727,0,0,1,1,8,3,Toronto Six,stats#/player/1220078,1220078,612258,,,,,,,2023
+11,Breanne Wilson-Bennett,F,0,0,0,0,0,0,0,1,0,5 - 4,0.556,0,0,0,0,5,4,Toronto Six,stats#/player/630148,630148,612258,,,,,,,2023
+14,Courtney Gardiner,F,0,0,0,0,0,0,0,0,0,0 - 0,0,0,0,0,0,0,0,Toronto Six,stats#/player/1220094,1220094,612258,,,,,,,2023
+19,Brooke Boquist,F,0,0,0,0,0,0,0,0,0,1 - 0,1,0,0,0,0,1,0,Toronto Six,stats#/player/543984,543984,612258,,,,,,,2023
+20,Taylor Davison,D,0,0,0,0,0,3,0,0,1,0 - 0,0,0,0,3,0,0,0,Toronto Six,stats#/player/881569,881569,612258,,,,,,,2023
+21,Tereza Vanišová,F,0,0,0,2,0,2,0,0,0,0 - 0,0,0,0,3,1,0,0,Toronto Six,stats#/player/627752,627752,612258,,,,,,,2023
+25,Emma Greco,D,0,0,0,0,1,0,0,0,0,0 - 0,0,0,0,1,1,0,0,Toronto Six,stats#/player/542420,542420,612258,,,,,,,2023
+41,Brittany Howard,F,0,0,0,0,0,1,0,1,0,0 - 0,0,0,0,3,2,0,0,Toronto Six,stats#/player/1220073,1220073,612258,,,,,,,2023
+67,Emma Woods,F,0,0,0,0,2,1,1,0,0,2 - 2,0.5,0,0,2,1,2,2,Toronto Six,stats#/player/630149,630149,612258,,,,,,,2023
+71,Saroya Tinker,D,0,0,0,0,1,2,3,0,1,0 - 0,0,0,0,2,0,0,0,Toronto Six,stats#/player/879727,879727,612258,,,,,,,2023
+96,Dominika Lásková,D,0,0,0,0,1,2,1,0,0,2 - 0,1,0,0,2,0,2,0,Toronto Six,stats#/player/1234871,1234871,612258,,,,,,,2023
+2,Samantha Fieseler,D,0,0,0,0,-1,0,1,0,0,0 - 0,0,0,0,0,0,0,0,Buffalo Beauts,stats#/player/814845,814845,612258,,,,,,,2023
+10,Maddie Truax,D,0,0,0,0,-1,1,1,1,0,0 - 0,0,0,0,1,0,0,0,Buffalo Beauts,stats#/player/1259837,1259837,612258,,,,,,,2023
+11,Madi Nichols,F,0,0,0,0,0,1,0,0,0,0 - 0,0,0,0,1,0,0,0,Buffalo Beauts,stats#/player/1259838,1259838,612258,,,,,,,2023
+13,Dominique Kremer,D,0,0,0,0,0,1,1,0,0,0 - 0,0,0,0,5,4,0,0,Buffalo Beauts,stats#/player/632881,632881,612258,,,,,,,2023
+14,Allison Attea,D,0,0,0,2,-1,0,0,0,1,0 - 0,0,0,0,0,0,0,0,Buffalo Beauts,stats#/player/825330,825330,612258,,,,,,,2023
+16,Emma Nuutinen,F,0,0,0,0,-1,1,1,0,0,0 - 0,0,0,0,2,1,0,0,Buffalo Beauts,stats#/player/1179125,1179125,612258,,,,,,,2023
+17,Cassidy MacPherson,F,0,0,0,0,-3,2,0,0,0,4 - 9,0.308,0,0,3,1,4,9,Buffalo Beauts,stats#/player/431630,431630,612258,,,,,,,2023
+23,Antonia Matzka,D,0,0,0,0,-1,1,0,0,1,0 - 0,0,0,0,1,0,0,0,Buffalo Beauts,stats#/player/1179126,1179126,612258,,,,,,,2023
+24,Anjelica Diffendal,F,0,0,0,0,0,2,0,0,0,0 - 0,0,0,0,2,0,0,0,Buffalo Beauts,stats#/player/811831,811831,612258,,,,,,,2023
+34,Claudia Kepler,F,0,0,0,0,-1,5,0,0,1,0 - 0,0,0,0,5,0,0,0,Buffalo Beauts,stats#/player/1020524,1020524,612258,,,,,,,2023
+42,Courtney Maud,F,0,0,0,0,-2,4,1,0,0,0 - 1,0,0,0,4,0,0,1,Buffalo Beauts,stats#/player/1159200,1159200,612258,,,,,,,2023
+44,Jenna Suokko,F,0,0,0,0,0,0,0,0,0,0 - 0,0,0,0,0,0,0,0,Buffalo Beauts,stats#/player/828439,828439,612258,,,,,,,2023
+47,Jessica Healey,D,0,0,0,0,-1,2,1,0,1,2 - 0,1,0,0,3,1,2,0,Buffalo Beauts,stats#/player/1159201,1159201,612258,,,,,,,2023
+59,Mikyla Grant-Mentis,F,0,0,0,2,-2,0,1,0,1,4 - 20,0.167,0,0,0,0,4,20,Buffalo Beauts,stats#/player/532475,532475,612258,,,,,,,2023
+61,Michaela Boyle,F,0,0,0,2,0,0,0,0,0,0 - 0,0,0,0,0,0,0,0,Buffalo Beauts,stats#/player/1259840,1259840,612258,,,,,,,2023
+67,Summer-Rae Dobson,F,0,0,0,0,-1,3,0,0,0,2 - 4,0.333,0,0,3,0,2,4,Buffalo Beauts,stats#/player/1259841,1259841,612258,,,,,,,2023
+77,Whitney Dove,D,0,0,0,2,0,2,1,0,0,0 - 0,0,0,0,2,0,0,0,Buffalo Beauts,stats#/player/632942,632942,612258,,,,,,,2023
+94,Grace Klienbach,F,0,0,0,2,0,1,0,0,0,3 - 3,0.5,0,0,1,0,3,3,Buffalo Beauts,stats#/player/827706,827706,612258,,,,,,,2023
+29,Elaine Chuli,G,0,0,,0,,,,,,,,,,,,,,Toronto Six,,542418,612258,60:00,26,0,26,1,stats#/player/542418,2023
+70,Carly Jackson,G,0,0,,0,,,,,,,,,,,,,,Toronto Six,,1220081,612258,00:00,0,0,0,0,stats#/player/1220081,2023
+31,Tera Hofmann,G,0,0,,0,,,,,,,,,,,,,,Buffalo Beauts,,881597,612258,00:00,0,0,0,0,stats#/player/881597,2023
+88,Lovisa Berndtsson,G,0,0,,0,,,,,,,,,,,,,,Buffalo Beauts,,824067,612258,58:44,31,2,29,0.935,stats#/player/824067,2023
+8,Kelly Babstock,F,0,1,1,0,1,5,0,0,0,4 - 3,0.571,0,0,5,0,4,3,Metropolitan Riveters,stats#/player/699761,699761,585667,,,,,,,2023
+94,Fanni Garát-Gasparics,F,1,0,1,0,0,8,0,0,0,0 - 1,0,1,0,8,0,0,1,Metropolitan Riveters,stats#/player/1396884,1396884,585667,,,,,,,2023
+5,Anna Kilponen,D,0,0,0,0,1,0,0,0,0,0 - 0,0,0,0,0,0,0,0,Metropolitan Riveters,stats#/player/1194645,1194645,585667,,,,,,,2023
+9,Kaycie Anderson,F,0,0,0,0,0,0,0,0,0,0 - 0,0,0,0,0,0,0,0,Metropolitan Riveters,stats#/player/1194646,1194646,585667,,,,,,,2023
+10,Kendall Cornine,F,0,0,0,0,-1,1,0,0,0,0 - 1,0,0,0,1,0,0,1,Metropolitan Riveters,stats#/player/431650,431650,585667,,,,,,,2023
+12,Ebba Berglund,D,0,0,0,2,1,0,0,0,0,0 - 0,0,0,0,0,0,0,0,Metropolitan Riveters,stats#/player/1194638,1194638,585667,,,,,,,2023
+13,Reka Dabasi,F,0,0,0,0,0,1,0,0,0,0 - 0,0,0,0,1,0,0,0,Metropolitan Riveters,stats#/player/1194636,1194636,585667,,,,,,,2023
+14,Madison Packer,F,0,0,0,2,1,2,0,0,0,0 - 0,0,0,0,2,0,0,0,Metropolitan Riveters,stats#/player/966106,966106,585667,,,,,,,2023
+15,Minttu Tuominen,D,0,0,0,0,0,3,0,0,0,0 - 0,0,0,0,3,0,0,0,Metropolitan Riveters,stats#/player/1194641,1194641,585667,,,,,,,2023
+16,Sarah Bujold,F,0,0,0,4,0,2,0,0,0,11 - 8,0.579,0,0,2,0,11,8,Metropolitan Riveters,stats#/player/1194637,1194637,585667,,,,,,,2023
+18,Reagan Rust,D,0,0,0,0,0,0,0,0,0,7 - 1,0.875,0,0,0,0,7,1,Metropolitan Riveters,stats#/player/1396886,1396886,585667,,,,,,,2023
+21,Amanda Pelkey,F,0,0,0,4,0,2,0,0,0,1 - 3,0.25,0,0,2,0,1,3,Metropolitan Riveters,stats#/player/1194634,1194634,585667,,,,,,,2023
+22,Emilie Harley,D,0,0,0,0,-1,1,0,0,0,0 - 0,0,0,0,1,0,0,0,Metropolitan Riveters,stats#/player/1194650,1194650,585667,,,,,,,2023
+24,Hayley Lunny,F,0,0,0,0,0,0,0,0,0,0 - 0,0,0,0,0,0,0,0,Metropolitan Riveters,stats#/player/1509093,1509093,585667,,,,,,,2023
+28,Leah Marino,F,0,0,0,0,0,0,0,0,0,0 - 0,0,0,0,0,0,0,0,Metropolitan Riveters,stats#/player/1220794,1220794,585667,,,,,,,2023
+44,Taylor Marchin,D,0,0,0,0,0,0,0,0,0,0 - 0,0,0,0,0,0,0,0,Metropolitan Riveters,stats#/player/1194642,1194642,585667,,,,,,,2023
+77,Kennedy Ganser,F,0,0,0,0,0,2,0,0,0,11 - 4,0.733,0,0,2,0,11,4,Metropolitan Riveters,stats#/player/1194649,1194649,585667,,,,,,,2023
+97,Catherine Crawley,F,0,0,0,0,0,0,0,0,0,0 - 0,0,0,0,0,0,0,0,Metropolitan Riveters,stats#/player/1220795,1220795,585667,,,,,,,2023
+11,Melissa Samoskevich,F,0,1,1,0,1,3,0,0,0,0 - 0,0,0,0,3,0,0,0,Connecticut Whale,stats#/player/1041703,1041703,585667,,,,,,,2023
+17,Taylor Girard,F,1,0,1,0,1,6,0,0,0,0 - 0,0,1,0,6,0,0,0,Connecticut Whale,stats#/player/966983,966983,585667,,,,,,,2023
+22,Kennedy Marchment,F,0,1,1,0,0,5,0,0,0,11 - 14,0.44,0,0,5,0,11,14,Connecticut Whale,stats#/player/966985,966985,585667,,,,,,,2023
+5,Tori Howran,D,0,0,0,0,0,1,0,0,0,0 - 0,0,0,0,1,0,0,0,Connecticut Whale,stats#/player/1478285,1478285,585667,,,,,,,2023
+6,Shannon Turner,D,0,0,0,0,-1,2,0,0,0,0 - 0,0,0,0,2,0,0,0,Connecticut Whale,stats#/player/967608,967608,585667,,,,,,,2023
+8,Alyssa Wohlfeiler,F,0,0,0,0,1,2,0,0,0,0 - 0,0,0,0,2,0,0,0,Connecticut Whale,stats#/player/57768,57768,585667,,,,,,,2023
+9,Tori Sullivan,F,0,0,0,0,0,1,0,0,0,0 - 0,0,0,0,1,0,0,0,Connecticut Whale,stats#/player/431622,431622,585667,,,,,,,2023
+12,Allie Munroe,D,0,0,0,2,0,2,0,0,0,0 - 0,0,0,0,2,0,0,0,Connecticut Whale,stats#/player/966982,966982,585667,,,,,,,2023
+14,Justine Reyes,F,0,0,0,0,0,4,0,0,0,0 - 0,0,0,0,4,0,0,0,Connecticut Whale,stats#/player/1231942,1231942,585667,,,,,,,2023
+15,Emma Vlasic,F,0,0,0,0,0,0,0,0,0,5 - 5,0.5,0,0,0,0,5,5,Connecticut Whale,stats#/player/431646,431646,585667,,,,,,,2023
+18,Hannah Bates,D,0,0,0,4,0,1,0,0,0,0 - 0,0,0,0,1,0,0,0,Connecticut Whale,stats#/player/966984,966984,585667,,,,,,,2023
+21,Emma Keenan,D,0,0,0,0,0,0,0,0,0,0 - 0,0,0,0,0,0,0,0,Connecticut Whale,stats#/player/788423,788423,585667,,,,,,,2023
+24,Janine Weber,F,0,0,0,0,0,0,0,0,0,0 - 0,0,0,0,0,0,0,0,Connecticut Whale,stats#/player/513300,513300,585667,,,,,,,2023
+27,Janka Hlinka,F,0,0,0,0,0,0,0,0,0,0 - 2,0,0,0,0,0,0,2,Connecticut Whale,stats#/player/966992,966992,585667,,,,,,,2023
+47,Lenka Serdar,F,0,0,0,2,-1,2,0,0,0,5 - 6,0.455,0,0,2,0,5,6,Connecticut Whale,stats#/player/1231944,1231944,585667,,,,,,,2023
+88,Amanda Conway,F,0,0,0,0,0,0,0,0,0,0 - 0,0,0,0,0,0,0,0,Connecticut Whale,stats#/player/707073,707073,585667,,,,,,,2023
+97,Caitrin Lonergan,F,0,0,0,0,0,5,0,0,0,0 - 7,0,0,0,5,0,0,7,Connecticut Whale,stats#/player/1231901,1231901,585667,,,,,,,2023
+1,Eveliina Makinen,G,0,0,,0,,,,,,,,,,,,,,Metropolitan Riveters,,1194640,585667,00:00,0,0,0,0,stats#/player/1194640,2023
+88,Katie Burt,G,0,0,,0,,,,,,,,,,,,,,Metropolitan Riveters,,1440284,585667,65:00,34,1,33,0.971,stats#/player/1440284,2023
+35,Abbie Ives,G,0,0,,0,,,,,,,,,,,,,,Connecticut Whale,,707072,585667,00:00,0,0,0,0,stats#/player/707072,2023
+81,Meeri Raisanen,G,0,0,,0,,,,,,,,,,,,,,Connecticut Whale,,468605,585667,65:00,27,1,26,0.963,stats#/player/468605,2023
+14,Justine Reyes,F,0,2,2,0,2,1,0,0,0,0 - 0,0,0,0,1,0,0,0,Connecticut Whale,stats#/player/1231942,1231942,585666,,,,,,,2023
 16,Katerina Mrazova,F,1,1,2,2,2,3,0,0,0,15 - 4,0.79,0,0,4,1,15,4,Connecticut Whale,stats#/player/1231943,1231943,585666,,,,,,,2023
-8,Alyssa Wohlfeiler,F,0,1,1,0,0,3,0,0,0,0 - 0,0,0,0,3,0,0,0,Connecticut Whale,stats#/player/57768,57768,585666,,,,,,,2023
+9,Tori Sullivan,F,0,1,1,0,-1,0,0,0,0,0 - 0,0,0,0,0,0,0,0,Connecticut Whale,stats#/player/431622,431622,585666,,,,,,,2023
 11,Melissa Samoskevich,F,1,0,1,0,2,5,0,0,0,0 - 0,0,1,0,6,1,0,0,Connecticut Whale,stats#/player/1041703,1041703,585666,,,,,,,2023
-14,Justine Reyes,F,0,1,1,0,2,1,0,0,0,0 - 0,0,0,0,1,0,0,0,Connecticut Whale,stats#/player/1231942,1231942,585666,,,,,,,2023
 17,Taylor Girard,F,0,1,1,2,2,2,0,0,0,0 - 0,0,0,0,3,1,0,0,Connecticut Whale,stats#/player/966983,966983,585666,,,,,,,2023
 22,Kennedy Marchment,F,0,1,1,0,2,5,0,0,0,6 - 10,0.375,0,0,5,0,6,10,Connecticut Whale,stats#/player/966985,966985,585666,,,,,,,2023
 47,Lenka Serdar,F,1,0,1,0,0,3,2,0,0,3 - 6,0.333,1,0,3,0,3,6,Connecticut Whale,stats#/player/1231944,1231944,585666,,,,,,,2023
 97,Caitrin Lonergan,F,1,0,1,0,2,6,0,0,0,6 - 6,0.5,0,0,6,0,6,6,Connecticut Whale,stats#/player/1231901,1231901,585666,,,,,,,2023
 5,Tori Howran,D,0,0,0,0,0,1,2,0,0,0 - 0,0,0,0,2,1,0,0,Connecticut Whale,stats#/player/1478285,1478285,585666,,,,,,,2023
 6,Shannon Turner,D,0,0,0,0,2,0,1,0,0,0 - 0,0,0,0,0,0,0,0,Connecticut Whale,stats#/player/967608,967608,585666,,,,,,,2023
-9,Tori Sullivan,F,0,0,0,0,-1,0,0,0,0,0 - 0,0,0,0,0,0,0,0,Connecticut Whale,stats#/player/431622,431622,585666,,,,,,,2023
+8,Alyssa Wohlfeiler,F,0,0,0,0,0,3,0,0,0,0 - 0,0,0,0,3,0,0,0,Connecticut Whale,stats#/player/57768,57768,585666,,,,,,,2023
 12,Allie Munroe,D,0,0,0,0,2,3,0,0,0,0 - 0,0,0,0,3,0,0,0,Connecticut Whale,stats#/player/966982,966982,585666,,,,,,,2023
 15,Emma Vlasic,F,0,0,0,0,0,0,0,0,0,1 - 0,1,0,0,0,0,1,0,Connecticut Whale,stats#/player/431646,431646,585666,,,,,,,2023
 18,Hannah Bates,D,0,0,0,0,-1,1,0,0,0,0 - 0,0,0,0,1,0,0,0,Connecticut Whale,stats#/player/966984,966984,585666,,,,,,,2023
@@ -18,6 +839,7 @@ player_jersey,player_name,position,goals,assists,points,penalty_minutes,plus_min
 27,Janka Hlinka,F,0,0,0,0,0,0,0,0,0,0 - 0,0,0,0,0,0,0,0,Connecticut Whale,stats#/player/966992,966992,585666,,,,,,,2023
 88,Amanda Conway,F,0,0,0,0,0,0,0,0,0,0 - 0,0,0,0,0,0,0,0,Connecticut Whale,stats#/player/707073,707073,585666,,,,,,,2023
 13,Alexandra Labelle,F,1,0,1,0,-1,3,0,0,0,10 - 8,0.556,0,0,3,0,10,8,Montreal Force,stats#/player/1262659,1262659,585666,,,,,,,2023
+28,Catherine Dubois,F,0,1,1,0,-1,2,0,0,0,0 - 1,0,0,0,2,0,0,1,Montreal Force,stats#/player/1262663,1262663,585666,,,,,,,2023
 90,Autumn MacDougall,F,0,1,1,0,0,3,0,0,0,0 - 0,0,0,0,3,0,0,0,Montreal Force,stats#/player/632861,632861,585666,,,,,,,2023
 3,Brooke Stacey,F,0,0,0,0,-1,0,0,0,0,0 - 0,0,0,0,0,0,0,0,Montreal Force,stats#/player/1262495,1262495,585666,,,,,,,2023
 4,Taylor Baker,D,0,0,0,0,-2,1,0,0,0,0 - 0,0,0,0,1,0,0,0,Montreal Force,stats#/player/1405323,1405323,585666,,,,,,,2023
@@ -30,7 +852,6 @@ player_jersey,player_name,position,goals,assists,points,penalty_minutes,plus_min
 25,Alyssa Holmes,F,0,0,0,0,-2,0,0,0,0,2 - 4,0.333,0,0,0,0,2,4,Montreal Force,stats#/player/1262490,1262490,585666,,,,,,,2023
 26,Brigitte Laganière,D,0,0,0,5,0,2,1,0,0,0 - 0,0,0,0,4,2,0,0,Montreal Force,stats#/player/1262662,1262662,585666,,,,,,,2023
 27,Jade Downie-Landry,F,0,0,0,0,-2,4,0,0,0,14 - 18,0.438,0,0,6,2,14,18,Montreal Force,stats#/player/1262658,1262658,585666,,,,,,,2023
-28,Catherine Dubois,F,0,0,0,0,-1,2,0,0,0,0 - 1,0,0,0,2,0,0,1,Montreal Force,stats#/player/1262663,1262663,585666,,,,,,,2023
 29,Laura Jardin,F,0,0,0,0,0,2,0,0,0,0 - 0,0,0,0,2,0,0,0,Montreal Force,stats#/player/1405447,1405447,585666,,,,,,,2023
 60,Sally Hoerr,D,0,0,0,0,0,0,0,0,0,0 - 0,0,0,0,0,0,0,0,Montreal Force,stats#/player/1405322,1405322,585666,,,,,,,2023
 64,Maude Gelina,F,0,0,0,0,0,0,1,0,0,0 - 0,0,0,0,0,0,0,0,Montreal Force,stats#/player/1426157,1426157,585666,,,,,,,2023
@@ -81,7 +902,7 @@ player_jersey,player_name,position,goals,assists,points,penalty_minutes,plus_min
 4,Taylor Baker,D,1,1,2,2,0,3,0,0,0,0 - 0,0,0,0,4,1,0,0,Montreal Force,stats#/player/1405323,1405323,585664,,,,,,,2023
 3,Brooke Stacey,F,0,1,1,0,0,2,0,0,0,0 - 0,0,0,0,2,0,0,0,Montreal Force,stats#/player/1262495,1262495,585664,,,,,,,2023
 9,Kim Deschênes,F,0,1,1,0,0,6,0,0,0,0 - 0,0,0,0,6,0,0,0,Montreal Force,stats#/player/1262657,1262657,585664,,,,,,,2023
-24,Ann-Sophie Bettez,F,0,1,1,0,0,5,0,0,0,0 - 0,0,0,0,6,1,0,0,Montreal Force,stats#/player/1262656,1262656,585664,,,,,,,2023
+24,Ann-Sophie Bettez,F,0,1,1,0,0,5,0,0,0,0 - 0,0,0,0,6,1,0,0,Montreal Force,stats#/player/1492453,1492453,585664,,,,,,,2023
 27,Jade Downie-Landry,F,1,0,1,0,0,6,0,0,0,11 - 12,0.478,1,0,10,4,11,12,Montreal Force,stats#/player/1262658,1262658,585664,,,,,,,2023
 5,Samantha Isbell,F,0,0,0,0,0,2,0,0,0,0 - 0,0,0,0,2,0,0,0,Montreal Force,stats#/player/1262492,1262492,585664,,,,,,,2023
 7,Kristina Shanahan,F,0,0,0,0,0,2,0,0,0,0 - 0,0,0,0,2,0,0,0,Montreal Force,stats#/player/1262661,1262661,585664,,,,,,,2023
@@ -98,7 +919,6 @@ player_jersey,player_name,position,goals,assists,points,penalty_minutes,plus_min
 90,Autumn MacDougall,F,0,0,0,2,0,0,0,0,0,0 - 0,0,0,0,0,0,0,0,Montreal Force,stats#/player/632861,632861,585664,,,,,,,2023
 14,Jillian Dempsey,F,0,1,1,0,0,4,1,0,0,13 - 15,0.464,0,0,4,0,13,15,Boston Pride,stats#/player/58116,58116,585664,,,,,,,2023
 36,Loren Gabel,F,1,0,1,0,0,6,0,0,0,0 - 2,0,0,0,7,1,0,2,Boston Pride,stats#/player/1389103,1389103,585664,,,,,,,2023
-3,Olivia Zafuto,D,0,0,0,0,0,0,0,0,0,0 - 0,0,0,0,0,0,0,0,Boston Pride,stats#/player/1389093,1389093,585664,,,,,,,2023
 6,Kali Flanagan,D,0,0,0,0,0,2,0,0,0,0 - 0,0,0,0,4,2,0,0,Boston Pride,stats#/player/1034117,1034117,585664,,,,,,,2023
 8,Élizabeth Giguère,F,0,0,0,0,0,4,0,0,0,0 - 0,0,0,0,7,3,0,0,Boston Pride,stats#/player/1389100,1389100,585664,,,,,,,2023
 9,Allie Thunstrom,F,0,0,0,0,0,6,0,0,0,1 - 0,1,0,0,7,1,1,0,Boston Pride,stats#/player/431677,431677,585664,,,,,,,2023
@@ -205,7 +1025,7 @@ player_jersey,player_name,position,goals,assists,points,penalty_minutes,plus_min
 17,Christine Deaudelin,D,0,0,0,0,0,6,0,0,0,0 - 0,0,0,0,7,1,0,0,Montreal Force,stats#/player/1262665,1262665,585660,,,,,,,2023
 18,Deziray De Sousa,F,0,0,0,0,0,4,0,0,0,0 - 0,0,0,0,4,0,0,0,Montreal Force,stats#/player/1405445,1405445,585660,,,,,,,2023
 23,Gabrielle De Serres,D,0,0,0,0,0,0,0,0,0,0 - 0,0,0,0,0,0,0,0,Montreal Force,stats#/player/1405324,1405324,585660,,,,,,,2023
-24,Ann-Sophie Bettez,F,0,0,0,0,0,5,0,0,0,0 - 0,0,0,0,6,1,0,0,Montreal Force,stats#/player/1262656,1262656,585660,,,,,,,2023
+24,Ann-Sophie Bettez,F,0,0,0,0,0,5,0,0,0,0 - 0,0,0,0,6,1,0,0,Montreal Force,stats#/player/1492453,1492453,585660,,,,,,,2023
 25,Alyssa Holmes,F,0,0,0,2,0,0,2,0,0,6 - 0,1,0,0,0,0,6,0,Montreal Force,stats#/player/1262490,1262490,585660,,,,,,,2023
 26,Brigitte Laganière,D,0,0,0,0,0,2,1,0,0,0 - 0,0,0,0,3,1,0,0,Montreal Force,stats#/player/1262662,1262662,585660,,,,,,,2023
 27,Jade Downie-Landry,F,0,0,0,0,0,5,0,0,0,19 - 5,0.792,0,0,5,0,19,5,Montreal Force,stats#/player/1262658,1262658,585660,,,,,,,2023
@@ -350,42 +1170,6 @@ player_jersey,player_name,position,goals,assists,points,penalty_minutes,plus_min
 81,Meeri Raisanen,G,0,0,,0,,,,,,,,,,,,,,Connecticut Whale,,468605,627167,00:00,0,0,0,0,stats#/player/468605,2023
 31,Tera Hofmann,G,0,0,,0,,,,,,,,,,,,,,Buffalo Beauts,,881597,627167,00:00,0,0,0,0,stats#/player/881597,2023
 88,Lovisa Berndtsson,G,0,0,,0,,,,,,,,,,,,,,Buffalo Beauts,,824067,627167,60:00,31,3,28,0.903,stats#/player/824067,2023
-9,Allie Thunstrom,F,2,0,2,0,0,7,0,0,0,0 - 0,0,0,1,7,0,0,0,Boston Pride,stats#/player/431677,431677,585658,,,,,,,2023
-14,Jillian Dempsey,F,0,1,1,0,0,3,0,0,0,9 - 10,0.474,0,0,3,0,9,10,Boston Pride,stats#/player/58116,58116,585658,,,,,,,2023
-3,Olivia Zafuto,D,0,0,0,5,0,3,0,1,0,0 - 0,0,0,0,4,1,0,0,Boston Pride,stats#/player/1389093,1389093,585658,,,,,,,2023
-6,Kali Flanagan,D,0,0,0,0,0,2,0,0,0,0 - 0,0,0,0,2,0,0,0,Boston Pride,stats#/player/1034117,1034117,585658,,,,,,,2023
-8,Élizabeth Giguère,F,0,0,0,0,0,4,0,0,0,0 - 0,0,0,0,8,4,0,0,Boston Pride,stats#/player/1389100,1389100,585658,,,,,,,2023
-10,Taylor House,F,0,0,0,0,0,1,0,1,0,6 - 3,0.667,0,0,1,0,6,3,Boston Pride,stats#/player/1389101,1389101,585658,,,,,,,2023
-12,Jenna Rheault,D,0,0,0,0,0,0,0,0,0,0 - 0,0,0,0,0,0,0,0,Boston Pride,stats#/player/431619,431619,585658,,,,,,,2023
-13,Kaleigh Fratkin,D,0,0,0,0,0,0,1,0,0,0 - 0,0,0,0,0,0,0,0,Boston Pride,stats#/player/57735,57735,585658,,,,,,,2023
-17,McKenna Brand,F,0,0,0,2,0,1,0,0,0,3 - 9,0.25,0,0,1,0,3,9,Boston Pride,stats#/player/431610,431610,585658,,,,,,,2023
-18,Taylor Wenczkowski,F,0,0,0,2,0,2,0,0,0,2 - 3,0.4,0,0,2,0,2,3,Boston Pride,stats#/player/627747,627747,585658,,,,,,,2023
-19,Sammy Davis,F,0,0,0,4,0,3,0,0,0,0 - 0,0,0,0,3,0,0,0,Boston Pride,stats#/player/627751,627751,585658,,,,,,,2023
-21,Christina Putigna,F,0,0,0,0,0,1,0,0,0,0 - 0,0,0,0,1,0,0,0,Boston Pride,stats#/player/431616,431616,585658,,,,,,,2023
-29,Kayla Friesen,F,0,0,0,0,0,1,0,0,0,0 - 0,0,0,0,1,0,0,0,Boston Pride,stats#/player/856779,856779,585658,,,,,,,2023
-36,Loren Gabel,F,0,0,0,0,0,7,1,0,0,2 - 2,0.5,0,0,7,0,2,2,Boston Pride,stats#/player/1389103,1389103,585658,,,,,,,2023
-37,Aneta Tejralová,D,0,0,0,0,0,0,0,0,0,0 - 0,0,0,0,0,0,0,0,Boston Pride,stats#/player/1389102,1389102,585658,,,,,,,2023
-42,Meghara McManus,F,0,0,0,0,0,0,0,0,0,0 - 0,0,0,0,0,0,0,0,Boston Pride,stats#/player/627750,627750,585658,,,,,,,2023
-24,Anjelica Diffendal,F,0,1,1,0,0,1,0,0,0,0 - 0,0,0,0,1,0,0,0,Buffalo Beauts,stats#/player/811831,811831,585658,,,,,,,2023
-42,Courtney Maud,F,1,0,1,0,0,2,2,0,0,0 - 2,0,1,0,2,0,0,2,Buffalo Beauts,stats#/player/1159200,1159200,585658,,,,,,,2023
-77,Whitney Dove,D,0,1,1,0,0,4,1,0,0,0 - 0,0,0,0,6,2,0,0,Buffalo Beauts,stats#/player/632942,632942,585658,,,,,,,2023
-8,Iveta Klimášová,F,0,0,0,0,0,0,1,1,0,1 - 2,0.333,0,0,0,0,1,2,Buffalo Beauts,stats#/player/431629,431629,585658,,,,,,,2023
-11,Madi Nichols,F,0,0,0,0,0,0,0,0,0,0 - 0,0,0,0,0,0,0,0,Buffalo Beauts,stats#/player/1259838,1259838,585658,,,,,,,2023
-14,Allison Attea,D,0,0,0,0,0,0,1,1,0,0 - 0,0,0,0,1,1,0,0,Buffalo Beauts,stats#/player/825330,825330,585658,,,,,,,2023
-16,Emma Nuutinen,F,0,0,0,0,0,3,0,0,0,0 - 0,0,0,0,3,0,0,0,Buffalo Beauts,stats#/player/1179125,1179125,585658,,,,,,,2023
-17,Cassidy MacPherson,F,0,0,0,0,0,2,0,0,0,14 - 5,0.737,0,0,2,0,14,5,Buffalo Beauts,stats#/player/431630,431630,585658,,,,,,,2023
-23,Antonia Matzka,D,0,0,0,0,0,3,0,0,0,0 - 0,0,0,0,5,2,0,0,Buffalo Beauts,stats#/player/1179126,1179126,585658,,,,,,,2023
-34,Claudia Kepler,F,0,0,0,0,0,1,0,1,0,0 - 0,0,0,0,1,0,0,0,Buffalo Beauts,stats#/player/1020524,1020524,585658,,,,,,,2023
-44,Jenna Suokko,F,0,0,0,0,0,0,0,0,0,0 - 0,0,0,0,0,0,0,0,Buffalo Beauts,stats#/player/828439,828439,585658,,,,,,,2023
-47,Jessica Healey,D,0,0,0,2,0,5,0,0,0,0 - 0,0,0,0,5,0,0,0,Buffalo Beauts,stats#/player/1159201,1159201,585658,,,,,,,2023
-59,Mikyla Grant-Mentis,F,0,0,0,0,0,3,0,0,1,7 - 10,0.412,0,0,3,0,7,10,Buffalo Beauts,stats#/player/532475,532475,585658,,,,,,,2023
-61,Michaela Boyle,F,0,0,0,0,0,0,0,0,0,0 - 0,0,0,0,0,0,0,0,Buffalo Beauts,stats#/player/1259840,1259840,585658,,,,,,,2023
-67,Summer-Rae Dobson,F,0,0,0,2,0,6,0,0,0,0 - 0,0,0,0,8,2,0,0,Buffalo Beauts,stats#/player/1259841,1259841,585658,,,,,,,2023
-94,Grace Klienbach,F,0,0,0,0,0,0,0,0,0,5 - 3,0.625,0,0,0,0,5,3,Buffalo Beauts,stats#/player/827706,827706,585658,,,,,,,2023
-30,Corinne Schroeder,G,0,0,,0,,,,,,,,,,,,,,Boston Pride,,1389104,585658,61:40,30,1,29,0.967,stats#/player/1389104,2023
-35,Lovisa Selander,G,0,0,,0,,,,,,,,,,,,,,Boston Pride,,431620,585658,00:00,0,0,0,0,stats#/player/431620,2023
-31,Tera Hofmann,G,0,0,,0,,,,,,,,,,,,,,Buffalo Beauts,,881597,585658,00:00,0,0,0,0,stats#/player/881597,2023
-88,Lovisa Berndtsson,G,0,0,,0,,,,,,,,,,,,,,Buffalo Beauts,,824067,585658,61:40,35,2,33,0.943,stats#/player/824067,2023
 8,Kelly Babstock,F,0,1,1,0,1,6,0,0,0,3 - 5,0.375,0,0,6,0,3,5,Metropolitan Riveters,stats#/player/699761,699761,585659,,,,,,,2023
 12,Ebba Berglund,D,0,1,1,0,0,1,0,0,0,0 - 0,0,0,0,1,0,0,0,Metropolitan Riveters,stats#/player/1194638,1194638,585659,,,,,,,2023
 16,Sarah Bujold,F,1,0,1,4,0,8,0,0,0,4 - 6,0.4,0,0,8,0,4,6,Metropolitan Riveters,stats#/player/1194637,1194637,585659,,,,,,,2023
@@ -425,6 +1209,42 @@ player_jersey,player_name,position,goals,assists,points,penalty_minutes,plus_min
 88,Katie Burt,G,0,0,,0,,,,,,,,,,,,,,Metropolitan Riveters,,1440284,585659,60:00,28,4,24,0.857,stats#/player/1440284,2023
 29,Amanda Leveille,G,0,0,,0,,,,,,,,,,,,,,Minnesota Whitecaps,,967811,585659,60:00,33,1,32,0.97,stats#/player/967811,2023
 35,Jenna Brenneman,G,0,0,,0,,,,,,,,,,,,,,Minnesota Whitecaps,,977772,585659,00:00,0,0,0,0,stats#/player/977772,2023
+9,Allie Thunstrom,F,2,0,2,0,0,7,0,0,0,0 - 0,0,0,1,7,0,0,0,Boston Pride,stats#/player/431677,431677,585658,,,,,,,2023
+14,Jillian Dempsey,F,0,1,1,0,0,3,0,0,0,9 - 10,0.474,0,0,3,0,9,10,Boston Pride,stats#/player/58116,58116,585658,,,,,,,2023
+3,Olivia Zafuto,D,0,0,0,5,0,3,0,1,0,0 - 0,0,0,0,4,1,0,0,Boston Pride,stats#/player/1389093,1389093,585658,,,,,,,2023
+6,Kali Flanagan,D,0,0,0,0,0,2,0,0,0,0 - 0,0,0,0,2,0,0,0,Boston Pride,stats#/player/1034117,1034117,585658,,,,,,,2023
+8,Élizabeth Giguère,F,0,0,0,0,0,4,0,0,0,0 - 0,0,0,0,8,4,0,0,Boston Pride,stats#/player/1389100,1389100,585658,,,,,,,2023
+10,Taylor House,F,0,0,0,0,0,1,0,1,0,6 - 3,0.667,0,0,1,0,6,3,Boston Pride,stats#/player/1389101,1389101,585658,,,,,,,2023
+12,Jenna Rheault,D,0,0,0,0,0,0,0,0,0,0 - 0,0,0,0,0,0,0,0,Boston Pride,stats#/player/431619,431619,585658,,,,,,,2023
+13,Kaleigh Fratkin,D,0,0,0,0,0,0,1,0,0,0 - 0,0,0,0,0,0,0,0,Boston Pride,stats#/player/57735,57735,585658,,,,,,,2023
+17,McKenna Brand,F,0,0,0,2,0,1,0,0,0,3 - 9,0.25,0,0,1,0,3,9,Boston Pride,stats#/player/431610,431610,585658,,,,,,,2023
+18,Taylor Wenczkowski,F,0,0,0,2,0,2,0,0,0,2 - 3,0.4,0,0,2,0,2,3,Boston Pride,stats#/player/627747,627747,585658,,,,,,,2023
+19,Sammy Davis,F,0,0,0,4,0,3,0,0,0,0 - 0,0,0,0,3,0,0,0,Boston Pride,stats#/player/627751,627751,585658,,,,,,,2023
+21,Christina Putigna,F,0,0,0,0,0,1,0,0,0,0 - 0,0,0,0,1,0,0,0,Boston Pride,stats#/player/431616,431616,585658,,,,,,,2023
+29,Kayla Friesen,F,0,0,0,0,0,1,0,0,0,0 - 0,0,0,0,1,0,0,0,Boston Pride,stats#/player/856779,856779,585658,,,,,,,2023
+36,Loren Gabel,F,0,0,0,0,0,7,1,0,0,2 - 2,0.5,0,0,7,0,2,2,Boston Pride,stats#/player/1389103,1389103,585658,,,,,,,2023
+37,Aneta Tejralová,D,0,0,0,0,0,0,0,0,0,0 - 0,0,0,0,0,0,0,0,Boston Pride,stats#/player/1389102,1389102,585658,,,,,,,2023
+42,Meghara McManus,F,0,0,0,0,0,0,0,0,0,0 - 0,0,0,0,0,0,0,0,Boston Pride,stats#/player/627750,627750,585658,,,,,,,2023
+24,Anjelica Diffendal,F,0,1,1,0,0,1,0,0,0,0 - 0,0,0,0,1,0,0,0,Buffalo Beauts,stats#/player/811831,811831,585658,,,,,,,2023
+42,Courtney Maud,F,1,0,1,0,0,2,2,0,0,0 - 2,0,1,0,2,0,0,2,Buffalo Beauts,stats#/player/1159200,1159200,585658,,,,,,,2023
+77,Whitney Dove,D,0,1,1,0,0,4,1,0,0,0 - 0,0,0,0,6,2,0,0,Buffalo Beauts,stats#/player/632942,632942,585658,,,,,,,2023
+8,Iveta Klimášová,F,0,0,0,0,0,0,1,1,0,1 - 2,0.333,0,0,0,0,1,2,Buffalo Beauts,stats#/player/431629,431629,585658,,,,,,,2023
+11,Madi Nichols,F,0,0,0,0,0,0,0,0,0,0 - 0,0,0,0,0,0,0,0,Buffalo Beauts,stats#/player/1259838,1259838,585658,,,,,,,2023
+14,Allison Attea,D,0,0,0,0,0,0,1,1,0,0 - 0,0,0,0,1,1,0,0,Buffalo Beauts,stats#/player/825330,825330,585658,,,,,,,2023
+16,Emma Nuutinen,F,0,0,0,0,0,3,0,0,0,0 - 0,0,0,0,3,0,0,0,Buffalo Beauts,stats#/player/1179125,1179125,585658,,,,,,,2023
+17,Cassidy MacPherson,F,0,0,0,0,0,2,0,0,0,14 - 5,0.737,0,0,2,0,14,5,Buffalo Beauts,stats#/player/431630,431630,585658,,,,,,,2023
+23,Antonia Matzka,D,0,0,0,0,0,3,0,0,0,0 - 0,0,0,0,5,2,0,0,Buffalo Beauts,stats#/player/1179126,1179126,585658,,,,,,,2023
+34,Claudia Kepler,F,0,0,0,0,0,1,0,1,0,0 - 0,0,0,0,1,0,0,0,Buffalo Beauts,stats#/player/1020524,1020524,585658,,,,,,,2023
+44,Jenna Suokko,F,0,0,0,0,0,0,0,0,0,0 - 0,0,0,0,0,0,0,0,Buffalo Beauts,stats#/player/828439,828439,585658,,,,,,,2023
+47,Jessica Healey,D,0,0,0,2,0,5,0,0,0,0 - 0,0,0,0,5,0,0,0,Buffalo Beauts,stats#/player/1159201,1159201,585658,,,,,,,2023
+59,Mikyla Grant-Mentis,F,0,0,0,0,0,3,0,0,1,7 - 10,0.412,0,0,3,0,7,10,Buffalo Beauts,stats#/player/532475,532475,585658,,,,,,,2023
+61,Michaela Boyle,F,0,0,0,0,0,0,0,0,0,0 - 0,0,0,0,0,0,0,0,Buffalo Beauts,stats#/player/1259840,1259840,585658,,,,,,,2023
+67,Summer-Rae Dobson,F,0,0,0,2,0,6,0,0,0,0 - 0,0,0,0,8,2,0,0,Buffalo Beauts,stats#/player/1259841,1259841,585658,,,,,,,2023
+94,Grace Klienbach,F,0,0,0,0,0,0,0,0,0,5 - 3,0.625,0,0,0,0,5,3,Buffalo Beauts,stats#/player/827706,827706,585658,,,,,,,2023
+30,Corinne Schroeder,G,0,0,,0,,,,,,,,,,,,,,Boston Pride,,1389104,585658,61:40,30,1,29,0.967,stats#/player/1389104,2023
+35,Lovisa Selander,G,0,0,,0,,,,,,,,,,,,,,Boston Pride,,431620,585658,00:00,0,0,0,0,stats#/player/431620,2023
+31,Tera Hofmann,G,0,0,,0,,,,,,,,,,,,,,Buffalo Beauts,,881597,585658,00:00,0,0,0,0,stats#/player/881597,2023
+88,Lovisa Berndtsson,G,0,0,,0,,,,,,,,,,,,,,Buffalo Beauts,,824067,585658,61:40,35,2,33,0.943,stats#/player/824067,2023
 9,Allie Thunstrom,F,2,2,4,0,0,10,0,0,0,0 - 0,0,0,0,10,0,0,0,Boston Pride,stats#/player/431677,431677,585656,,,,,,,2023
 17,McKenna Brand,F,2,1,3,0,0,4,0,0,0,5 - 2,0.714,0,1,4,0,5,2,Boston Pride,stats#/player/431610,431610,585656,,,,,,,2023
 8,Élizabeth Giguère,F,0,2,2,2,0,5,0,0,0,0 - 0,0,0,0,5,0,0,0,Boston Pride,stats#/player/1389100,1389100,585656,,,,,,,2023
@@ -520,7 +1340,7 @@ player_jersey,player_name,position,goals,assists,points,penalty_minutes,plus_min
 27,Janka Hlinka,F,0,0,0,0,-3,1,1,0,0,0 - 1,0,0,0,1,0,0,1,Connecticut Whale,stats#/player/966992,966992,585657,,,,,,,2023
 47,Lenka Serdar,F,0,0,0,0,-1,4,1,0,0,8 - 5,0.615,0,0,4,0,8,5,Connecticut Whale,stats#/player/1231944,1231944,585657,,,,,,,2023
 74,Mallory Souliotis,D,0,0,0,0,0,0,1,0,0,1 - 0,1,0,0,0,0,1,0,Connecticut Whale,stats#/player/431621,431621,585657,,,,,,,2023
-24,Ann-Sophie Bettez,F,3,1,4,0,2,9,1,0,0,0 - 0,0,1,0,11,2,0,0,Montreal Force,stats#/player/1262656,1262656,585657,,,,,,,2023
+24,Ann-Sophie Bettez,F,3,1,4,0,2,9,1,0,0,0 - 0,0,1,0,11,2,0,0,Montreal Force,stats#/player/1492453,1492453,585657,,,,,,,2023
 5,Samantha Isbell,F,1,1,2,0,2,3,0,0,0,0 - 0,0,0,0,4,1,0,0,Montreal Force,stats#/player/1262492,1262492,585657,,,,,,,2023
 26,Brigitte Laganière,D,1,1,2,0,1,4,2,0,0,0 - 0,0,0,0,5,1,0,0,Montreal Force,stats#/player/1262662,1262662,585657,,,,,,,2023
 27,Jade Downie-Landry,F,0,2,2,0,2,4,2,0,0,19 - 8,0.704,0,0,6,2,19,8,Montreal Force,stats#/player/1262658,1262658,585657,,,,,,,2023
@@ -546,7 +1366,7 @@ player_jersey,player_name,position,goals,assists,points,penalty_minutes,plus_min
 8,Kaity Howarth,D,0,1,1,0,0,0,0,0,0,0 - 0,0,0,0,1,1,0,0,Montreal Force,stats#/player/1262488,1262488,585654,,,,,,,2023
 13,Alexandra Labelle,F,1,0,1,0,0,6,1,0,0,5 - 8,0.385,0,0,6,0,5,8,Montreal Force,stats#/player/1262659,1262659,585654,,,,,,,2023
 23,Gabrielle De Serres,D,0,1,1,0,0,1,0,0,0,0 - 0,0,0,0,1,0,0,0,Montreal Force,stats#/player/1405324,1405324,585654,,,,,,,2023
-24,Ann-Sophie Bettez,F,1,0,1,2,0,3,0,0,0,0 - 0,0,0,0,4,1,0,0,Montreal Force,stats#/player/1262656,1262656,585654,,,,,,,2023
+24,Ann-Sophie Bettez,F,1,0,1,2,0,3,0,0,0,0 - 0,0,0,0,4,1,0,0,Montreal Force,stats#/player/1492453,1492453,585654,,,,,,,2023
 27,Jade Downie-Landry,F,0,1,1,0,0,6,0,0,0,6 - 15,0.286,0,0,7,1,6,15,Montreal Force,stats#/player/1262658,1262658,585654,,,,,,,2023
 3,Brooke Stacey,F,0,0,0,2,0,3,0,0,0,0 - 0,0,0,0,3,0,0,0,Montreal Force,stats#/player/1262495,1262495,585654,,,,,,,2023
 4,Taylor Baker,D,0,0,0,0,0,0,2,0,0,0 - 0,0,0,0,2,2,0,0,Montreal Force,stats#/player/1405323,1405323,585654,,,,,,,2023
@@ -582,45 +1402,6 @@ player_jersey,player_name,position,goals,assists,points,penalty_minutes,plus_min
 39,Marie-Soleil Deschênes,G,0,0,,0,,,,,,,,,,,,,,Montreal Force,,1262486,585654,00:00,0,0,0,0,stats#/player/1262486,2023
 29,Elaine Chuli,G,0,0,,0,,,,,,,,,,,,,,Toronto Six,,542418,585654,60:00,46,2,44,0.957,stats#/player/542418,2023
 70,Carly Jackson,G,0,0,,0,,,,,,,,,,,,,,Toronto Six,,1220081,585654,00:00,0,0,0,0,stats#/player/1220081,2023
-3,Sarah Forster,D,0,0,0,0,0,0,0,0,0,0 - 0,0,0,0,0,0,0,0,Metropolitan Riveters,stats#/player/1204421,1204421,585652,,,,,,,2023
-5,Anna Kilponen,D,0,0,0,0,0,2,0,0,0,0 - 0,0,0,0,2,0,0,0,Metropolitan Riveters,stats#/player/1194645,1194645,585652,,,,,,,2023
-8,Kelly Babstock,F,0,0,0,0,0,2,0,0,0,4 - 4,0.5,0,0,2,0,4,4,Metropolitan Riveters,stats#/player/699761,699761,585652,,,,,,,2023
-9,Kaycie Anderson,F,0,0,0,0,0,0,0,0,0,0 - 0,0,0,0,0,0,0,0,Metropolitan Riveters,stats#/player/1194646,1194646,585652,,,,,,,2023
-10,Kendall Cornine,F,0,0,0,2,0,1,0,0,0,1 - 5,0.167,0,0,1,0,1,5,Metropolitan Riveters,stats#/player/431650,431650,585652,,,,,,,2023
-12,Ebba Berglund,D,0,0,0,2,0,3,0,0,0,0 - 0,0,0,0,3,0,0,0,Metropolitan Riveters,stats#/player/1194638,1194638,585652,,,,,,,2023
-13,Reka Dabasi,F,0,0,0,0,0,1,0,0,0,0 - 0,0,0,0,1,0,0,0,Metropolitan Riveters,stats#/player/1194636,1194636,585652,,,,,,,2023
-14,Madison Packer,F,0,0,0,0,0,3,0,0,0,0 - 0,0,0,0,3,0,0,0,Metropolitan Riveters,stats#/player/966106,966106,585652,,,,,,,2023
-15,Minttu Tuominen,D,0,0,0,0,0,0,0,0,0,0 - 0,0,0,0,0,0,0,0,Metropolitan Riveters,stats#/player/1194641,1194641,585652,,,,,,,2023
-18,Reagan Rust,D,0,0,0,0,0,1,0,0,0,0 - 0,0,0,0,1,0,0,0,Metropolitan Riveters,stats#/player/1396886,1396886,585652,,,,,,,2023
-21,Amanda Pelkey,F,0,0,0,0,0,2,0,0,0,14 - 7,0.667,0,0,2,0,14,7,Metropolitan Riveters,stats#/player/1194634,1194634,585652,,,,,,,2023
-22,Emilie Harley,D,0,0,0,0,0,4,0,0,0,0 - 1,0,0,0,4,0,0,1,Metropolitan Riveters,stats#/player/1194650,1194650,585652,,,,,,,2023
-28,Leah Marino,F,0,0,0,0,0,1,0,0,0,0 - 0,0,0,0,1,0,0,0,Metropolitan Riveters,stats#/player/1220794,1220794,585652,,,,,,,2023
-44,Taylor Marchin,D,0,0,0,0,0,1,0,0,0,0 - 0,0,0,0,1,0,0,0,Metropolitan Riveters,stats#/player/1194642,1194642,585652,,,,,,,2023
-77,Kennedy Ganser,F,0,0,0,0,0,0,0,0,0,4 - 7,0.364,0,0,0,0,4,7,Metropolitan Riveters,stats#/player/1194649,1194649,585652,,,,,,,2023
-94,Fanni Garát-Gasparics,F,0,0,0,0,0,2,0,0,0,0 - 0,0,0,0,2,0,0,0,Metropolitan Riveters,stats#/player/1396884,1396884,585652,,,,,,,2023
-97,Catherine Crawley,F,0,0,0,0,0,0,0,0,0,0 - 0,0,0,0,0,0,0,0,Metropolitan Riveters,stats#/player/1220795,1220795,585652,,,,,,,2023
-17,Taylor Girard,F,1,3,4,0,0,5,0,0,0,0 - 0,0,1,0,5,0,0,0,Connecticut Whale,stats#/player/966983,966983,585652,,,,,,,2023
-22,Kennedy Marchment,F,1,2,3,0,0,1,0,0,0,1 - 2,0.333,0,0,1,0,1,2,Connecticut Whale,stats#/player/966985,966985,585652,,,,,,,2023
-11,Melissa Samoskevich,F,0,2,2,0,0,4,0,0,0,0 - 0,0,0,0,4,0,0,0,Connecticut Whale,stats#/player/1041703,1041703,585652,,,,,,,2023
-12,Allie Munroe,D,0,2,2,0,0,0,0,0,0,0 - 0,0,0,0,0,0,0,0,Connecticut Whale,stats#/player/966982,966982,585652,,,,,,,2023
-16,Katerina Mrazova,F,2,0,2,0,0,6,0,0,0,7 - 4,0.636,0,0,6,0,7,4,Connecticut Whale,stats#/player/1231943,1231943,585652,,,,,,,2023
-14,Justine Reyes,F,0,1,1,0,0,0,0,0,0,0 - 0,0,0,0,0,0,0,0,Connecticut Whale,stats#/player/1231942,1231942,585652,,,,,,,2023
-18,Hannah Bates,D,0,1,1,0,0,0,0,0,0,0 - 0,0,0,0,0,0,0,0,Connecticut Whale,stats#/player/966984,966984,585652,,,,,,,2023
-21,Emma Keenan,D,1,0,1,0,0,2,0,0,0,1 - 0,1,0,0,2,0,1,0,Connecticut Whale,stats#/player/788423,788423,585652,,,,,,,2023
-97,Caitrin Lonergan,F,1,0,1,0,0,6,0,0,0,4 - 5,0.444,0,0,6,0,4,5,Connecticut Whale,stats#/player/1231901,1231901,585652,,,,,,,2023
-5,Tori Howran,D,0,0,0,0,0,5,0,0,0,0 - 0,0,0,0,5,0,0,0,Connecticut Whale,stats#/player/1478285,1478285,585652,,,,,,,2023
-6,Shannon Turner,D,0,0,0,0,0,1,0,0,0,0 - 0,0,0,0,1,0,0,0,Connecticut Whale,stats#/player/967608,967608,585652,,,,,,,2023
-8,Alyssa Wohlfeiler,F,0,0,0,2,0,1,0,0,0,0 - 0,0,0,0,1,0,0,0,Connecticut Whale,stats#/player/57768,57768,585652,,,,,,,2023
-15,Emma Vlasic,F,0,0,0,0,0,0,0,0,0,5 - 5,0.5,0,0,0,0,5,5,Connecticut Whale,stats#/player/431646,431646,585652,,,,,,,2023
-24,Janine Weber,F,0,0,0,0,0,0,0,0,0,0 - 0,0,0,0,0,0,0,0,Connecticut Whale,stats#/player/513300,513300,585652,,,,,,,2023
-27,Janka Hlinka,F,0,0,0,0,0,1,0,0,0,1 - 1,0.5,0,0,1,0,1,1,Connecticut Whale,stats#/player/966992,966992,585652,,,,,,,2023
-47,Lenka Serdar,F,0,0,0,0,0,1,0,0,0,5 - 6,0.455,0,0,1,0,5,6,Connecticut Whale,stats#/player/1231944,1231944,585652,,,,,,,2023
-74,Mallory Souliotis,D,0,0,0,0,0,0,0,0,0,0 - 0,0,0,0,0,0,0,0,Connecticut Whale,stats#/player/431621,431621,585652,,,,,,,2023
-88,Amanda Conway,F,0,0,0,0,0,1,0,0,0,0 - 0,0,0,0,1,0,0,0,Connecticut Whale,stats#/player/707073,707073,585652,,,,,,,2023
-1,Eveliina Makinen,G,0,0,,0,,,,,,,,,,,,,,Metropolitan Riveters,,1194640,585652,20:00,7,3,4,0.571,stats#/player/1194640,2023
-88,Katie Burt,G,0,0,,0,,,,,,,,,,,,,,Metropolitan Riveters,,1440284,585652,40:00,27,3,24,0.889,stats#/player/1440284,2023
-35,Abbie Ives,G,0,0,,0,,,,,,,,,,,,,,Connecticut Whale,,707072,585652,00:00,0,0,0,0,stats#/player/707072,2023
-81,Meeri Raisanen,G,0,0,,0,,,,,,,,,,,,,,Connecticut Whale,,468605,585652,60:00,23,0,23,1,stats#/player/468605,2023
 34,Claudia Kepler,F,1,1,2,0,0,2,0,0,0,0 - 0,0,1,0,3,1,0,0,Buffalo Beauts,stats#/player/1020524,1020524,585653,,,,,,,2023
 11,Madi Nichols,F,0,1,1,2,0,2,0,0,0,0 - 0,0,0,0,2,0,0,0,Buffalo Beauts,stats#/player/1259838,1259838,585653,,,,,,,2023
 13,Dominique Kremer,D,0,1,1,0,-1,0,0,0,0,0 - 0,0,0,0,0,0,0,0,Buffalo Beauts,stats#/player/632881,632881,585653,,,,,,,2023
@@ -661,6 +1442,45 @@ player_jersey,player_name,position,goals,assists,points,penalty_minutes,plus_min
 88,Lovisa Berndtsson,G,0,0,,0,,,,,,,,,,,,,,Buffalo Beauts,,824067,585653,00:00,0,0,0,0,stats#/player/824067,2023
 29,Amanda Leveille,G,0,0,,0,,,,,,,,,,,,,,Minnesota Whitecaps,,967811,585653,60:00,28,3,25,0.893,stats#/player/967811,2023
 35,Jenna Brenneman,G,0,0,,0,,,,,,,,,,,,,,Minnesota Whitecaps,,977772,585653,00:00,0,0,0,0,stats#/player/977772,2023
+3,Sarah Forster,D,0,0,0,0,0,0,0,0,0,0 - 0,0,0,0,0,0,0,0,Metropolitan Riveters,stats#/player/1204421,1204421,585652,,,,,,,2023
+5,Anna Kilponen,D,0,0,0,0,0,2,0,0,0,0 - 0,0,0,0,2,0,0,0,Metropolitan Riveters,stats#/player/1194645,1194645,585652,,,,,,,2023
+8,Kelly Babstock,F,0,0,0,0,0,2,0,0,0,4 - 4,0.5,0,0,2,0,4,4,Metropolitan Riveters,stats#/player/699761,699761,585652,,,,,,,2023
+9,Kaycie Anderson,F,0,0,0,0,0,0,0,0,0,0 - 0,0,0,0,0,0,0,0,Metropolitan Riveters,stats#/player/1194646,1194646,585652,,,,,,,2023
+10,Kendall Cornine,F,0,0,0,2,0,1,0,0,0,1 - 5,0.167,0,0,1,0,1,5,Metropolitan Riveters,stats#/player/431650,431650,585652,,,,,,,2023
+12,Ebba Berglund,D,0,0,0,2,0,3,0,0,0,0 - 0,0,0,0,3,0,0,0,Metropolitan Riveters,stats#/player/1194638,1194638,585652,,,,,,,2023
+13,Reka Dabasi,F,0,0,0,0,0,1,0,0,0,0 - 0,0,0,0,1,0,0,0,Metropolitan Riveters,stats#/player/1194636,1194636,585652,,,,,,,2023
+14,Madison Packer,F,0,0,0,0,0,3,0,0,0,0 - 0,0,0,0,3,0,0,0,Metropolitan Riveters,stats#/player/966106,966106,585652,,,,,,,2023
+15,Minttu Tuominen,D,0,0,0,0,0,0,0,0,0,0 - 0,0,0,0,0,0,0,0,Metropolitan Riveters,stats#/player/1194641,1194641,585652,,,,,,,2023
+18,Reagan Rust,D,0,0,0,0,0,1,0,0,0,0 - 0,0,0,0,1,0,0,0,Metropolitan Riveters,stats#/player/1396886,1396886,585652,,,,,,,2023
+21,Amanda Pelkey,F,0,0,0,0,0,2,0,0,0,14 - 7,0.667,0,0,2,0,14,7,Metropolitan Riveters,stats#/player/1194634,1194634,585652,,,,,,,2023
+22,Emilie Harley,D,0,0,0,0,0,4,0,0,0,0 - 1,0,0,0,4,0,0,1,Metropolitan Riveters,stats#/player/1194650,1194650,585652,,,,,,,2023
+28,Leah Marino,F,0,0,0,0,0,1,0,0,0,0 - 0,0,0,0,1,0,0,0,Metropolitan Riveters,stats#/player/1220794,1220794,585652,,,,,,,2023
+44,Taylor Marchin,D,0,0,0,0,0,1,0,0,0,0 - 0,0,0,0,1,0,0,0,Metropolitan Riveters,stats#/player/1194642,1194642,585652,,,,,,,2023
+77,Kennedy Ganser,F,0,0,0,0,0,0,0,0,0,4 - 7,0.364,0,0,0,0,4,7,Metropolitan Riveters,stats#/player/1194649,1194649,585652,,,,,,,2023
+94,Fanni Garát-Gasparics,F,0,0,0,0,0,2,0,0,0,0 - 0,0,0,0,2,0,0,0,Metropolitan Riveters,stats#/player/1396884,1396884,585652,,,,,,,2023
+97,Catherine Crawley,F,0,0,0,0,0,0,0,0,0,0 - 0,0,0,0,0,0,0,0,Metropolitan Riveters,stats#/player/1220795,1220795,585652,,,,,,,2023
+17,Taylor Girard,F,1,3,4,0,0,5,0,0,0,0 - 0,0,1,0,5,0,0,0,Connecticut Whale,stats#/player/966983,966983,585652,,,,,,,2023
+22,Kennedy Marchment,F,1,2,3,0,0,1,0,0,0,1 - 2,0.333,0,0,1,0,1,2,Connecticut Whale,stats#/player/966985,966985,585652,,,,,,,2023
+11,Melissa Samoskevich,F,0,2,2,0,0,4,0,0,0,0 - 0,0,0,0,4,0,0,0,Connecticut Whale,stats#/player/1041703,1041703,585652,,,,,,,2023
+12,Allie Munroe,D,0,2,2,0,0,0,0,0,0,0 - 0,0,0,0,0,0,0,0,Connecticut Whale,stats#/player/966982,966982,585652,,,,,,,2023
+16,Katerina Mrazova,F,2,0,2,0,0,6,0,0,0,7 - 4,0.636,0,0,6,0,7,4,Connecticut Whale,stats#/player/1231943,1231943,585652,,,,,,,2023
+14,Justine Reyes,F,0,1,1,0,0,0,0,0,0,0 - 0,0,0,0,0,0,0,0,Connecticut Whale,stats#/player/1231942,1231942,585652,,,,,,,2023
+18,Hannah Bates,D,0,1,1,0,0,0,0,0,0,0 - 0,0,0,0,0,0,0,0,Connecticut Whale,stats#/player/966984,966984,585652,,,,,,,2023
+21,Emma Keenan,D,1,0,1,0,0,2,0,0,0,1 - 0,1,0,0,2,0,1,0,Connecticut Whale,stats#/player/788423,788423,585652,,,,,,,2023
+97,Caitrin Lonergan,F,1,0,1,0,0,6,0,0,0,4 - 5,0.444,0,0,6,0,4,5,Connecticut Whale,stats#/player/1231901,1231901,585652,,,,,,,2023
+5,Tori Howran,D,0,0,0,0,0,5,0,0,0,0 - 0,0,0,0,5,0,0,0,Connecticut Whale,stats#/player/1478285,1478285,585652,,,,,,,2023
+6,Shannon Turner,D,0,0,0,0,0,1,0,0,0,0 - 0,0,0,0,1,0,0,0,Connecticut Whale,stats#/player/967608,967608,585652,,,,,,,2023
+8,Alyssa Wohlfeiler,F,0,0,0,2,0,1,0,0,0,0 - 0,0,0,0,1,0,0,0,Connecticut Whale,stats#/player/57768,57768,585652,,,,,,,2023
+15,Emma Vlasic,F,0,0,0,0,0,0,0,0,0,5 - 5,0.5,0,0,0,0,5,5,Connecticut Whale,stats#/player/431646,431646,585652,,,,,,,2023
+24,Janine Weber,F,0,0,0,0,0,0,0,0,0,0 - 0,0,0,0,0,0,0,0,Connecticut Whale,stats#/player/513300,513300,585652,,,,,,,2023
+27,Janka Hlinka,F,0,0,0,0,0,1,0,0,0,1 - 1,0.5,0,0,1,0,1,1,Connecticut Whale,stats#/player/966992,966992,585652,,,,,,,2023
+47,Lenka Serdar,F,0,0,0,0,0,1,0,0,0,5 - 6,0.455,0,0,1,0,5,6,Connecticut Whale,stats#/player/1231944,1231944,585652,,,,,,,2023
+74,Mallory Souliotis,D,0,0,0,0,0,0,0,0,0,0 - 0,0,0,0,0,0,0,0,Connecticut Whale,stats#/player/431621,431621,585652,,,,,,,2023
+88,Amanda Conway,F,0,0,0,0,0,1,0,0,0,0 - 0,0,0,0,1,0,0,0,Connecticut Whale,stats#/player/707073,707073,585652,,,,,,,2023
+1,Eveliina Makinen,G,0,0,,0,,,,,,,,,,,,,,Metropolitan Riveters,,1194640,585652,20:00,7,3,4,0.571,stats#/player/1194640,2023
+88,Katie Burt,G,0,0,,0,,,,,,,,,,,,,,Metropolitan Riveters,,1440284,585652,40:00,27,3,24,0.889,stats#/player/1440284,2023
+35,Abbie Ives,G,0,0,,0,,,,,,,,,,,,,,Connecticut Whale,,707072,585652,00:00,0,0,0,0,stats#/player/707072,2023
+81,Meeri Raisanen,G,0,0,,0,,,,,,,,,,,,,,Connecticut Whale,,468605,585652,60:00,23,0,23,1,stats#/player/468605,2023
 13,Dominique Kremer,D,0,1,1,0,0,1,1,0,0,0 - 0,0,0,0,2,1,0,0,Buffalo Beauts,stats#/player/632881,632881,585651,,,,,,,2023
 34,Claudia Kepler,F,0,1,1,0,1,0,0,0,0,0 - 0,0,0,0,0,0,0,0,Buffalo Beauts,stats#/player/1020524,1020524,585651,,,,,,,2023
 59,Mikyla Grant-Mentis,F,1,0,1,2,1,5,4,0,0,9 - 11,0.45,0,0,6,1,9,11,Buffalo Beauts,stats#/player/532475,532475,585651,,,,,,,2023
@@ -751,7 +1571,7 @@ player_jersey,player_name,position,goals,assists,points,penalty_minutes,plus_min
 17,Christine Deaudelin,D,0,0,0,0,0,2,2,0,0,0 - 0,0,0,0,2,0,0,0,Montreal Force,stats#/player/1262665,1262665,585649,,,,,,,2023
 18,Deziray De Sousa,F,0,0,0,0,0,2,1,0,0,0 - 0,0,0,0,2,0,0,0,Montreal Force,stats#/player/1405445,1405445,585649,,,,,,,2023
 23,Gabrielle De Serres,D,0,0,0,0,0,0,1,0,0,0 - 0,0,0,0,1,1,0,0,Montreal Force,stats#/player/1405324,1405324,585649,,,,,,,2023
-24,Ann-Sophie Bettez,F,0,0,0,0,0,2,0,0,0,0 - 0,0,0,0,3,1,0,0,Montreal Force,stats#/player/1262656,1262656,585649,,,,,,,2023
+24,Ann-Sophie Bettez,F,0,0,0,0,0,2,0,0,0,0 - 0,0,0,0,3,1,0,0,Montreal Force,stats#/player/1492453,1492453,585649,,,,,,,2023
 25,Alyssa Holmes,F,0,0,0,0,0,0,0,0,0,0 - 7,0,0,0,0,0,0,7,Montreal Force,stats#/player/1262490,1262490,585649,,,,,,,2023
 26,Brigitte Laganière,D,0,0,0,2,0,3,2,0,0,0 - 0,0,0,0,3,0,0,0,Montreal Force,stats#/player/1262662,1262662,585649,,,,,,,2023
 27,Jade Downie-Landry,F,0,0,0,0,0,5,1,0,0,11 - 9,0.55,0,0,6,1,11,9,Montreal Force,stats#/player/1262658,1262658,585649,,,,,,,2023
@@ -839,7 +1659,7 @@ player_jersey,player_name,position,goals,assists,points,penalty_minutes,plus_min
 41,Denisa Krizova,F,0,0,0,0,0,3,0,0,0,0 - 0,0,0,0,3,0,0,0,Minnesota Whitecaps,stats#/player/1373245,1373245,585647,,,,,,,2023
 5,Samantha Isbell,F,1,1,2,0,2,2,0,0,0,0 - 0,0,0,0,2,0,0,0,Montreal Force,stats#/player/1262492,1262492,585647,,,,,,,2023
 16,Sarah Lefort,F,1,1,2,0,2,2,0,0,0,4 - 0,1,0,0,3,1,4,0,Montreal Force,stats#/player/1262660,1262660,585647,,,,,,,2023
-24,Ann-Sophie Bettez,F,0,2,2,2,1,0,0,0,0,0 - 0,0,0,0,0,0,0,0,Montreal Force,stats#/player/1262656,1262656,585647,,,,,,,2023
+24,Ann-Sophie Bettez,F,0,2,2,2,1,0,0,0,0,0 - 0,0,0,0,0,0,0,0,Montreal Force,stats#/player/1492453,1492453,585647,,,,,,,2023
 27,Jade Downie-Landry,F,1,1,2,2,2,4,0,0,0,8 - 8,0.5,0,0,4,0,8,8,Montreal Force,stats#/player/1262658,1262658,585647,,,,,,,2023
 3,Brooke Stacey,F,0,1,1,0,2,3,1,0,0,0 - 0,0,0,0,3,0,0,0,Montreal Force,stats#/player/1262495,1262495,585647,,,,,,,2023
 4,Taylor Baker,D,0,1,1,2,4,0,0,0,0,0 - 0,0,0,0,0,0,0,0,Montreal Force,stats#/player/1405323,1405323,585647,,,,,,,2023
@@ -958,7 +1778,7 @@ player_jersey,player_name,position,goals,assists,points,penalty_minutes,plus_min
 5,Samantha Isbell,F,0,2,2,0,0,0,0,0,0,0 - 0,0,0,0,0,0,0,0,Montreal Force,stats#/player/1262492,1262492,585645,,,,,,,2023
 13,Alexandra Labelle,F,0,1,1,0,0,2,0,0,0,10 - 9,0.526,0,0,2,0,10,9,Montreal Force,stats#/player/1262659,1262659,585645,,,,,,,2023
 17,Christine Deaudelin,D,1,0,1,0,1,2,0,0,0,0 - 0,0,1,0,2,0,0,0,Montreal Force,stats#/player/1262665,1262665,585645,,,,,,,2023
-24,Ann-Sophie Bettez,F,1,0,1,0,0,3,1,0,0,0 - 0,0,0,0,3,0,0,0,Montreal Force,stats#/player/1262656,1262656,585645,,,,,,,2023
+24,Ann-Sophie Bettez,F,1,0,1,0,0,3,1,0,0,0 - 0,0,0,0,3,0,0,0,Montreal Force,stats#/player/1492453,1492453,585645,,,,,,,2023
 27,Jade Downie-Landry,F,0,1,1,0,1,3,0,0,0,7 - 12,0.368,0,0,3,0,7,12,Montreal Force,stats#/player/1262658,1262658,585645,,,,,,,2023
 3,Brooke Stacey,F,0,0,0,0,-1,5,0,0,0,0 - 0,0,0,0,5,0,0,0,Montreal Force,stats#/player/1262495,1262495,585645,,,,,,,2023
 4,Taylor Baker,D,0,0,0,0,1,1,1,0,0,0 - 0,0,0,0,2,1,0,0,Montreal Force,stats#/player/1405323,1405323,585645,,,,,,,2023
@@ -1175,45 +1995,6 @@ player_jersey,player_name,position,goals,assists,points,penalty_minutes,plus_min
 88,Lovisa Berndtsson,G,0,0,,0,,,,,,,,,,,,,,Buffalo Beauts,,824067,585639,00:00,0,0,0,0,stats#/player/824067,2023
 30,Corinne Schroeder,G,0,0,,0,,,,,,,,,,,,,,Boston Pride,,1389104,585639,60:00,25,0,25,1,stats#/player/1389104,2023
 35,Lovisa Selander,G,0,0,,0,,,,,,,,,,,,,,Boston Pride,,431620,585639,00:00,0,0,0,0,stats#/player/431620,2023
-10,Lexi Templeman,F,0,1,1,0,-1,0,0,0,0,0 - 1,0,0,0,0,0,0,1,Toronto Six,stats#/player/1220078,1220078,612254,,,,,,,2023
-11,Breanne Wilson-Bennett,F,0,1,1,0,-1,1,1,0,0,11 - 10,0.524,0,0,1,0,11,10,Toronto Six,stats#/player/630148,630148,612254,,,,,,,2023
-41,Brittany Howard,F,1,0,1,0,0,5,2,2,0,0 - 0,0,1,0,9,4,0,0,Toronto Six,stats#/player/1220073,1220073,612254,,,,,,,2023
-67,Emma Woods,F,0,1,1,0,1,5,1,0,0,1 - 0,1,0,0,5,0,1,0,Toronto Six,stats#/player/630149,630149,612254,,,,,,,2023
-86,Michela Cava,F,0,1,1,2,1,2,0,0,0,1 - 2,0.333,0,0,4,2,1,2,Toronto Six,stats#/player/963636,963636,612254,,,,,,,2023
-96,Dominika Lásková,D,1,0,1,0,0,3,1,1,0,4 - 11,0.267,1,0,4,1,4,11,Toronto Six,stats#/player/1234871,1234871,612254,,,,,,,2023
-3,Nadine Edney,F,0,0,0,0,0,0,0,0,0,0 - 0,0,0,0,0,0,0,0,Toronto Six,stats#/player/1220796,1220796,612254,,,,,,,2023
-8,Leah Lum,F,0,0,0,0,1,1,0,0,0,0 - 0,0,0,0,1,0,0,0,Toronto Six,stats#/player/1269506,1269506,612254,,,,,,,2023
-9,Kati Tabin,D,0,0,0,0,0,2,1,2,0,0 - 0,0,0,0,5,3,0,0,Toronto Six,stats#/player/1220085,1220085,612254,,,,,,,2023
-14,Courtney Gardiner,F,0,0,0,2,0,1,0,0,0,0 - 0,0,0,0,1,0,0,0,Toronto Six,stats#/player/1220094,1220094,612254,,,,,,,2023
-19,Brooke Boquist,F,0,0,0,2,0,0,0,0,0,0 - 0,0,0,0,0,0,0,0,Toronto Six,stats#/player/543984,543984,612254,,,,,,,2023
-20,Taylor Davison,D,0,0,0,0,0,1,1,0,0,0 - 0,0,0,0,2,1,0,0,Toronto Six,stats#/player/881569,881569,612254,,,,,,,2023
-21,Tereza Vanišová,F,0,0,0,0,0,2,1,1,0,0 - 0,0,0,0,3,1,0,0,Toronto Six,stats#/player/627752,627752,612254,,,,,,,2023
-25,Emma Greco,D,0,0,0,0,0,2,0,0,1,0 - 0,0,0,0,2,0,0,0,Toronto Six,stats#/player/542420,542420,612254,,,,,,,2023
-27,Shiann Darkangelo,F,0,0,0,2,1,7,0,2,1,14 - 9,0.609,0,0,7,0,14,9,Toronto Six,stats#/player/542419,542419,612254,,,,,,,2023
-44,Lindsay Eastwood,D,0,0,0,0,0,0,3,0,0,0 - 0,0,0,0,1,1,0,0,Toronto Six,stats#/player/630139,630139,612254,,,,,,,2023
-48,Alexis Woloschuk,D,0,0,0,2,-1,0,0,1,0,0 - 0,0,0,0,0,0,0,0,Toronto Six,stats#/player/1220797,1220797,612254,,,,,,,2023
-71,Saroya Tinker,D,0,0,0,0,-1,0,0,0,1,0 - 0,0,0,0,0,0,0,0,Toronto Six,stats#/player/879727,879727,612254,,,,,,,2023
-8,Kelly Babstock,F,0,1,1,0,1,2,0,0,0,3 - 6,0.333,0,0,2,0,3,6,Metropolitan Riveters,stats#/player/699761,699761,612254,,,,,,,2023
-16,Sarah Bujold,F,0,1,1,2,0,8,0,0,0,7 - 9,0.438,0,0,8,0,7,9,Metropolitan Riveters,stats#/player/1194637,1194637,612254,,,,,,,2023
-18,Reagan Rust,D,1,0,1,0,2,3,0,0,0,0 - 0,0,0,0,5,2,0,0,Metropolitan Riveters,stats#/player/1396886,1396886,612254,,,,,,,2023
-21,Amanda Pelkey,F,1,0,1,2,0,4,1,0,1,0 - 0,0,0,0,5,1,0,0,Metropolitan Riveters,stats#/player/1194634,1194634,612254,,,,,,,2023
-3,Sarah Forster,D,0,0,0,0,-1,0,2,0,0,0 - 0,0,0,0,2,2,0,0,Metropolitan Riveters,stats#/player/1204421,1204421,612254,,,,,,,2023
-5,Anna Kilponen,D,0,0,0,0,-1,1,0,2,1,0 - 0,0,0,0,4,3,0,0,Metropolitan Riveters,stats#/player/1194645,1194645,612254,,,,,,,2023
-9,Kaycie Anderson,F,0,0,0,0,0,0,0,0,0,0 - 0,0,0,0,0,0,0,0,Metropolitan Riveters,stats#/player/1194646,1194646,612254,,,,,,,2023
-10,Kendall Cornine,F,0,0,0,0,1,3,0,0,1,5 - 5,0.5,0,0,3,0,5,5,Metropolitan Riveters,stats#/player/431650,431650,612254,,,,,,,2023
-12,Ebba Berglund,D,0,0,0,2,2,5,1,0,1,0 - 0,0,0,0,5,0,0,0,Metropolitan Riveters,stats#/player/1194638,1194638,612254,,,,,,,2023
-13,Reka Dabasi,F,0,0,0,0,0,0,0,0,1,0 - 0,0,0,0,0,0,0,0,Metropolitan Riveters,stats#/player/1194636,1194636,612254,,,,,,,2023
-14,Madison Packer,F,0,0,0,0,-2,2,3,0,1,0 - 1,0,0,0,2,0,0,1,Metropolitan Riveters,stats#/player/966106,966106,612254,,,,,,,2023
-15,Minttu Tuominen,D,0,0,0,0,-2,3,3,0,1,0 - 0,0,0,0,5,2,0,0,Metropolitan Riveters,stats#/player/1194641,1194641,612254,,,,,,,2023
-22,Emilie Harley,D,0,0,0,0,0,1,0,0,0,0 - 0,0,0,0,2,1,0,0,Metropolitan Riveters,stats#/player/1194650,1194650,612254,,,,,,,2023
-28,Leah Marino,F,0,0,0,0,1,0,2,0,0,1 - 0,1,0,0,0,0,1,0,Metropolitan Riveters,stats#/player/1220794,1220794,612254,,,,,,,2023
-77,Kennedy Ganser,F,0,0,0,0,0,4,1,0,0,17 - 10,0.63,0,0,4,0,17,10,Metropolitan Riveters,stats#/player/1194649,1194649,612254,,,,,,,2023
-94,Fanni Garát-Gasparics,F,0,0,0,0,1,2,0,1,2,0 - 0,0,0,0,2,0,0,0,Metropolitan Riveters,stats#/player/1396884,1396884,612254,,,,,,,2023
-97,Catherine Crawley,F,0,0,0,0,0,0,0,0,0,0 - 0,0,0,0,0,0,0,0,Metropolitan Riveters,stats#/player/1220795,1220795,612254,,,,,,,2023
-29,Elaine Chuli,G,0,0,,0,,,,,,,,,,,,,,Toronto Six,,542418,612254,65:00,38,2,36,0.947,stats#/player/542418,2023
-70,Carly Jackson,G,0,0,,0,,,,,,,,,,,,,,Toronto Six,,1220081,612254,00:00,0,0,0,0,stats#/player/1220081,2023
-1,Eveliina Makinen,G,0,0,,0,,,,,,,,,,,,,,Metropolitan Riveters,,1194640,612254,00:00,0,0,0,0,stats#/player/1194640,2023
-88,Katie Burt,G,0,0,,0,,,,,,,,,,,,,,Metropolitan Riveters,,1440284,612254,65:00,32,2,30,0.938,stats#/player/1440284,2023
 12,Allie Munroe,D,0,2,2,0,2,2,1,0,0,0 - 0,0,0,0,2,0,0,0,Connecticut Whale,stats#/player/966982,966982,585637,,,,,,,2023
 16,Katerina Mrazova,F,1,1,2,0,0,5,0,0,0,8 - 9,0.471,0,0,5,0,8,9,Connecticut Whale,stats#/player/1231943,1231943,585637,,,,,,,2023
 8,Alyssa Wohlfeiler,F,0,1,1,0,1,5,1,0,0,0 - 0,0,0,0,5,0,0,0,Connecticut Whale,stats#/player/57768,57768,585637,,,,,,,2023
@@ -1253,6 +2034,45 @@ player_jersey,player_name,position,goals,assists,points,penalty_minutes,plus_min
 35,Abbie Ives,G,0,0,,0,,,,,,,,,,,,,,Connecticut Whale,,707072,585637,00:00,0,0,0,0,stats#/player/707072,2023
 81,Meeri Raisanen,G,0,0,,0,,,,,,,,,,,,,,Connecticut Whale,,468605,585637,59:50,22,4,18,0.818,stats#/player/468605,2023
 29,Amanda Leveille,G,0,0,,0,,,,,,,,,,,,,,Minnesota Whitecaps,,967811,585637,60:00,28,3,25,0.893,stats#/player/967811,2023
+10,Lexi Templeman,F,0,1,1,0,-1,0,0,0,0,0 - 1,0,0,0,0,0,0,1,Toronto Six,stats#/player/1220078,1220078,612254,,,,,,,2023
+11,Breanne Wilson-Bennett,F,0,1,1,0,-1,1,1,0,0,11 - 10,0.524,0,0,1,0,11,10,Toronto Six,stats#/player/630148,630148,612254,,,,,,,2023
+41,Brittany Howard,F,1,0,1,0,0,5,2,2,0,0 - 0,0,1,0,9,4,0,0,Toronto Six,stats#/player/1220073,1220073,612254,,,,,,,2023
+67,Emma Woods,F,0,1,1,0,1,5,1,0,0,1 - 0,1,0,0,5,0,1,0,Toronto Six,stats#/player/630149,630149,612254,,,,,,,2023
+86,Michela Cava,F,0,1,1,2,1,2,0,0,0,1 - 2,0.333,0,0,4,2,1,2,Toronto Six,stats#/player/963636,963636,612254,,,,,,,2023
+96,Dominika Lásková,D,1,0,1,0,0,3,1,1,0,4 - 11,0.267,1,0,4,1,4,11,Toronto Six,stats#/player/1234871,1234871,612254,,,,,,,2023
+3,Nadine Edney,F,0,0,0,0,0,0,0,0,0,0 - 0,0,0,0,0,0,0,0,Toronto Six,stats#/player/1220796,1220796,612254,,,,,,,2023
+8,Leah Lum,F,0,0,0,0,1,1,0,0,0,0 - 0,0,0,0,1,0,0,0,Toronto Six,stats#/player/1269506,1269506,612254,,,,,,,2023
+9,Kati Tabin,D,0,0,0,0,0,2,1,2,0,0 - 0,0,0,0,5,3,0,0,Toronto Six,stats#/player/1220085,1220085,612254,,,,,,,2023
+14,Courtney Gardiner,F,0,0,0,2,0,1,0,0,0,0 - 0,0,0,0,1,0,0,0,Toronto Six,stats#/player/1220094,1220094,612254,,,,,,,2023
+19,Brooke Boquist,F,0,0,0,2,0,0,0,0,0,0 - 0,0,0,0,0,0,0,0,Toronto Six,stats#/player/543984,543984,612254,,,,,,,2023
+20,Taylor Davison,D,0,0,0,0,0,1,1,0,0,0 - 0,0,0,0,2,1,0,0,Toronto Six,stats#/player/881569,881569,612254,,,,,,,2023
+21,Tereza Vanišová,F,0,0,0,0,0,2,1,1,0,0 - 0,0,0,0,3,1,0,0,Toronto Six,stats#/player/627752,627752,612254,,,,,,,2023
+25,Emma Greco,D,0,0,0,0,0,2,0,0,1,0 - 0,0,0,0,2,0,0,0,Toronto Six,stats#/player/542420,542420,612254,,,,,,,2023
+27,Shiann Darkangelo,F,0,0,0,2,1,7,0,2,1,14 - 9,0.609,0,0,7,0,14,9,Toronto Six,stats#/player/542419,542419,612254,,,,,,,2023
+44,Lindsay Eastwood,D,0,0,0,0,0,0,3,0,0,0 - 0,0,0,0,1,1,0,0,Toronto Six,stats#/player/630139,630139,612254,,,,,,,2023
+48,Alexis Woloschuk,D,0,0,0,2,-1,0,0,1,0,0 - 0,0,0,0,0,0,0,0,Toronto Six,stats#/player/1220797,1220797,612254,,,,,,,2023
+71,Saroya Tinker,D,0,0,0,0,-1,0,0,0,1,0 - 0,0,0,0,0,0,0,0,Toronto Six,stats#/player/879727,879727,612254,,,,,,,2023
+8,Kelly Babstock,F,0,1,1,0,1,2,0,0,0,3 - 6,0.333,0,0,2,0,3,6,Metropolitan Riveters,stats#/player/699761,699761,612254,,,,,,,2023
+16,Sarah Bujold,F,0,1,1,2,0,8,0,0,0,7 - 9,0.438,0,0,8,0,7,9,Metropolitan Riveters,stats#/player/1194637,1194637,612254,,,,,,,2023
+18,Reagan Rust,D,1,0,1,0,2,3,0,0,0,0 - 0,0,0,0,5,2,0,0,Metropolitan Riveters,stats#/player/1396886,1396886,612254,,,,,,,2023
+21,Amanda Pelkey,F,1,0,1,2,0,4,1,0,1,0 - 0,0,0,0,5,1,0,0,Metropolitan Riveters,stats#/player/1194634,1194634,612254,,,,,,,2023
+3,Sarah Forster,D,0,0,0,0,-1,0,2,0,0,0 - 0,0,0,0,2,2,0,0,Metropolitan Riveters,stats#/player/1204421,1204421,612254,,,,,,,2023
+5,Anna Kilponen,D,0,0,0,0,-1,1,0,2,1,0 - 0,0,0,0,4,3,0,0,Metropolitan Riveters,stats#/player/1194645,1194645,612254,,,,,,,2023
+9,Kaycie Anderson,F,0,0,0,0,0,0,0,0,0,0 - 0,0,0,0,0,0,0,0,Metropolitan Riveters,stats#/player/1194646,1194646,612254,,,,,,,2023
+10,Kendall Cornine,F,0,0,0,0,1,3,0,0,1,5 - 5,0.5,0,0,3,0,5,5,Metropolitan Riveters,stats#/player/431650,431650,612254,,,,,,,2023
+12,Ebba Berglund,D,0,0,0,2,2,5,1,0,1,0 - 0,0,0,0,5,0,0,0,Metropolitan Riveters,stats#/player/1194638,1194638,612254,,,,,,,2023
+13,Reka Dabasi,F,0,0,0,0,0,0,0,0,1,0 - 0,0,0,0,0,0,0,0,Metropolitan Riveters,stats#/player/1194636,1194636,612254,,,,,,,2023
+14,Madison Packer,F,0,0,0,0,-2,2,3,0,1,0 - 1,0,0,0,2,0,0,1,Metropolitan Riveters,stats#/player/966106,966106,612254,,,,,,,2023
+15,Minttu Tuominen,D,0,0,0,0,-2,3,3,0,1,0 - 0,0,0,0,5,2,0,0,Metropolitan Riveters,stats#/player/1194641,1194641,612254,,,,,,,2023
+22,Emilie Harley,D,0,0,0,0,0,1,0,0,0,0 - 0,0,0,0,2,1,0,0,Metropolitan Riveters,stats#/player/1194650,1194650,612254,,,,,,,2023
+28,Leah Marino,F,0,0,0,0,1,0,2,0,0,1 - 0,1,0,0,0,0,1,0,Metropolitan Riveters,stats#/player/1220794,1220794,612254,,,,,,,2023
+77,Kennedy Ganser,F,0,0,0,0,0,4,1,0,0,17 - 10,0.63,0,0,4,0,17,10,Metropolitan Riveters,stats#/player/1194649,1194649,612254,,,,,,,2023
+94,Fanni Garát-Gasparics,F,0,0,0,0,1,2,0,1,2,0 - 0,0,0,0,2,0,0,0,Metropolitan Riveters,stats#/player/1396884,1396884,612254,,,,,,,2023
+97,Catherine Crawley,F,0,0,0,0,0,0,0,0,0,0 - 0,0,0,0,0,0,0,0,Metropolitan Riveters,stats#/player/1220795,1220795,612254,,,,,,,2023
+29,Elaine Chuli,G,0,0,,0,,,,,,,,,,,,,,Toronto Six,,542418,612254,65:00,38,2,36,0.947,stats#/player/542418,2023
+70,Carly Jackson,G,0,0,,0,,,,,,,,,,,,,,Toronto Six,,1220081,612254,00:00,0,0,0,0,stats#/player/1220081,2023
+1,Eveliina Makinen,G,0,0,,0,,,,,,,,,,,,,,Metropolitan Riveters,,1194640,612254,00:00,0,0,0,0,stats#/player/1194640,2023
+88,Katie Burt,G,0,0,,0,,,,,,,,,,,,,,Metropolitan Riveters,,1440284,612254,65:00,32,2,30,0.938,stats#/player/1440284,2023
 22,Kennedy Marchment,F,1,1,2,2,1,4,1,0,0,7 - 15,0.318,1,0,4,0,7,15,Connecticut Whale,stats#/player/966985,966985,585636,,,,,,,2023
 8,Alyssa Wohlfeiler,F,1,0,1,2,1,4,0,0,0,0 - 0,0,0,0,5,1,0,0,Connecticut Whale,stats#/player/57768,57768,585636,,,,,,,2023
 12,Allie Munroe,D,0,1,1,0,0,2,1,0,0,0 - 0,0,0,0,3,1,0,0,Connecticut Whale,stats#/player/966982,966982,585636,,,,,,,2023
@@ -1266,7 +2086,7 @@ player_jersey,player_name,position,goals,assists,points,penalty_minutes,plus_min
 15,Emma Vlasic,F,0,0,0,0,0,2,0,0,0,2 - 2,0.5,0,0,2,0,2,2,Connecticut Whale,stats#/player/431646,431646,585636,,,,,,,2023
 21,Emma Keenan,D,0,0,0,0,0,1,1,0,0,0 - 0,0,0,0,1,0,0,0,Connecticut Whale,stats#/player/788423,788423,585636,,,,,,,2023
 24,Janine Weber,F,0,0,0,0,0,1,0,0,0,0 - 0,0,0,0,1,0,0,0,Connecticut Whale,stats#/player/513300,513300,585636,,,,,,,2023
-27,Janka Hlinka,F,0,0,0,0,0,0,0,0,0,0 - 0,0,0,0,0,0,0,0,Connecticut Whale,stats#/player/966992,966992,585636,,,,,,,2023
+26,Kiira Dosdall-Arena,D,0,0,0,0,0,0,0,0,0,0 - 0,0,0,0,0,0,0,0,Connecticut Whale,stats#/player/1066549,1066549,585636,,,,,,,2023
 47,Lenka Serdar,F,0,0,0,0,0,3,0,0,0,6 - 5,0.546,0,0,4,1,6,5,Connecticut Whale,stats#/player/1231944,1231944,585636,,,,,,,2023
 74,Mallory Souliotis,D,0,0,0,2,0,1,0,0,0,0 - 0,0,0,0,1,0,0,0,Connecticut Whale,stats#/player/431621,431621,585636,,,,,,,2023
 88,Amanda Conway,F,0,0,0,2,0,0,0,0,0,0 - 0,0,0,0,0,0,0,0,Connecticut Whale,stats#/player/707073,707073,585636,,,,,,,2023
@@ -1334,7 +2154,7 @@ player_jersey,player_name,position,goals,assists,points,penalty_minutes,plus_min
 8,Kaity Howarth,D,1,0,1,0,0,1,0,0,0,0 - 0,0,0,0,1,0,0,0,Montreal Force,stats#/player/1262488,1262488,585634,,,,,,,2023
 16,Sarah Lefort,F,1,0,1,0,0,4,0,0,0,2 - 1,0.667,0,0,4,0,2,1,Montreal Force,stats#/player/1262660,1262660,585634,,,,,,,2023
 18,Deziray De Sousa,F,0,1,1,0,0,1,0,0,0,0 - 0,0,0,0,1,0,0,0,Montreal Force,stats#/player/1405445,1405445,585634,,,,,,,2023
-24,Ann-Sophie Bettez,F,0,1,1,0,0,4,0,0,0,0 - 0,0,0,0,4,0,0,0,Montreal Force,stats#/player/1262656,1262656,585634,,,,,,,2023
+24,Ann-Sophie Bettez,F,0,1,1,0,0,4,0,0,0,0 - 0,0,0,0,4,0,0,0,Montreal Force,stats#/player/1492453,1492453,585634,,,,,,,2023
 27,Jade Downie-Landry,F,0,1,1,2,0,5,0,0,0,15 - 9,0.625,0,0,5,0,15,9,Montreal Force,stats#/player/1262658,1262658,585634,,,,,,,2023
 29,Laura Jardin,F,0,1,1,0,0,0,0,0,0,5 - 3,0.625,0,0,1,1,5,3,Montreal Force,stats#/player/1405447,1405447,585634,,,,,,,2023
 3,Brooke Stacey,F,0,0,0,0,0,2,0,0,0,0 - 0,0,0,0,5,3,0,0,Montreal Force,stats#/player/1262495,1262495,585634,,,,,,,2023
@@ -1424,7 +2244,7 @@ player_jersey,player_name,position,goals,assists,points,penalty_minutes,plus_min
 16,Sarah Lefort,F,0,0,0,0,0,1,0,0,0,2 - 3,0.4,0,0,1,0,2,3,Montreal Force,stats#/player/1262660,1262660,585632,,,,,,,2023
 18,Deziray De Sousa,F,0,0,0,0,0,1,0,0,0,0 - 0,0,0,0,1,0,0,0,Montreal Force,stats#/player/1405445,1405445,585632,,,,,,,2023
 23,Gabrielle De Serres,D,0,0,0,0,0,0,1,0,0,0 - 0,0,0,0,0,0,0,0,Montreal Force,stats#/player/1405324,1405324,585632,,,,,,,2023
-24,Ann-Sophie Bettez,F,0,0,0,0,0,6,0,0,0,0 - 0,0,0,0,7,1,0,0,Montreal Force,stats#/player/1262656,1262656,585632,,,,,,,2023
+24,Ann-Sophie Bettez,F,0,0,0,0,0,6,0,0,0,0 - 0,0,0,0,7,1,0,0,Montreal Force,stats#/player/1492453,1492453,585632,,,,,,,2023
 25,Alyssa Holmes,F,0,0,0,0,0,0,0,0,0,4 - 3,0.571,0,0,0,0,4,3,Montreal Force,stats#/player/1262490,1262490,585632,,,,,,,2023
 27,Jade Downie-Landry,F,0,0,0,2,0,1,0,0,0,10 - 7,0.588,0,0,1,0,10,7,Montreal Force,stats#/player/1262658,1262658,585632,,,,,,,2023
 29,Laura Jardin,F,0,0,0,0,0,0,0,0,0,3 - 4,0.429,0,0,0,0,3,4,Montreal Force,stats#/player/1405447,1405447,585632,,,,,,,2023
@@ -1463,7 +2283,7 @@ player_jersey,player_name,position,goals,assists,points,penalty_minutes,plus_min
 16,Sarah Lefort,F,0,0,0,0,0,4,0,0,0,2 - 4,0.333,0,0,4,0,2,4,Montreal Force,stats#/player/1262660,1262660,585630,,,,,,,2023
 18,Deziray De Sousa,F,0,0,0,0,0,2,1,0,0,0 - 0,0,0,0,2,0,0,0,Montreal Force,stats#/player/1405445,1405445,585630,,,,,,,2023
 23,Gabrielle De Serres,D,0,0,0,0,0,0,0,0,0,0 - 0,0,0,0,0,0,0,0,Montreal Force,stats#/player/1405324,1405324,585630,,,,,,,2023
-24,Ann-Sophie Bettez,F,0,0,0,0,0,3,0,0,0,0 - 0,0,0,0,3,0,0,0,Montreal Force,stats#/player/1262656,1262656,585630,,,,,,,2023
+24,Ann-Sophie Bettez,F,0,0,0,0,0,3,0,0,0,0 - 0,0,0,0,3,0,0,0,Montreal Force,stats#/player/1492453,1492453,585630,,,,,,,2023
 25,Alyssa Holmes,F,0,0,0,0,0,1,0,0,0,3 - 3,0.5,0,0,2,1,3,3,Montreal Force,stats#/player/1262490,1262490,585630,,,,,,,2023
 26,Brigitte Laganière,D,0,0,0,2,0,2,2,0,0,0 - 0,0,0,0,2,0,0,0,Montreal Force,stats#/player/1262662,1262662,585630,,,,,,,2023
 27,Jade Downie-Landry,F,0,0,0,0,0,3,0,0,0,14 - 6,0.7,0,0,7,4,14,6,Montreal Force,stats#/player/1262658,1262658,585630,,,,,,,2023
@@ -1570,7 +2390,7 @@ player_jersey,player_name,position,goals,assists,points,penalty_minutes,plus_min
 29,Elaine Chuli,G,0,0,,0,,,,,,,,,,,,,,Toronto Six,,542418,585629,61:31,33,3,30,0.909,stats#/player/542418,2023
 70,Carly Jackson,G,0,0,,0,,,,,,,,,,,,,,Toronto Six,,1220081,585629,00:00,0,0,0,0,stats#/player/1220081,2023
 27,Jade Downie-Landry,F,3,2,5,0,0,6,0,0,0,9 - 10,0.474,1,0,6,0,9,10,Montreal Force,stats#/player/1262658,1262658,585628,,,,,,,2023
-24,Ann-Sophie Bettez,F,2,1,3,0,0,2,0,0,0,0 - 0,0,1,0,3,1,0,0,Montreal Force,stats#/player/1262656,1262656,585628,,,,,,,2023
+24,Ann-Sophie Bettez,F,2,1,3,0,0,2,0,0,0,0 - 0,0,1,0,3,1,0,0,Montreal Force,stats#/player/1492453,1492453,585628,,,,,,,2023
 5,Samantha Isbell,F,0,2,2,0,0,0,0,0,0,0 - 0,0,0,0,0,0,0,0,Montreal Force,stats#/player/1262492,1262492,585628,,,,,,,2023
 3,Brooke Stacey,F,0,1,1,0,0,0,0,0,0,0 - 0,0,0,0,0,0,0,0,Montreal Force,stats#/player/1262495,1262495,585628,,,,,,,2023
 4,Taylor Baker,D,0,0,0,0,0,3,0,0,0,0 - 0,0,0,0,3,0,0,0,Montreal Force,stats#/player/1405323,1405323,585628,,,,,,,2023
@@ -1743,7 +2563,7 @@ player_jersey,player_name,position,goals,assists,points,penalty_minutes,plus_min
 28,Amanda Boulier,D,0,0,0,0,0,2,0,0,0,0 - 0,0,0,0,3,1,0,0,Minnesota Whitecaps,stats#/player/431662,431662,585622,,,,,,,2023
 33,Maddie Rowe,D,0,0,0,0,0,0,0,0,0,0 - 0,0,0,0,0,0,0,0,Minnesota Whitecaps,stats#/player/707198,707198,585622,,,,,,,2023
 41,Denisa Krizova,F,0,0,0,0,-1,5,0,0,0,1 - 0,1,0,0,5,0,1,0,Minnesota Whitecaps,stats#/player/1373245,1373245,585622,,,,,,,2023
-9,Allie Thunstrom,F,0,1,1,2,1,2,0,0,0,0 - 0,0,0,0,2,0,0,0,Boston Pride,stats#/player/431677,431677,585622,,,,,,,2023
+9,Allie Thunstrom,F,0,1,1,2,1,2,0,0,0,0 - 0,0,0,0,4,2,0,0,Boston Pride,stats#/player/431677,431677,585622,,,,,,,2023
 12,Jenna Rheault,D,1,0,1,0,1,1,3,0,0,0 - 0,0,0,0,1,0,0,0,Boston Pride,stats#/player/431619,431619,585622,,,,,,,2023
 14,Jillian Dempsey,F,0,1,1,0,1,2,0,0,0,8 - 13,0.381,0,0,2,0,8,13,Boston Pride,stats#/player/58116,58116,585622,,,,,,,2023
 16,Lexie Laing,F,0,1,1,0,0,0,0,0,0,0 - 0,0,0,0,0,0,0,0,Boston Pride,stats#/player/1457199,1457199,585622,,,,,,,2023
@@ -1752,7 +2572,6 @@ player_jersey,player_name,position,goals,assists,points,penalty_minutes,plus_min
 3,Olivia Zafuto,D,0,0,0,0,0,0,1,0,0,0 - 0,0,0,0,0,0,0,0,Boston Pride,stats#/player/1389093,1389093,585622,,,,,,,2023
 6,Kali Flanagan,D,0,0,0,2,1,4,1,0,0,0 - 0,0,0,0,6,2,0,0,Boston Pride,stats#/player/1034117,1034117,585622,,,,,,,2023
 7,Taylor Turnquist,F,0,0,0,0,0,0,0,0,0,0 - 0,0,0,0,0,0,0,0,Boston Pride,stats#/player/949959,949959,585622,,,,,,,2023
-8,Élizabeth Giguère,F,0,0,0,0,0,0,0,0,0,0 - 0,0,0,0,2,2,0,0,Boston Pride,stats#/player/1389100,1389100,585622,,,,,,,2023
 10,Taylor House,F/D,0,0,0,0,1,2,0,0,0,3 - 4,0.429,0,0,2,0,3,4,Boston Pride,stats#/player/1389101,1389101,585622,,,,,,,2023
 13,Kaleigh Fratkin,D,0,0,0,0,1,1,0,0,0,0 - 1,0,0,0,5,4,0,1,Boston Pride,stats#/player/57735,57735,585622,,,,,,,2023
 17,McKenna Brand,F,0,0,0,0,0,4,0,0,0,1 - 1,0.5,0,0,4,0,1,1,Boston Pride,stats#/player/431610,431610,585622,,,,,,,2023
@@ -1835,7 +2654,7 @@ player_jersey,player_name,position,goals,assists,points,penalty_minutes,plus_min
 16,Sarah Lefort,F,0,0,0,17,-2,1,0,0,0,2 - 3,0.4,0,0,1,0,2,3,Montreal Force,stats#/player/1262660,1262660,585620,,,,,,,2023
 17,Christine Deaudelin,D,0,0,0,0,-1,1,0,0,0,0 - 0,0,0,0,1,0,0,0,Montreal Force,stats#/player/1262665,1262665,585620,,,,,,,2023
 23,Gabrielle De Serres,D,0,0,0,0,-1,1,0,0,0,0 - 0,0,0,0,1,0,0,0,Montreal Force,stats#/player/1405324,1405324,585620,,,,,,,2023
-24,Ann-Sophie Bettez,F,0,0,0,0,-2,5,1,0,0,1 - 0,1,0,0,5,0,1,0,Montreal Force,stats#/player/1262656,1262656,585620,,,,,,,2023
+24,Ann-Sophie Bettez,F,0,0,0,0,-2,5,1,0,0,1 - 0,1,0,0,5,0,1,0,Montreal Force,stats#/player/1492453,1492453,585620,,,,,,,2023
 25,Alyssa Holmes,F,0,0,0,0,-1,0,1,0,0,3 - 6,0.333,0,0,0,0,3,6,Montreal Force,stats#/player/1262490,1262490,585620,,,,,,,2023
 26,Brigitte Laganière,D,0,0,0,0,-1,0,0,0,0,0 - 1,0,0,0,0,0,0,1,Montreal Force,stats#/player/1262662,1262662,585620,,,,,,,2023
 29,Laura Jardin,F,0,0,0,0,0,2,1,0,0,3 - 5,0.375,0,0,2,0,3,5,Montreal Force,stats#/player/1405447,1405447,585620,,,,,,,2023
@@ -1883,6 +2702,46 @@ player_jersey,player_name,position,goals,assists,points,penalty_minutes,plus_min
 70,Carly Jackson,G,0,0,,0,,,,,,,,,,,,,,Toronto Six,,1220081,585619,00:00,0,0,0,0,stats#/player/1220081,2023
 29,Amanda Leveille,G,0,0,,0,,,,,,,,,,,,,,Minnesota Whitecaps,,967811,585619,58:41,30,3,27,0.9,stats#/player/967811,2023
 35,Jenna Brenneman,G,0,0,,0,,,,,,,,,,,,,,Minnesota Whitecaps,,977772,585619,00:00,0,0,0,0,stats#/player/977772,2023
+34,Claudia Kepler,F,1,1,2,0,2,3,0,0,0,0 - 1,0,0,0,3,0,0,1,Buffalo Beauts,stats#/player/1020524,1020524,585617,,,,,,,2023
+59,Mikyla Grant-Mentis,F,0,2,2,0,1,3,1,0,0,13 - 6,0.684,0,0,3,0,13,6,Buffalo Beauts,stats#/player/532475,532475,585617,,,,,,,2023
+9,Autumn MacDougall,F,0,1,1,0,1,1,0,0,0,0 - 0,0,0,0,1,0,0,0,Buffalo Beauts,stats#/player/632861,632861,585617,,,,,,,2023
+10,Maddie Truax,D,1,0,1,0,2,3,0,0,0,0 - 0,0,0,0,4,1,0,0,Buffalo Beauts,stats#/player/1259837,1259837,585617,,,,,,,2023
+13,Dominique Kremer,D,0,1,1,0,2,2,0,0,0,0 - 0,0,0,0,4,2,0,0,Buffalo Beauts,stats#/player/632881,632881,585617,,,,,,,2023
+23,Antonia Matzka,D,1,0,1,0,1,3,0,0,0,0 - 0,0,0,0,4,1,0,0,Buffalo Beauts,stats#/player/1179126,1179126,585617,,,,,,,2023
+24,Anjelica Diffendal,F,0,1,1,0,1,1,0,0,0,1 - 0,1,0,0,1,0,1,0,Buffalo Beauts,stats#/player/811831,811831,585617,,,,,,,2023
+42,Courtney Maud,F,0,1,1,2,0,0,0,0,0,3 - 11,0.214,0,0,0,0,3,11,Buffalo Beauts,stats#/player/1159200,1159200,585617,,,,,,,2023
+77,Whitney Dove,D,1,0,1,0,0,2,0,0,0,0 - 0,0,0,0,3,1,0,0,Buffalo Beauts,stats#/player/632942,632942,585617,,,,,,,2023
+11,Madi Nichols,F,0,0,0,0,0,1,0,0,0,0 - 0,0,0,0,1,0,0,0,Buffalo Beauts,stats#/player/1259838,1259838,585617,,,,,,,2023
+14,Allison Attea,D,0,0,0,0,-1,1,0,0,0,0 - 0,0,0,0,1,0,0,0,Buffalo Beauts,stats#/player/825330,825330,585617,,,,,,,2023
+16,Emma Nuutinen,F,0,0,0,0,0,2,0,0,0,0 - 0,0,0,0,4,2,0,0,Buffalo Beauts,stats#/player/1179125,1179125,585617,,,,,,,2023
+17,Cassidy MacPherson,F,0,0,0,0,-1,1,0,0,0,2 - 2,0.5,0,0,1,0,2,2,Buffalo Beauts,stats#/player/431630,431630,585617,,,,,,,2023
+44,Jenna Suokko,F,0,0,0,4,-1,4,0,0,0,0 - 0,0,0,0,4,0,0,0,Buffalo Beauts,stats#/player/828439,828439,585617,,,,,,,2023
+47,Jessica Healey,D,0,0,0,0,-1,3,1,0,0,0 - 2,0,0,0,5,2,0,2,Buffalo Beauts,stats#/player/1159201,1159201,585617,,,,,,,2023
+61,Michaela Boyle,F,0,0,0,0,0,2,1,0,0,2 - 6,0.25,0,0,2,0,2,6,Buffalo Beauts,stats#/player/1259840,1259840,585617,,,,,,,2023
+67,Summer-Rae Dobson,F,0,0,0,0,0,2,2,0,0,7 - 12,0.368,0,0,2,0,7,12,Buffalo Beauts,stats#/player/1259841,1259841,585617,,,,,,,2023
+94,Grace Klienbach,F,0,0,0,0,0,0,1,0,0,0 - 0,0,0,0,0,0,0,0,Buffalo Beauts,stats#/player/827706,827706,585617,,,,,,,2023
+16,Sarah Lefort,F,1,1,2,2,0,3,0,0,0,9 - 6,0.6,0,0,3,0,9,6,Montreal Force,stats#/player/1262660,1262660,585617,,,,,,,2023
+24,Ann-Sophie Bettez,F,1,1,2,0,0,2,0,0,0,0 - 0,0,1,0,2,0,0,0,Montreal Force,stats#/player/1492453,1492453,585617,,,,,,,2023
+27,Jade Downie-Landry,F,1,1,2,0,-1,2,1,0,0,9 - 9,0.5,0,0,3,1,9,9,Montreal Force,stats#/player/1262658,1262658,585617,,,,,,,2023
+8,Kaity Howarth,D,0,1,1,0,-1,1,0,0,0,0 - 0,0,0,0,2,1,0,0,Montreal Force,stats#/player/1262488,1262488,585617,,,,,,,2023
+9,Kim Deschênes,F,1,0,1,0,1,2,0,0,0,0 - 0,0,0,0,2,0,0,0,Montreal Force,stats#/player/1262657,1262657,585617,,,,,,,2023
+12,Catherine Daoust,D,0,1,1,2,0,0,3,0,0,0 - 0,0,0,0,0,0,0,0,Montreal Force,stats#/player/1262664,1262664,585617,,,,,,,2023
+17,Christine Deaudelin,D,0,1,1,0,0,3,1,0,0,0 - 0,0,0,0,3,0,0,0,Montreal Force,stats#/player/1262665,1262665,585617,,,,,,,2023
+3,Brooke Stacey,F,0,0,0,0,0,0,0,0,0,0 - 0,0,0,0,0,0,0,0,Montreal Force,stats#/player/1262495,1262495,585617,,,,,,,2023
+4,Taylor Baker,D,0,0,0,0,-1,1,1,0,0,0 - 0,0,0,0,3,2,0,0,Montreal Force,stats#/player/1405323,1405323,585617,,,,,,,2023
+5,Samantha Isbell,F,0,0,0,2,0,2,0,0,0,0 - 0,0,0,0,3,1,0,0,Montreal Force,stats#/player/1262492,1262492,585617,,,,,,,2023
+7,Kristina Shanahan,F,0,0,0,0,-1,1,0,0,0,0 - 0,0,0,0,2,1,0,0,Montreal Force,stats#/player/1262661,1262661,585617,,,,,,,2023
+13,Alexandra Labelle,F,0,0,0,2,0,2,3,0,0,6 - 6,0.5,0,0,2,0,6,6,Montreal Force,stats#/player/1262659,1262659,585617,,,,,,,2023
+18,Deziray De Sousa,F,0,0,0,0,0,2,0,0,0,0 - 0,0,0,0,2,0,0,0,Montreal Force,stats#/player/1405445,1405445,585617,,,,,,,2023
+23,Gabrielle De Serres,D,0,0,0,0,0,0,0,0,0,0 - 0,0,0,0,0,0,0,0,Montreal Force,stats#/player/1405324,1405324,585617,,,,,,,2023
+25,Alyssa Holmes,F,0,0,0,0,-1,2,0,0,0,9 - 3,0.75,0,0,2,0,9,3,Montreal Force,stats#/player/1262490,1262490,585617,,,,,,,2023
+26,Brigitte Laganière,D,0,0,0,2,-1,1,0,0,0,0 - 0,0,0,0,1,0,0,0,Montreal Force,stats#/player/1262662,1262662,585617,,,,,,,2023
+28,Catherine Dubois,F,0,0,0,0,-1,2,0,0,0,0 - 0,0,0,0,2,0,0,0,Montreal Force,stats#/player/1262663,1262663,585617,,,,,,,2023
+29,Laura Jardin,F,0,0,0,0,0,0,0,0,0,7 - 4,0.636,0,0,0,0,7,4,Montreal Force,stats#/player/1405447,1405447,585617,,,,,,,2023
+31,Tera Hofmann,G,0,0,,0,,,,,,,,,,,,,,Buffalo Beauts,,881597,585617,00:00,0,0,0,0,stats#/player/881597,2023
+88,Lovisa Berndtsson,G,0,0,,0,,,,,,,,,,,,,,Buffalo Beauts,,824067,585617,65:00,26,4,22,0.846,stats#/player/824067,2023
+33,Tricia Deguire,G,0,0,,0,,,,,,,,,,,,,,Montreal Force,,1262666,585617,65:00,34,4,30,0.882,stats#/player/1262666,2023
+39,Marie-Soleil Deschênes,G,0,0,,0,,,,,,,,,,,,,,Montreal Force,,1262486,585617,00:00,0,0,0,0,stats#/player/1262486,2023
 8,Élizabeth Giguère,F,1,1,2,2,0,6,0,1,0,0 - 0,0,0,0,8,2,0,0,Boston Pride,stats#/player/1389100,1389100,585618,,,,,,,2023
 21,Christina Putigna,F,0,2,2,0,0,3,0,0,2,0 - 0,0,0,0,3,0,0,0,Boston Pride,stats#/player/431616,431616,585618,,,,,,,2023
 36,Loren Gabel,F,2,0,2,0,0,5,0,2,2,2 - 0,1,1,0,6,1,2,0,Boston Pride,stats#/player/1389103,1389103,585618,,,,,,,2023
@@ -1922,46 +2781,6 @@ player_jersey,player_name,position,goals,assists,points,penalty_minutes,plus_min
 35,Lovisa Selander,G,0,0,,0,,,,,,,,,,,,,,Boston Pride,,431620,585618,00:00,0,0,0,0,stats#/player/431620,2023
 35,Abbie Ives,G,0,0,,0,,,,,,,,,,,,,,Connecticut Whale,,707072,585618,60:00,41,4,37,0.902,stats#/player/707072,2023
 81,Meeri Raisanen,G,0,0,,0,,,,,,,,,,,,,,Connecticut Whale,,468605,585618,00:00,0,0,0,0,stats#/player/468605,2023
-34,Claudia Kepler,F,1,1,2,0,2,3,0,0,0,0 - 1,0,0,0,3,0,0,1,Buffalo Beauts,stats#/player/1020524,1020524,585617,,,,,,,2023
-59,Mikyla Grant-Mentis,F,0,2,2,0,1,3,1,0,0,13 - 6,0.684,0,0,3,0,13,6,Buffalo Beauts,stats#/player/532475,532475,585617,,,,,,,2023
-9,Autumn MacDougall,F,0,1,1,0,1,1,0,0,0,0 - 0,0,0,0,1,0,0,0,Buffalo Beauts,stats#/player/632861,632861,585617,,,,,,,2023
-10,Maddie Truax,D,1,0,1,0,2,3,0,0,0,0 - 0,0,0,0,4,1,0,0,Buffalo Beauts,stats#/player/1259837,1259837,585617,,,,,,,2023
-13,Dominique Kremer,D,0,1,1,0,2,2,0,0,0,0 - 0,0,0,0,4,2,0,0,Buffalo Beauts,stats#/player/632881,632881,585617,,,,,,,2023
-23,Antonia Matzka,D,1,0,1,0,1,3,0,0,0,0 - 0,0,0,0,4,1,0,0,Buffalo Beauts,stats#/player/1179126,1179126,585617,,,,,,,2023
-24,Anjelica Diffendal,F,0,1,1,0,1,1,0,0,0,1 - 0,1,0,0,1,0,1,0,Buffalo Beauts,stats#/player/811831,811831,585617,,,,,,,2023
-42,Courtney Maud,F,0,1,1,2,0,0,0,0,0,3 - 11,0.214,0,0,0,0,3,11,Buffalo Beauts,stats#/player/1159200,1159200,585617,,,,,,,2023
-77,Whitney Dove,D,1,0,1,0,0,2,0,0,0,0 - 0,0,0,0,3,1,0,0,Buffalo Beauts,stats#/player/632942,632942,585617,,,,,,,2023
-11,Madi Nichols,F,0,0,0,0,0,1,0,0,0,0 - 0,0,0,0,1,0,0,0,Buffalo Beauts,stats#/player/1259838,1259838,585617,,,,,,,2023
-14,Allison Attea,D,0,0,0,0,-1,1,0,0,0,0 - 0,0,0,0,1,0,0,0,Buffalo Beauts,stats#/player/825330,825330,585617,,,,,,,2023
-16,Emma Nuutinen,F,0,0,0,0,0,2,0,0,0,0 - 0,0,0,0,4,2,0,0,Buffalo Beauts,stats#/player/1179125,1179125,585617,,,,,,,2023
-17,Cassidy MacPherson,F,0,0,0,0,-1,1,0,0,0,2 - 2,0.5,0,0,1,0,2,2,Buffalo Beauts,stats#/player/431630,431630,585617,,,,,,,2023
-44,Jenna Suokko,F,0,0,0,4,-1,4,0,0,0,0 - 0,0,0,0,4,0,0,0,Buffalo Beauts,stats#/player/828439,828439,585617,,,,,,,2023
-47,Jessica Healey,D,0,0,0,0,-1,3,1,0,0,0 - 2,0,0,0,5,2,0,2,Buffalo Beauts,stats#/player/1159201,1159201,585617,,,,,,,2023
-61,Michaela Boyle,F,0,0,0,0,0,2,1,0,0,2 - 6,0.25,0,0,2,0,2,6,Buffalo Beauts,stats#/player/1259840,1259840,585617,,,,,,,2023
-67,Summer-Rae Dobson,F,0,0,0,0,0,2,2,0,0,7 - 12,0.368,0,0,2,0,7,12,Buffalo Beauts,stats#/player/1259841,1259841,585617,,,,,,,2023
-94,Grace Klienbach,F,0,0,0,0,0,0,1,0,0,0 - 0,0,0,0,0,0,0,0,Buffalo Beauts,stats#/player/827706,827706,585617,,,,,,,2023
-16,Sarah Lefort,F,1,1,2,2,0,3,0,0,0,9 - 6,0.6,0,0,3,0,9,6,Montreal Force,stats#/player/1262660,1262660,585617,,,,,,,2023
-24,Ann-Sophie Bettez,F,1,1,2,0,0,2,0,0,0,0 - 0,0,1,0,2,0,0,0,Montreal Force,stats#/player/1262656,1262656,585617,,,,,,,2023
-27,Jade Downie-Landry,F,1,1,2,0,-1,2,1,0,0,9 - 9,0.5,0,0,3,1,9,9,Montreal Force,stats#/player/1262658,1262658,585617,,,,,,,2023
-8,Kaity Howarth,D,0,1,1,0,-1,1,0,0,0,0 - 0,0,0,0,2,1,0,0,Montreal Force,stats#/player/1262488,1262488,585617,,,,,,,2023
-9,Kim Deschênes,F,1,0,1,0,1,2,0,0,0,0 - 0,0,0,0,2,0,0,0,Montreal Force,stats#/player/1262657,1262657,585617,,,,,,,2023
-12,Catherine Daoust,D,0,1,1,2,0,0,3,0,0,0 - 0,0,0,0,0,0,0,0,Montreal Force,stats#/player/1262664,1262664,585617,,,,,,,2023
-17,Christine Deaudelin,D,0,1,1,0,0,3,1,0,0,0 - 0,0,0,0,3,0,0,0,Montreal Force,stats#/player/1262665,1262665,585617,,,,,,,2023
-3,Brooke Stacey,F,0,0,0,0,0,0,0,0,0,0 - 0,0,0,0,0,0,0,0,Montreal Force,stats#/player/1262495,1262495,585617,,,,,,,2023
-4,Taylor Baker,D,0,0,0,0,-1,1,1,0,0,0 - 0,0,0,0,3,2,0,0,Montreal Force,stats#/player/1405323,1405323,585617,,,,,,,2023
-5,Samantha Isbell,F,0,0,0,2,0,2,0,0,0,0 - 0,0,0,0,3,1,0,0,Montreal Force,stats#/player/1262492,1262492,585617,,,,,,,2023
-7,Kristina Shanahan,F,0,0,0,0,-1,1,0,0,0,0 - 0,0,0,0,2,1,0,0,Montreal Force,stats#/player/1262661,1262661,585617,,,,,,,2023
-13,Alexandra Labelle,F,0,0,0,2,0,2,3,0,0,6 - 6,0.5,0,0,2,0,6,6,Montreal Force,stats#/player/1262659,1262659,585617,,,,,,,2023
-18,Deziray De Sousa,F,0,0,0,0,0,2,0,0,0,0 - 0,0,0,0,2,0,0,0,Montreal Force,stats#/player/1405445,1405445,585617,,,,,,,2023
-23,Gabrielle De Serres,D,0,0,0,0,0,0,0,0,0,0 - 0,0,0,0,0,0,0,0,Montreal Force,stats#/player/1405324,1405324,585617,,,,,,,2023
-25,Alyssa Holmes,F,0,0,0,0,-1,2,0,0,0,9 - 3,0.75,0,0,2,0,9,3,Montreal Force,stats#/player/1262490,1262490,585617,,,,,,,2023
-26,Brigitte Laganière,D,0,0,0,2,-1,1,0,0,0,0 - 0,0,0,0,1,0,0,0,Montreal Force,stats#/player/1262662,1262662,585617,,,,,,,2023
-28,Catherine Dubois,F,0,0,0,0,-1,2,0,0,0,0 - 0,0,0,0,2,0,0,0,Montreal Force,stats#/player/1262663,1262663,585617,,,,,,,2023
-29,Laura Jardin,F,0,0,0,0,0,0,0,0,0,7 - 4,0.636,0,0,0,0,7,4,Montreal Force,stats#/player/1405447,1405447,585617,,,,,,,2023
-31,Tera Hofmann,G,0,0,,0,,,,,,,,,,,,,,Buffalo Beauts,,881597,585617,00:00,0,0,0,0,stats#/player/881597,2023
-88,Lovisa Berndtsson,G,0,0,,0,,,,,,,,,,,,,,Buffalo Beauts,,824067,585617,65:00,26,4,22,0.846,stats#/player/824067,2023
-33,Tricia Deguire,G,0,0,,0,,,,,,,,,,,,,,Montreal Force,,1262666,585617,65:00,34,4,30,0.882,stats#/player/1262666,2023
-39,Marie-Soleil Deschênes,G,0,0,,0,,,,,,,,,,,,,,Montreal Force,,1262486,585617,00:00,0,0,0,0,stats#/player/1262486,2023
 41,Brittany Howard,F,2,1,3,0,3,5,0,1,0,0 - 1,0,1,0,5,0,0,1,Toronto Six,stats#/player/1220073,1220073,612249,,,,,,,2023
 9,Kati Tabin,D,0,2,2,0,2,2,1,2,1,0 - 0,0,0,0,3,1,0,0,Toronto Six,stats#/player/1220085,1220085,612249,,,,,,,2023
 27,Shiann Darkangelo,F,1,0,1,2,3,5,0,0,3,13 - 4,0.765,0,0,5,0,13,4,Toronto Six,stats#/player/542419,542419,612249,,,,,,,2023
