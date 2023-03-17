@@ -1,4 +1,46 @@
 player_jersey,player_name,position,goals,assists,points,penalty_minutes,shots_on_goal,blocks,giveaways,takeaways,faceoffs_won_lost,faceoffs_win_pct,powerplay_goals,shorthanded_goals,shots,shots_blocked,faceoffs_won,faceoffs_lost,team,skaters_href,player_id,game_id,minutes_played,shots_against,goals_against,saves,save_percent,goalies_href,season
+9,Allie Thunstrom,F,0,1,1,0,3,0,0,0,0 - 0,0,0,0,3,0,0,0,Boston Pride,stats#/player/431677,431677,660724,,,,,,,2023
+13,Kaleigh Fratkin,D,0,1,1,0,0,0,0,0,0 - 0,0,0,0,0,0,0,0,Boston Pride,stats#/player/57735,57735,660724,,,,,,,2023
+14,Jillian Dempsey,F,0,1,1,0,1,1,0,0,16 - 6,0.727,0,0,1,0,16,6,Boston Pride,stats#/player/58116,58116,660724,,,,,,,2023
+15,Becca Gilmore,F,1,0,1,0,4,0,0,0,1 - 1,0.5,1,0,4,0,1,1,Boston Pride,stats#/player/1405099,1405099,660724,,,,,,,2023
+36,Loren Gabel,F,1,0,1,0,6,0,0,0,1 - 3,0.25,0,0,8,2,1,3,Boston Pride,stats#/player/1389103,1389103,660724,,,,,,,2023
+3,Olivia Zafuto,D,0,0,0,0,0,0,0,0,0 - 0,0,0,0,3,3,0,0,Boston Pride,stats#/player/1389093,1389093,660724,,,,,,,2023
+4,Lauren Kelly,D,0,0,0,0,0,0,0,0,0 - 0,0,0,0,0,0,0,0,Boston Pride,stats#/player/431612,431612,660724,,,,,,,2023
+6,Kali Flanagan,D,0,0,0,2,2,0,0,0,0 - 0,0,0,0,5,3,0,0,Boston Pride,stats#/player/1034117,1034117,660724,,,,,,,2023
+8,Élizabeth Giguère,F,0,0,0,0,4,1,0,0,0 - 0,0,0,0,4,0,0,0,Boston Pride,stats#/player/1389100,1389100,660724,,,,,,,2023
+10,Taylor House,F,0,0,0,0,0,0,0,0,3 - 3,0.5,0,0,0,0,3,3,Boston Pride,stats#/player/1389101,1389101,660724,,,,,,,2023
+12,Jenna Rheault,D,0,0,0,2,1,0,0,0,0 - 0,0,0,0,2,1,0,0,Boston Pride,stats#/player/431619,431619,660724,,,,,,,2023
+17,McKenna Brand,F,0,0,0,0,2,0,0,0,3 - 10,0.231,0,0,2,0,3,10,Boston Pride,stats#/player/431610,431610,660724,,,,,,,2023
+18,Taylor Wenczkowski,F,0,0,0,0,1,0,0,0,1 - 6,0.143,0,0,1,0,1,6,Boston Pride,stats#/player/627747,627747,660724,,,,,,,2023
+19,Sammy Davis,F,0,0,0,0,5,0,0,0,0 - 0,0,0,0,5,0,0,0,Boston Pride,stats#/player/627751,627751,660724,,,,,,,2023
+21,Christina Putigna,F,0,0,0,0,2,0,0,0,0 - 0,0,0,0,2,0,0,0,Boston Pride,stats#/player/431616,431616,660724,,,,,,,2023
+29,Kayla Friesen,F,0,0,0,0,0,0,0,0,0 - 0,0,0,0,0,0,0,0,Boston Pride,stats#/player/856779,856779,660724,,,,,,,2023
+37,Aneta Tejralová,D,0,0,0,0,1,1,0,0,0 - 0,0,0,0,1,0,0,0,Boston Pride,stats#/player/1389102,1389102,660724,,,,,,,2023
+42,Meghara McManus,F,0,0,0,0,0,1,0,0,0 - 0,0,0,0,0,0,0,0,Boston Pride,stats#/player/627750,627750,660724,,,,,,,2023
+3,Jonna Albers,F,3,0,3,0,9,0,0,0,0 - 0,0,1,1,9,0,0,0,Minnesota Whitecaps,stats#/player/1373270,1373270,660724,,,,,,,2023
+5,Sidney Morin,D,0,1,1,0,4,0,0,0,0 - 0,0,0,0,4,0,0,0,Minnesota Whitecaps,stats#/player/1373227,1373227,660724,,,,,,,2023
+10,Ronja Mogren,F,1,0,1,0,1,0,0,0,0 - 0,0,0,0,1,0,0,0,Minnesota Whitecaps,stats#/player/1373231,1373231,660724,,,,,,,2023
+14,Sydney Brodt,F,1,0,1,0,4,0,0,0,3 - 2,0.6,0,0,5,1,3,2,Minnesota Whitecaps,stats#/player/1445700,1445700,660724,,,,,,,2023
+16,Taylor Wente,F,0,1,1,2,2,0,0,0,1 - 3,0.25,0,0,2,0,1,3,Minnesota Whitecaps,stats#/player/1513122,1513122,660724,,,,,,,2023
+21,Liz Schepers,F,0,1,1,2,1,0,0,0,0 - 0,0,0,0,2,1,0,0,Minnesota Whitecaps,stats#/player/1373235,1373235,660724,,,,,,,2023
+24,Olivia Knowles,D,0,1,1,0,1,1,0,0,0 - 0,0,0,0,1,0,0,0,Minnesota Whitecaps,stats#/player/1373236,1373236,660724,,,,,,,2023
+27,Patti Marshall,D,0,1,1,2,0,0,0,0,0 - 0,0,0,0,1,1,0,0,Minnesota Whitecaps,stats#/player/949970,949970,660724,,,,,,,2023
+41,Denisa Krizova,F,0,1,1,0,1,2,0,0,0 - 0,0,0,0,2,1,0,0,Minnesota Whitecaps,stats#/player/1373245,1373245,660724,,,,,,,2023
+6,Brooke Madsen,F,0,0,0,0,1,0,0,0,0 - 0,0,0,0,1,0,0,0,Minnesota Whitecaps,stats#/player/1373228,1373228,660724,,,,,,,2023
+7,Emma Stauber,D,0,0,0,0,0,0,0,0,1 - 0,1,0,0,1,1,1,0,Minnesota Whitecaps,stats#/player/968364,968364,660724,,,,,,,2023
+8,Natalie Snodgrass,F,0,0,0,0,5,0,0,0,12 - 10,0.546,0,0,5,0,12,10,Minnesota Whitecaps,stats#/player/1373230,1373230,660724,,,,,,,2023
+9,Sydney Baldwin,D,0,0,0,0,1,1,0,0,0 - 0,0,0,0,1,0,0,0,Minnesota Whitecaps,stats#/player/1086275,1086275,660724,,,,,,,2023
+11,Brittyn Fleming,F,0,0,0,0,2,2,0,0,5 - 6,0.455,0,0,2,0,5,6,Minnesota Whitecaps,stats#/player/1373232,1373232,660724,,,,,,,2023
+13,Ashleigh Brykaliuk,F,0,0,0,0,0,0,0,0,6 - 4,0.6,0,0,0,0,6,4,Minnesota Whitecaps,stats#/player/949961,949961,660724,,,,,,,2023
+18,Stephanie Anderson,F,0,0,0,0,1,1,0,0,1 - 0,1,0,0,1,0,1,0,Minnesota Whitecaps,stats#/player/431659,431659,660724,,,,,,,2023
+19,Anna Klein,F,0,0,0,0,3,0,0,0,0 - 0,0,0,0,3,0,0,0,Minnesota Whitecaps,stats#/player/1373234,1373234,660724,,,,,,,2023
+28,Amanda Boulier,D,0,0,0,0,0,2,0,0,0 - 0,0,0,0,0,0,0,0,Minnesota Whitecaps,stats#/player/431662,431662,660724,,,,,,,2023
+33,Maddie Rowe,D,0,0,0,0,0,0,0,0,0 - 0,0,0,0,0,0,0,0,Minnesota Whitecaps,stats#/player/707198,707198,660724,,,,,,,2023
+30,Corinne Schroeder,G,0,0,,0,,,,,,,,,,,,,Boston Pride,,1389104,660724,58:37,33,3,30,0.909,stats#/player/1389104,2023
+35,Lovisa Selander,G,0,0,,0,,,,,,,,,,,,,Boston Pride,,431620,660724,00:00,0,0,0,0,stats#/player/431620,2023
+29,Amanda Leveille,G,0,0,,0,,,,,,,,,,,,,Minnesota Whitecaps,,967811,660724,60:00,32,2,30,0.938,stats#/player/967811,2023
+35,Jenna Brenneman,G,0,0,,0,,,,,,,,,,,,,Minnesota Whitecaps,,977772,660724,00:00,0,0,0,0,stats#/player/977772,2023
+39,Chantal Burke,G,0,0,,0,,,,,,,,,,,,,Minnesota Whitecaps,,1513123,660724,00:00,0,0,0,0,stats#/player/1513123,2023
 21,Liz Schepers,F,1,0,1,0,4,0,0,0,0 - 1,0,0,0,5,1,0,1,Minnesota Whitecaps,stats#/player/1373235,1373235,585699,,,,,,,2023
 28,Amanda Boulier,D,0,1,1,0,2,1,0,0,0 - 0,0,0,0,3,1,0,0,Minnesota Whitecaps,stats#/player/431662,431662,585699,,,,,,,2023
 3,Jonna Albers,F,0,0,0,0,3,1,0,0,0 - 0,0,0,0,3,0,0,0,Minnesota Whitecaps,stats#/player/1373270,1373270,585699,,,,,,,2023
