@@ -1,4 +1,44 @@
 player_jersey,player_name,position,goals,assists,points,penalty_minutes,shots_on_goal,blocks,giveaways,takeaways,faceoffs_won_lost,faceoffs_win_pct,powerplay_goals,shorthanded_goals,shots,shots_blocked,faceoffs_won,faceoffs_lost,team,skaters_href,player_id,game_id,minutes_played,shots_against,goals_against,saves,save_percent,goalies_href,season
+86,Michela Cava,F,2,0,2,0,4,0,2,1,0 - 0,0,0,0,4,0,0,0,Toronto Six,stats#/player/963636,963636,660726,,,,,,,2023
+11,Breanne Wilson-Bennett,F,0,1,1,0,1,0,0,0,8 - 8,0.5,0,0,1,0,8,8,Toronto Six,stats#/player/630148,630148,660726,,,,,,,2023
+21,Tereza Vanišová,F,0,1,1,0,0,0,0,0,0 - 0,0,0,0,0,0,0,0,Toronto Six,stats#/player/627752,627752,660726,,,,,,,2023
+25,Emma Greco,D,0,1,1,0,1,0,1,1,0 - 0,0,0,0,2,1,0,0,Toronto Six,stats#/player/542420,542420,660726,,,,,,,2023
+27,Shiann Darkangelo,F,0,1,1,0,0,0,0,0,18 - 7,0.72,0,0,1,1,18,7,Toronto Six,stats#/player/542419,542419,660726,,,,,,,2023
+41,Brittany Howard,F,0,1,1,0,5,0,0,0,0 - 0,0,0,0,5,0,0,0,Toronto Six,stats#/player/1220073,1220073,660726,,,,,,,2023
+67,Emma Woods,F,1,0,1,0,3,0,0,0,0 - 0,0,0,0,3,0,0,0,Toronto Six,stats#/player/630149,630149,660726,,,,,,,2023
+2,Taylor Woods,D,0,0,0,0,0,2,0,0,0 - 0,0,0,0,1,1,0,0,Toronto Six,stats#/player/542421,542421,660726,,,,,,,2023
+4,Daryl Watts,F,0,0,0,0,2,0,1,0,0 - 0,0,0,0,2,0,0,0,Toronto Six,stats#/player/1478103,1478103,660726,,,,,,,2023
+8,Leah Lum,F,0,0,0,0,1,0,0,0,0 - 0,0,0,0,1,0,0,0,Toronto Six,stats#/player/1269506,1269506,660726,,,,,,,2023
+9,Kati Tabin,D,0,0,0,0,4,0,0,0,0 - 0,0,0,0,5,1,0,0,Toronto Six,stats#/player/1220085,1220085,660726,,,,,,,2023
+10,Lexi Templeman,F,0,0,0,0,0,0,0,0,1 - 1,0.5,0,0,0,0,1,1,Toronto Six,stats#/player/1220078,1220078,660726,,,,,,,2023
+14,Courtney Gardiner,F,0,0,0,0,0,1,0,0,0 - 0,0,0,0,0,0,0,0,Toronto Six,stats#/player/1220094,1220094,660726,,,,,,,2023
+19,Brooke Boquist,F,0,0,0,0,1,0,0,0,0 - 0,0,0,0,1,0,0,0,Toronto Six,stats#/player/543984,543984,660726,,,,,,,2023
+20,Taylor Davison,D,0,0,0,2,0,0,1,0,0 - 0,0,0,0,2,2,0,0,Toronto Six,stats#/player/881569,881569,660726,,,,,,,2023
+44,Lindsay Eastwood,D,0,0,0,2,0,2,0,0,0 - 0,0,0,0,2,2,0,0,Toronto Six,stats#/player/630139,630139,660726,,,,,,,2023
+71,Saroya Tinker,D,0,0,0,2,0,0,0,1,0 - 0,0,0,0,0,0,0,0,Toronto Six,stats#/player/879727,879727,660726,,,,,,,2023
+96,Dominika Lásková,F,0,0,0,0,2,1,0,0,10 - 7,0.588,0,0,2,0,10,7,Toronto Six,stats#/player/1234871,1234871,660726,,,,,,,2023
+12,Allie Munroe,D,0,2,2,0,0,1,0,2,0 - 0,0,0,0,0,0,0,0,Connecticut Whale,stats#/player/966982,966982,660726,,,,,,,2023
+17,Taylor Girard,F,2,0,2,0,6,2,0,1,0 - 0,0,0,1,6,0,0,0,Connecticut Whale,stats#/player/966983,966983,660726,,,,,,,2023
+22,Kennedy Marchment,F,0,2,2,0,2,1,2,0,9 - 16,0.36,0,0,2,0,9,16,Connecticut Whale,stats#/player/966985,966985,660726,,,,,,,2023
+97,Caitrin Lonergan,F,0,2,2,0,2,0,0,0,0 - 0,0,0,0,3,1,0,0,Connecticut Whale,stats#/player/1231901,1231901,660726,,,,,,,2023
+6,Shannon Turner,D,0,1,1,0,2,1,0,0,0 - 0,0,0,0,2,0,0,0,Connecticut Whale,stats#/player/967608,967608,660726,,,,,,,2023
+11,Melissa Samoskevich,F,1,0,1,0,5,0,0,0,0 - 0,0,0,0,6,1,0,0,Connecticut Whale,stats#/player/1041703,1041703,660726,,,,,,,2023
+14,Justine Reyes,F,1,0,1,0,4,0,0,0,2 - 0,1,1,0,4,0,2,0,Connecticut Whale,stats#/player/1231942,1231942,660726,,,,,,,2023
+47,Lenka Serdar,F,1,0,1,0,3,0,0,0,6 - 8,0.429,1,0,3,0,6,8,Connecticut Whale,stats#/player/1231944,1231944,660726,,,,,,,2023
+5,Tori Howran,D,0,0,0,0,0,3,1,0,0 - 0,0,0,0,0,0,0,0,Connecticut Whale,stats#/player/1478285,1478285,660726,,,,,,,2023
+7,Rachel Ade,F,0,0,0,0,0,0,0,0,0 - 0,0,0,0,1,1,0,0,Connecticut Whale,stats#/player/468608,468608,660726,,,,,,,2023
+8,Alyssa Wohlfeiler,F,0,0,0,2,1,0,0,1,0 - 1,0,0,0,2,1,0,1,Connecticut Whale,stats#/player/57768,57768,660726,,,,,,,2023
+9,Tori Sullivan,F,0,0,0,0,0,0,0,0,0 - 0,0,0,0,0,0,0,0,Connecticut Whale,stats#/player/431622,431622,660726,,,,,,,2023
+15,Emma Vlasic,F,0,0,0,0,0,0,0,0,1 - 2,0.333,0,0,1,1,1,2,Connecticut Whale,stats#/player/431646,431646,660726,,,,,,,2023
+16,Katerina Mrazova,F,0,0,0,0,1,0,0,1,5 - 10,0.333,0,0,1,0,5,10,Connecticut Whale,stats#/player/1231943,1231943,660726,,,,,,,2023
+18,Hannah Bates,D,0,0,0,0,1,0,0,0,0 - 0,0,0,0,1,0,0,0,Connecticut Whale,stats#/player/966984,966984,660726,,,,,,,2023
+21,Emma Keenan,D,0,0,0,2,1,0,0,0,0 - 0,0,0,0,2,1,0,0,Connecticut Whale,stats#/player/788423,788423,660726,,,,,,,2023
+24,Janine Weber,F,0,0,0,0,3,0,0,0,0 - 0,0,0,0,3,0,0,0,Connecticut Whale,stats#/player/513300,513300,660726,,,,,,,2023
+27,Janka Hlinka,F,0,0,0,0,2,0,0,0,0 - 0,0,0,0,2,0,0,0,Connecticut Whale,stats#/player/966992,966992,660726,,,,,,,2023
+29,Elaine Chuli,G,0,0,,0,,,,,,,,,,,,,Toronto Six,,542418,660726,58:55,32,4,28,0.875,stats#/player/542418,2023
+70,Carly Jackson,G,0,0,,0,,,,,,,,,,,,,Toronto Six,,1220081,660726,00:00,0,0,0,0,stats#/player/1220081,2023
+35,Abbie Ives,G,0,0,,0,,,,,,,,,,,,,Connecticut Whale,,707072,660726,60:00,24,3,21,0.875,stats#/player/707072,2023
+81,Meeri Raisanen,G,0,0,,0,,,,,,,,,,,,,Connecticut Whale,,468605,660726,00:00,0,0,0,0,stats#/player/468605,2023
 9,Allie Thunstrom,F,0,1,1,0,3,0,0,0,0 - 0,0,0,0,3,0,0,0,Boston Pride,stats#/player/431677,431677,660724,,,,,,,2023
 13,Kaleigh Fratkin,D,0,1,1,0,0,0,0,0,0 - 0,0,0,0,0,0,0,0,Boston Pride,stats#/player/57735,57735,660724,,,,,,,2023
 14,Jillian Dempsey,F,0,1,1,0,1,1,0,0,16 - 6,0.727,0,0,1,0,16,6,Boston Pride,stats#/player/58116,58116,660724,,,,,,,2023
@@ -19,6 +59,7 @@ player_jersey,player_name,position,goals,assists,points,penalty_minutes,shots_on
 42,Meghara McManus,F,0,0,0,0,0,1,0,0,0 - 0,0,0,0,0,0,0,0,Boston Pride,stats#/player/627750,627750,660724,,,,,,,2023
 3,Jonna Albers,F,3,0,3,0,9,0,0,0,0 - 0,0,1,1,9,0,0,0,Minnesota Whitecaps,stats#/player/1373270,1373270,660724,,,,,,,2023
 5,Sidney Morin,D,0,1,1,0,4,0,0,0,0 - 0,0,0,0,4,0,0,0,Minnesota Whitecaps,stats#/player/1373227,1373227,660724,,,,,,,2023
+9,Sydney Baldwin,D,0,1,1,0,1,1,0,0,0 - 0,0,0,0,1,0,0,0,Minnesota Whitecaps,stats#/player/1086275,1086275,660724,,,,,,,2023
 10,Ronja Mogren,F,1,0,1,0,1,0,0,0,0 - 0,0,0,0,1,0,0,0,Minnesota Whitecaps,stats#/player/1373231,1373231,660724,,,,,,,2023
 14,Sydney Brodt,F,1,0,1,0,4,0,0,0,3 - 2,0.6,0,0,5,1,3,2,Minnesota Whitecaps,stats#/player/1445700,1445700,660724,,,,,,,2023
 16,Taylor Wente,F,0,1,1,2,2,0,0,0,1 - 3,0.25,0,0,2,0,1,3,Minnesota Whitecaps,stats#/player/1513122,1513122,660724,,,,,,,2023
@@ -29,14 +70,13 @@ player_jersey,player_name,position,goals,assists,points,penalty_minutes,shots_on
 6,Brooke Madsen,F,0,0,0,0,1,0,0,0,0 - 0,0,0,0,1,0,0,0,Minnesota Whitecaps,stats#/player/1373228,1373228,660724,,,,,,,2023
 7,Emma Stauber,D,0,0,0,0,0,0,0,0,1 - 0,1,0,0,1,1,1,0,Minnesota Whitecaps,stats#/player/968364,968364,660724,,,,,,,2023
 8,Natalie Snodgrass,F,0,0,0,0,5,0,0,0,12 - 10,0.546,0,0,5,0,12,10,Minnesota Whitecaps,stats#/player/1373230,1373230,660724,,,,,,,2023
-9,Sydney Baldwin,D,0,0,0,0,1,1,0,0,0 - 0,0,0,0,1,0,0,0,Minnesota Whitecaps,stats#/player/1086275,1086275,660724,,,,,,,2023
 11,Brittyn Fleming,F,0,0,0,0,2,2,0,0,5 - 6,0.455,0,0,2,0,5,6,Minnesota Whitecaps,stats#/player/1373232,1373232,660724,,,,,,,2023
 13,Ashleigh Brykaliuk,F,0,0,0,0,0,0,0,0,6 - 4,0.6,0,0,0,0,6,4,Minnesota Whitecaps,stats#/player/949961,949961,660724,,,,,,,2023
 18,Stephanie Anderson,F,0,0,0,0,1,1,0,0,1 - 0,1,0,0,1,0,1,0,Minnesota Whitecaps,stats#/player/431659,431659,660724,,,,,,,2023
 19,Anna Klein,F,0,0,0,0,3,0,0,0,0 - 0,0,0,0,3,0,0,0,Minnesota Whitecaps,stats#/player/1373234,1373234,660724,,,,,,,2023
 28,Amanda Boulier,D,0,0,0,0,0,2,0,0,0 - 0,0,0,0,0,0,0,0,Minnesota Whitecaps,stats#/player/431662,431662,660724,,,,,,,2023
 33,Maddie Rowe,D,0,0,0,0,0,0,0,0,0 - 0,0,0,0,0,0,0,0,Minnesota Whitecaps,stats#/player/707198,707198,660724,,,,,,,2023
-30,Corinne Schroeder,G,0,0,,0,,,,,,,,,,,,,Boston Pride,,1389104,660724,58:37,33,3,30,0.909,stats#/player/1389104,2023
+30,Corinne Schroeder,G,0,0,,0,,,,,,,,,,,,,Boston Pride,,1389104,660724,58:40,33,3,30,0.909,stats#/player/1389104,2023
 35,Lovisa Selander,G,0,0,,0,,,,,,,,,,,,,Boston Pride,,431620,660724,00:00,0,0,0,0,stats#/player/431620,2023
 29,Amanda Leveille,G,0,0,,0,,,,,,,,,,,,,Minnesota Whitecaps,,967811,660724,60:00,32,2,30,0.938,stats#/player/967811,2023
 35,Jenna Brenneman,G,0,0,,0,,,,,,,,,,,,,Minnesota Whitecaps,,977772,660724,00:00,0,0,0,0,stats#/player/977772,2023
