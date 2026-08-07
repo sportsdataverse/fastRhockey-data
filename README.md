@@ -1,6 +1,21 @@
 # fastRhockey-data
  PHF & NHL Data
 
+> [!WARNING]
+> **ARCHIVE — this repository is not maintained.**
+>
+> This repo is an archive of the legacy combined R producer for NHL and PHF
+> hockey data. Data here may be stale. New data and active development live in
+> the successor repos:
+>
+> - [sportsdataverse/fastRhockey-nhl-data](https://github.com/sportsdataverse/fastRhockey-nhl-data) — NHL (modern api-web.nhle.com path)
+> - [sportsdataverse/fastRhockey-pwhl-data](https://github.com/sportsdataverse/fastRhockey-pwhl-data) — PWHL
+>
+> Published datasets are distributed through the
+> [sportsdataverse-data](https://github.com/sportsdataverse/sportsdataverse-data)
+> release ecosystem, consumed by the [fastRhockey](https://github.com/sportsdataverse/fastRhockey)
+> R package and [sportsdataverse-py](https://github.com/sportsdataverse/sportsdataverse-py).
+
 This repository holds historical boxscore and play-by-play data for the
 Premier Hockey Federation (PHF, formerly known as NWHL), which was
 compiled with the

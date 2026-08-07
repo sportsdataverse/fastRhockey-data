@@ -1,5 +1,10 @@
 # fastRhockey-data Copilot Instructions
 
+**ARCHIVE — do not add new scrapers, builders, or datasets here.** New work
+goes to the successor repos: fastRhockey-nhl-data (NHL) and
+fastRhockey-pwhl-data (PWHL). This repo exists for history and for any
+still-referenced release tags.
+
 ## Project Context
 
 This repo is the legacy R-side raw cache for NHL (via the legacy NHL

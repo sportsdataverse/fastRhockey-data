@@ -1,5 +1,10 @@
 # CLAUDE.md — fastRhockey-data
 
+**ARCHIVE — do not add new scrapers, builders, or datasets here.** New work
+goes to the successor repos: fastRhockey-nhl-data (NHL) and
+fastRhockey-pwhl-data (PWHL). This repo exists for history and for any
+still-referenced release tags.
+
 Legacy R-side raw cache of **NHL** (legacy Stats API) and **PHF** hockey data,
 scraped with the [`fastRhockey`](https://github.com/sportsdataverse/fastRhockey)
 package and committed back to this repo on a daily cron. Predates the modern
