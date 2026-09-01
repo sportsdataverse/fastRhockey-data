@@ -38,6 +38,16 @@ to entry regarding women’s hockey analytics.
 
 ------------------------------------------------------------------------
 
+## Lineage
+
+```mermaid
+  graph LR;
+    A[fastRhockey-data — ARCHIVE, legacy PHF + NHL producer]-.superseded by.->B[fastRhockey-nhl-data];
+    A-.superseded by.->C[fastRhockey-pwhl-data];
+    B[fastRhockey-nhl-data]-->D[nhl_* release tags];
+    C[fastRhockey-pwhl-data]-->E[pwhl_* release tags];
+```
+
 ## Data
 
 This repo contains three main CSVs of data, each of which is outlined in
@@ -105,3 +115,13 @@ BibTex Citation
   year = {2021}
 }
 ```
+
+## Automation & status
+
+<!-- BEGIN GENERATED: status -->
+
+| workflow | schedule | last run |
+|---|---|---|
+| _none_ | — | — |
+
+<!-- END GENERATED: status -->
