@@ -116,6 +116,32 @@ BibTex Citation
 }
 ```
 
+## Repository layout
+
+<!-- BEGIN GENERATED: layout -->
+
+```
+fastRhockey-data/
+├── nhl/
+│   ├── json/
+│   ├── pbp/
+│   ├── player_box/
+│   ├── rosters/
+│   ├── schedules/
+│   └── team_box/
+├── phf/
+│   ├── json/
+│   ├── pbp/
+│   ├── player_box/
+│   ├── rosters/
+│   ├── schedules/
+│   └── team_box/
+└── themes/   # plot themes
+    └── phf_logos/
+```
+
+<!-- END GENERATED: layout -->
+
 ## Reports & explainers
 
 <!-- BEGIN GENERATED: reports -->
